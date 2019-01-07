@@ -37,6 +37,10 @@ if __name__ == "__main__":
         wof_id = props["wof:id"]
 
         mprops = props["media:properties"]
+
+        # this is way way too brittle and is guaranteed to cause hilarity one day
+        # but will suffice for now... (20190107/thisisaaronland)
+        
         depicts = mprops["depicts"]
         depicts = depicts[0]
 
