@@ -6,6 +6,9 @@ OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 fingerprints:
 	utils/python/catalog-fingerprints.py
 
+exhibitions:
+	utils/python/catalog-exhibitions.py
+
 prune:
 	git gc --aggressive --prune
 
