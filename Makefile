@@ -3,6 +3,9 @@ OS := $(shell uname -s | tr '[:upper:]' '[:lower:]')
 # metafiles:
 # 	utils/$(OS)/wof-build-metafiles -out meta .
 
+fingerprints:
+	utils/python/catalog-fingerprints.py
+
 prune:
 	git gc --aggressive --prune
 
