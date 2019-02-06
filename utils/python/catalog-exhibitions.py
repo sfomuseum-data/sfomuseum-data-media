@@ -40,6 +40,8 @@ if __name__ == "__main__":
 
         # this is way way too brittle and is guaranteed to cause hilarity one day
         # but will suffice for now... (20190107/thisisaaronland)
+
+        print "WHIRRRR %s" % wof_id
         
         depicts = mprops["depicts"]
         depicts = depicts[0]
