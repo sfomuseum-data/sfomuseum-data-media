@@ -10,7 +10,7 @@
     "geom:latitude":37.615645,
     "geom:longitude":-122.389267,
     "iso:country":"US",
-    "media:created":1549479184,
+    "media:created":1527760660,
     "media:fingerprint":"413a014b8bc1e661771c11312e7464eba4075d14",
     "media:medium":"image",
     "media:mimetype":"image/jpeg",
@@ -161,13 +161,15 @@
         }
     ],
     "wof:id":1376877835,
-    "wof:lastmodified":1549489971,
+    "wof:lastmodified":1549494182,
     "wof:name":"Installation view of \"A Legacy of Pride: Gilbert Baker and the 40th Anniversary of the Rainbow Flag\"",
     "wof:parent_id":1226620561,
     "wof:placetype":"media",
     "wof:repo":"sfomuseum-data-media",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1376877837
+    ],
     "wof:tags":[]
 },
   "bbox": [
