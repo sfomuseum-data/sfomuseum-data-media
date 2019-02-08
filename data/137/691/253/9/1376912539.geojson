@@ -1,177 +1,195 @@
 {
-  "type": "Feature", 
-  "id": 1376912539, 
+  "id": 1376912539,
+  "type": "Feature",
   "properties": {
-    "edtf:cessation": "2019-08-12", 
-    "edtf:inception": "2019-01-11", 
-    "geom:area": 0, 
-    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
-    "geom:latitude": 37.616029, 
-    "geom:longitude": -122.389131, 
-    "iso:country": "US", 
-    "media:created": 1549051379, 
-    "media:fingerprint": "b426a62b382c7a1a8af41e4aa1eb10ad184112c6", 
-    "media:medium": "image", 
-    "media:mimetype": "image/jpeg", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#723118", 
-          "name": "#723118", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#658199", 
-          "name": "#658199", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#b6c6d4", 
-          "name": "#b6c6d4", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#394951", 
-          "name": "#394951", 
-          "reference": "vibrant"
+    "date:cessation_lower":"2019-08-12",
+    "date:cessation_upper":"2019-08-12",
+    "date:inception_lower":"2019-01-11",
+    "date:inception_upper":"2019-01-11",
+    "edtf:cessation":"2019-08-12",
+    "edtf:inception":"2019-01-11",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.389131,37.616029,-122.389131,37.616029",
+    "geom:latitude":37.616029,
+    "geom:longitude":-122.389131,
+    "iso:country":"US",
+    "media:created":1549051379,
+    "media:fingerprint":"b426a62b382c7a1a8af41e4aa1eb10ad184112c6",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "colours":[
+            {
+                "hex":"#723118",
+                "name":"#723118",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#658199",
+                "name":"#658199",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#b6c6d4",
+                "name":"#b6c6d4",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#394951",
+                "name":"#394951",
+                "reference":"vibrant"
+            }
+        ],
+        "depicts":[
+            1376812931
+        ],
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":682,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":1024
+            },
+            "c":{
+                "extension":"jpg",
+                "height":533,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":800
+            },
+            "dc":{
+                "extension":"jpg",
+                "height":533,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":800
+            },
+            "ds":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":320
+            },
+            "k":{
+                "extension":"jpg",
+                "height":1364,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":2048
+            },
+            "n":{
+                "extension":"jpg",
+                "height":213,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":320
+            },
+            "o":{
+                "extension":"jpg",
+                "height":2399,
+                "mimetype":"image/jpeg",
+                "secret":"lPweTsjIAmqXBcAIt1GpPKmOkvn7F6Tg",
+                "width":3600
+            },
+            "s":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":426,
+                "mimetype":"image/jpeg",
+                "secret":"l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4",
+                "width":640
+            }
         }
-      ], 
-      "depicts": [1376812931], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 682, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 533, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 533, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1364, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 213, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 2399, 
-          "mimetype": "image/jpeg", 
-          "secret": "lPweTsjIAmqXBcAIt1GpPKmOkvn7F6Tg", 
-          "width": 3600
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 426, 
-          "mimetype": "image/jpeg", 
-          "secret": "l7PrSWiBiapD2TSrMUcHWrw0Tzrfkxi4", 
-          "width": 640
+    },
+    "media:source":"sfomuseum",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "wof:belongsto":[
+        1159157335,
+        102527513,
+        102191575,
+        85633793,
+        1159157047,
+        85922583,
+        102087579,
+        85688637,
+        1159157271,
+        1159157333,
+        1376812931,
+        1159157045
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1549667816,
+    "wof:depicts":[
+        1159157045,
+        1226619815,
+        1159157047,
+        1159157335,
+        102527513,
+        1159157333,
+        1159157271
+    ],
+    "wof:geomhash":"6d7e5f16d5e28971a22edfa865df72b7",
+    "wof:hierarchy":[
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157335,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1159157047,
+            "installation_id":1376812931,
+            "locality_id":85922583,
+            "media_id":1376912539,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159157333
+        },
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157335,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1159157045,
+            "installation_id":1376812931,
+            "locality_id":85922583,
+            "media_id":1376912539,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159157333
         }
-      }
-    }, 
-    "media:source": "sfomuseum", 
-    "media:status_id": 1, 
-    "mz:hierarchy_label": 1, 
-    "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
-    "sfomuseum:placetype": "image", 
-    "wof:belongsto": [
-      1159157271, 
-      1159157045, 
-      85922583, 
-      1159157335, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1226619815, 
-      1159157333, 
-      102527513, 
-      1159157047
-    ], 
-    "wof:country": "US", 
-    "wof:created": 1549667816, 
-    "wof:depicts": [
-      1159157045, 
-      1226619815, 
-      1159157047, 
-      1159157335, 
-      102527513, 
-      1159157333, 
-      1159157271
-    ], 
-    "wof:hierarchy": [
-      {
-        "building_id": 1159157271, 
-        "campus_id": 102527513, 
-        "concourse_id": 1159157335, 
-        "continent_id": 102191575, 
-        "country_id": 85633793, 
-        "county_id": 102087579, 
-        "enclosure_id": 1159157047, 
-        "installation_id": 1226619815, 
-        "locality_id": 85922583, 
-        "neighbourhood_id": -1, 
-        "region_id": 85688637, 
-        "wing_id": 1159157333
-      }, 
-      {
-        "building_id": 1159157271, 
-        "campus_id": 102527513, 
-        "concourse_id": 1159157335, 
-        "continent_id": 102191575, 
-        "country_id": 85633793, 
-        "county_id": 102087579, 
-        "enclosure_id": 1159157045, 
-        "installation_id": 1226619815, 
-        "locality_id": 85922583, 
-        "neighbourhood_id": -1, 
-        "region_id": 85688637, 
-        "wing_id": 1159157333
-      }
-    ], 
-    "wof:id": 1376912539, 
-    "wof:lastmodified": 1549668167, 
-    "wof:name": "Installation view of \"Surf Shapers\"", 
-    "wof:parent_id": 1376812931, 
-    "wof:placetype": "media", 
-    "wof:repo": "sfomuseum-data-media", 
-    "wof:superseded_by": [], 
-    "wof:supersedes": []
-  }, 
-  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
+    ],
+    "wof:id":1376912539,
+    "wof:lastmodified":1549669514,
+    "wof:name":"Installation view of \"Surf Shapers\"",
+    "wof:parent_id":1376812931,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.389131,
+    37.616029,
+    -122.389131,
+    37.616029
+],
+  "geometry": {"coordinates":[-122.38913100000001,37.616029],"type":"Point"}
 }
