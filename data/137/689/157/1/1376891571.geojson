@@ -1,0 +1,161 @@
+{
+  "type": "Feature", 
+  "id": 1376891571, 
+  "properties": {
+    "edtf:cessation": "2019-05-17", 
+    "edtf:inception": "2018-10-05", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.616594, 
+    "geom:longitude": -122.389725, 
+    "iso:country": "US", 
+    "media:created": 1540229755, 
+    "media:fingerprint": "e5dcc1702faeab516f6d63090a54e65981021286", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b69666", 
+          "name": "#b69666", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#5a9793", 
+          "name": "#5a9793", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#9bbebb", 
+          "name": "#9bbebb", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#2f3c44", 
+          "name": "#2f3c44", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1360667837], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 768
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 600
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 600
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 1536
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 240
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3600, 
+          "mimetype": "image/jpeg", 
+          "secret": "NhoFsJYge6wzArivmSFuJgbR5WRNOY40", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "khv8DTAobzpyKyrprfpSNxAodKEwhyhU", 
+          "width": 480
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157335, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1360667837, 
+      1159157333, 
+      1159157037, 
+      85688637, 
+      102527513, 
+      85922583, 
+      1159157271
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1549583830, 
+    "wof:depicts": [
+      102527513, 
+      1159157335, 
+      1159157037, 
+      1360667837, 
+      1159157271, 
+      1159157333
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157037, 
+        "installation_id": 1360667837, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157333
+      }
+    ], 
+    "wof:id": 1376891571, 
+    "wof:lastmodified": 1549589644, 
+    "wof:name": "Installation view of \"A Sterling Renaissance, British Silver Design 1957-2018\"", 
+    "wof:parent_id": 1360667837, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
+}
