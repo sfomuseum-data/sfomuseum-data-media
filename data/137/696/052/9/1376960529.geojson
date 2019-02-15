@@ -1,0 +1,152 @@
+{
+  "type": "Feature", 
+  "id": 1376960529, 
+  "properties": {
+    "edtf:cessation": "2004-09-01", 
+    "edtf:inception": "2003-05-20", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.613926, 
+    "geom:longitude": -122.385472, 
+    "iso:country": "US", 
+    "media:created": 1093629088, 
+    "media:fingerprint": "af911306a3d69b345ab37b11b38e626b979e5932", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#cedee8", 
+          "name": "#cedee8", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#698790", 
+          "name": "#698790", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a5bfc8", 
+          "name": "#a5bfc8", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#33535a", 
+          "name": "#33535a", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159159593], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 1920, 
+          "mimetype": "image/jpeg", 
+          "secret": "lAwagVyag0AK8Wfh0EhQmbWiwb1Osetc", 
+          "width": 2560
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "tMGs0snK2s5l7O1LceFdxW96gMrtMh5a", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102087579, 
+      1360516477, 
+      1159159593, 
+      85922583, 
+      85688637, 
+      102527513, 
+      102191575, 
+      85633793, 
+      1159396319, 
+      1159396115
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550190112, 
+    "wof:depicts": [102527513, 1159159593, 1159396115, 1159396319, 1360516477], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396319, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516477, 
+        "installation_id": 1159159593, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396115
+      }
+    ], 
+    "wof:id": 1376960529, 
+    "wof:lastmodified": 1550271801, 
+    "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"", 
+    "wof:parent_id": 1159159593, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}
+}
