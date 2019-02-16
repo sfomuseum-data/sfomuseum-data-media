@@ -115,16 +115,16 @@
     "mz:is_current": -1, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
-      85688637, 
       1159396115, 
-      102527513, 
-      85633793, 
       102087579, 
-      1159159593, 
-      1159396319, 
-      1360516477, 
       85922583, 
-      102191575
+      102191575, 
+      1159159593, 
+      102527513, 
+      1360516477, 
+      85688637, 
+      1159396319, 
+      85633793
     ], 
     "wof:country": "US", 
     "wof:created": 1550190187, 
@@ -145,7 +145,7 @@
       }
     ], 
     "wof:id": 1376960575, 
-    "wof:lastmodified": 1550271792, 
+    "wof:lastmodified": 1550280137, 
     "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"", 
     "wof:parent_id": 1159159593, 
     "wof:placetype": "media", 
