@@ -45,66 +45,66 @@
       "sizes": {
         "b": {
           "extension": "jpg", 
-          "height": 768, 
+          "height": 1024, 
           "mimetype": "image/jpeg", 
-          "secret": "la3FWlw68ICBneXAhHYLtFORtVBrUAOS", 
-          "width": 1024
+          "secret": "vFtBn10AMv0DmxIKVutx0DBftu7Nl7fW", 
+          "width": 768
         }, 
         "c": {
           "extension": "jpg", 
-          "height": 600, 
+          "height": 800, 
           "mimetype": "image/jpeg", 
-          "secret": "WBQozqosPC7fhzLuLSeQU7OUPYxmUMof", 
-          "width": 800
+          "secret": "xP6H5DCuB6nIThAIUOlxZv51Bc90NvQF", 
+          "width": 600
         }, 
         "dc": {
           "extension": "jpg", 
-          "height": 600, 
+          "height": 800, 
           "mimetype": "image/jpeg", 
-          "secret": "W7HRACLwgY4IXHTXumZzt2e5yTDk40VZ", 
-          "width": 800
+          "secret": "hnlOxQ1TkYJ1BL8t6uZFqYwAXWQ4cwvy", 
+          "width": 600
         }, 
         "ds": {
           "extension": "jpg", 
           "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "Tztp7JNnTAI6UEwNz1LgsaZiUqxnQ6e5", 
+          "secret": "jl5AzLn4ckeEuWsUtqUxL3PgNGsaHqgx", 
           "width": 320
         }, 
         "k": {
           "extension": "jpg", 
-          "height": 1536, 
+          "height": 2048, 
           "mimetype": "image/jpeg", 
-          "secret": "YGQ9yKtH0XJ34vz8PjUNqkCZUXZcH2ao", 
-          "width": 2048
+          "secret": "YLmGH1NZsj3aoUur0ODrqQhqBaVR6eNr", 
+          "width": 1536
         }, 
         "n": {
           "extension": "jpg", 
-          "height": 240, 
+          "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "Ko4tLm5b7r6OLS5hrKsqdkXKzrnF2vw5", 
-          "width": 320
+          "secret": "78K3HQXl0Hr3vVplE1808x2RvAo8FGRH", 
+          "width": 240
         }, 
         "o": {
           "extension": "jpg", 
-          "height": 1200, 
+          "height": 1600, 
           "mimetype": "image/jpeg", 
-          "secret": "2P16p8sPo73wVTCIXl8f7N2ykcu6OwmH", 
-          "width": 1600
+          "secret": "ba6l9vA8j7nSj1GOIFxN8ZHP2AsxaCJb", 
+          "width": 1200
         }, 
         "s": {
           "extension": "jpg", 
           "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "l4ITJrXLtdcFGctCAS81gmJ3cgNxDzWM", 
+          "secret": "t5jteVb7fQB5xvxsShGqVvQ45O20MJmD", 
           "width": 320
         }, 
         "z": {
           "extension": "jpg", 
-          "height": 480, 
+          "height": 640, 
           "mimetype": "image/jpeg", 
-          "secret": "LiaGEwxKAGmH2BW9KzAOiB7y4w8nDcqM", 
-          "width": 640
+          "secret": "pk0YxVsthGiqVvQYU0GLu3sZFmuaLep9", 
+          "width": 480
         }
       }
     }, 
@@ -115,16 +115,16 @@
     "mz:is_current": -1, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
+      85688637, 
       102191575, 
+      102087579, 
+      1360516477, 
+      1159396115, 
+      102527513, 
+      1159159593, 
       85922583, 
       1159396319, 
-      102527513, 
-      85633793, 
-      1360516477, 
-      1159159593, 
-      85688637, 
-      102087579, 
-      1159396115
+      85633793
     ], 
     "wof:country": "US", 
     "wof:created": 1550190174, 
@@ -145,7 +145,7 @@
       }
     ], 
     "wof:id": 1376960563, 
-    "wof:lastmodified": 1550281905, 
+    "wof:lastmodified": 1550282064, 
     "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"", 
     "wof:parent_id": 1159159593, 
     "wof:placetype": "media", 
