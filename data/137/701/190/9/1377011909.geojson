@@ -40,66 +40,66 @@
       "sizes": {
         "b": {
           "extension": "jpg", 
-          "height": 768, 
+          "height": 1024, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
-          "width": 1024
+          "secret": "7BSfxBQZzINHz1s5jsZJi8Nv7xXqQ2B4", 
+          "width": 768
         }, 
         "c": {
           "extension": "jpg", 
-          "height": 600, 
+          "height": 800, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
-          "width": 800
+          "secret": "8YdqbrPMHvwbLwd48S8PoP4H18BYxme8", 
+          "width": 600
         }, 
         "dc": {
           "extension": "jpg", 
-          "height": 600, 
+          "height": 800, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
-          "width": 800
+          "secret": "H4pMaZTRjmbsnAzaOfJK6NaQ8MKHN4Sg", 
+          "width": 600
         }, 
         "ds": {
           "extension": "jpg", 
           "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
+          "secret": "7CEwiwcjhahHMGVND2dXUS5ZHXdPapeQ", 
           "width": 320
         }, 
         "k": {
           "extension": "jpg", 
-          "height": 1536, 
+          "height": 2048, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
-          "width": 2048
+          "secret": "N609H2fmZx4XPfJko6WS2YJdGMjC45XI", 
+          "width": 1536
         }, 
         "n": {
           "extension": "jpg", 
-          "height": 240, 
+          "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
-          "width": 320
+          "secret": "TJV2mQYMyojzRkSy9ZdxqKfm62XPFJNx", 
+          "width": 240
         }, 
         "o": {
           "extension": "jpg", 
-          "height": 480, 
+          "height": 640, 
           "mimetype": "image/jpeg", 
-          "secret": "JG2EPi4KQOyecreD17zvmBEVrmZe6h0K", 
-          "width": 640
+          "secret": "WONj8qyivfCqQbesGy47Z0d0V3rcfuWw", 
+          "width": 480
         }, 
         "s": {
           "extension": "jpg", 
           "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
+          "secret": "cxFtg8ABE2H0gDBbo9IfWIZwCYEdsx7K", 
           "width": 320
         }, 
         "z": {
           "extension": "jpg", 
-          "height": 480, 
+          "height": 640, 
           "mimetype": "image/jpeg", 
-          "secret": "Zv0XGvxIwfrluGeVZEyGguikicXPb5qh", 
-          "width": 640
+          "secret": "qMypk3pRtvmEBv94fmM0GsZCP5lHtWKj", 
+          "width": 480
         }
       }
     }, 
@@ -110,16 +110,16 @@
     "mz:is_current": -1, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
-      85633793, 
-      1360516477, 
       85688637, 
-      102087579, 
-      85922583, 
       1159396319, 
+      1360516477, 
+      1226605375, 
       102527513, 
+      85633793, 
+      102087579, 
       1159396115, 
       102191575, 
-      1226605375
+      85922583
     ], 
     "wof:country": "US", 
     "wof:created": 1550786739, 
@@ -140,7 +140,7 @@
       }
     ], 
     "wof:id": 1377011909, 
-    "wof:lastmodified": 1550786768, 
+    "wof:lastmodified": 1550788488, 
     "wof:name": "Installation view of \"Origami: The Art of Paper Folding\"", 
     "wof:parent_id": 1226605375, 
     "wof:placetype": "media", 
