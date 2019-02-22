@@ -1,0 +1,152 @@
+{
+  "type": "Feature", 
+  "id": 1377019993, 
+  "properties": {
+    "edtf:cessation": "1991-06-30", 
+    "edtf:inception": "1991-05-01", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617227, 
+    "geom:longitude": -122.38274, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "810ff811363f31154a622b0fbff684803474336e", 
+    "media:medium": "image", 
+    "media:mimetype": "image/tiff", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#ebf3df", 
+          "name": "#ebf3df", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#908271", 
+          "name": "#908271", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d0c8a8", 
+          "name": "#d0c8a8", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#47362d", 
+          "name": "#47362d", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226607773], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 544
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 425
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 425
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 1089
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 170
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 4251, 
+          "mimetype": "image/jpeg", 
+          "secret": "ZKXRCHPuYXclnU8oHDjJVujzIQv8b23t", 
+          "width": 3014
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "gBp2oUh4Fe5VeKoXi3YRJ12dVxJ5ICeZ", 
+          "width": 340
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159554803, 
+      102191575, 
+      85688637, 
+      1159554829, 
+      102527513, 
+      85922583, 
+      1226607773, 
+      85633793, 
+      102087579, 
+      1360516471
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550869939, 
+    "wof:depicts": [1159554803, 1226607773, 102527513, 1360516471, 1159554829], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554803, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516471, 
+        "installation_id": 1226607773, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159554829
+      }
+    ], 
+    "wof:id": 1377019993, 
+    "wof:lastmodified": 1550869982, 
+    "wof:name": "Installation view of \"Bowling: A Unique American Art Form\"", 
+    "wof:parent_id": 1226607773, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}
+}
