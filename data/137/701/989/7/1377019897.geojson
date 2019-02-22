@@ -1,0 +1,147 @@
+{
+  "type": "Feature", 
+  "id": 1377019897, 
+  "properties": {
+    "edtf:cessation": "1997-10-31", 
+    "edtf:inception": "1997-03-21", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617787, 
+    "geom:longitude": -122.384814, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "fc7db572749a164426eca977190d2d93bf2f22ef", 
+    "media:medium": "image", 
+    "media:mimetype": "image/tiff", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#707791", 
+          "name": "#707791", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#bec6be", 
+          "name": "#bec6be", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#392a38", 
+          "name": "#392a38", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226603375], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 726, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1452, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 226, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3014, 
+          "mimetype": "image/jpeg", 
+          "secret": "t6kGrLSk4U8q4GubsmDGr2cjzUsl7CN4", 
+          "width": 4251
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 453, 
+          "mimetype": "image/jpeg", 
+          "secret": "uGYTLx7MTypZ4imUYnHkNB9Np3xYTjQU", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85688637, 
+      1360516265, 
+      1159554803, 
+      85633793, 
+      102087579, 
+      102527513, 
+      102191575, 
+      85922583, 
+      1226603375, 
+      1159554829
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550869394, 
+    "wof:depicts": [1159554829, 102527513, 1360516265, 1159554803, 1226603375], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554803, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516265, 
+        "installation_id": 1226603375, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159554829
+      }
+    ], 
+    "wof:id": 1377019897, 
+    "wof:lastmodified": 1550869445, 
+    "wof:name": "Installation view of \"Building for Air Travel\"", 
+    "wof:parent_id": 1226603375, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}
+}
