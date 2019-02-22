@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377020229, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-22",
     "edtf:cessation": "2013-10-28", 
     "edtf:inception": "2013-03-15", 
     "geom:area": 0, 
@@ -13,101 +13,14 @@
     "media:fingerprint": "d79383340239d4199608b094f608b1f94db1cd72", 
     "media:medium": "image", 
     "media:mimetype": "image/jpeg", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#4c3222", 
-          "name": "#4c3222", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#867f73", 
-          "name": "#867f73", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#c0bab2", 
-          "name": "#c0bab2", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#4a4840", 
-          "name": "#4a4840", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1159160335], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 682, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 533, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 533, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1365, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 213, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 2400, 
-          "mimetype": "image/jpeg", 
-          "secret": "ybCZBozEB9hKO4eO2X3HrtVAaTjOEijs", 
-          "width": 3600
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 426, 
-          "mimetype": "image/jpeg", 
-          "secret": "azaPNL3Qy6XQy6TrHclnNKnTKt9iDhEi", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1159160335]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102527513, 
@@ -149,7 +62,7 @@
       }
     ], 
     "wof:id": 1377020229, 
-    "wof:lastmodified": 1550874703, 
+    "wof:lastmodified": 1550877142, 
     "wof:name": "Installation view of \"The Art of Recology: The Artist in Residence Program 1990-2013\"", 
     "wof:parent_id": 1159160335, 
     "wof:placetype": "media", 
