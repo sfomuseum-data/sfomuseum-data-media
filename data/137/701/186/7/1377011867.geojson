@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377011867, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-21",
     "edtf:cessation": "1986-07-06", 
     "edtf:inception": "1986-04-15", 
     "geom:area": 0, 
