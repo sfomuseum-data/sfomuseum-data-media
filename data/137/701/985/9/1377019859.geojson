@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377019859, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-22",
     "edtf:cessation": "1997-10-31", 
     "edtf:inception": "1997-03-21", 
     "geom:area": 0, 
@@ -13,96 +13,14 @@
     "media:fingerprint": "d438b2996b156c3f485a0906d009810fc914875d", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#748c8e", 
-          "name": "#748c8e", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#abbcbe", 
-          "name": "#abbcbe", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#30433a", 
-          "name": "#30433a", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226603375], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 726, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1452, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 226, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3014, 
-          "mimetype": "image/jpeg", 
-          "secret": "3USsHZpo1ZbZ8srZ9bPYMfh9cDbGsJqW", 
-          "width": 4251
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 453, 
-          "mimetype": "image/jpeg", 
-          "secret": "VNegV5mZwdgylLRCUpXtvpqR9hLbaxsZ", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226603375]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102191575, 
@@ -135,7 +53,7 @@
       }
     ], 
     "wof:id": 1377019859, 
-    "wof:lastmodified": 1550869229, 
+    "wof:lastmodified": 1550872667, 
     "wof:name": "Installation view of \"Building for Air Travel\"", 
     "wof:parent_id": 1226603375, 
     "wof:placetype": "media", 
