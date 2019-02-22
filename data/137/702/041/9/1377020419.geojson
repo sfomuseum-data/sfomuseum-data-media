@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377020419, 
+  "properties": {
+    "edtf:cessation": "2017-05-08", 
+    "edtf:inception": "2016-10-21", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617422, 
+    "geom:longitude": -122.382712, 
+    "iso:country": "US", 
+    "media:created": 1479236442, 
+    "media:fingerprint": "e162d68e2a54e121ee917120358f5ad845c07c96", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b95b3c", 
+          "name": "#b95b3c", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e9cfaf", 
+          "name": "#e9cfaf", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#0a2b67", 
+          "name": "#0a2b67", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#9e836c", 
+          "name": "#9e836c", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d2b7a4", 
+          "name": "#d2b7a4", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226619799], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "K9w6wZtUBispFVq72xInz8Hc7gPuF8OG", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "4kKUqK0BrYi17ljZPaXjg30QDsGEH3QD", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1226619799, 
+      1159157325, 
+      102527513, 
+      85633793, 
+      102087579, 
+      85922583, 
+      1159396193, 
+      85688637, 
+      1159396321, 
+      1360516255, 
+      102191575
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550875582, 
+    "wof:depicts": [
+      1159396321, 
+      1159396193, 
+      1360516255, 
+      1226619799, 
+      102527513, 
+      1159157325
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396193, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516255, 
+        "installation_id": 1226619799, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157325
+      }
+    ], 
+    "wof:id": 1377020419, 
+    "wof:lastmodified": 1550875621, 
+    "wof:name": "Installation view of \"The Mysterious Talking Board: Ouija and Beyond\"", 
+    "wof:parent_id": 1226619799, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
+}
