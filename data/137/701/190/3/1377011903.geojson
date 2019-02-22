@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377011903, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-22",
     "edtf:cessation": "1998-07-21", 
     "edtf:inception": "1997-12-05", 
     "geom:area": 0, 
@@ -13,106 +13,14 @@
     "media:fingerprint": "4304fd8c0b11472c54d76efa70e5e18addaacfac", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#ea7a5b", 
-          "name": "#ea7a5b", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#f4d9af", 
-          "name": "#f4d9af", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#86633a", 
-          "name": "#86633a", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#98855f", 
-          "name": "#98855f", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#d3cdaa", 
-          "name": "#d3cdaa", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226603591], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 621
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 485
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 485
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 1242
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 194
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 7056, 
-          "mimetype": "image/jpeg", 
-          "secret": "KUNHChWQ0q9l4MI7plP0CvtP0PDmzJNO", 
-          "width": 5706
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "3WJsTqWDH4HXzm8udyvMIG0mHrBMUc5n", 
-          "width": 388
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226603591]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102191575, 
@@ -145,7 +53,7 @@
       }
     ], 
     "wof:id": 1377011903, 
-    "wof:lastmodified": 1550786029, 
+    "wof:lastmodified": 1550863935, 
     "wof:name": "Installation view of \"A Medley of Skates and Memorabilia\"", 
     "wof:parent_id": 1226603591, 
     "wof:placetype": "media", 
