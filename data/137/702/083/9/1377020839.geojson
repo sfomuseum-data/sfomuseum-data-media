@@ -1,0 +1,152 @@
+{
+  "type": "Feature", 
+  "id": 1377020839, 
+  "properties": {
+    "edtf:cessation": "1993-10-15", 
+    "edtf:inception": "1993-08-15", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617227, 
+    "geom:longitude": -122.38274, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "73f53566b335af98fa18e9978122b168cfd7405b", 
+    "media:medium": "image", 
+    "media:mimetype": "image/tiff", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#e8c2a2", 
+          "name": "#e8c2a2", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#688f99", 
+          "name": "#688f99", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d2a097", 
+          "name": "#d2a097", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#394753", 
+          "name": "#394753", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226608683], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 726, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1452, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 226, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3014, 
+          "mimetype": "image/jpeg", 
+          "secret": "bVSbgJH1IdL1Ad9sV913uI23jkKbgCA1", 
+          "width": 4251
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 453, 
+          "mimetype": "image/jpeg", 
+          "secret": "RvhX19H7SRwdoPaGg1Ku6vBJxisramFd", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1360516467, 
+      85688637, 
+      1226608683, 
+      85922583, 
+      1159554829, 
+      1159554803, 
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550885472, 
+    "wof:depicts": [1159554803, 102527513, 1159554829, 1360516467, 1226608683], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554803, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516467, 
+        "installation_id": 1226608683, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159554829
+      }
+    ], 
+    "wof:id": 1377020839, 
+    "wof:lastmodified": 1550885517, 
+    "wof:name": "Installation view of \"Ancestor Figures from New Guinea\"", 
+    "wof:parent_id": 1226608683, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}
+}
