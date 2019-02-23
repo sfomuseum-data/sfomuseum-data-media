@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377020825, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-22",
     "edtf:cessation": "1993-10-15", 
     "edtf:inception": "1993-08-15", 
     "geom:area": 0, 
@@ -13,101 +13,14 @@
     "media:fingerprint": "169965193cf07fe7bfcde52e7af55e46a9978088", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#e1e8f2", 
-          "name": "#e1e8f2", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#7b8589", 
-          "name": "#7b8589", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#b2bbc6", 
-          "name": "#b2bbc6", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#3f3d45", 
-          "name": "#3f3d45", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226608683], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 726, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1452, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 226, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3014, 
-          "mimetype": "image/jpeg", 
-          "secret": "JZkTMTZiDGmok8OsET0gd2Hh8Qe78azT", 
-          "width": 4251
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 453, 
-          "mimetype": "image/jpeg", 
-          "secret": "n0IdyVMImUGQU1eJ8wDYV2qHym2dxJFo", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226608683]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102087579, 
@@ -140,7 +53,7 @@
       }
     ], 
     "wof:id": 1377020825, 
-    "wof:lastmodified": 1550885432, 
+    "wof:lastmodified": 1550885941, 
     "wof:name": "Installation view of \"Ancestor Figures from New Guinea\"", 
     "wof:parent_id": 1226608683, 
     "wof:placetype": "media", 
