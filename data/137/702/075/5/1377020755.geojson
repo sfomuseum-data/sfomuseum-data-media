@@ -1,0 +1,147 @@
+{
+  "type": "Feature", 
+  "id": 1377020755, 
+  "properties": {
+    "edtf:cessation": "1994-01-15", 
+    "edtf:inception": "1993-11-16", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.613926, 
+    "geom:longitude": -122.385472, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "da05d82adde7b05c11b537bd082ef3309f3b3f9e", 
+    "media:medium": "image", 
+    "media:mimetype": "image/tiff", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#a08169", 
+          "name": "#a08169", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c1beb4", 
+          "name": "#c1beb4", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#3b3c4b", 
+          "name": "#3b3c4b", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226606173], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 726, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1452, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 226, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3014, 
+          "mimetype": "image/jpeg", 
+          "secret": "71z9J2w0ZiEQsRGb6P7o8qC4r5zfo0Lg", 
+          "width": 4251
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 453, 
+          "mimetype": "image/jpeg", 
+          "secret": "5NMnazNnPVlSkwecwKVnhRzTXNWhbs9x", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102191575, 
+      1159157883, 
+      1159554817, 
+      102087579, 
+      1226606173, 
+      85922583, 
+      85688637, 
+      1159554803, 
+      102527513, 
+      85633793
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550884193, 
+    "wof:depicts": [1159157883, 1159554803, 1159554817, 1226606173, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554803, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157883, 
+        "installation_id": 1226606173, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159554817
+      }
+    ], 
+    "wof:id": 1377020755, 
+    "wof:lastmodified": 1550884241, 
+    "wof:name": "Installation view of \"B is for Bears\"", 
+    "wof:parent_id": 1226606173, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}
+}
