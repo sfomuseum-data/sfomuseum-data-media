@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377042949, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-25",
     "edtf:cessation": "1985-03-14", 
     "edtf:inception": "1984-11-30", 
     "geom:area": 0, 
@@ -13,106 +13,14 @@
     "media:fingerprint": "df8a8c8bc784354ce3c4e3fe06f3e7184608c65e", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#c8904a", 
-          "name": "#c8904a", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#d7e0a3", 
-          "name": "#d7e0a3", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#915b3f", 
-          "name": "#915b3f", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#96916e", 
-          "name": "#96916e", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#bcc4ac", 
-          "name": "#bcc4ac", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226617941], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 621
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 485
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 485
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 1242
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 194
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 7056, 
-          "mimetype": "image/jpeg", 
-          "secret": "BcWa7TjmkbG2ml9dbnmsTUDBFV9zFnXR", 
-          "width": 5706
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "JjN3tG6MBK7vO7XdH8Bbg8os8Qm1ucyN", 
-          "width": 388
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226617941]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       1360516129, 
@@ -154,7 +62,7 @@
       }
     ], 
     "wof:id": 1377042949, 
-    "wof:lastmodified": 1551133320, 
+    "wof:lastmodified": 1551134863, 
     "wof:name": "Installation view of \"Art and Travel\"", 
     "wof:parent_id": 1226617941, 
     "wof:placetype": "media", 
