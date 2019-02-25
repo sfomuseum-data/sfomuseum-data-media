@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377043219, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-25",
     "edtf:cessation": "1994-03-28", 
     "edtf:inception": "1994-02-09", 
     "geom:area": 0, 
@@ -13,96 +13,14 @@
     "media:fingerprint": "b3dff596edf807bb0759bb2aa7c280ac9b32ddab", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#848586", 
-          "name": "#848586", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#b7c4bc", 
-          "name": "#b7c4bc", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#594f3b", 
-          "name": "#594f3b", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226607175], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 726, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1452, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 226, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3014, 
-          "mimetype": "image/jpeg", 
-          "secret": "u3SNrFhPklzhgXSoXfow4GsJvC1cbpNP", 
-          "width": 4251
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 453, 
-          "mimetype": "image/jpeg", 
-          "secret": "btvQyTJbuaOYhfaFSgqhEmRkZexNhHoc", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226607175]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       1159554803, 
@@ -135,7 +53,7 @@
       }
     ], 
     "wof:id": 1377043219, 
-    "wof:lastmodified": 1551136520, 
+    "wof:lastmodified": 1551136940, 
     "wof:name": "Installation view of \"Bark: Photographs by Ann Giordano\"", 
     "wof:parent_id": 1226607175, 
     "wof:placetype": "media", 
