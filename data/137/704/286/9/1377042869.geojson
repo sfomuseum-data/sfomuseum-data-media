@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377042869, 
+  "properties": {
+    "edtf:cessation": "1982-08-05", 
+    "edtf:inception": "1982-06-21", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.619087, 
+    "geom:longitude": -122.387197, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "ca1f0ae37b8c5e13ce0edbd76dfdd201881e093d", 
+    "media:medium": "image", 
+    "media:mimetype": "image/tiff", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#bd6b4f", 
+          "name": "#bd6b4f", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#f8ae78", 
+          "name": "#f8ae78", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#807b82", 
+          "name": "#807b82", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d3adb2", 
+          "name": "#d3adb2", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#434845", 
+          "name": "#434845", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226612011], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 726, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 567, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1452, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 226, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3014, 
+          "mimetype": "image/jpeg", 
+          "secret": "YiS4B78q2GLR8TYCNOPCcrXoprYR6NX9", 
+          "width": 4251
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 453, 
+          "mimetype": "image/jpeg", 
+          "secret": "5F382wKHkUBoVn2X4H7H98c1Km1tbhoE", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85922583, 
+      85688637, 
+      1159396327, 
+      102191575, 
+      85633793, 
+      1226612011, 
+      1159396129, 
+      102527513, 
+      1159396233, 
+      102087579, 
+      1360516133
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1551132798, 
+    "wof:depicts": [
+      1360516133, 
+      1159396327, 
+      102527513, 
+      1159396233, 
+      1226612011, 
+      1159396129
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396327, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396233, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516133, 
+        "installation_id": 1226612011, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396129
+      }
+    ], 
+    "wof:id": 1377042869, 
+    "wof:lastmodified": 1551132832, 
+    "wof:name": "Installation view of \"Artist's Furniture: New Dimensions and Statements in Design\"", 
+    "wof:parent_id": 1226612011, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
+}
