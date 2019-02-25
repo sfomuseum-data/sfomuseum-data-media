@@ -45,66 +45,66 @@
       "sizes": {
         "b": {
           "extension": "jpg", 
-          "height": 726, 
+          "height": 1024, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
-          "width": 1024
+          "secret": "oIL6DlDomUJykGUYMmDhY3yn7mvSq1iv", 
+          "width": 726
         }, 
         "c": {
           "extension": "jpg", 
-          "height": 567, 
+          "height": 800, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
-          "width": 800
+          "secret": "PL1PMFKb8MgNs3FceAFoJM2xCRc2Qziv", 
+          "width": 567
         }, 
         "dc": {
           "extension": "jpg", 
-          "height": 567, 
+          "height": 800, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
-          "width": 800
+          "secret": "csGPxeW21I0YSKNfSHC5VifLHNOG5Tbh", 
+          "width": 567
         }, 
         "ds": {
           "extension": "jpg", 
           "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
+          "secret": "fd9g0w7O3qj3fqlaGmwldNKDlSgVRtuP", 
           "width": 320
         }, 
         "k": {
           "extension": "jpg", 
-          "height": 1452, 
+          "height": 2048, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
-          "width": 2048
+          "secret": "6vKOYjhqljbLNQjZ3Mn8gFs3OEXIeHRl", 
+          "width": 1452
         }, 
         "n": {
           "extension": "jpg", 
-          "height": 226, 
+          "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
-          "width": 320
+          "secret": "N1K5bJH3CdaM8qo7ZQCECovbcU7BDShO", 
+          "width": 226
         }, 
         "o": {
           "extension": "jpg", 
-          "height": 3014, 
+          "height": 4251, 
           "mimetype": "image/jpeg", 
-          "secret": "cVhgJ37YCTJhACRs2nSQ9sH5WG5uSQiX", 
-          "width": 4251
+          "secret": "CThlzUGDexAsf2Z9ft6CAxG2wS34Vv3u", 
+          "width": 3014
         }, 
         "s": {
           "extension": "jpg", 
           "height": 320, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
+          "secret": "OtnjWUxefjnxUwCGZ5zQi6WEqBdh7deD", 
           "width": 320
         }, 
         "z": {
           "extension": "jpg", 
-          "height": 453, 
+          "height": 640, 
           "mimetype": "image/jpeg", 
-          "secret": "sZrK0HniH9k7BCbYPMrX7XV4oJ7Z52ch", 
-          "width": 640
+          "secret": "aUWgshl3kWJINeo1RrYO8znH6zW5KA1j", 
+          "width": 453
         }
       }
     }, 
@@ -115,17 +115,17 @@
     "mz:is_current": -1, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
-      102527513, 
-      1159554841, 
-      1226617941, 
-      102191575, 
-      85922583, 
-      1159554801, 
       85688637, 
-      1159554819, 
-      85633793, 
+      1159554841, 
       102087579, 
-      1360516129
+      85922583, 
+      102527513, 
+      102191575, 
+      85633793, 
+      1360516129, 
+      1159554801, 
+      1159554819, 
+      1226617941
     ], 
     "wof:country": "US", 
     "wof:created": 1551133545, 
@@ -154,7 +154,7 @@
       }
     ], 
     "wof:id": 1377043089, 
-    "wof:lastmodified": 1551133583, 
+    "wof:lastmodified": 1551134588, 
     "wof:name": "Installation view of \"Art and Travel\"", 
     "wof:parent_id": 1226617941, 
     "wof:placetype": "media", 
