@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377042895, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-25",
     "edtf:cessation": "1982-08-05", 
     "edtf:inception": "1982-06-21", 
     "geom:area": 0, 
@@ -13,101 +13,14 @@
     "media:fingerprint": "b97dbf00107fb744d8dea4639273a959d173161c", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#b2c1da", 
-          "name": "#b2c1da", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#757889", 
-          "name": "#757889", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#b2b6c3", 
-          "name": "#b2b6c3", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#473d43", 
-          "name": "#473d43", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226612011], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 726, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1452, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 226, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3014, 
-          "mimetype": "image/jpeg", 
-          "secret": "taIzERBlYxZK3TZJ373bO85E0ndK8Lvj", 
-          "width": 4251
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 453, 
-          "mimetype": "image/jpeg", 
-          "secret": "AceT5Gvo7AwQIsdj2xvidsP8ebNIzvXS", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226612011]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       1159396129, 
@@ -149,7 +62,7 @@
       }
     ], 
     "wof:id": 1377042895, 
-    "wof:lastmodified": 1551132870, 
+    "wof:lastmodified": 1551134405, 
     "wof:name": "Installation view of \"Artist's Furniture: New Dimensions and Statements in Design\"", 
     "wof:parent_id": 1226612011, 
     "wof:placetype": "media", 
