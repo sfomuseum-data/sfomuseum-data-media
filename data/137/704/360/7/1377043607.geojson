@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377043607, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-26",
     "edtf:cessation": "2002-07-29", 
     "edtf:inception": "2002-01-08", 
     "geom:area": 0, 
@@ -13,106 +13,14 @@
     "media:fingerprint": "6b5823360bf50c6582bbc268ead7685b31bc5985", 
     "media:medium": "image", 
     "media:mimetype": "image/jpeg", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#cc4631", 
-          "name": "#cc4631", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#931f13", 
-          "name": "#931f13", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#8d834e", 
-          "name": "#8d834e", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#d8d5c2", 
-          "name": "#d8d5c2", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#5f5a33", 
-          "name": "#5f5a33", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1159159507], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 1920, 
-          "mimetype": "image/jpeg", 
-          "secret": "yK1ISgWxWYOsHwWNbEazZayiDdFnUY8i", 
-          "width": 2560
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "ZRsarTcxjQlcfPbU3CNbEfEXCFHGmnM4", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1159159507]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102191575, 
@@ -154,7 +62,7 @@
       }
     ], 
     "wof:id": 1377043607, 
-    "wof:lastmodified": 1551142091, 
+    "wof:lastmodified": 1551211583, 
     "wof:name": "Installation view of \"The Golden Age of Airships\"", 
     "wof:parent_id": 1159159507, 
     "wof:placetype": "media", 
