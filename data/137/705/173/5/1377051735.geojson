@@ -1,0 +1,147 @@
+{
+  "type": "Feature", 
+  "id": 1377051735, 
+  "properties": {
+    "edtf:cessation": "2014-01-06", 
+    "edtf:inception": "2013-06-28", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.614533, 
+    "geom:longitude": -122.38902, 
+    "iso:country": "US", 
+    "media:created": 1374518606, 
+    "media:fingerprint": "819b9bdf1552083a09bd0871271e549906ee8af8", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b27068", 
+          "name": "#b27068", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c9ada0", 
+          "name": "#c9ada0", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#474544", 
+          "name": "#474544", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160455], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "XAsVnNGM9a2bRjZQ49UIXuSKq6GKL0MY", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "LQpm2Jn90XqeabuNzIk2B3AYgFVmKBDz", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85922583, 
+      85688637, 
+      1159396333, 
+      102527513, 
+      85633793, 
+      102191575, 
+      102087579, 
+      1360516273, 
+      1159160455, 
+      1159396159
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1551203285, 
+    "wof:depicts": [1159160455, 102527513, 1159396333, 1360516273, 1159396159], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516273, 
+        "installation_id": 1159160455, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396159
+      }
+    ], 
+    "wof:id": 1377051735, 
+    "wof:lastmodified": 1551203321, 
+    "wof:name": "Installation view of \"Classic Plastics: 1870s-1970s\"", 
+    "wof:parent_id": 1159160455, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
+}
