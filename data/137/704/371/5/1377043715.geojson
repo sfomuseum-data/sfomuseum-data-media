@@ -1,0 +1,164 @@
+{
+  "type": "Feature", 
+  "id": 1377043715, 
+  "properties": {
+    "edtf:cessation": "2018-02-26", 
+    "edtf:inception": "2017-06-23", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.618847, 
+    "geom:longitude": -122.387109, 
+    "iso:country": "US", 
+    "media:created": 1498755025, 
+    "media:fingerprint": "2ee6036dc4cc5b53c0b7957d681f57e18d48f281", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#254c7b", 
+          "name": "#254c7b", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#878683", 
+          "name": "#878683", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c4c1ba", 
+          "name": "#c4c1ba", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#45443d", 
+          "name": "#45443d", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160725], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "15HTAGenpXROeocnESjvLSAPZ9B0Pu0T", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "pBEZqCHxRI3I6rbXIRscOoBKB4uCwsGW", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159396301, 
+      1159268871, 
+      1159157271, 
+      102191575, 
+      85633793, 
+      85688637, 
+      102527513, 
+      1159157053, 
+      1159160725, 
+      85922583, 
+      102087579, 
+      1159157307
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1551142852, 
+    "wof:depicts": [
+      1159396301, 
+      1159160725, 
+      1159268871, 
+      1159157307, 
+      1159157271, 
+      102527513, 
+      1159157053
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396301, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157053, 
+        "installation_id": 1159160725, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1159268871, 
+        "wing_id": 1159157307
+      }
+    ], 
+    "wof:id": 1377043715, 
+    "wof:lastmodified": 1551142891, 
+    "wof:name": "Installation view of \"Flying the Main Line: A History of United Airlines\"", 
+    "wof:parent_id": 1159160725, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387109,37.618847],"type":"Point"}
+}
