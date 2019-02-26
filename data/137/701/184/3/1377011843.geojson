@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377011843, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-26",
     "edtf:cessation": "1986-07-06", 
     "edtf:inception": "1986-04-15", 
     "geom:area": 0, 
@@ -13,106 +13,14 @@
     "media:fingerprint": "a9672fe0e2580f8a2032325d0e2168aedf7e1aa5", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#c29b74", 
-          "name": "#c29b74", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#d6c5a2", 
-          "name": "#d6c5a2", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#8f7d72", 
-          "name": "#8f7d72", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#c1b4ac", 
-          "name": "#c1b4ac", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#5c3f41", 
-          "name": "#5c3f41", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226612107], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 726, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1452, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 226, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3014, 
-          "mimetype": "image/jpeg", 
-          "secret": "0i65YGZUwvmSaiLx7FeIbX1teXaGDYz2", 
-          "width": 4251
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 453, 
-          "mimetype": "image/jpeg", 
-          "secret": "zZ4SPAyxGJwIL7Rfh43o3OXyDMUQyYOB", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226612107]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       85922583, 
@@ -154,7 +62,7 @@
       }
     ], 
     "wof:id": 1377011843, 
-    "wof:lastmodified": 1550784369, 
+    "wof:lastmodified": 1551211277, 
     "wof:name": "Installation view of \"Airport Cafe\"", 
     "wof:parent_id": 1226612107, 
     "wof:placetype": "media", 
