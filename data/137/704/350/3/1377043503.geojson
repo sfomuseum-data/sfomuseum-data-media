@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377043503, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-25",
     "edtf:cessation": "1996-09-15", 
     "edtf:inception": "1996-03-15", 
     "geom:area": 0, 
@@ -13,96 +13,14 @@
     "media:fingerprint": "f81cf07f79ee6dfd73fffbf474dff79e1b886ff8", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#978a69", 
-          "name": "#978a69", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#c5a8b5", 
-          "name": "#c5a8b5", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#5d4941", 
-          "name": "#5d4941", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226611157], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 726, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 567, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1452, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 226, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3014, 
-          "mimetype": "image/jpeg", 
-          "secret": "g6BsLqciEUpQpnjm6x3y4XqD9C2JsaXi", 
-          "width": 4251
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 453, 
-          "mimetype": "image/jpeg", 
-          "secret": "RXacpBchcFKF3OkUg8uSoHrqnWwnYkha", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226611157]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       85633793, 
@@ -144,7 +62,7 @@
       }
     ], 
     "wof:id": 1377043503, 
-    "wof:lastmodified": 1551139272, 
+    "wof:lastmodified": 1551141159, 
     "wof:name": "Installation view of \"Boomerang\"", 
     "wof:parent_id": 1226611157, 
     "wof:placetype": "media", 
