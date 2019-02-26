@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377020695, 
+  "properties": {
+    "edtf:cessation": "2019-06-10", 
+    "edtf:inception": "2018-09-14", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617422, 
+    "geom:longitude": -122.382712, 
+    "iso:country": "US", 
+    "media:created": 1538417553, 
+    "media:fingerprint": "fd6e7fcc64c36b9081f24900012a1f0c639b1bc9", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#f21646", 
+          "name": "#f21646", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e7ccb1", 
+          "name": "#e7ccb1", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#4f1b17", 
+          "name": "#4f1b17", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#9c745e", 
+          "name": "#9c745e", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c6b7ac", 
+          "name": "#c6b7ac", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1360664647], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "QV5QF8EeBPvJym8paps6eDXOhOkqVjnT", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "btiHxRJCSzsTgMoKnTjn9kOLTHU2Xrbo", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157067, 
+      1360664647, 
+      1159157271, 
+      102527513, 
+      85922583, 
+      85688637, 
+      1159396181, 
+      85633793, 
+      1159396121, 
+      102191575, 
+      102087579
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1550877777, 
+    "wof:depicts": [
+      102527513, 
+      1360664647, 
+      1159157271, 
+      1159157067, 
+      1159396121, 
+      1159396181
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396181, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157067, 
+        "installation_id": 1360664647, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396121
+      }
+    ], 
+    "wof:id": 1377020695, 
+    "wof:lastmodified": 1551218186, 
+    "wof:name": "Installation view of \"Down-Home Music: The Story of Arhoolie Records\"", 
+    "wof:parent_id": 1360664647, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
+}
