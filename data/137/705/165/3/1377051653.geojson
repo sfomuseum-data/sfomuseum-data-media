@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377051653, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-26",
     "edtf:cessation": "1995-02-10", 
     "edtf:inception": "1994-10-30", 
     "geom:area": 0, 
@@ -13,101 +13,14 @@
     "media:fingerprint": "6cd63dc041bdccf5894586ae22049cf10e47ab14", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#f5f3d3", 
-          "name": "#f5f3d3", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#a98b5c", 
-          "name": "#a98b5c", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#d3c8aa", 
-          "name": "#d3c8aa", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#433e33", 
-          "name": "#433e33", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226608827], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 621
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 485
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 485
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 1242
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 194
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 7056, 
-          "mimetype": "image/jpeg", 
-          "secret": "rOvMn5ymWpeKhjpbDV7BEAD7XYhYkfXL", 
-          "width": 5706
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "kzQxtNSvRE0N4ZQ6xIL47MQIGZasWF3X", 
-          "width": 388
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226608827]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102191575, 
@@ -140,7 +53,7 @@
       }
     ], 
     "wof:id": 1377051653, 
-    "wof:lastmodified": 1551203235, 
+    "wof:lastmodified": 1551210058, 
     "wof:name": "Installation view of \"Architectural Building Blocks\"", 
     "wof:parent_id": 1226608827, 
     "wof:placetype": "media", 
