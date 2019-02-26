@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377051591, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-26",
     "edtf:cessation": "1997-04-02", 
     "edtf:inception": "1997-02-28", 
     "geom:area": 0, 
@@ -13,101 +13,14 @@
     "media:fingerprint": "e5ecceb47b4347b1bb18492293211d2e39c995a5", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#f6f7e5", 
-          "name": "#f6f7e5", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#938865", 
-          "name": "#938865", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#c6bfb9", 
-          "name": "#c6bfb9", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#46423a", 
-          "name": "#46423a", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226603913], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 621
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 485
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 485
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 1242
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 194
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 7056, 
-          "mimetype": "image/jpeg", 
-          "secret": "LOVqWU0tXWmOZdB3vxU2kpsFsWskQN2g", 
-          "width": 5706
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "K9dwQv09pXYJPLr93SUZHrbjSTf5XAJ0", 
-          "width": 388
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226603913]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       102191575, 
@@ -140,7 +53,7 @@
       }
     ], 
     "wof:id": 1377051591, 
-    "wof:lastmodified": 1551202341, 
+    "wof:lastmodified": 1551202567, 
     "wof:name": "Installation view of \"The Lunar Year: Artifacts and Tradition\"", 
     "wof:parent_id": 1226603913, 
     "wof:placetype": "media", 
