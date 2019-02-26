@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377043665, 
+  "properties": {
+    "edtf:cessation": "2014-08-18", 
+    "edtf:inception": "2013-11-22", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.614385, 
+    "geom:longitude": -122.387989, 
+    "iso:country": "US", 
+    "media:created": 1385422295, 
+    "media:fingerprint": "8a9c8c0b3114858661bd4255f3b8ee3c6b8f62f1", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#943528", 
+          "name": "#943528", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d5cd9f", 
+          "name": "#d5cd9f", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#7a241d", 
+          "name": "#7a241d", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#6f8295", 
+          "name": "#6f8295", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c4c1b8", 
+          "name": "#c4c1b8", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160467], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "Lc7o0B8ML9diQdl79oxoctqeGzDrTH71", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "t8Imea1AH92MLFhzkq6PniHbslmWj3Cf", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1360541657, 
+      102527513, 
+      1159396153, 
+      85633793, 
+      1159160467, 
+      85922583, 
+      1360521563, 
+      1159396321, 
+      102191575, 
+      102087579, 
+      85688637
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1551142524, 
+    "wof:depicts": [
+      102527513, 
+      1360541657, 
+      1159396153, 
+      1159160467, 
+      1360521563, 
+      1159396321
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360541657, 
+        "installation_id": 1159160467, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1360521563, 
+        "wing_id": 1159396153
+      }
+    ], 
+    "wof:id": 1377043665, 
+    "wof:lastmodified": 1551142585, 
+    "wof:name": "Installation view of \"Airline Identity: Marks, Brands and Logos\"", 
+    "wof:parent_id": 1159160467, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}
+}
