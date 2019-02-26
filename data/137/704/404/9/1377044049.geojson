@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377044049, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-25",
     "edtf:cessation": "2012-08-06", 
     "edtf:inception": "2012-03-02", 
     "geom:area": 0, 
@@ -13,106 +13,14 @@
     "media:fingerprint": "f840d94048d66d9674a326914b427346b573e39c", 
     "media:medium": "image", 
     "media:mimetype": "image/jpeg", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#ba9655", 
-          "name": "#ba9655", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#7d582f", 
-          "name": "#7d582f", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#93856f", 
-          "name": "#93856f", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#c5b79d", 
-          "name": "#c5b79d", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#544c4a", 
-          "name": "#544c4a", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1159160321], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 512
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 400
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 400
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 1024
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 160
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 3600, 
-          "mimetype": "image/jpeg", 
-          "secret": "6ybxo7StAM6xeJ2mORhOUyNx0dKWZzC8", 
-          "width": 2400
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "ueFPeOmBVWZdKpSk9pHjDo0VbGFj29rS", 
-          "width": 320
-        }
-      }
+    "media:properties": { 
+      "depicts": [1159160321]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       1159396333, 
@@ -154,7 +62,7 @@
       }
     ], 
     "wof:id": 1377044049, 
-    "wof:lastmodified": 1551146192, 
+    "wof:lastmodified": 1551146454, 
     "wof:name": "Installation view of \"Threading the Needle: Sewing in the Machine Age\"", 
     "wof:parent_id": 1159160321, 
     "wof:placetype": "media", 
