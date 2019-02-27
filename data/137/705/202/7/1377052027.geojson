@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377052027, 
+  "properties": {
+    "edtf:cessation": "2014-05-12", 
+    "edtf:inception": "2013-11-01", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.619087, 
+    "geom:longitude": -122.387197, 
+    "iso:country": "US", 
+    "media:created": 1383968699, 
+    "media:fingerprint": "cb4cefe4e6e265cb8fc33d282a3db1b3b078f911", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#d5b132", 
+          "name": "#d5b132", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c3a47c", 
+          "name": "#c3a47c", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#942c29", 
+          "name": "#942c29", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#857d74", 
+          "name": "#857d74", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e1d7c8", 
+          "name": "#e1d7c8", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160369], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "4NfUi5QEyRLi3dOcRTBJ5v3Wzw4DA4iJ", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "dVNREf3bM9qczY5UXkxCfTJSNyi4niGH", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85688637, 
+      1159396333, 
+      1159396295, 
+      85922583, 
+      1159396141, 
+      1360516121, 
+      1159160369, 
+      102087579, 
+      102191575, 
+      85633793, 
+      102527513
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1551228258, 
+    "wof:depicts": [
+      1360516121, 
+      1159160369, 
+      1159396141, 
+      102527513, 
+      1159396333, 
+      1159396295
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396295, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516121, 
+        "installation_id": 1159160369, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396141
+      }
+    ], 
+    "wof:id": 1377052027, 
+    "wof:lastmodified": 1551228291, 
+    "wof:name": "Installation view of \"Japanese Toys! From Kokeshi to Kaiju\"", 
+    "wof:parent_id": 1159160369, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
+}
