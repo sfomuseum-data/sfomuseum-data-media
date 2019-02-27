@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377052255, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-02-26",
     "edtf:cessation": "2010-08-16", 
     "edtf:inception": "2010-02-19", 
     "geom:area": 0, 
@@ -13,101 +13,14 @@
     "media:fingerprint": "302b65b211c7f41bcb666b7dfbc998d3b14ed94c", 
     "media:medium": "image", 
     "media:mimetype": "image/jpeg", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#c12f1b", 
-          "name": "#c12f1b", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#a08b5f", 
-          "name": "#a08b5f", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#d0ccbd", 
-          "name": "#d0ccbd", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#5a473c", 
-          "name": "#5a473c", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1159160109], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 685, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 1024
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 535, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 800
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 535, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 800
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1370, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 2048
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 214, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 320
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 2592, 
-          "mimetype": "image/jpeg", 
-          "secret": "wmjuWuovtQmf6OyXAHlsPp4vg0vDeOLA", 
-          "width": 3872
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 428, 
-          "mimetype": "image/jpeg", 
-          "secret": "4XgZV21tMUfejN8NIGMNlFTEHBcdcRAt", 
-          "width": 640
-        }
-      }
+    "media:properties": { 
+      "depicts": [1159160109]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       1360521569, 
@@ -149,7 +62,7 @@
       }
     ], 
     "wof:id": 1377052255, 
-    "wof:lastmodified": 1551230290, 
+    "wof:lastmodified": 1551230630, 
     "wof:name": "Installation view of \"Japan Airlines: Over Fifty-Five Years of Service\"", 
     "wof:parent_id": 1159160109, 
     "wof:placetype": "media", 
