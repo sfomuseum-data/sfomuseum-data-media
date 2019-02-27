@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377059361, 
+  "properties": {
+    "edtf:cessation": "2012-01-23", 
+    "edtf:inception": "2011-06-03", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.614385, 
+    "geom:longitude": -122.387989, 
+    "iso:country": "US", 
+    "media:created": 1313776355, 
+    "media:fingerprint": "f37b582e6114db73c199d2dabe3800ad9e0cc845", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#d23b25", 
+          "name": "#d23b25", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#ddc99d", 
+          "name": "#ddc99d", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#39747b", 
+          "name": "#39747b", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#988768", 
+          "name": "#988768", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e3d9c0", 
+          "name": "#e3d9c0", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160125], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 1600, 
+          "mimetype": "image/jpeg", 
+          "secret": "wW13BEb0ytr2QOpApx7fBykLl1OwkIaW", 
+          "width": 2400
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "UKun0aR2LmImt49T5x7E6WObOdJaHb9l", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159396337, 
+      102191575, 
+      102087579, 
+      85922583, 
+      85688637, 
+      1159160125, 
+      1360521569, 
+      1159396147, 
+      102527513, 
+      85633793, 
+      1360541661
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1551306964, 
+    "wof:depicts": [
+      1159396147, 
+      1360541661, 
+      1360521569, 
+      1159396337, 
+      102527513, 
+      1159160125
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360541661, 
+        "installation_id": 1159160125, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1360521569, 
+        "wing_id": 1159396147
+      }
+    ], 
+    "wof:id": 1377059361, 
+    "wof:lastmodified": 1551307001, 
+    "wof:name": "Installation view of \"Postwar Propliners in Miniature: Models from the Collection of Anthony J. Lawler\"", 
+    "wof:parent_id": 1159160125, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}
+}
