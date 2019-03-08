@@ -1,0 +1,157 @@
+{
+  "type": "Feature", 
+  "id": 1377126419, 
+  "properties": {
+    "edtf:cessation": "2016-08-15", 
+    "edtf:inception": "2016-02-12", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.616594, 
+    "geom:longitude": -122.389725, 
+    "iso:country": "US", 
+    "media:created": 1455720012, 
+    "media:fingerprint": "3ed2f74ec30a28ac44ec905fe83d39cdc1935192", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b6964e", 
+          "name": "#b6964e", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d9b773", 
+          "name": "#d9b773", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#78522f", 
+          "name": "#78522f", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a98657", 
+          "name": "#a98657", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#bac0c6", 
+          "name": "#bac0c6", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160545], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 614
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 480
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 480
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 1228
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 192
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 4211, 
+          "mimetype": "image/jpeg", 
+          "secret": "fVpNEYmGRT6nZQrsEYMiC3gnD5I5skKN", 
+          "width": 3369
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "bkBLdIBEoQKqC3WEkLkAD1WOfu3eTun7", 
+          "width": 384
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85688637, 
+      1159396321, 
+      102191575, 
+      1360516281, 
+      85922583, 
+      1159396153, 
+      102527513, 
+      102087579, 
+      1159160545, 
+      85633793
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552088841, 
+    "wof:depicts": [1360516281, 102527513, 1159396321, 1159160545, 1159396153], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516281, 
+        "installation_id": 1159160545, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396153
+      }
+    ], 
+    "wof:id": 1377126419, 
+    "wof:lastmodified": 1552088878, 
+    "wof:name": "Installation view of \"The Allure of Art Nouveau:1890-1914\"", 
+    "wof:parent_id": 1159160545, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
+}
