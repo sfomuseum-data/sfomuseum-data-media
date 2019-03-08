@@ -1,0 +1,182 @@
+{
+  "type": "Feature", 
+  "id": 1377118169, 
+  "properties": {
+    "edtf:cessation": "2019-01-14", 
+    "edtf:inception": "2018-04-13", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.616029, 
+    "geom:longitude": -122.389131, 
+    "iso:country": "US", 
+    "media:created": 1527793847, 
+    "media:fingerprint": "0a49fe30177bd82150ff0fece7b84f6c700c8e3a", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#e2d1bc", 
+          "name": "#e2d1bc", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#1d120b", 
+          "name": "#1d120b", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a8835e", 
+          "name": "#a8835e", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d2bea7", 
+          "name": "#d2bea7", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#574130", 
+          "name": "#574130", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226619815], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "fGDe2B7KSveUIkMAzpeM2F3yRBoC4zoA", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "DXNuJb3O9pzEUq7CsPjw4xhkCDQvW7mZ", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102087579, 
+      1159157047, 
+      102527513, 
+      1159157335, 
+      1159157333, 
+      1226619815, 
+      1159157045, 
+      102191575, 
+      85633793, 
+      85922583, 
+      85688637, 
+      1159157271
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552007867, 
+    "wof:depicts": [
+      1159157045, 
+      102527513, 
+      1159157047, 
+      1159157333, 
+      1226619815, 
+      1159157335, 
+      1159157271
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157047, 
+        "installation_id": 1226619815, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157333
+      }, 
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157045, 
+        "installation_id": 1226619815, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157333
+      }
+    ], 
+    "wof:id": 1377118169, 
+    "wof:lastmodified": 1552007906, 
+    "wof:name": "Installation view of \"Isamu Noguchi: Inside and Out\"", 
+    "wof:parent_id": 1226619815, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
+}
