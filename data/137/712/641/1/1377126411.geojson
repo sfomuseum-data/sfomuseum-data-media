@@ -1,0 +1,164 @@
+{
+  "type": "Feature", 
+  "id": 1377126411, 
+  "properties": {
+    "edtf:cessation": "2018-07-09", 
+    "edtf:inception": "2017-11-17", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.614609, 
+    "geom:longitude": -122.388743, 
+    "iso:country": "US", 
+    "media:created": 1511809589, 
+    "media:fingerprint": "00228e3b5555da8257f97811af029163b0c93439", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b6bae9", 
+          "name": "#b6bae9", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#ab8761", 
+          "name": "#ab8761", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b1b1d1", 
+          "name": "#b1b1d1", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#584534", 
+          "name": "#584534", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160603], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "4COpbEwRCRpKxSqRr1HfHAPNCa1wsoZ3", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gnw1vTmIptzUtf3CS03nKTYQ3a2mgVjN", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159160603, 
+      85922583, 
+      1159157271, 
+      102527513, 
+      102191575, 
+      1159157333, 
+      1159157039, 
+      1159157335, 
+      85633793, 
+      102087579, 
+      85688637, 
+      1159268871
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552088497, 
+    "wof:depicts": [
+      1159157335, 
+      1159157333, 
+      1159160603, 
+      1159157039, 
+      1159268871, 
+      1159157271, 
+      102527513
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157039, 
+        "installation_id": 1159160603, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1159268871, 
+        "wing_id": 1159157333
+      }
+    ], 
+    "wof:id": 1377126411, 
+    "wof:lastmodified": 1552088529, 
+    "wof:name": "Installation view of \"American Folk Art: An Enduring Legacy\"", 
+    "wof:parent_id": 1159160603, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.388743,37.614609],"type":"Point"}
+}
