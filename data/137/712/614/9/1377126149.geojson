@@ -1,0 +1,182 @@
+{
+  "type": "Feature", 
+  "id": 1377126149, 
+  "properties": {
+    "edtf:cessation": "2018-04-02", 
+    "edtf:inception": "2017-08-18", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.616029, 
+    "geom:longitude": -122.389131, 
+    "iso:country": "US", 
+    "media:created": 1503686117, 
+    "media:fingerprint": "7a27c17021a1c6eb9a02897b6d281a04e319ba69", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#d97242", 
+          "name": "#d97242", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e7caaa", 
+          "name": "#e7caaa", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#8e3235", 
+          "name": "#8e3235", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a57464", 
+          "name": "#a57464", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a6b5c1", 
+          "name": "#a6b5c1", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160631], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "aC2tQbYeFlJa0KvjM40kVG0MCuEgzEvn", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "5klMGTOajvdVtIXR1ZWwZqEJKyYX6awi", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102087579, 
+      1159157271, 
+      102191575, 
+      1159157045, 
+      85633793, 
+      1159157333, 
+      1159157335, 
+      85922583, 
+      85688637, 
+      102527513, 
+      1159157047, 
+      1159160631
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552087224, 
+    "wof:depicts": [
+      1159160631, 
+      1159157271, 
+      1159157045, 
+      1159157335, 
+      1159157333, 
+      1159157047, 
+      102527513
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157047, 
+        "installation_id": 1159160631, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157333
+      }, 
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1159157045, 
+        "installation_id": 1159160631, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157333
+      }
+    ], 
+    "wof:id": 1377126149, 
+    "wof:lastmodified": 1552087265, 
+    "wof:name": "Installation view of \"Empowering Threads: Textiles of Jolom Mayaetik\"", 
+    "wof:parent_id": 1159160631, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
+}
