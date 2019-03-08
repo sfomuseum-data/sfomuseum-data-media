@@ -1,0 +1,152 @@
+{
+  "type": "Feature", 
+  "id": 1377118101, 
+  "properties": {
+    "edtf:cessation": "2007-10-30", 
+    "edtf:inception": "2007-05-23", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.613926, 
+    "geom:longitude": -122.385472, 
+    "iso:country": "US", 
+    "media:created": 1194375945, 
+    "media:fingerprint": "e26c41920d5609b4b34fd46869b615ee1c32dd54", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#2c3274", 
+          "name": "#2c3274", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a28e57", 
+          "name": "#a28e57", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c8c6b2", 
+          "name": "#c8c6b2", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#594a2c", 
+          "name": "#594a2c", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159159879], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 514
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 401
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 401
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 1028
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 160
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3872, 
+          "mimetype": "image/jpeg", 
+          "secret": "gH4ZAqToscq4h2mtY9MGQJEnmEu58v3Y", 
+          "width": 2592
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "atDHrgu3cliM5XPG93pduedQl2vdY4E8", 
+          "width": 321
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159396139, 
+      1159396337, 
+      102191575, 
+      85633793, 
+      1360516479, 
+      85922583, 
+      102527513, 
+      85688637, 
+      102087579, 
+      1159159879
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552007512, 
+    "wof:depicts": [1159396337, 1159396139, 102527513, 1360516479, 1159159879], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516479, 
+        "installation_id": 1159159879, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396139
+      }
+    ], 
+    "wof:id": 1377118101, 
+    "wof:lastmodified": 1552007557, 
+    "wof:name": "Installation view of \"Baseball by the Bay: San Francisco, Oakland, and the National Pastime\"", 
+    "wof:parent_id": 1159159879, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}
+}
