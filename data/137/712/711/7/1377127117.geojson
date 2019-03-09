@@ -1,0 +1,166 @@
+{
+  "type": "Feature", 
+  "id": 1377127117, 
+  "properties": {
+    "edtf:cessation": "2013-05-20", 
+    "edtf:inception": "2012-10-26", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617422, 
+    "geom:longitude": -122.382712, 
+    "iso:country": "US", 
+    "media:created": 1352159274, 
+    "media:fingerprint": "f171d60eaf6d3b22ce9b0287ea6f7a10f848facf", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#dc4d2e", 
+          "name": "#dc4d2e", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e1c396", 
+          "name": "#e1c396", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a53415", 
+          "name": "#a53415", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#90714d", 
+          "name": "#90714d", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a89673", 
+          "name": "#a89673", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160347], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "HhHv2hm2sWd0uv0XmvfpvOCu9ytqkn1L", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "7bsdZRpO7qOw7U9QtZgVl70DFGO7ROaZ", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159396333, 
+      102191575, 
+      102087579, 
+      102527513, 
+      85633793, 
+      1360516259, 
+      85922583, 
+      85688637, 
+      1159160347, 
+      1159396109, 
+      1159396261
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552096677, 
+    "wof:depicts": [
+      1159396109, 
+      1159396261, 
+      1360516259, 
+      1159396333, 
+      102527513, 
+      1159160347
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396261, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516259, 
+        "installation_id": 1159160347, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396109
+      }
+    ], 
+    "wof:id": 1377127117, 
+    "wof:lastmodified": 1552096716, 
+    "wof:name": "Installation view of \"Let’s Play! 100 Years of Board Games\"", 
+    "wof:parent_id": 1159160347, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
+}
