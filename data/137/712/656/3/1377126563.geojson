@@ -1,0 +1,157 @@
+{
+  "type": "Feature", 
+  "id": 1377126563, 
+  "properties": {
+    "edtf:cessation": "2017-05-17", 
+    "edtf:inception": "2017-02-22", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617685, 
+    "geom:longitude": -122.387515, 
+    "iso:country": "US", 
+    "media:created": 1250653515, 
+    "media:fingerprint": "26a84c5af6a195e839e9f1a9394b7eee9d15e700", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#daa25f", 
+          "name": "#daa25f", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#ce7d5f", 
+          "name": "#ce7d5f", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#3a659e", 
+          "name": "#3a659e", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a38164", 
+          "name": "#a38164", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#abb1b9", 
+          "name": "#abb1b9", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160721], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 960
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 750
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 750
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 1920
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 300
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 1600, 
+          "mimetype": "image/jpeg", 
+          "secret": "3VYaLkM4WGHvlMCTANOLOd2etkmzm6vx", 
+          "width": 2000
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "uKHF28oJx2AZQHmJk8RQoaVMKp9NEV6e", 
+          "width": 600
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102087579, 
+      1159160721, 
+      1159396321, 
+      85688637, 
+      85922583, 
+      1159396157, 
+      102191575, 
+      85633793, 
+      1360516161, 
+      102527513
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552091925, 
+    "wof:depicts": [102527513, 1360516161, 1159160721, 1159396321, 1159396157], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516161, 
+        "installation_id": 1159160721, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396157
+      }
+    ], 
+    "wof:id": 1377126563, 
+    "wof:lastmodified": 1552091962, 
+    "wof:name": "Installation view of \"Jeff Devine: 1970s Surf Photography\"", 
+    "wof:parent_id": 1159160721, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387515,37.617685],"type":"Point"}
+}
