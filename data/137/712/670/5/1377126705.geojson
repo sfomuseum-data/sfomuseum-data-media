@@ -1,0 +1,198 @@
+{
+  "type": "Feature", 
+  "id": 1377126705, 
+  "properties": {
+    "edtf:cessation": "2016-05-26", 
+    "edtf:inception": "2015-11-16", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617422, 
+    "geom:longitude": -122.382712, 
+    "iso:country": "US", 
+    "media:created": 1464090432, 
+    "media:fingerprint": "de7596c035928cf13777801e07ce2f8839379f51", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#e6362e", 
+          "name": "#e6362e", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b4231c", 
+          "name": "#b4231c", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#595dac", 
+          "name": "#595dac", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c3c6c4", 
+          "name": "#c3c6c4", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#584c3b", 
+          "name": "#584c3b", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160551], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 512
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 400
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 400
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 1024
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 160
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3600, 
+          "mimetype": "image/jpeg", 
+          "secret": "9bHSY5pYwVY6zilLjivrAtoY3hHv8u0g", 
+          "width": 2400
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "4KOD6rZ3xFgxyopzCIO7kECdnRsABMgV", 
+          "width": 320
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159396321, 
+      102087579, 
+      1360516191, 
+      1159157325, 
+      1159396153, 
+      85633793, 
+      85688637, 
+      1360516255, 
+      102527513, 
+      1360516181, 
+      85922583, 
+      1159160551, 
+      102191575, 
+      1159396193
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552093072, 
+    "wof:depicts": [
+      1159396153, 
+      1360516191, 
+      1159157325, 
+      102527513, 
+      1159160551, 
+      1159396321, 
+      1159396193, 
+      1360516255, 
+      1360516181
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516181, 
+        "installation_id": 1159160551, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396153
+      }, 
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516191, 
+        "installation_id": 1159160551, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396153
+      }, 
+      {
+        "building_id": 1159396321, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396193, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516255, 
+        "installation_id": 1159160551, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159157325
+      }
+    ], 
+    "wof:id": 1377126705, 
+    "wof:lastmodified": 1552093112, 
+    "wof:name": "Installation view of \"Pixar’s Toy Story\"", 
+    "wof:parent_id": 1159160551, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
+}
