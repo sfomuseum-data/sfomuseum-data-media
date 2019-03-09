@@ -1,0 +1,161 @@
+{
+  "type": "Feature", 
+  "id": 1377127067, 
+  "properties": {
+    "edtf:cessation": "2013-12-08", 
+    "edtf:inception": "2013-05-24", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617422, 
+    "geom:longitude": -122.382712, 
+    "iso:country": "US", 
+    "media:created": 1377890398, 
+    "media:fingerprint": "ac277511268ed16c694854ae08d3c10857a6870b", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#a3bbe8", 
+          "name": "#a3bbe8", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#958a57", 
+          "name": "#958a57", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d6d0bf", 
+          "name": "#d6d0bf", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#45413b", 
+          "name": "#45413b", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160361], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 614
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 480
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 480
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 1228
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 192
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3600, 
+          "mimetype": "image/jpeg", 
+          "secret": "rkbXPRBmnrSNhXd8f5KdK06D04vavuyN", 
+          "width": 2880
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "D9DxsCornDE4bjgh8mQ9pTmgT95yt5yG", 
+          "width": 384
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85688637, 
+      102527513, 
+      102191575, 
+      1159396261, 
+      1360516259, 
+      1159160361, 
+      102087579, 
+      85633793, 
+      1159396109, 
+      1159396333, 
+      85922583
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552096424, 
+    "wof:depicts": [
+      1159396333, 
+      1159396261, 
+      1159160361, 
+      1159396109, 
+      102527513, 
+      1360516259
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396261, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516259, 
+        "installation_id": 1159160361, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396109
+      }
+    ], 
+    "wof:id": 1377127067, 
+    "wof:lastmodified": 1552096463, 
+    "wof:name": "Installation view of \"From Ship to Shore: Nautical Arts from the San Francisco Maritime National Historic Park\"", 
+    "wof:parent_id": 1159160361, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
+}
