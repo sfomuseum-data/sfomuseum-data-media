@@ -1,0 +1,178 @@
+{
+  "type": "Feature", 
+  "id": 1377126905, 
+  "properties": {
+    "edtf:cessation": "2014-03-03", 
+    "edtf:inception": "2013-08-20", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.615424, 
+    "geom:longitude": -122.388942, 
+    "iso:country": "US", 
+    "media:created": 1377883567, 
+    "media:fingerprint": "beef26dbecddd097392917f4b42e0a00d8c62021", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b7905b", 
+          "name": "#b7905b", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#987b43", 
+          "name": "#987b43", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#878076", 
+          "name": "#878076", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c6c0b4", 
+          "name": "#c6c0b4", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#464437", 
+          "name": "#464437", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159160349], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 682, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 533, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1365, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 213, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2400, 
+          "mimetype": "image/jpeg", 
+          "secret": "8QW17oHGlDCcLs3gj9j1OpAygXPySIXz", 
+          "width": 3600
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 426, 
+          "mimetype": "image/jpeg", 
+          "secret": "WKsvn0VDhZdVePH7xcmUAZk9GSpP92rV", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85633793, 
+      85922583, 
+      1360516193, 
+      1360516183, 
+      1159160349, 
+      85688637, 
+      1159396333, 
+      102527513, 
+      102191575, 
+      102087579, 
+      1159396159
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1552094225, 
+    "wof:depicts": [
+      1360516193, 
+      1159396159, 
+      1159396333, 
+      1159160349, 
+      1360516183, 
+      102527513
+    ], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516183, 
+        "installation_id": 1159160349, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396159
+      }, 
+      {
+        "building_id": 1159396333, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516193, 
+        "installation_id": 1159160349, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159396159
+      }
+    ], 
+    "wof:id": 1377126905, 
+    "wof:lastmodified": 1552094262, 
+    "wof:name": "Installation view of \"America’s Cup, Sailing for International Sport’s Greatest Trophy 1851-1937\"", 
+    "wof:parent_id": 1159160349, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}
+}
