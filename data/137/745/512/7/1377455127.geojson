@@ -1,0 +1,148 @@
+{
+  "type": "Feature", 
+  "id": 1377455127, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.615736, 
+    "geom:longitude": -122.384112, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "ea2ab3ffeaf5d4a469bf20ca5d965bfc20a8b058", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#647696", 
+          "name": "#647696", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c6c0bc", 
+          "name": "#c6c0bc", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#272e49", 
+          "name": "#272e49", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159162773], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 767, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 1023
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 599, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 599, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1535, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 2047
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 239, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 1368, 
+          "mimetype": "image/jpeg", 
+          "secret": "84my2NjKfEhlAyY1wX9jgKM2ITuDI9cj", 
+          "width": 1825
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 479, 
+          "mimetype": "image/jpeg", 
+          "secret": "BWuQj1FrPAyAdXG7Yw0P1PxcCIlz7FjQ", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186446, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157325, 
+      1159157271, 
+      1159162773, 
+      1159157327, 
+      102191575, 
+      85633793, 
+      85922583, 
+      85688637, 
+      102087579, 
+      102527513
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457501, 
+    "wof:depicts": [1159162773, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157327, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1159162773, 
+        "wing_id": 1159157325
+      }
+    ], 
+    "wof:id": 1377455127, 
+    "wof:lastmodified": 1555457524, 
+    "wof:name": "Voyage", 
+    "wof:parent_id": 1159162773, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.384112,37.615736],"type":"Point"}
+}
