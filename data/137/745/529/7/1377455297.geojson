@@ -1,0 +1,148 @@
+{
+  "type": "Feature", 
+  "id": 1377455297, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.618077, 
+    "geom:longitude": -122.38482, 
+    "iso:country": "US", 
+    "media:created": 1446564344, 
+    "media:fingerprint": "4a29e5de9f40ddcab1ef9540cc35c98e0756f068", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#6a7791", 
+          "name": "#6a7791", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c8c8c1", 
+          "name": "#c8c8c1", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#4d4136", 
+          "name": "#4d4136", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1159162811], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 537
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 419
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 419
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 1074
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 167
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 4650, 
+          "mimetype": "image/jpeg", 
+          "secret": "sB1ETiU4nZvXgM61hRF7GlXRmx4MKeaD", 
+          "width": 3254
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "wn6CxZ3RuzuIRpzVbC3x1M1uaBd6QVgn", 
+          "width": 335
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186439, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85922583, 
+      1159157307, 
+      102527513, 
+      102191575, 
+      85688637, 
+      85633793, 
+      102087579, 
+      1159157309, 
+      1159162811, 
+      1159157271
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457671, 
+    "wof:depicts": [1159162811, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157309, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1159162811, 
+        "wing_id": 1159157307
+      }
+    ], 
+    "wof:id": 1377455297, 
+    "wof:lastmodified": 1555457700, 
+    "wof:name": "Storm, Stars, and Stripes", 
+    "wof:parent_id": 1159162811, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.38482,37.618077],"type":"Point"}
+}
