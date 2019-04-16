@@ -1,0 +1,156 @@
+{
+  "type": "Feature", 
+  "id": 1377455263, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617495, 
+    "geom:longitude": -122.387856, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "1a190e581a797ac17324d42d91595e379ecd8a58", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b68939", 
+          "name": "#b68939", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#efe1c5", 
+          "name": "#efe1c5", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#8d8774", 
+          "name": "#8d8774", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#cabda9", 
+          "name": "#cabda9", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#434138", 
+          "name": "#434138", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772974345], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2592, 
+          "mimetype": "image/jpeg", 
+          "secret": "D1FrAkuRVu5SUnNBi7r6g6N4IKgarEIS", 
+          "width": 3456
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "RCA6p681rzim5FEVtLygcwYHc7v6kskX", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 48497, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157307, 
+      102087579, 
+      85688637, 
+      102527513, 
+      1159157271, 
+      102191575, 
+      85633793, 
+      85922583, 
+      772974345
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457634, 
+    "wof:depicts": [772974345, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772974345, 
+        "wing_id": 1159157307
+      }
+    ], 
+    "wof:id": 1377455263, 
+    "wof:lastmodified": 1555457661, 
+    "wof:name": "Two Wings for Wall and Person", 
+    "wof:parent_id": 772974345, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.387856,37.617495],"type":"Point"}
+}
