@@ -1,0 +1,155 @@
+{
+  "type": "Feature", 
+  "id": 1377455167, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.616356, 
+    "geom:longitude": -122.386166, 
+    "iso:country": "US", 
+    "media:created": 1381190875, 
+    "media:fingerprint": "77aaafb6fadb78a2a66e454a59ee884dd02b4f0d", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#85acc5", 
+          "name": "#85acc5", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a8c6d9", 
+          "name": "#a8c6d9", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#22425c", 
+          "name": "#22425c", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#5985a3", 
+          "name": "#5985a3", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b0c5cb", 
+          "name": "#b0c5cb", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772975279], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 936
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 731
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 731
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 1872
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 292
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 1555, 
+          "mimetype": "image/jpeg", 
+          "secret": "CvFmdHBhLik06c5RrRf4nOjgNJmopApW", 
+          "width": 1896
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "oi54yo0msabBgA1kjVd4sCNCPf5EOdzP", 
+          "width": 585
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 151854, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102191575, 
+      102527513, 
+      102087579, 
+      85633793, 
+      772975279, 
+      85922583, 
+      85688637, 
+      1159160869
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457545, 
+    "wof:depicts": [772975279, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": -1, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772975279, 
+        "wing_id": 1159160869
+      }
+    ], 
+    "wof:id": 1377455167, 
+    "wof:lastmodified": 1555457693, 
+    "wof:name": "The Smile of Reason", 
+    "wof:parent_id": 772975279, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+}
