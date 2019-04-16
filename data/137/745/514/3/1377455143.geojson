@@ -1,0 +1,158 @@
+{
+  "type": "Feature", 
+  "id": 1377455143, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.61588, 
+    "geom:longitude": -122.384058, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "ba3a65dec8622a622a0276da1ef22719904f67c1", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#bf643f", 
+          "name": "#bf643f", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d98768", 
+          "name": "#d98768", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#ab5336", 
+          "name": "#ab5336", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a76b57", 
+          "name": "#a76b57", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#d0b7b0", 
+          "name": "#d0b7b0", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772974807], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 680, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 532, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 532, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1361, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 212, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 405, 
+          "mimetype": "image/jpeg", 
+          "secret": "l3knfl75ncXH1HguKpvD6jO3gyNeqcR7", 
+          "width": 609
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 425, 
+          "mimetype": "image/jpeg", 
+          "secret": "T0zKp9fgbgEyvcMpUzBuAGXzue9lsxga", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 151853, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157327, 
+      85633793, 
+      85922583, 
+      772974807, 
+      1159157271, 
+      102527513, 
+      85688637, 
+      102191575, 
+      102087579, 
+      1159157325
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457516, 
+    "wof:depicts": [772974807, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157327, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772974807, 
+        "wing_id": 1159157325
+      }
+    ], 
+    "wof:id": 1377455143, 
+    "wof:lastmodified": 1555457536, 
+    "wof:name": "Above Bolinas", 
+    "wof:parent_id": 772974807, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.384058,37.61588],"type":"Point"}
+}
