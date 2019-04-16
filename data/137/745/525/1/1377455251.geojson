@@ -1,0 +1,148 @@
+{
+  "type": "Feature", 
+  "id": 1377455251, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.615984, 
+    "geom:longitude": -122.383892, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "313ce0a8f75f9db8494a93a5a89a355057baf9e4", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#777f85", 
+          "name": "#777f85", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b3b9bd", 
+          "name": "#b3b9bd", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#3e4348", 
+          "name": "#3e4348", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772975227], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 611
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 477
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 477
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 1222
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 191
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 627, 
+          "mimetype": "image/jpeg", 
+          "secret": "Gy4C8gDyPI2FPcMsvh4PTRhjm62nr5Cf", 
+          "width": 499
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "KWSriDHYHWDIVOk5CeJEexcq2w4RgKfA", 
+          "width": 382
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186460, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157271, 
+      85633793, 
+      772975227, 
+      1159157325, 
+      1159157327, 
+      102087579, 
+      85688637, 
+      102527513, 
+      102191575, 
+      85922583
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457619, 
+    "wof:depicts": [772975227, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157327, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772975227, 
+        "wing_id": 1159157325
+      }
+    ], 
+    "wof:id": 1377455251, 
+    "wof:lastmodified": 1555457638, 
+    "wof:name": "Greeting A Totem", 
+    "wof:parent_id": 772975227, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.383892,37.615984],"type":"Point"}
+}
