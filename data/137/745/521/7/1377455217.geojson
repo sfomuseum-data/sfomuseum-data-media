@@ -1,0 +1,146 @@
+{
+  "type": "Feature", 
+  "id": 1377455217, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.61817, 
+    "geom:longitude": -122.384756, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "6e7f6bd31acc9743bddd5fb41c31c76b571e0b6c", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#7e7b78", 
+          "name": "#7e7b78", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b7b8b8", 
+          "name": "#b7b8b8", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#4a392b", 
+          "name": "#4a392b", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772974439], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 754, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 589, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 589, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1508, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 235, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 627, 
+          "mimetype": "image/jpeg", 
+          "secret": "VHmeTqkBR0O4mnynGzFTmxc6tCkH9KWS", 
+          "width": 851
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 471, 
+          "mimetype": "image/jpeg", 
+          "secret": "ktn6paXxPNMxruL0Y2hvPkd7Ndj3cOYL", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186498, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157271, 
+      102191575, 
+      772974439, 
+      1159157307, 
+      85633793, 
+      102087579, 
+      85922583, 
+      102527513, 
+      85688637
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457586, 
+    "wof:depicts": [772974439, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772974439, 
+        "wing_id": 1159157307
+      }
+    ], 
+    "wof:id": 1377455217, 
+    "wof:lastmodified": 1555457609, 
+    "wof:name": "The Hesperides", 
+    "wof:parent_id": 772974439, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.384756,37.61817],"type":"Point"}
+}
