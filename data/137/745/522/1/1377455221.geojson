@@ -1,0 +1,158 @@
+{
+  "type": "Feature", 
+  "id": 1377455221, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.61551, 
+    "geom:longitude": -122.389385, 
+    "iso:country": "US", 
+    "media:created": 1256169976, 
+    "media:fingerprint": "3d77df84b1b83bcc7a2363447a22bb408cd6ce64", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#325dc9", 
+          "name": "#325dc9", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#516dce", 
+          "name": "#516dce", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#3c4aa6", 
+          "name": "#3c4aa6", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#5b4ea0", 
+          "name": "#5b4ea0", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a4b4c4", 
+          "name": "#a4b4c4", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772974593], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 767, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 510
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 398
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 398
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1535, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 1021
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 159
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3008, 
+          "mimetype": "image/jpeg", 
+          "secret": "gJ3d6xXl97pXEFTYaQrqfIplJMmzmcLk", 
+          "width": 2000
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E", 
+          "width": 319
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 64220, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157335, 
+      1159157271, 
+      85922583, 
+      85688637, 
+      1159157333, 
+      772974593, 
+      85633793, 
+      102191575, 
+      102527513, 
+      102087579
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457588, 
+    "wof:depicts": [772974593, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157335, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772974593, 
+        "wing_id": 1159157333
+      }
+    ], 
+    "wof:id": 1377455221, 
+    "wof:lastmodified": 1555457611, 
+    "wof:name": "Four Sculptural Light Reflectors", 
+    "wof:parent_id": 772974593, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.389385,37.61551],"type":"Point"}
+}
