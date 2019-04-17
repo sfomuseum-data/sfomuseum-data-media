@@ -1,0 +1,158 @@
+{
+  "type": "Feature", 
+  "id": 1377455149, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.618234, 
+    "geom:longitude": -122.385249, 
+    "iso:country": "US", 
+    "media:created": 1446563237, 
+    "media:fingerprint": "1836fe730a12aa2387fd6250b26e220c8b44e0fb", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#e9bd15", 
+          "name": "#e9bd15", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#022887", 
+          "name": "#022887", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#867041", 
+          "name": "#867041", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c3baa9", 
+          "name": "#c3baa9", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#534f39", 
+          "name": "#534f39", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772975641], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 768, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 795
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 621
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 600, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 621
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1536, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 1590
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 240, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 248
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3776, 
+          "mimetype": "image/jpeg", 
+          "secret": "lVNrWcAktWomFVEpgeMkbnYoXHRz5TtF", 
+          "width": 3911
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 480, 
+          "mimetype": "image/jpeg", 
+          "secret": "IJrf4OvxDVBt5RiYX2OYpXaxweibS3OB", 
+          "width": 497
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186440, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85688637, 
+      102087579, 
+      85922583, 
+      1159157271, 
+      102527513, 
+      85633793, 
+      1159396267, 
+      102191575, 
+      1159162809, 
+      1159157307
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457522, 
+    "wof:depicts": [772975641, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159396267, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 1159162809, 
+        "wing_id": 1159157307
+      }
+    ], 
+    "wof:id": 1377455149, 
+    "wof:lastmodified": 1555539505, 
+    "wof:name": "Letter's Missing", 
+    "wof:parent_id": 772975641, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.385249,37.618234],"type":"Point"}
+}
