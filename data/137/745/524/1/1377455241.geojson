@@ -1,0 +1,144 @@
+{
+  "type": "Feature", 
+  "id": 1377455241, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617792, 
+    "geom:longitude": -122.390742, 
+    "iso:country": "US", 
+    "media:created": 1289911281, 
+    "media:fingerprint": "8682f67386abdd1af9e646111e92067b519639ba", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#87837a", 
+          "name": "#87837a", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c6c2b9", 
+          "name": "#c6c2b9", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#44413a", 
+          "name": "#44413a", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772975221], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 680, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 531, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 531, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1360, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 212, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 2848, 
+          "mimetype": "image/jpeg", 
+          "secret": "5ZpciuDPEkTotKXdV0qCcxdYchc6pS3Z", 
+          "width": 4288
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 425, 
+          "mimetype": "image/jpeg", 
+          "secret": "t2G2M6jANZcXI5hlzp6Jt7vKctF6V2OP", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186483, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      85688637, 
+      102087579, 
+      85922583, 
+      102191575, 
+      85633793, 
+      772975221, 
+      1159157271, 
+      102527513
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457608, 
+    "wof:depicts": [772975221, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772975221
+      }
+    ], 
+    "wof:id": 1377455241, 
+    "wof:lastmodified": 1555539142, 
+    "wof:name": "Wind Portal", 
+    "wof:parent_id": 772975221, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.390742,37.617792],"type":"Point"}
+}
