@@ -1,0 +1,158 @@
+{
+  "type": "Feature", 
+  "id": 1377455277, 
+  "properties": {
+    "edtf:cessation": "uuuu", 
+    "edtf:inception": "uuuu", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.613063, 
+    "geom:longitude": -122.389412, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "92730dc128dc678827ea894989ff33ba2fe2e8fb", 
+    "media:medium": "image", 
+    "media:mimetype": "image/jpeg", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#d5c6a2", 
+          "name": "#d5c6a2", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#342a18", 
+          "name": "#342a18", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#888776", 
+          "name": "#888776", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c4c5b7", 
+          "name": "#c4c5b7", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#494535", 
+          "name": "#494535", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [772975117], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 644, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 503, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 503, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1289, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 201, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 592, 
+          "mimetype": "image/jpeg", 
+          "secret": "v8vb10SjEQLh9MYqkFL3aSChyLCfDsfP", 
+          "width": 940
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 403, 
+          "mimetype": "image/jpeg", 
+          "secret": "E7WeC7nNbcB5FcyJ3nHohjN35F0GoAHM", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:image_id": 186481, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      1159157333, 
+      85633793, 
+      772975117, 
+      85688637, 
+      102087579, 
+      85922583, 
+      1159157271, 
+      102527513, 
+      1159157339, 
+      102191575
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555457651, 
+    "wof:depicts": [772975117, 102527513], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271, 
+        "campus_id": 102527513, 
+        "concourse_id": 1159157339, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "venue_id": 772975117, 
+        "wing_id": 1159157333
+      }
+    ], 
+    "wof:id": 1377455277, 
+    "wof:lastmodified": 1555539136, 
+    "wof:name": "Salty Peanuts", 
+    "wof:parent_id": 772975117, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.389412,37.613063],"type":"Point"}
+}
