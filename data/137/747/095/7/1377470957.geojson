@@ -1,0 +1,152 @@
+{
+  "type": "Feature", 
+  "id": 1377470957, 
+  "properties": {
+    "edtf:cessation": "1999-07-30", 
+    "edtf:inception": "1998-11-15", 
+    "geom:area": 0, 
+    "geom:bbox": "0.000000,0.000000,0.000000,0.000000", 
+    "geom:latitude": 37.617227, 
+    "geom:longitude": -122.38274, 
+    "iso:country": "US", 
+    "media:created": -1, 
+    "media:fingerprint": "1b80a957a088e3b64168647650a12b6354c375a2", 
+    "media:medium": "image", 
+    "media:mimetype": "image/tiff", 
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#e7e6cc", 
+          "name": "#e7e6cc", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#7a909c", 
+          "name": "#7a909c", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c7bfb0", 
+          "name": "#c7bfb0", 
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#333e58", 
+          "name": "#333e58", 
+          "reference": "vibrant"
+        }
+      ], 
+      "depicts": [1226604841], 
+      "sizes": {
+        "b": {
+          "extension": "jpg", 
+          "height": 724, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 1024
+        }, 
+        "c": {
+          "extension": "jpg", 
+          "height": 565, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 800
+        }, 
+        "dc": {
+          "extension": "jpg", 
+          "height": 565, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 800
+        }, 
+        "ds": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 320
+        }, 
+        "k": {
+          "extension": "jpg", 
+          "height": 1448, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 2048
+        }, 
+        "n": {
+          "extension": "jpg", 
+          "height": 226, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 320
+        }, 
+        "o": {
+          "extension": "jpg", 
+          "height": 3014, 
+          "mimetype": "image/jpeg", 
+          "secret": "LFYjKNmi2oRFywKVMQLAWJ9b2Es1vgmX", 
+          "width": 4262
+        }, 
+        "s": {
+          "extension": "jpg", 
+          "height": 320, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 320
+        }, 
+        "z": {
+          "extension": "jpg", 
+          "height": 452, 
+          "mimetype": "image/jpeg", 
+          "secret": "UzeF6a0rbio07Q61Il8Cx8R4MzjXbO1w", 
+          "width": 640
+        }
+      }
+    }, 
+    "media:source": "sfomuseum", 
+    "media:status_id": 1, 
+    "mz:hierarchy_label": 1, 
+    "mz:is_approximate": 1, 
+    "mz:is_current": -1, 
+    "sfomuseum:placetype": "image", 
+    "wof:belongsto": [
+      102191575, 
+      85633793, 
+      85922583, 
+      1159554829, 
+      102527513, 
+      1226604841, 
+      1159554803, 
+      85688637, 
+      102087579, 
+      1360516471
+    ], 
+    "wof:country": "US", 
+    "wof:created": 1555627804, 
+    "wof:depicts": [1226604841, 1226604841, 1360516471, 1159554829], 
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554803, 
+        "campus_id": 102527513, 
+        "continent_id": 102191575, 
+        "country_id": 85633793, 
+        "county_id": 102087579, 
+        "enclosure_id": 1360516471, 
+        "installation_id": 1226604841, 
+        "locality_id": 85922583, 
+        "neighbourhood_id": -1, 
+        "region_id": 85688637, 
+        "wing_id": 1159554829
+      }
+    ], 
+    "wof:id": 1377470957, 
+    "wof:lastmodified": 1555627835, 
+    "wof:name": "Installation view of \"A World View of Puppets\"", 
+    "wof:parent_id": 1226604841, 
+    "wof:placetype": "media", 
+    "wof:repo": "sfomuseum-data-media", 
+    "wof:superseded_by": [], 
+    "wof:supersedes": []
+  }, 
+  "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}
+}
