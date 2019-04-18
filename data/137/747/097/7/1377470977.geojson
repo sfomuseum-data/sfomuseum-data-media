@@ -1,7 +1,7 @@
 {
   "type": "Feature", 
   "id": 1377470977, 
-  "properties": {
+  "properties": {"edtf:deprecated":"2019-04-18",
     "edtf:cessation": "1999-07-30", 
     "edtf:inception": "1998-11-15", 
     "geom:area": 0, 
@@ -13,106 +13,14 @@
     "media:fingerprint": "4b5f10f1abd866523313946e19af9277df1b3a63", 
     "media:medium": "image", 
     "media:mimetype": "image/tiff", 
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#cca26a", 
-          "name": "#cca26a", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#7b4f36", 
-          "name": "#7b4f36", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#918670", 
-          "name": "#918670", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#c4bab9", 
-          "name": "#c4bab9", 
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#553f35", 
-          "name": "#553f35", 
-          "reference": "vibrant"
-        }
-      ], 
-      "depicts": [1226604841], 
-      "sizes": {
-        "b": {
-          "extension": "jpg", 
-          "height": 768, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 621
-        }, 
-        "c": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 485
-        }, 
-        "dc": {
-          "extension": "jpg", 
-          "height": 600, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 485
-        }, 
-        "ds": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 320
-        }, 
-        "k": {
-          "extension": "jpg", 
-          "height": 1536, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 1242
-        }, 
-        "n": {
-          "extension": "jpg", 
-          "height": 240, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 194
-        }, 
-        "o": {
-          "extension": "jpg", 
-          "height": 7056, 
-          "mimetype": "image/jpeg", 
-          "secret": "HWNaEoKYbl30OxQk93PB7LnqMj4toVX8", 
-          "width": 5706
-        }, 
-        "s": {
-          "extension": "jpg", 
-          "height": 320, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 320
-        }, 
-        "z": {
-          "extension": "jpg", 
-          "height": 480, 
-          "mimetype": "image/jpeg", 
-          "secret": "ypF3GMLNoToNrKS9Y6E9tfSAhmHpDc5i", 
-          "width": 388
-        }
-      }
+    "media:properties": { 
+      "depicts": [1226604841]
     }, 
     "media:source": "sfomuseum", 
     "media:status_id": 1, 
     "mz:hierarchy_label": 1, 
     "mz:is_approximate": 1, 
-    "mz:is_current": -1, 
+    "mz:is_current": 0, 
     "sfomuseum:placetype": "image", 
     "wof:belongsto": [
       85633793, 
@@ -145,7 +53,7 @@
       }
     ], 
     "wof:id": 1377470977, 
-    "wof:lastmodified": 1555627946, 
+    "wof:lastmodified": 1555628840, 
     "wof:name": "Installation view of \"A World View of Puppets\"", 
     "wof:parent_id": 1226604841, 
     "wof:placetype": "media", 
