@@ -2,228 +2,232 @@
   "id": 1159340231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384864,37.617997,-122.384864,37.617997",
-    "geom:latitude":37.617997,
-    "geom:longitude":-122.384864,
-    "iso:country":"US",
-    "media:created":1278373039,
-    "media:fingerprint":"4b236134401da06be5144c1bcad1f18fffc9f1ac",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#85754e",
-                        "name":"Gold Fusion",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#8c6740",
-                "name":"#8c6740",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#edd19c",
-                        "name":"Maize",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f0e68c",
-                        "name":"khaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e8d588",
-                "name":"#e8d588",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#8a795d",
-                        "name":"Shadow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#95775f",
-                "name":"#95775f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d4ba9d",
-                "name":"#d4ba9d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#54402a",
-                "name":"#54402a",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160863"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":713,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":557,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":557,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":223,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1673,
-                "mimetype":"image/jpeg",
-                "secret":"hdtjtCGKJm4vAEgNI1SewYWj5l88vtv0C4tAxQaZoCOKDi9mHi4Z",
-                "width":2400
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":446,
-                "mimetype":"image/jpeg",
-                "secret":"PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159157307,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528915287,
-    "wof:depicts":[
-        102527513,
-        1159157063,
-        1159157271,
-        1159157307,
-        1159160863
-    ],
-    "wof:geomhash":"edf274c9ca4831cccb19a109af2ffdf2",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.384864,37.617997,-122.384864,37.617997",
+    "geom:latitude": 37.617997,
+    "geom:longitude": -122.384864,
+    "iso:country": "US",
+    "media:created": 1278373039,
+    "media:fingerprint": "4b236134401da06be5144c1bcad1f18fffc9f1ac",
+    "media:imagehash_avg": "a:ff0d8f0787ff00ff",
+    "media:imagehash_diff": "d:7d7d6d6c6d7d3939",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159340231,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157307
+          "closest": [
+            {
+              "hex": "#85754e",
+              "name": "Gold Fusion",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#8c6740",
+          "name": "#8c6740",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#edd19c",
+              "name": "Maize",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#f0e68c",
+              "name": "khaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e8d588",
+          "name": "#e8d588",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#8a795d",
+              "name": "Shadow",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#95775f",
+          "name": "#95775f",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d4ba9d",
+          "name": "#d4ba9d",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#54402a",
+          "name": "#54402a",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160863"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 713,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 557,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 557,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 223,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1673,
+          "mimetype": "image/jpeg",
+          "secret": "hdtjtCGKJm4vAEgNI1SewYWj5l88vtv0C4tAxQaZoCOKDi9mHi4Z",
+          "width": 2400
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 446,
+          "mimetype": "image/jpeg",
+          "secret": "PveJvVWopXKMBZmQdIA26yiklFVwc3QJI5ROd8vLWdfLcuj0wpVy",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      1159340231, 
+      85633793, 
+      85922583, 
+      102087579, 
+      85688637, 
+      1159157307, 
+      1159157271
     ],
-    "wof:id":1159340231,
-    "wof:lastmodified":1545938645,
-    "wof:name":"Installation view of \"Caleb Charland: Back to Light\"",
-    "wof:parent_id":1159157307,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528915287,
+    "wof:depicts": [
+      102527513, 
+      1159157063, 
+      1159157271, 
+      1159157307, 
+      1159160863
+    ],
+    "wof:geomhash": "edf274c9ca4831cccb19a109af2ffdf2",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159340231,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157307
+      }
+    ],
+    "wof:id": 1159340231,
+    "wof:lastmodified": 1577129884,
+    "wof:name": "Installation view of \"Caleb Charland: Back to Light\"",
+    "wof:parent_id": 1159157307,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.384864,
-    37.617997,
-    -122.384864,
+    -122.384864, 
+    37.617997, 
+    -122.384864, 
     37.617997
-],
-  "geometry": {"coordinates":[-122.38486399999999,37.617997],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.384864,37.617997],"type":"Point"}
 }
