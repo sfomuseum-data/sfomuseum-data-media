@@ -2,197 +2,201 @@
   "id": 1159340493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382712,37.617422,-122.382712,37.617422",
-    "geom:latitude":37.617422,
-    "geom:longitude":-122.382712,
-    "iso:country":"US",
-    "media:created":1495214613,
-    "media:fingerprint":"9df6d7ecc04ed8e1a4393cc54164a13029fa7fd8",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bc8f8f",
-                        "name":"rosybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b87b6e",
-                "name":"#b87b6e",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c1c1b6",
-                "name":"#c1c1b6",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#3c474c",
-                "name":"#3c474c",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160605"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"JdGR1ulRAqra8Ea4xwBai2nkivMboHoZsxcSSUqDVsVqxIbw8OfB",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396181,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159396121,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528918148,
-    "wof:depicts":[
-        1159396181,
-        102527513,
-        1159157067,
-        1159157271,
-        1159396121,
-        1159160605
-    ],
-    "wof:geomhash":"61c3061fada793d45fb528e1dd2a89d0",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
+    "geom:latitude": 37.617422,
+    "geom:longitude": -122.382712,
+    "iso:country": "US",
+    "media:created": 1495214613,
+    "media:fingerprint": "9df6d7ecc04ed8e1a4393cc54164a13029fa7fd8",
+    "media:imagehash_avg": "a:903cff9d0017ff00",
+    "media:imagehash_diff": "d:3574f5393c2dedff",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159396181,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159340493,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396121
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bc8f8f",
+              "name": "rosybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b87b6e",
+          "name": "#b87b6e",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c1c1b6",
+          "name": "#c1c1b6",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#3c474c",
+          "name": "#3c474c",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160605"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "JdGR1ulRAqra8Ea4xwBai2nkivMboHoZsxcSSUqDVsVqxIbw8OfB",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "KJjQYYkrXlCBSBhCVXuqTFGYb37rV8u23ahjors46V8gm5ZVmUwW",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85633793, 
+      1159157271, 
+      85922583, 
+      102527513, 
+      1159396121, 
+      1159396181, 
+      102191575, 
+      102087579, 
+      1159340493, 
+      85688637
     ],
-    "wof:id":1159340493,
-    "wof:lastmodified":1545938648,
-    "wof:name":"Installation view of \"The Typewriter: An Innovation in Writing\"",
-    "wof:parent_id":1159396181,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528918148,
+    "wof:depicts": [
+      1159396181, 
+      102527513, 
+      1159157067, 
+      1159157271, 
+      1159396121, 
+      1159160605
+    ],
+    "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159396181,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159340493,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396121
+      }
+    ],
+    "wof:id": 1159340493,
+    "wof:lastmodified": 1577130085,
+    "wof:name": "Installation view of \"The Typewriter: An Innovation in Writing\"",
+    "wof:parent_id": 1159396181,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.382712,
-    37.617422,
-    -122.382712,
+    -122.382712, 
+    37.617422, 
+    -122.382712, 
     37.617422
-],
+  ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
 }
