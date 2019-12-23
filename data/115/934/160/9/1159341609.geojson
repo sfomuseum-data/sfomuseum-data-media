@@ -2,228 +2,232 @@
   "id": 1159341609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389412,37.615761,-122.389412,37.615761",
-    "geom:latitude":37.615761,
-    "geom:longitude":-122.389412,
-    "iso:country":"US",
-    "media:created":1428936012,
-    "media:fingerprint":"0047211e889500930ca90264cdbeafcf720bd9d1",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#b4674d",
-                        "name":"Brown",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b27b54",
-                "name":"#b27b54",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#613f2a",
-                "name":"#613f2a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9d6e54",
-                "name":"#9d6e54",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d3c3b0",
-                "name":"#d3c3b0",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4a382c",
-                "name":"#4a382c",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160547"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":960
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":750
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":750
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":300
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"MENsX3pCcQUtxitSkMqHR91jwdO6RIAjwwg6FOPpdJwVrvWWfMMu",
-                "width":3000
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
-                "width":600
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528920461,
-    "wof:depicts":[
-        102527513,
-        1360541665,
-        1159396321,
-        1159396153,
-        1159160547
-    ],
-    "wof:geomhash":"f1b927081dc10bf57e0dae974cfd758f",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
+    "geom:latitude": 37.615761,
+    "geom:longitude": -122.389412,
+    "iso:country": "US",
+    "media:created": 1428936012,
+    "media:fingerprint": "0047211e889500930ca90264cdbeafcf720bd9d1",
+    "media:imagehash_avg": "a:1f0707070000ffff",
+    "media:imagehash_diff": "d:fcce8eaea8a8bcdc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341609,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#b4674d",
+              "name": "Brown",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b27b54",
+          "name": "#b27b54",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#613f2a",
+          "name": "#613f2a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9d6e54",
+          "name": "#9d6e54",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d3c3b0",
+          "name": "#d3c3b0",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4a382c",
+          "name": "#4a382c",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160547"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 960
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 750
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 750
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 300
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "MENsX3pCcQUtxitSkMqHR91jwdO6RIAjwwg6FOPpdJwVrvWWfMMu",
+          "width": 3000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "GrwbWpcEHkjRvFn0LYtIkRxNSdk7nLgybSHmTug2oecPISPAK9PE",
+          "width": 600
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396321, 
+      102191575, 
+      1159341609, 
+      85633793, 
+      102087579, 
+      1159396153, 
+      102527513, 
+      85922583, 
+      85688637
     ],
-    "wof:id":1159341609,
-    "wof:lastmodified":1545938644,
-    "wof:name":"Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528920461,
+    "wof:depicts": [
+      102527513, 
+      1360541665, 
+      1159396321, 
+      1159396153, 
+      1159160547
+    ],
+    "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341609,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159341609,
+    "wof:lastmodified": 1577131310,
+    "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389412,
-    37.615761,
-    -122.389412,
+    -122.389412, 
+    37.615761, 
+    -122.389412, 
     37.615761
-],
-  "geometry": {"coordinates":[-122.38941199999999,37.615761],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}
 }
