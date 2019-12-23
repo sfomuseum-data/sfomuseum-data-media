@@ -2,231 +2,235 @@
   "id": 1159339999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389412,37.615761,-122.389412,37.615761",
-    "geom:latitude":37.615761,
-    "geom:longitude":-122.389412,
-    "iso:country":"US",
-    "media:created":1506969193,
-    "media:fingerprint":"e3fdf95034ccb32fd42908658012a94a6ab43890",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b77c69",
-                "name":"#b77c69",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d4ba89",
-                "name":"#d4ba89",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6d3630",
-                "name":"#6d3630",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#5f9ea0",
-                        "name":"cadetblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6292ab",
-                "name":"#6292ab",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c4bbb0",
-                "name":"#c4bbb0",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160707"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"azdjSlmZ3zjZbc5esfEWP0aU6mwDxDzHmqOB7YGI7FQ0K10mVChK",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159157335,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159157333,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528850742,
-    "wof:depicts":[
-        1159157335,
-        102527513,
-        1159157863,
-        1159157271,
-        1159157333,
-        1159160707
-    ],
-    "wof:geomhash":"f1b927081dc10bf57e0dae974cfd758f",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
+    "geom:latitude": 37.615761,
+    "geom:longitude": -122.389412,
+    "iso:country": "US",
+    "media:created": 1506969193,
+    "media:fingerprint": "e3fdf95034ccb32fd42908658012a94a6ab43890",
+    "media:imagehash_avg": "a:fffffb434300000c",
+    "media:imagehash_diff": "d:c3c9d387c7c6cc59",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159339999,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b77c69",
+          "name": "#b77c69",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d4ba89",
+          "name": "#d4ba89",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6d3630",
+          "name": "#6d3630",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#5f9ea0",
+              "name": "cadetblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6292ab",
+          "name": "#6292ab",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c4bbb0",
+          "name": "#c4bbb0",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160707"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "azdjSlmZ3zjZbc5esfEWP0aU6mwDxDzHmqOB7YGI7FQ0K10mVChK",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "znqYtXK6LWxKiG9TW6BoGLR3Xbm4mK2MShthFwRspHqrunUw6ipj",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85633793, 
+      85688637, 
+      102087579, 
+      1159157271, 
+      102191575, 
+      1159157333, 
+      1159339999, 
+      102527513, 
+      1159157335, 
+      85922583
     ],
-    "wof:id":1159339999,
-    "wof:lastmodified":1545938670,
-    "wof:name":"Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
-    "wof:parent_id":1159157335,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528850742,
+    "wof:depicts": [
+      1159157335, 
+      102527513, 
+      1159157863, 
+      1159157271, 
+      1159157333, 
+      1159160707
+    ],
+    "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159339999,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }
+    ],
+    "wof:id": 1159339999,
+    "wof:lastmodified": 1577129798,
+    "wof:name": "Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
+    "wof:parent_id": 1159157335,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389412,
-    37.615761,
-    -122.389412,
+    -122.389412, 
+    37.615761, 
+    -122.389412, 
     37.615761
-],
-  "geometry": {"coordinates":[-122.38941199999999,37.615761],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}
 }
