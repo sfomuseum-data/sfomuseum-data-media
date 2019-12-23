@@ -2,228 +2,232 @@
   "id": 1159342237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38902,37.614533,-122.38902,37.614533",
-    "geom:latitude":37.614533,
-    "geom:longitude":-122.38902,
-    "iso:country":"US",
-    "media:created":1436180581,
-    "media:fingerprint":"671918ece2eeeb4d98abf56cf6533db8530fbc99",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#9c7c38",
-                        "name":"Metallic Sunburst",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a97743",
-                "name":"#a97743",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#d68a59",
-                        "name":"Raw Sienna",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bf955d",
-                "name":"#bf955d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bc8f8f",
-                        "name":"rosybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a39276",
-                "name":"#a39276",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d6c1b0",
-                "name":"#d6c1b0",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#564a41",
-                "name":"#564a41",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160527"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":511
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":399
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":399
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":159
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3600,
-                "mimetype":"image/jpeg",
-                "secret":"laHIa5KVjnZhcTUe31RLafwwjevBQ0zUf9OGgV3Z2EeRQEULkbgr",
-                "width":2399
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
-                "width":319
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528921567,
-    "wof:depicts":[
-        102527513,
-        1360516271,
-        1159396321,
-        1159396153,
-        1159160527
-    ],
-    "wof:geomhash":"6bedd4d61f77b4621a51a918f70dcc8c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
+    "geom:latitude": 37.614533,
+    "geom:longitude": -122.38902,
+    "iso:country": "US",
+    "media:created": 1436180581,
+    "media:fingerprint": "671918ece2eeeb4d98abf56cf6533db8530fbc99",
+    "media:imagehash_avg": "a:ffc1c3c3c181bf00",
+    "media:imagehash_diff": "d:3107070f0f3b77e8",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342237,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#9c7c38",
+              "name": "Metallic Sunburst",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a97743",
+          "name": "#a97743",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#d68a59",
+              "name": "Raw Sienna",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bf955d",
+          "name": "#bf955d",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bc8f8f",
+              "name": "rosybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a39276",
+          "name": "#a39276",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d6c1b0",
+          "name": "#d6c1b0",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#564a41",
+          "name": "#564a41",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160527"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 511
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 399
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 399
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 159
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "laHIa5KVjnZhcTUe31RLafwwjevBQ0zUf9OGgV3Z2EeRQEULkbgr",
+          "width": 2399
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "YyGQObc0LDp4vCnJA1isxFNFw3O2rwdJQzetXKUdDIVj0LaAqT5Z",
+          "width": 319
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396321, 
+      102527513, 
+      102087579, 
+      85688637, 
+      102191575, 
+      85633793, 
+      85922583, 
+      1159342237, 
+      1159396153
     ],
-    "wof:id":1159342237,
-    "wof:lastmodified":1545938660,
-    "wof:name":"Installation view of \"Egyptian Revival: An Everlasting Allure\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528921567,
+    "wof:depicts": [
+      102527513, 
+      1360516271, 
+      1159396321, 
+      1159396153, 
+      1159160527
+    ],
+    "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342237,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159342237,
+    "wof:lastmodified": 1577131925,
+    "wof:name": "Installation view of \"Egyptian Revival: An Everlasting Allure\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38902,
-    37.614533,
-    -122.38902,
+    -122.38902, 
+    37.614533, 
+    -122.38902, 
     37.614533
-],
+  ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
 }
