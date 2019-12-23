@@ -2,231 +2,235 @@
   "id": 1159342661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387197,37.619087,-122.387197,37.619087",
-    "geom:latitude":37.619087,
-    "geom:longitude":-122.387197,
-    "iso:country":"US",
-    "media:created":1427301410,
-    "media:fingerprint":"6e3ecb3979c9582bb1caed7f72536eb01e7ea046",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#bf4f51",
-                        "name":"Bittersweet Shimmer",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c14748",
-                "name":"#c14748",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a52a2a",
-                        "name":"brown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a63b35",
-                "name":"#a63b35",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9b5452",
-                "name":"#9b5452",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bc8f8f",
-                        "name":"rosybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bfa18b",
-                "name":"#bfa18b",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#52493a",
-                "name":"#52493a",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160525"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"rIbkIrRkN84TsWx6mLHcwiBNKXkbhv0pEmAk0KrPaVBGGnP1b599",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396315,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396157,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528922356,
-    "wof:depicts":[
-        1159396315,
-        102527513,
-        1360516119,
-        1159396321,
-        1159396157,
-        1159160525
-    ],
-    "wof:geomhash":"86e9b7d5fe1f6f1a6479fa62588a1dea",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
+    "geom:latitude": 37.619087,
+    "geom:longitude": -122.387197,
+    "iso:country": "US",
+    "media:created": 1427301410,
+    "media:fingerprint": "6e3ecb3979c9582bb1caed7f72536eb01e7ea046",
+    "media:imagehash_avg": "a:fcffffe7c3e0e000",
+    "media:imagehash_diff": "d:d99b0b0b0f8d8dce",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396315,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342661,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396157
+          "closest": [
+            {
+              "hex": "#bf4f51",
+              "name": "Bittersweet Shimmer",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c14748",
+          "name": "#c14748",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a52a2a",
+              "name": "brown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a63b35",
+          "name": "#a63b35",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9b5452",
+          "name": "#9b5452",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bc8f8f",
+              "name": "rosybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bfa18b",
+          "name": "#bfa18b",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#52493a",
+          "name": "#52493a",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160525"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "rIbkIrRkN84TsWx6mLHcwiBNKXkbhv0pEmAk0KrPaVBGGnP1b599",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "uqYRAedV25MJxPkNLKFXYtvG6KgvomOSUcRnWo5mGglIOFVtAnzU",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688637, 
+      1159396321, 
+      1159396315, 
+      102191575, 
+      102087579, 
+      1159342661, 
+      1159396157, 
+      102527513, 
+      85633793, 
+      85922583
     ],
-    "wof:id":1159342661,
-    "wof:lastmodified":1545938649,
-    "wof:name":"Installation view of \"Life and Style in the Age of Art Deco\"",
-    "wof:parent_id":1159396315,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528922356,
+    "wof:depicts": [
+      1159396315, 
+      102527513, 
+      1360516119, 
+      1159396321, 
+      1159396157, 
+      1159160525
+    ],
+    "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396315,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342661,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396157
+      }
+    ],
+    "wof:id": 1159342661,
+    "wof:lastmodified": 1577132489,
+    "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
+    "wof:parent_id": 1159396315,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.387197,
-    37.619087,
-    -122.387197,
+    -122.387197, 
+    37.619087, 
+    -122.387197, 
     37.619087
-],
+  ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
 }
