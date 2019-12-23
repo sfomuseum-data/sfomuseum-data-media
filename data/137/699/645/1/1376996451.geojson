@@ -2,182 +2,186 @@
   "id": 1376996451,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-04-22",
-    "date:cessation_upper":"2019-04-22",
-    "date:inception_lower":"2018-07-20",
-    "date:inception_upper":"2018-07-20",
-    "edtf:cessation":"2019-04-22",
-    "edtf:inception":"2018-07-20",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38902,37.614533,-122.38902,37.614533",
-    "geom:latitude":37.614533,
-    "geom:longitude":-122.38902,
-    "iso:country":"US",
-    "media:created":1533752511,
-    "media:fingerprint":"e463ca923231e1c5716c2e72da05a9b987e4a337",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "hex":"#c2242e",
-                "name":"#c2242e",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#c55f87",
-                "name":"#c55f87",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#a88868",
-                "name":"#a88868",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#c0c3c5",
-                "name":"#c0c3c5",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#4b4c4b",
-                "name":"#4b4c4b",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            1226620513
-        ],
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":512
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":400
-            },
-            "dc":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":400
-            },
-            "ds":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":320
-            },
-            "k":{
-                "extension":"jpg",
-                "height":1536,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":1024
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":160
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3600,
-                "mimetype":"image/jpeg",
-                "secret":"ABU3gIpbs0KXWOqIT0NaxlIjl38H0snq",
-                "width":2400
-            },
-            "s":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
-                "width":320
-            }
-        }
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159157335,
-        102527513,
-        102191575,
-        85633793,
-        1159157039,
-        85922583,
-        102087579,
-        85688637,
-        1159157271,
-        1159157333,
-        1226620513
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1550611219,
-    "wof:depicts":[
-        1159157271,
-        102527513,
-        1159157333,
-        1159157335,
-        1159157039,
-        1226620513
-    ],
-    "wof:geomhash":"6bedd4d61f77b4621a51a918f70dcc8c",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2019-04-22",
+    "date:cessation_upper": "2019-04-22",
+    "date:inception_lower": "2018-07-20",
+    "date:inception_upper": "2018-07-20",
+    "edtf:cessation": "2019-04-22",
+    "edtf:inception": "2018-07-20",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
+    "geom:latitude": 37.614533,
+    "geom:longitude": -122.38902,
+    "iso:country": "US",
+    "media:created": 1533752511,
+    "media:fingerprint": "e463ca923231e1c5716c2e72da05a9b987e4a337",
+    "media:imagehash_avg": "a:830f9f0f001cbbb7",
+    "media:imagehash_diff": "d:1f7f3e6ff171636f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1159157039,
-            "installation_id":1226620513,
-            "locality_id":85922583,
-            "media_id":1376996451,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
+          "hex": "#c2242e",
+          "name": "#c2242e",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c55f87",
+          "name": "#c55f87",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#a88868",
+          "name": "#a88868",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c0c3c5",
+          "name": "#c0c3c5",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#4b4c4b",
+          "name": "#4b4c4b",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        1226620513
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 512
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 400
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 400
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 1024
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 160
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "ABU3gIpbs0KXWOqIT0NaxlIjl38H0snq",
+          "width": 2400
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "T6xi3HJsmcpX7HoiW71m8nanckT6Vp0F",
+          "width": 320
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85922583, 
+      85633793, 
+      1226620513, 
+      85688637, 
+      1159157271, 
+      1159157335, 
+      1159157039, 
+      1376996451, 
+      1159157333, 
+      102527513, 
+      102191575, 
+      102087579
     ],
-    "wof:id":1376996451,
-    "wof:lastmodified":1550714177,
-    "wof:name":"Installation view of \"Caticons: The Cat in Art\"",
-    "wof:parent_id":1226620513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1550611219,
+    "wof:depicts": [
+      1159157271, 
+      102527513, 
+      1159157333, 
+      1159157335, 
+      1159157039, 
+      1226620513
+    ],
+    "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1159157039,
+        "installation_id": 1226620513,
+        "locality_id": 85922583,
+        "media_id": 1376996451,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }
+    ],
+    "wof:id": 1376996451,
+    "wof:lastmodified": 1577134027,
+    "wof:name": "Installation view of \"Caticons: The Cat in Art\"",
+    "wof:parent_id": 1226620513,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38902,
-    37.614533,
-    -122.38902,
+    -122.38902, 
+    37.614533, 
+    -122.38902, 
     37.614533
-],
+  ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
 }
