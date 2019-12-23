@@ -2,231 +2,235 @@
   "id": 1159342697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382712,37.617422,-122.382712,37.617422",
-    "geom:latitude":37.617422,
-    "geom:longitude":-122.382712,
-    "iso:country":"US",
-    "media:created":1407445554,
-    "media:fingerprint":"546553666590b769578d88c59effd0c74d687fcc",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#b4674d",
-                        "name":"Brown",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cf7335",
-                "name":"#cf7335",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#bab86c",
-                        "name":"Olive Green",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bba76c",
-                "name":"#bba76c",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#8e4336",
-                "name":"#8e4336",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bc8f8f",
-                        "name":"rosybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ab8a6a",
-                "name":"#ab8a6a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cbc596",
-                "name":"#cbc596",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160523"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"fgeJ4A8GwMUvnizQEUe8iMc9JK7qVV7ExlSihYKNfKmSMycXY2ML",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396193,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159157325,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528922425,
-    "wof:depicts":[
-        1159396193,
-        102527513,
-        1360516255,
-        1159396321,
-        1159157325,
-        1159160523
-    ],
-    "wof:geomhash":"61c3061fada793d45fb528e1dd2a89d0",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
+    "geom:latitude": 37.617422,
+    "geom:longitude": -122.382712,
+    "iso:country": "US",
+    "media:created": 1407445554,
+    "media:fingerprint": "546553666590b769578d88c59effd0c74d687fcc",
+    "media:imagehash_avg": "a:00befeffff0c1800",
+    "media:imagehash_diff": "d:656cc4fc1898b2f4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396193,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342697,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157325
+          "closest": [
+            {
+              "hex": "#b4674d",
+              "name": "Brown",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cf7335",
+          "name": "#cf7335",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#bab86c",
+              "name": "Olive Green",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bba76c",
+          "name": "#bba76c",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#8e4336",
+          "name": "#8e4336",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bc8f8f",
+              "name": "rosybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ab8a6a",
+          "name": "#ab8a6a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cbc596",
+          "name": "#cbc596",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160523"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "fgeJ4A8GwMUvnizQEUe8iMc9JK7qVV7ExlSihYKNfKmSMycXY2ML",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "d2EEkTgyL2yzQhR1cnhSlm40Hpveni1R5OWM1po8ZiTWhLF9Ka0Q",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396193, 
+      1159342697, 
+      102087579, 
+      85922583, 
+      102191575, 
+      1159157325, 
+      1159396321, 
+      102527513, 
+      85688637, 
+      85633793
     ],
-    "wof:id":1159342697,
-    "wof:lastmodified":1545938652,
-    "wof:name":"Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
-    "wof:parent_id":1159396193,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528922425,
+    "wof:depicts": [
+      1159396193, 
+      102527513, 
+      1360516255, 
+      1159396321, 
+      1159157325, 
+      1159160523
+    ],
+    "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396193,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342697,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157325
+      }
+    ],
+    "wof:id": 1159342697,
+    "wof:lastmodified": 1577132539,
+    "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
+    "wof:parent_id": 1159396193,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.382712,
-    37.617422,
-    -122.382712,
+    -122.382712, 
+    37.617422, 
+    -122.382712, 
     37.617422
-],
+  ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
 }
