@@ -2,231 +2,235 @@
   "id": 1159342395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382712,37.617422,-122.382712,37.617422",
-    "geom:latitude":37.617422,
-    "geom:longitude":-122.382712,
-    "iso:country":"US",
-    "media:created":1407445554,
-    "media:fingerprint":"9eabc70223e681d4a6e717549f7928995cc6ec6a",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ffae42",
-                        "name":"Yellow Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#ffa500",
-                        "name":"orange",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#f6b713",
-                "name":"#f6b713",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#fdd9b5",
-                        "name":"Apricot",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f5deb3",
-                        "name":"wheat",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#efdcb9",
-                "name":"#efdcb9",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#7b361e",
-                "name":"#7b361e",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#7e866f",
-                "name":"#7e866f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#bab86c",
-                        "name":"Olive Green",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a9a9a9",
-                        "name":"darkgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#afaf8c",
-                "name":"#afaf8c",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160523"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"jtj6kfeNQszqW0DAe9g5aJfplGORFkISz2ydOTkVQyRDbeLuXQPw",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396193,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159157325,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528921844,
-    "wof:depicts":[
-        1159396193,
-        102527513,
-        1360516255,
-        1159396321,
-        1159157325,
-        1159160523
-    ],
-    "wof:geomhash":"61c3061fada793d45fb528e1dd2a89d0",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
+    "geom:latitude": 37.617422,
+    "geom:longitude": -122.382712,
+    "iso:country": "US",
+    "media:created": 1407445554,
+    "media:fingerprint": "9eabc70223e681d4a6e717549f7928995cc6ec6a",
+    "media:imagehash_avg": "a:60606470730707ff",
+    "media:imagehash_diff": "d:c6c5ccc4d25a5adc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396193,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342395,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157325
+          "closest": [
+            {
+              "hex": "#ffae42",
+              "name": "Yellow Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#ffa500",
+              "name": "orange",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#f6b713",
+          "name": "#f6b713",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#fdd9b5",
+              "name": "Apricot",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#f5deb3",
+              "name": "wheat",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#efdcb9",
+          "name": "#efdcb9",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#7b361e",
+          "name": "#7b361e",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#7e866f",
+          "name": "#7e866f",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#bab86c",
+              "name": "Olive Green",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a9a9a9",
+              "name": "darkgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#afaf8c",
+          "name": "#afaf8c",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160523"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "jtj6kfeNQszqW0DAe9g5aJfplGORFkISz2ydOTkVQyRDbeLuXQPw",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "l29qy6aevMQbq0mVXh4VzUUdvF14t79POHCXIQsm0jqqqJa3uPjt",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159342395, 
+      85688637, 
+      1159157325, 
+      102527513, 
+      1159396321, 
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583, 
+      1159396193
     ],
-    "wof:id":1159342395,
-    "wof:lastmodified":1545938664,
-    "wof:name":"Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
-    "wof:parent_id":1159396193,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528921844,
+    "wof:depicts": [
+      1159396193, 
+      102527513, 
+      1360516255, 
+      1159396321, 
+      1159157325, 
+      1159160523
+    ],
+    "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396193,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342395,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157325
+      }
+    ],
+    "wof:id": 1159342395,
+    "wof:lastmodified": 1577132115,
+    "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
+    "wof:parent_id": 1159396193,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.382712,
-    37.617422,
-    -122.382712,
+    -122.382712, 
+    37.617422, 
+    -122.382712, 
     37.617422
-],
+  ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
 }
