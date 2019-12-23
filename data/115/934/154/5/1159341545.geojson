@@ -2,231 +2,235 @@
   "id": 1159341545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387197,37.619087,-122.387197,37.619087",
-    "geom:latitude":37.619087,
-    "geom:longitude":-122.387197,
-    "iso:country":"US",
-    "media:created":1459560221,
-    "media:fingerprint":"f2472785c89cf8090fbb7662c588963ecf51cd2b",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#d68a59",
-                        "name":"Raw Sienna",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c29742",
-                "name":"#c29742",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#ffcf48",
-                        "name":"Sunglow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f4a460",
-                        "name":"sandybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e5c450",
-                "name":"#e5c450",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#7c5b38",
-                "name":"#7c5b38",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#8a795d",
-                        "name":"Shadow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#918063",
-                "name":"#918063",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c3bcaa",
-                "name":"#c3bcaa",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160591"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"jfrcQwIsiIaAKQqqbAEQPXdMXouX01AIlVvwW3HduTS4ZXKZOWOE",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396315,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396157,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528920352,
-    "wof:depicts":[
-        1159396315,
-        102527513,
-        1360516119,
-        1159396321,
-        1159396157,
-        1159160591
-    ],
-    "wof:geomhash":"86e9b7d5fe1f6f1a6479fa62588a1dea",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
+    "geom:latitude": 37.619087,
+    "geom:longitude": -122.387197,
+    "iso:country": "US",
+    "media:created": 1459560221,
+    "media:fingerprint": "f2472785c89cf8090fbb7662c588963ecf51cd2b",
+    "media:imagehash_avg": "a:3c38383c7c7e0000",
+    "media:imagehash_diff": "d:f0f0f0e9f0f0cccc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396315,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341545,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396157
+          "closest": [
+            {
+              "hex": "#d68a59",
+              "name": "Raw Sienna",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c29742",
+          "name": "#c29742",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#ffcf48",
+              "name": "Sunglow",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#f4a460",
+              "name": "sandybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e5c450",
+          "name": "#e5c450",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#7c5b38",
+          "name": "#7c5b38",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#8a795d",
+              "name": "Shadow",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#918063",
+          "name": "#918063",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c3bcaa",
+          "name": "#c3bcaa",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160591"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "jfrcQwIsiIaAKQqqbAEQPXdMXouX01AIlVvwW3HduTS4ZXKZOWOE",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "6Igzm5KY32kcaYATiTvRoj5oKIEUa3htcMSwnVwqKxp4qOtwolTA",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102087579, 
+      1159396157, 
+      102527513, 
+      1159396321, 
+      85922583, 
+      1159341545, 
+      85688637, 
+      1159396315, 
+      102191575, 
+      85633793
     ],
-    "wof:id":1159341545,
-    "wof:lastmodified":1545938655,
-    "wof:name":"Installation view of \"Celebrating a Vision: Art & Disability\"",
-    "wof:parent_id":1159396315,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528920352,
+    "wof:depicts": [
+      1159396315, 
+      102527513, 
+      1360516119, 
+      1159396321, 
+      1159396157, 
+      1159160591
+    ],
+    "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396315,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341545,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396157
+      }
+    ],
+    "wof:id": 1159341545,
+    "wof:lastmodified": 1577131231,
+    "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
+    "wof:parent_id": 1159396315,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.387197,
-    37.619087,
-    -122.387197,
+    -122.387197, 
+    37.619087, 
+    -122.387197, 
     37.619087
-],
+  ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
 }
