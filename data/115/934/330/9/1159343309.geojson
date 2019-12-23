@@ -2,212 +2,216 @@
   "id": 1159343309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388942,37.615424,-122.388942,37.615424",
-    "geom:latitude":37.615424,
-    "geom:longitude":-122.388942,
-    "iso:country":"US",
-    "media:created":1401903786,
-    "media:fingerprint":"7302725af2063e85f01bbfd8a87d9ff9eae32313",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cea369",
-                "name":"#cea369",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9a7c62",
-                "name":"#9a7c62",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d0c4b7",
-                "name":"#d0c4b7",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4c393b",
-                "name":"#4c393b",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160377"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":554
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":433
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":433
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":173
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"ckv6WfcJlJnuiOnZ0gxy7hSgnapKc7YnOkJKdyPFTrV9KFILs2G5",
-                "width":1734
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
-                "width":346
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528925595,
-    "wof:depicts":[
-        102527513,
-        1360516181,
-        1159396321,
-        1159396153,
-        1159160377,
-        1360516191
-    ],
-    "wof:geomhash":"02da6b5dec20c7e97a2493c7e34f9a62",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
+    "geom:latitude": 37.615424,
+    "geom:longitude": -122.388942,
+    "iso:country": "US",
+    "media:created": 1401903786,
+    "media:fingerprint": "7302725af2063e85f01bbfd8a87d9ff9eae32313",
+    "media:imagehash_avg": "a:ffffc3c34363ff80",
+    "media:imagehash_diff": "d:331e0e0e8ece1e0e",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343309,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cea369",
+          "name": "#cea369",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9a7c62",
+          "name": "#9a7c62",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d0c4b7",
+          "name": "#d0c4b7",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4c393b",
+          "name": "#4c393b",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160377"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 554
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 433
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 433
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 173
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "ckv6WfcJlJnuiOnZ0gxy7hSgnapKc7YnOkJKdyPFTrV9KFILs2G5",
+          "width": 1734
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "mROymhZbUht45lwxfYRbNBcAb2zPvluJPQNwVa27c3VvSBUqHZbw",
+          "width": 346
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85922583, 
+      1159396153, 
+      1159396321, 
+      102087579, 
+      1159343309, 
+      85633793, 
+      102191575, 
+      85688637, 
+      102527513
     ],
-    "wof:id":1159343309,
-    "wof:lastmodified":1545938643,
-    "wof:name":"Installation view of \"Doors: Entryways to World Culture\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528925595,
+    "wof:depicts": [
+      102527513, 
+      1360516181, 
+      1159396321, 
+      1159396153, 
+      1159160377, 
+      1360516191
+    ],
+    "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343309,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159343309,
+    "wof:lastmodified": 1577133205,
+    "wof:name": "Installation view of \"Doors: Entryways to World Culture\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.388942,
-    37.615424,
-    -122.388942,
+    -122.388942, 
+    37.615424, 
+    -122.388942, 
     37.615424
-],
+  ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}
 }
