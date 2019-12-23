@@ -2,228 +2,232 @@
   "id": 1159342159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1425066645,
-    "media:fingerprint":"a8cd7ccd1577709a1f79a169fd666943a3e3a0ef",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9c6941",
-                "name":"#9c6941",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c2a176",
-                "name":"#c2a176",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a3805b",
-                "name":"#a3805b",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c2ab8b",
-                "name":"#c2ab8b",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4d4136",
-                "name":"#4d4136",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160549"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"ttqF1CZxFI0LlBBfQsvSfRwoZZUXxCqV2j5k4I28QmqhhvUri8R9",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528921382,
-    "wof:depicts":[
-        102527513,
-        1360516281,
-        1159396321,
-        1159396153,
-        1159160549
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1425066645,
+    "media:fingerprint": "a8cd7ccd1577709a1f79a169fd666943a3e3a0ef",
+    "media:imagehash_avg": "a:1f1f1858c0c0f5f7",
+    "media:imagehash_diff": "d:fbf0f0b0b32bab6b",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342159,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9c6941",
+          "name": "#9c6941",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c2a176",
+          "name": "#c2a176",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a3805b",
+          "name": "#a3805b",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c2ab8b",
+          "name": "#c2ab8b",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4d4136",
+          "name": "#4d4136",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160549"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "ttqF1CZxFI0LlBBfQsvSfRwoZZUXxCqV2j5k4I28QmqhhvUri8R9",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "eTa6RV9waf4R7XfBZCWgS1gQXpTfK8sC5fVs06tjJ61UaxzXAmJR",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85633793, 
+      85922583, 
+      102191575, 
+      85688637, 
+      1159396321, 
+      102527513, 
+      102087579, 
+      1159342159, 
+      1159396153
     ],
-    "wof:id":1159342159,
-    "wof:lastmodified":1545938659,
-    "wof:name":"Installation view of \"Joseff of Hollywood: Jeweler to the Stars\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528921382,
+    "wof:depicts": [
+      102527513, 
+      1360516281, 
+      1159396321, 
+      1159396153, 
+      1159160549
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342159,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159342159,
+    "wof:lastmodified": 1577131832,
+    "wof:name": "Installation view of \"Joseff of Hollywood: Jeweler to the Stars\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
