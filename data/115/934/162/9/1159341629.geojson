@@ -2,228 +2,232 @@
   "id": 1159341629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389412,37.615761,-122.389412,37.615761",
-    "geom:latitude":37.615761,
-    "geom:longitude":-122.389412,
-    "iso:country":"US",
-    "media:created":1428935037,
-    "media:fingerprint":"797018c8d2bb6568a34a981c7f221ff40be411cd",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#b4674d",
-                        "name":"Brown",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#af6d48",
-                "name":"#af6d48",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#efcdb8",
-                        "name":"Desert Sand",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f5deb3",
-                        "name":"wheat",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e5d5bf",
-                "name":"#e5d5bf",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4d3320",
-                "name":"#4d3320",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#7366bd",
-                        "name":"Blue Violet",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#778899",
-                        "name":"lightslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6a81a1",
-                "name":"#6a81a1",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a6bdc8",
-                "name":"#a6bdc8",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160547"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":960
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":750
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":750
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":300
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"Tj3he8Bq2NcvdDC9jpLNH1KxjfPX7lMSRAdswgsdaTwRUF0v6FSt",
-                "width":3000
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
-                "width":600
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528920497,
-    "wof:depicts":[
-        102527513,
-        1360541665,
-        1159396321,
-        1159396153,
-        1159160547
-    ],
-    "wof:geomhash":"f1b927081dc10bf57e0dae974cfd758f",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
+    "geom:latitude": 37.615761,
+    "geom:longitude": -122.389412,
+    "iso:country": "US",
+    "media:created": 1428935037,
+    "media:fingerprint": "797018c8d2bb6568a34a981c7f221ff40be411cd",
+    "media:imagehash_avg": "a:ffefe5000000ffff",
+    "media:imagehash_diff": "d:cccc8b4d9cd4f4f0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341629,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#b4674d",
+              "name": "Brown",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#af6d48",
+          "name": "#af6d48",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#efcdb8",
+              "name": "Desert Sand",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#f5deb3",
+              "name": "wheat",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e5d5bf",
+          "name": "#e5d5bf",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4d3320",
+          "name": "#4d3320",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#7366bd",
+              "name": "Blue Violet",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#778899",
+              "name": "lightslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6a81a1",
+          "name": "#6a81a1",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a6bdc8",
+          "name": "#a6bdc8",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160547"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 960
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 750
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 750
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 300
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "Tj3he8Bq2NcvdDC9jpLNH1KxjfPX7lMSRAdswgsdaTwRUF0v6FSt",
+          "width": 3000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "RZeOnxhajKeQtWaoqTqS0ibC6uhW3eBCfStx85Nl4kKjQ2hbMSTT",
+          "width": 600
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396153, 
+      85688637, 
+      1159341629, 
+      1159396321, 
+      85633793, 
+      102087579, 
+      102527513, 
+      102191575, 
+      85922583
     ],
-    "wof:id":1159341629,
-    "wof:lastmodified":1545938656,
-    "wof:name":"Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528920497,
+    "wof:depicts": [
+      102527513, 
+      1360541665, 
+      1159396321, 
+      1159396153, 
+      1159160547
+    ],
+    "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341629,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159341629,
+    "wof:lastmodified": 1577131336,
+    "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389412,
-    37.615761,
-    -122.389412,
+    -122.389412, 
+    37.615761, 
+    -122.389412, 
     37.615761
-],
-  "geometry": {"coordinates":[-122.38941199999999,37.615761],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}
 }
