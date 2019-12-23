@@ -2,228 +2,232 @@
   "id": 1159342801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389131,37.616029,-122.389131,37.616029",
-    "geom:latitude":37.616029,
-    "geom:longitude":-122.389131,
-    "iso:country":"US",
-    "media:created":1248721916,
-    "media:fingerprint":"5296ca49930ed73985b66eb9f9a7c0280cae429b",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#5d76cb",
-                        "name":"Indigo",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4975bf",
-                "name":"#4975bf",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a11b19",
-                "name":"#a11b19",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#8a795d",
-                        "name":"Shadow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#91785c",
-                "name":"#91785c",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a2add0",
-                        "name":"Wild Blue Yonder",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a6b5ce",
-                "name":"#a6b5ce",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#524532",
-                "name":"#524532",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160019"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":560
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":437
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":437
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":175
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3483,
-                "mimetype":"image/jpeg",
-                "secret":"51hQARmEzGoCCy0tEkKgdjg2yDfqecxUBYvtjkNEOcfGRxIuX0uh",
-                "width":2542
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
-                "width":350
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396337,
-        1159396147,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528922636,
-    "wof:depicts":[
-        102527513,
-        1360516195,
-        1159396337,
-        1159396147,
-        1159160019
-    ],
-    "wof:geomhash":"6d7e5f16d5e28971a22edfa865df72b7",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
+    "geom:latitude": 37.616029,
+    "geom:longitude": -122.389131,
+    "iso:country": "US",
+    "media:created": 1248721916,
+    "media:fingerprint": "5296ca49930ed73985b66eb9f9a7c0280cae429b",
+    "media:imagehash_avg": "a:04fefe000018ff00",
+    "media:imagehash_diff": "d:ecec9c54e2687171",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396337,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342801,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396147
+          "closest": [
+            {
+              "hex": "#5d76cb",
+              "name": "Indigo",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4975bf",
+          "name": "#4975bf",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a11b19",
+          "name": "#a11b19",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#8a795d",
+              "name": "Shadow",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#91785c",
+          "name": "#91785c",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a2add0",
+              "name": "Wild Blue Yonder",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a6b5ce",
+          "name": "#a6b5ce",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#524532",
+          "name": "#524532",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160019"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 560
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 437
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 437
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 175
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3483,
+          "mimetype": "image/jpeg",
+          "secret": "51hQARmEzGoCCy0tEkKgdjg2yDfqecxUBYvtjkNEOcfGRxIuX0uh",
+          "width": 2542
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "ChW3lbvKjDqjT6TjVeM4lfc2exkgysNyDr2rduQhP3gEwiUA5lmT",
+          "width": 350
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85633793, 
+      102087579, 
+      85688637, 
+      1159396337, 
+      102527513, 
+      102191575, 
+      85922583, 
+      1159396147, 
+      1159342801
     ],
-    "wof:id":1159342801,
-    "wof:lastmodified":1545938646,
-    "wof:name":"Installation view of \"Pacific Coast League: The West Coast\u2019s Major League 1903-1957\"",
-    "wof:parent_id":1159396147,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528922636,
+    "wof:depicts": [
+      102527513, 
+      1360516195, 
+      1159396337, 
+      1159396147, 
+      1159160019
+    ],
+    "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342801,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396147
+      }
+    ],
+    "wof:id": 1159342801,
+    "wof:lastmodified": 1577132666,
+    "wof:name": "Installation view of \"Pacific Coast League: The West Coast’s Major League 1903-1957\"",
+    "wof:parent_id": 1159396147,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389131,
-    37.616029,
-    -122.389131,
+    -122.389131, 
+    37.616029, 
+    -122.389131, 
     37.616029
-],
-  "geometry": {"coordinates":[-122.38913100000001,37.616029],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
 }
