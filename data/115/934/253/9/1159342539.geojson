@@ -2,231 +2,235 @@
   "id": 1159342539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387197,37.619087,-122.387197,37.619087",
-    "geom:latitude":37.619087,
-    "geom:longitude":-122.387197,
-    "iso:country":"US",
-    "media:created":1437402304,
-    "media:fingerprint":"828743ef0f78f167c90d034df6617428dd2aa0dd",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#bab86c",
-                        "name":"Olive Green",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c7a864",
-                "name":"#c7a864",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#943f4c",
-                "name":"#943f4c",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ac8e63",
-                "name":"#ac8e63",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b9bfce",
-                "name":"#b9bfce",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6e5160",
-                        "name":"Eggplant",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#696969",
-                        "name":"dimgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#785247",
-                "name":"#785247",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160525"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"fbQzTnuZ36qpCpZ6QzvsFkEjIx9A3Td4cjbfeJcONxB5Ji9VFRfr",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396315,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396157,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528922119,
-    "wof:depicts":[
-        1159396315,
-        102527513,
-        1360516119,
-        1159396321,
-        1159396157,
-        1159160525
-    ],
-    "wof:geomhash":"86e9b7d5fe1f6f1a6479fa62588a1dea",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
+    "geom:latitude": 37.619087,
+    "geom:longitude": -122.387197,
+    "iso:country": "US",
+    "media:created": 1437402304,
+    "media:fingerprint": "828743ef0f78f167c90d034df6617428dd2aa0dd",
+    "media:imagehash_avg": "a:1fff7fc307010000",
+    "media:imagehash_diff": "d:74fabf8e2d0d85e1",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396315,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342539,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396157
+          "closest": [
+            {
+              "hex": "#bab86c",
+              "name": "Olive Green",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c7a864",
+          "name": "#c7a864",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#943f4c",
+          "name": "#943f4c",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ac8e63",
+          "name": "#ac8e63",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b9bfce",
+          "name": "#b9bfce",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#6e5160",
+              "name": "Eggplant",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#696969",
+              "name": "dimgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#785247",
+          "name": "#785247",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160525"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "fbQzTnuZ36qpCpZ6QzvsFkEjIx9A3Td4cjbfeJcONxB5Ji9VFRfr",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "nZzt6Eo9Y5CbamH5uzCxmq5BdnjhSGOPMeb2Rem5xv1XZ85dRkee",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191575, 
+      102087579, 
+      85922583, 
+      85688637, 
+      1159396321, 
+      1159396315, 
+      1159342539, 
+      1159396157, 
+      102527513, 
+      85633793
     ],
-    "wof:id":1159342539,
-    "wof:lastmodified":1545938662,
-    "wof:name":"Installation view of \"Life and Style in the Age of Art Deco\"",
-    "wof:parent_id":1159396315,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528922119,
+    "wof:depicts": [
+      1159396315, 
+      102527513, 
+      1360516119, 
+      1159396321, 
+      1159396157, 
+      1159160525
+    ],
+    "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396315,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342539,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396157
+      }
+    ],
+    "wof:id": 1159342539,
+    "wof:lastmodified": 1577132310,
+    "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
+    "wof:parent_id": 1159396315,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.387197,
-    37.619087,
-    -122.387197,
+    -122.387197, 
+    37.619087, 
+    -122.387197, 
     37.619087
-],
+  ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
 }
