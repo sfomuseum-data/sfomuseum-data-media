@@ -2,194 +2,198 @@
   "id": 1159341617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389412,37.615761,-122.389412,37.615761",
-    "geom:latitude":37.615761,
-    "geom:longitude":-122.389412,
-    "iso:country":"US",
-    "media:created":1433246528,
-    "media:fingerprint":"63260b6ddf4271b95d5f6a3ce6ee2996d33ae2de",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#838278",
-                "name":"#838278",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#c5d0e6",
-                        "name":"Periwinkle",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d3d3d3",
-                        "name":"lightgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c0ced4",
-                "name":"#c0ced4",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#573f34",
-                "name":"#573f34",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160547"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":614
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":480
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":480
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":192
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2600,
-                "mimetype":"image/jpeg",
-                "secret":"wUgeZ8e61i8aRJDZi6a2tFeezi0jpzeom7uSyR2qIMQ7qIDGBsVi",
-                "width":2080
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
-                "width":384
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528920473,
-    "wof:depicts":[
-        102527513,
-        1360541665,
-        1159396321,
-        1159396153,
-        1159160547
-    ],
-    "wof:geomhash":"f1b927081dc10bf57e0dae974cfd758f",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
+    "geom:latitude": 37.615761,
+    "geom:longitude": -122.389412,
+    "iso:country": "US",
+    "media:created": 1433246528,
+    "media:fingerprint": "63260b6ddf4271b95d5f6a3ce6ee2996d33ae2de",
+    "media:imagehash_avg": "a:ffc3e7c381c1ff81",
+    "media:imagehash_diff": "d:96170e8e17171f1f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341617,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#838278",
+          "name": "#838278",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#c5d0e6",
+              "name": "Periwinkle",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d3d3d3",
+              "name": "lightgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c0ced4",
+          "name": "#c0ced4",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#573f34",
+          "name": "#573f34",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160547"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 614
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 480
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 480
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 192
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2600,
+          "mimetype": "image/jpeg",
+          "secret": "wUgeZ8e61i8aRJDZi6a2tFeezi0jpzeom7uSyR2qIMQ7qIDGBsVi",
+          "width": 2080
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "S7YVTsh8JCDWmmqMQaBloaovS8mIRXIywdIwYVLScrMSccg7BLip",
+          "width": 384
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102087579, 
+      1159396321, 
+      85922583, 
+      1159341617, 
+      1159396153, 
+      102527513, 
+      102191575, 
+      85688637, 
+      85633793
     ],
-    "wof:id":1159341617,
-    "wof:lastmodified":1545938643,
-    "wof:name":"Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528920473,
+    "wof:depicts": [
+      102527513, 
+      1360541665, 
+      1159396321, 
+      1159396153, 
+      1159160547
+    ],
+    "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341617,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159341617,
+    "wof:lastmodified": 1577131319,
+    "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389412,
-    37.615761,
-    -122.389412,
+    -122.389412, 
+    37.615761, 
+    -122.389412, 
     37.615761
-],
-  "geometry": {"coordinates":[-122.38941199999999,37.615761],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}
 }
