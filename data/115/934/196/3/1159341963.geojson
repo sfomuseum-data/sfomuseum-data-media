@@ -2,228 +2,232 @@
   "id": 1159341963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1473440427,
-    "media:fingerprint":"e0900ebd64df006e83883be6bd0d3b37d18a621a",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ff2b2b",
-                        "name":"Orange Red",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#dc143c",
-                        "name":"crimson",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ef342c",
-                "name":"#ef342c",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#ff5349",
-                        "name":"Red Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#ff6347",
-                        "name":"tomato",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ec4e45",
-                "name":"#ec4e45",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9d6961",
-                "name":"#9d6961",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b3b7bd",
-                "name":"#b3b7bd",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4a4540",
-                "name":"#4a4540",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160655"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"MPU49IS5CkL8bFXr6sd7mJ01KcrjLL3NVF7ipq4XKQP7MtgnuYcv",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528921009,
-    "wof:depicts":[
-        102527513,
-        1360516281,
-        1159396321,
-        1159396153,
-        1159160655
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1473440427,
+    "media:fingerprint": "e0900ebd64df006e83883be6bd0d3b37d18a621a",
+    "media:imagehash_avg": "a:80801f9f9901f9c1",
+    "media:imagehash_diff": "d:0931717373538303",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341963,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#ff2b2b",
+              "name": "Orange Red",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#dc143c",
+              "name": "crimson",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ef342c",
+          "name": "#ef342c",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#ff5349",
+              "name": "Red Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#ff6347",
+              "name": "tomato",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ec4e45",
+          "name": "#ec4e45",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9d6961",
+          "name": "#9d6961",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b3b7bd",
+          "name": "#b3b7bd",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4a4540",
+          "name": "#4a4540",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160655"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "MPU49IS5CkL8bFXr6sd7mJ01KcrjLL3NVF7ipq4XKQP7MtgnuYcv",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "ZyvgG2o22kTje1bFDrHBkX3gtdqQ7F6Mf3kBPQ5fTZRtl6qDVhKw",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85922583, 
+      1159396153, 
+      102527513, 
+      85688637, 
+      102087579, 
+      102191575, 
+      85633793, 
+      1159341963, 
+      1159396321
     ],
-    "wof:id":1159341963,
-    "wof:lastmodified":1545938656,
-    "wof:name":"Installation view of \"A Modern Approach: Mid-century Design\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528921009,
+    "wof:depicts": [
+      102527513, 
+      1360516281, 
+      1159396321, 
+      1159396153, 
+      1159160655
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341963,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159341963,
+    "wof:lastmodified": 1577131607,
+    "wof:name": "Installation view of \"A Modern Approach: Mid-century Design\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
