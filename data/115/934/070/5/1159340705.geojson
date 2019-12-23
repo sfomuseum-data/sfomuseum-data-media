@@ -2,231 +2,235 @@
   "id": 1159340705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1514397520,
-    "media:fingerprint":"cdbabc8224865dd86f29c3aa4af0e4d08cfeca58",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#d68a59",
-                        "name":"Raw Sienna",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#e9967a",
-                        "name":"darksalmon",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d28668",
-                "name":"#d28668",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bc8f8f",
-                        "name":"rosybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cf9484",
-                "name":"#cf9484",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#797b7e",
-                "name":"#797b7e",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b3bbc2",
-                "name":"#b3bbc2",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#474846",
-                "name":"#474846",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160765"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"1v6Um7WevN0OHMegRpzPWxdg58dGdz0pSAWJgJTb469rQf9XCBrZ",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159157335,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159157333,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528918650,
-    "wof:depicts":[
-        1159157335,
-        102527513,
-        1159157037,
-        1159157271,
-        1159157333,
-        1159160765
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1514397520,
+    "media:fingerprint": "cdbabc8224865dd86f29c3aa4af0e4d08cfeca58",
+    "media:imagehash_avg": "a:c1c3dbdbd3b91818",
+    "media:imagehash_diff": "d:9317173333637333",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159340705,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
+          "closest": [
+            {
+              "hex": "#d68a59",
+              "name": "Raw Sienna",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#e9967a",
+              "name": "darksalmon",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d28668",
+          "name": "#d28668",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bc8f8f",
+              "name": "rosybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cf9484",
+          "name": "#cf9484",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#797b7e",
+          "name": "#797b7e",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b3bbc2",
+          "name": "#b3bbc2",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#474846",
+          "name": "#474846",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160765"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "1v6Um7WevN0OHMegRpzPWxdg58dGdz0pSAWJgJTb469rQf9XCBrZ",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "T38pLjRyciEdf3J6iqGgRbSgVtZ8oQMgLhGsodz84sOF3sf9PGhE",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191575, 
+      85633793, 
+      102087579, 
+      102527513, 
+      1159340705, 
+      1159157333, 
+      1159157335, 
+      85922583, 
+      1159157271, 
+      85688637
     ],
-    "wof:id":1159340705,
-    "wof:lastmodified":1545938646,
-    "wof:name":"Installation view of \"The Automatic Age: Coin-Operated Machines\"",
-    "wof:parent_id":1159157335,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528918650,
+    "wof:depicts": [
+      1159157335, 
+      102527513, 
+      1159157037, 
+      1159157271, 
+      1159157333, 
+      1159160765
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159340705,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }
+    ],
+    "wof:id": 1159340705,
+    "wof:lastmodified": 1577130335,
+    "wof:name": "Installation view of \"The Automatic Age: Coin-Operated Machines\"",
+    "wof:parent_id": 1159157335,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
