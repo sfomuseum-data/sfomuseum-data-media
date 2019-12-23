@@ -2,228 +2,232 @@
   "id": 1159343061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38902,37.614533,-122.38902,37.614533",
-    "geom:latitude":37.614533,
-    "geom:longitude":-122.38902,
-    "iso:country":"US",
-    "media:created":1406050088,
-    "media:fingerprint":"9f67185133108e812089f12f7791085527d94898",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#2b6cc4",
-                        "name":"Denim",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4169e1",
-                        "name":"royalblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#2a75ca",
-                "name":"#2a75ca",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#deb887",
-                        "name":"burlywood",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#dabc92",
-                "name":"#dabc92",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#1a4876",
-                        "name":"Midnight Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#274860",
-                "name":"#274860",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a78b5a",
-                "name":"#a78b5a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d5b9a7",
-                "name":"#d5b9a7",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160511"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"d5ixoTm4LAJva7n2yu3asHnGDKFFne9Ee0WnAbTPdThiDW3qJwDU",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528923165,
-    "wof:depicts":[
-        102527513,
-        1360516271,
-        1159396321,
-        1159396153,
-        1159160511
-    ],
-    "wof:geomhash":"6bedd4d61f77b4621a51a918f70dcc8c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
+    "geom:latitude": 37.614533,
+    "geom:longitude": -122.38902,
+    "iso:country": "US",
+    "media:created": 1406050088,
+    "media:fingerprint": "9f67185133108e812089f12f7791085527d94898",
+    "media:imagehash_avg": "a:e3c3c3f400c2f3ff",
+    "media:imagehash_diff": "d:cf171fa4b4b607e7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343061,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#2b6cc4",
+              "name": "Denim",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#4169e1",
+              "name": "royalblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#2a75ca",
+          "name": "#2a75ca",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#deb887",
+              "name": "burlywood",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#dabc92",
+          "name": "#dabc92",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#1a4876",
+              "name": "Midnight Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#274860",
+          "name": "#274860",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a78b5a",
+          "name": "#a78b5a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d5b9a7",
+          "name": "#d5b9a7",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160511"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "d5ixoTm4LAJva7n2yu3asHnGDKFFne9Ee0WnAbTPdThiDW3qJwDU",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "fpfGrUldpXWa745RghklBWSw5n892J1CWZeAzCHQdXXUQdpogQPz",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159343061, 
+      102527513, 
+      102087579, 
+      85922583, 
+      85688637, 
+      1159396153, 
+      1159396321, 
+      102191575, 
+      85633793
     ],
-    "wof:id":1159343061,
-    "wof:lastmodified":1545938644,
-    "wof:name":"Installation view of \"A World of Characters: Advertising Icons from the Warren Dotz Collection\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528923165,
+    "wof:depicts": [
+      102527513, 
+      1360516271, 
+      1159396321, 
+      1159396153, 
+      1159160511
+    ],
+    "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343061,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159343061,
+    "wof:lastmodified": 1577132956,
+    "wof:name": "Installation view of \"A World of Characters: Advertising Icons from the Warren Dotz Collection\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38902,
-    37.614533,
-    -122.38902,
+    -122.38902, 
+    37.614533, 
+    -122.38902, 
     37.614533
-],
+  ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
 }
