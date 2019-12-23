@@ -2,228 +2,232 @@
   "id": 1159339861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1321988546,
-    "media:fingerprint":"cb451c270fd789e0776c57925967a8bde5ad2975",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#c46210",
-                        "name":"Alloy Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2691e",
-                        "name":"chocolate",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c76623",
-                "name":"#c76623",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#deb887",
-                        "name":"burlywood",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e3c29b",
-                "name":"#e3c29b",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#774a33",
-                "name":"#774a33",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a07f65",
-                "name":"#a07f65",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d3d3d3",
-                        "name":"lightgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d2cdc2",
-                "name":"#d2cdc2",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160203"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":512
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":400
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":400
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":160
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1000,
-                "mimetype":"image/jpeg",
-                "secret":"8dagtV2PqfEtvk4qfhutLfcFKqntF3DoSYS65MsxQ5tJXNlVf6tV",
-                "width":667
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
-                "width":320
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396333,
-        1159396159,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528848561,
-    "wof:depicts":[
-        102527513,
-        1360516283,
-        1159396333,
-        1159396159,
-        1159160203
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1321988546,
+    "media:fingerprint": "cb451c270fd789e0776c57925967a8bde5ad2975",
+    "media:imagehash_avg": "a:ffc1c1c10001e7ff",
+    "media:imagehash_diff": "d:93030787c7cf8ff6",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396333,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159339861,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396159
+          "closest": [
+            {
+              "hex": "#c46210",
+              "name": "Alloy Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2691e",
+              "name": "chocolate",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c76623",
+          "name": "#c76623",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#deb887",
+              "name": "burlywood",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e3c29b",
+          "name": "#e3c29b",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#774a33",
+          "name": "#774a33",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a07f65",
+          "name": "#a07f65",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d3d3d3",
+              "name": "lightgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d2cdc2",
+          "name": "#d2cdc2",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160203"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 512
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 400
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 400
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 160
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1000,
+          "mimetype": "image/jpeg",
+          "secret": "8dagtV2PqfEtvk4qfhutLfcFKqntF3DoSYS65MsxQ5tJXNlVf6tV",
+          "width": 667
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "R0HzHnEpxttrdHgvLJ5p8DOe0mYa4HpFqcU9P41YdvmGFlVJNtJg",
+          "width": 320
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      85688637, 
+      102191575, 
+      1159396159, 
+      1159396333, 
+      85633793, 
+      102087579, 
+      85922583, 
+      1159339861
     ],
-    "wof:id":1159339861,
-    "wof:lastmodified":1545938672,
-    "wof:name":"Installation view of \"Automata: Mechanical Wonders of the Nineteenth Century\"",
-    "wof:parent_id":1159396159,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528848561,
+    "wof:depicts": [
+      102527513, 
+      1360516283, 
+      1159396333, 
+      1159396159, 
+      1159160203
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396333,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159339861,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396159
+      }
+    ],
+    "wof:id": 1159339861,
+    "wof:lastmodified": 1577129701,
+    "wof:name": "Installation view of \"Automata: Mechanical Wonders of the Nineteenth Century\"",
+    "wof:parent_id": 1159396159,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
