@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation": "2019-09-23",
+    "edtf:deprecated": "2019-12-23",
     "edtf:inception": "2019-03-16",
     "geom:area": 0,
     "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
@@ -15,118 +16,26 @@
     "media:imagehash_diff": "d:6ce9c3d3545ed0c1",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#d43b3f",
-          "name": "#d43b3f",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#e5daae",
-          "name": "#e5daae",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#134a8f",
-          "name": "#134a8f",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#b29651",
-          "name": "#b29651",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#b1a896",
-          "name": "#b1a896",
-          "reference": "vibrant"
-        }
-      ],
-      "sizes": {
-        "b": {
-          "extension": "jpg",
-          "height": 682,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 1024
-        },
-        "c": {
-          "extension": "jpg",
-          "height": 533,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 800
-        },
-        "dc": {
-          "extension": "jpg",
-          "height": 533,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 800
-        },
-        "ds": {
-          "extension": "jpg",
-          "height": 320,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 320
-        },
-        "k": {
-          "extension": "jpg",
-          "height": 1365,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 2048
-        },
-        "n": {
-          "extension": "jpg",
-          "height": 213,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 320
-        },
-        "o": {
-          "extension": "jpg",
-          "height": 2400,
-          "mimetype": "image/jpeg",
-          "secret": "EZCaW7ZVgLWbWMvgIJGTe7LyMFp5BjoQ",
-          "width": 3600
-        },
-        "s": {
-          "extension": "jpg",
-          "height": 320,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 320
-        },
-        "z": {
-          "extension": "jpg",
-          "height": 426,
-          "mimetype": "image/jpeg",
-          "secret": "em3w2jIpEgLDARGE369379meajmqxc7S",
-          "width": 640
-        }
-      }
-    },
+    "media:properties": {},
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/151/172/524/3/1511725243_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "mz:is_current": 0,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      1159157335, 
-      85688637, 
-      1159157333, 
-      102191575, 
-      85633793, 
       1377462865, 
       1159157271, 
-      1159157863, 
+      1159157335, 
+      102191575, 
+      1159157333, 
+      85633793, 
       102087579, 
-      85922583
+      102527513, 
+      1159157863, 
+      85922583, 
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1577138116,
@@ -156,7 +65,7 @@
       }
     ],
     "wof:id": 1511725243,
-    "wof:lastmodified": 1577138186,
+    "wof:lastmodified": 1577139474,
     "wof:name": "Installation view of \"Streamlines: Aerodynamic Consumer Designs for the Air Age\"",
     "wof:parent_id": 1377462865,
     "wof:placetype": "media",
