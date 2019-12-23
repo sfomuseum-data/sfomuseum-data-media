@@ -2,228 +2,232 @@
   "id": 1159343471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38902,37.614533,-122.38902,37.614533",
-    "geom:latitude":37.614533,
-    "geom:longitude":-122.38902,
-    "iso:country":"US",
-    "media:created":1392072453,
-    "media:fingerprint":"6a3b12cb16fa609fce35416833f63ff790e7b044",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ee204d",
-                        "name":"Red",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#dc143c",
-                        "name":"crimson",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e21e3a",
-                "name":"#e21e3a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b91a2d",
-                "name":"#b91a2d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a6704d",
-                "name":"#a6704d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c6c4bb",
-                "name":"#c6c4bb",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#53403f",
-                "name":"#53403f",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160465"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"RtEqY58qQ3rtQo5SyXalrveFfs4vSKqWpMFNFtW6nOabaT7obaUu",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528925856,
-    "wof:depicts":[
-        102527513,
-        1360516271,
-        1159396321,
-        1159396153,
-        1159160465
-    ],
-    "wof:geomhash":"6bedd4d61f77b4621a51a918f70dcc8c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
+    "geom:latitude": 37.614533,
+    "geom:longitude": -122.38902,
+    "iso:country": "US",
+    "media:created": 1392072453,
+    "media:fingerprint": "6a3b12cb16fa609fce35416833f63ff790e7b044",
+    "media:imagehash_avg": "a:f3f7f9fb07010000",
+    "media:imagehash_diff": "d:270b03e30f3d7f55",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343471,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#ee204d",
+              "name": "Red",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#dc143c",
+              "name": "crimson",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e21e3a",
+          "name": "#e21e3a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b91a2d",
+          "name": "#b91a2d",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a6704d",
+          "name": "#a6704d",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c6c4bb",
+          "name": "#c6c4bb",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#53403f",
+          "name": "#53403f",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160465"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "RtEqY58qQ3rtQo5SyXalrveFfs4vSKqWpMFNFtW6nOabaT7obaUu",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "BLpoEXVGpylzMhuNEWO5sy2EoUPVRA6zPjIq1Jff262gz2fJ4c7x",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396153, 
+      85922583, 
+      102527513, 
+      102191575, 
+      102087579, 
+      85633793, 
+      85688637, 
+      1159396321, 
+      1159343471
     ],
-    "wof:id":1159343471,
-    "wof:lastmodified":1545938654,
-    "wof:name":"Installation view of \"Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528925856,
+    "wof:depicts": [
+      102527513, 
+      1360516271, 
+      1159396321, 
+      1159396153, 
+      1159160465
+    ],
+    "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343471,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159343471,
+    "wof:lastmodified": 1577133383,
+    "wof:name": "Installation view of \"Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38902,
-    37.614533,
-    -122.38902,
+    -122.38902, 
+    37.614533, 
+    -122.38902, 
     37.614533
-],
+  ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
 }
