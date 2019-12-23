@@ -2,231 +2,235 @@
   "id": 1159341081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387197,37.619087,-122.387197,37.619087",
-    "geom:latitude":37.619087,
-    "geom:longitude":-122.387197,
-    "iso:country":"US",
-    "media:created":1459552973,
-    "media:fingerprint":"742d043fd44b46d8ffb25221878ef79b234b715b",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#324ab2",
-                        "name":"Violet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#6a5acd",
-                        "name":"slateblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4250b8",
-                "name":"#4250b8",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#5d76cb",
-                        "name":"Indigo",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6080c2",
-                "name":"#6080c2",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#1a4876",
-                        "name":"Midnight Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#191970",
-                        "name":"midnightblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#292672",
-                "name":"#292672",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#808585",
-                "name":"#808585",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c0c0c0",
-                "name":"#c0c0c0",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160591"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"orSbZINE9pRKIZydyV9GHxvW1LwrV38nR4MUUnnKhC0LRhV451fA",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396315,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396157,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528919536,
-    "wof:depicts":[
-        1159396315,
-        102527513,
-        1360516119,
-        1159396321,
-        1159396157,
-        1159160591
-    ],
-    "wof:geomhash":"86e9b7d5fe1f6f1a6479fa62588a1dea",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
+    "geom:latitude": 37.619087,
+    "geom:longitude": -122.387197,
+    "iso:country": "US",
+    "media:created": 1459552973,
+    "media:fingerprint": "742d043fd44b46d8ffb25221878ef79b234b715b",
+    "media:imagehash_avg": "a:0000fcfffff80000",
+    "media:imagehash_diff": "d:a0006071736203a7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396315,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341081,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396157
+          "closest": [
+            {
+              "hex": "#324ab2",
+              "name": "Violet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#6a5acd",
+              "name": "slateblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4250b8",
+          "name": "#4250b8",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#5d76cb",
+              "name": "Indigo",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6080c2",
+          "name": "#6080c2",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#1a4876",
+              "name": "Midnight Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#191970",
+              "name": "midnightblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#292672",
+          "name": "#292672",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#808585",
+          "name": "#808585",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c0c0c0",
+          "name": "#c0c0c0",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160591"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "orSbZINE9pRKIZydyV9GHxvW1LwrV38nR4MUUnnKhC0LRhV451fA",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "8BSHSlsHxroXPQwFbnBZHa3Pq1yWUkjFdxF83Qbi9ZxQS1ks0b3Y",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396321, 
+      102527513, 
+      1159396315, 
+      1159396157, 
+      85688637, 
+      102191575, 
+      85922583, 
+      102087579, 
+      1159341081, 
+      85633793
     ],
-    "wof:id":1159341081,
-    "wof:lastmodified":1545938658,
-    "wof:name":"Installation view of \"Celebrating a Vision: Art & Disability\"",
-    "wof:parent_id":1159396315,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528919536,
+    "wof:depicts": [
+      1159396315, 
+      102527513, 
+      1360516119, 
+      1159396321, 
+      1159396157, 
+      1159160591
+    ],
+    "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396315,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341081,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396157
+      }
+    ],
+    "wof:id": 1159341081,
+    "wof:lastmodified": 1577130645,
+    "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
+    "wof:parent_id": 1159396315,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.387197,
-    37.619087,
-    -122.387197,
+    -122.387197, 
+    37.619087, 
+    -122.387197, 
     37.619087
-],
+  ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
 }
