@@ -2,228 +2,232 @@
   "id": 1159341007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1473439229,
-    "media:fingerprint":"9acb71bb25b7ac538c322fd3a4e892e8886ff809",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#cd4a4c",
-                        "name":"Mahogany",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#de553c",
-                "name":"#de553c",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cdb395",
-                "name":"#cdb395",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#5f9ea0",
-                        "name":"cadetblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5893aa",
-                "name":"#5893aa",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c8bdae",
-                "name":"#c8bdae",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#3c484a",
-                "name":"#3c484a",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160655"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":614
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":480
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":480
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":192
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3600,
-                "mimetype":"image/jpeg",
-                "secret":"9fKuu9bShDwOF7OxUrPkiXvh1btACme3SEl5t2rjHsKrdotlO76h",
-                "width":2880
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
-                "width":384
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528919398,
-    "wof:depicts":[
-        102527513,
-        1360516281,
-        1159396321,
-        1159396153,
-        1159160655
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1473439229,
+    "media:fingerprint": "9acb71bb25b7ac538c322fd3a4e892e8886ff809",
+    "media:imagehash_avg": "a:ffffc3e30121e700",
+    "media:imagehash_diff": "d:451f0f0f454d4d61",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341007,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#cd4a4c",
+              "name": "Mahogany",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#de553c",
+          "name": "#de553c",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cdb395",
+          "name": "#cdb395",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#5f9ea0",
+              "name": "cadetblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5893aa",
+          "name": "#5893aa",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c8bdae",
+          "name": "#c8bdae",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#3c484a",
+          "name": "#3c484a",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160655"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 614
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 480
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 480
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 192
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "9fKuu9bShDwOF7OxUrPkiXvh1btACme3SEl5t2rjHsKrdotlO76h",
+          "width": 2880
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "3hkaa2xfmM7A31UiFnwjbnPbgQ6BgAfC75fxGct3LR5QYevfxr34",
+          "width": 384
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159341007, 
+      1159396321, 
+      85633793, 
+      1159396153, 
+      102191575, 
+      85922583, 
+      102087579, 
+      102527513, 
+      85688637
     ],
-    "wof:id":1159341007,
-    "wof:lastmodified":1545938656,
-    "wof:name":"Installation view of \"A Modern Approach: Mid-century Design\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528919398,
+    "wof:depicts": [
+      102527513, 
+      1360516281, 
+      1159396321, 
+      1159396153, 
+      1159160655
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341007,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159341007,
+    "wof:lastmodified": 1577130552,
+    "wof:name": "Installation view of \"A Modern Approach: Mid-century Design\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
