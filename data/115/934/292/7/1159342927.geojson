@@ -2,229 +2,233 @@
   "id": 1159342927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388942,37.615424,-122.388942,37.615424",
-    "geom:latitude":37.615424,
-    "geom:longitude":-122.388942,
-    "iso:country":"US",
-    "media:created":1414773197,
-    "media:fingerprint":"ba9e10fd845b12046cad62c0e0e0d52168f9ec32",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#d98695",
-                        "name":"Shimmering Blush",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#db7093",
-                        "name":"palevioletred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d17d90",
-                "name":"#d17d90",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d3a186",
-                "name":"#d3a186",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#958976",
-                "name":"#958976",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a7b2c6",
-                "name":"#a7b2c6",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#494b62",
-                "name":"#494b62",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160519"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":614
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":480
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":480
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":192
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3000,
-                "mimetype":"image/jpeg",
-                "secret":"nhaHXAdA9Byz6DlMnhzNzaSxzWNTJNlw9aSj8MY5g4wiRh2kmrFe",
-                "width":2400
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
-                "width":384
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528922963,
-    "wof:depicts":[
-        102527513,
-        1360516181,
-        1159396321,
-        1159396153,
-        1159160519,
-        1360516191
-    ],
-    "wof:geomhash":"02da6b5dec20c7e97a2493c7e34f9a62",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
+    "geom:latitude": 37.615424,
+    "geom:longitude": -122.388942,
+    "iso:country": "US",
+    "media:created": 1414773197,
+    "media:fingerprint": "ba9e10fd845b12046cad62c0e0e0d52168f9ec32",
+    "media:imagehash_avg": "a:7fffffcf0243c381",
+    "media:imagehash_diff": "d:d0cc1e9ede879f0f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342927,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#d98695",
+              "name": "Shimmering Blush",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#db7093",
+              "name": "palevioletred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d17d90",
+          "name": "#d17d90",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d3a186",
+          "name": "#d3a186",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#958976",
+          "name": "#958976",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a7b2c6",
+          "name": "#a7b2c6",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#494b62",
+          "name": "#494b62",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160519"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 614
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 480
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 480
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 192
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3000,
+          "mimetype": "image/jpeg",
+          "secret": "nhaHXAdA9Byz6DlMnhzNzaSxzWNTJNlw9aSj8MY5g4wiRh2kmrFe",
+          "width": 2400
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "Iz3MX3ZwegRpLjI4kFIv5Nrsdnaok5kcQLXab77xcziOCb61iYy6",
+          "width": 384
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85633793, 
+      85922583, 
+      1159342927, 
+      102191575, 
+      1159396153, 
+      102527513, 
+      102087579, 
+      85688637, 
+      1159396321
     ],
-    "wof:id":1159342927,
-    "wof:lastmodified":1545938649,
-    "wof:name":"Installation view of \"When Art Rocked: San Francisco Music Posters\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528922963,
+    "wof:depicts": [
+      102527513, 
+      1360516181, 
+      1159396321, 
+      1159396153, 
+      1159160519, 
+      1360516191
+    ],
+    "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342927,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159342927,
+    "wof:lastmodified": 1577132808,
+    "wof:name": "Installation view of \"When Art Rocked: San Francisco Music Posters\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.388942,
-    37.615424,
-    -122.388942,
+    -122.388942, 
+    37.615424, 
+    -122.388942, 
     37.615424
-],
+  ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}
 }
