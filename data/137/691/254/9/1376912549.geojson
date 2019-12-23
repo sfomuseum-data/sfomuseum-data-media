@@ -2,199 +2,203 @@
   "id": 1376912549,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2019-08-12",
-    "date:cessation_upper":"2019-08-12",
-    "date:inception_lower":"2019-01-11",
-    "date:inception_upper":"2019-01-11",
-    "edtf:cessation":"2019-08-12",
-    "edtf:inception":"2019-01-11",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389131,37.616029,-122.389131,37.616029",
-    "geom:latitude":37.616029,
-    "geom:longitude":-122.389131,
-    "iso:country":"US",
-    "media:created":1549052277,
-    "media:fingerprint":"4055e1de403932987f192376f4b7697cb3d41e1d",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "hex":"#ba6d4d",
-                "name":"#ba6d4d",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#e3b47a",
-                "name":"#e3b47a",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#622f24",
-                "name":"#622f24",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#977f6d",
-                "name":"#977f6d",
-                "reference":"vibrant"
-            },
-            {
-                "hex":"#c8bfb0",
-                "name":"#c8bfb0",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            1376812931
-        ],
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":800
-            },
-            "dc":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":800
-            },
-            "ds":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":320
-            },
-            "k":{
-                "extension":"jpg",
-                "height":1365,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":2048
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2401,
-                "mimetype":"image/jpeg",
-                "secret":"oMlCdOiYThIgQoeTt7irjv6chRZu2vrW",
-                "width":3600
-            },
-            "s":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
-                "width":640
-            }
-        }
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159157335,
-        102527513,
-        102191575,
-        85633793,
-        1159157047,
-        85922583,
-        102087579,
-        85688637,
-        1159157271,
-        1159157333,
-        1376812931,
-        1159157045
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1549667828,
-    "wof:depicts":[
-        1159157047,
-        102527513,
-        1159157335,
-        1159157333,
-        1376812931,
-        1159157271,
-        1159157045
-    ],
-    "wof:geomhash":"6d7e5f16d5e28971a22edfa865df72b7",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2019-08-12",
+    "date:cessation_upper": "2019-08-12",
+    "date:inception_lower": "2019-01-11",
+    "date:inception_upper": "2019-01-11",
+    "edtf:cessation": "2019-08-12",
+    "edtf:inception": "2019-01-11",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
+    "geom:latitude": 37.616029,
+    "geom:longitude": -122.389131,
+    "iso:country": "US",
+    "media:created": 1549052277,
+    "media:fingerprint": "4055e1de403932987f192376f4b7697cb3d41e1d",
+    "media:imagehash_avg": "a:fffbfafb800000ff",
+    "media:imagehash_diff": "d:c592d2565374063f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1159157047,
-            "installation_id":1376812931,
-            "locality_id":85922583,
-            "media_id":1376912549,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
+          "hex": "#ba6d4d",
+          "name": "#ba6d4d",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e3b47a",
+          "name": "#e3b47a",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#622f24",
+          "name": "#622f24",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#977f6d",
+          "name": "#977f6d",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c8bfb0",
+          "name": "#c8bfb0",
+          "reference": "vibrant"
+        }
+      ],
+      "depicts": [
+        1376812931
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 1024
         },
-        {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "enclosure_id":1159157045,
-            "installation_id":1376812931,
-            "locality_id":85922583,
-            "media_id":1376912549,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2401,
+          "mimetype": "image/jpeg",
+          "secret": "oMlCdOiYThIgQoeTt7irjv6chRZu2vrW",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "0gWZDEjh7MfaiMQ2tT87WXg4Rw1JZ0xU",
+          "width": 640
         }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159157271, 
+      1159157335, 
+      102191575, 
+      102087579, 
+      85633793, 
+      1376812931, 
+      85922583, 
+      1159157047, 
+      85688637, 
+      1376912549, 
+      1159157045, 
+      1159157333, 
+      102527513
     ],
-    "wof:id":1376912549,
-    "wof:lastmodified":1550003749,
-    "wof:name":"Installation view of \"Reflections in Wood \u2013 Surfboards & Shapers\"",
-    "wof:parent_id":1376812931,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1549667828,
+    "wof:depicts": [
+      1159157047, 
+      102527513, 
+      1159157335, 
+      1159157333, 
+      1376812931, 
+      1159157271, 
+      1159157045
+    ],
+    "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1159157047,
+        "installation_id": 1376812931,
+        "locality_id": 85922583,
+        "media_id": 1376912549,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }, 
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1159157045,
+        "installation_id": 1376812931,
+        "locality_id": 85922583,
+        "media_id": 1376912549,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }
+    ],
+    "wof:id": 1376912549,
+    "wof:lastmodified": 1577133732,
+    "wof:name": "Installation view of \"Reflections in Wood – Surfboards \u0026 Shapers\"",
+    "wof:parent_id": 1376812931,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389131,
-    37.616029,
-    -122.389131,
+    -122.389131, 
+    37.616029, 
+    -122.389131, 
     37.616029
-],
-  "geometry": {"coordinates":[-122.38913100000001,37.616029],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
 }
