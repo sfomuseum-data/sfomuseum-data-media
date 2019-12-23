@@ -2,229 +2,233 @@
   "id": 1159342995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388942,37.615424,-122.388942,37.615424",
-    "geom:latitude":37.615424,
-    "geom:longitude":-122.388942,
-    "iso:country":"US",
-    "media:created":1411664311,
-    "media:fingerprint":"5767c862e3e2ea3d88e04d434f70c5e592d9d30d",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#c46210",
-                        "name":"Alloy Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2691e",
-                        "name":"chocolate",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bc5b19",
-                "name":"#bc5b19",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6e221d",
-                "name":"#6e221d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#708090",
-                        "name":"slategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#64789a",
-                "name":"#64789a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cbc4b7",
-                "name":"#cbc4b7",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4c422e",
-                "name":"#4c422e",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160519"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":512
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":400
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":400
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":160
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"YJYDH9QXqYDIT01Cu8SnW5RP6dxINbSxHW0Ds2bq4Gup0GbXzpan",
-                "width":1600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
-                "width":320
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528923073,
-    "wof:depicts":[
-        102527513,
-        1360516181,
-        1159396321,
-        1159396153,
-        1159160519,
-        1360516191
-    ],
-    "wof:geomhash":"02da6b5dec20c7e97a2493c7e34f9a62",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
+    "geom:latitude": 37.615424,
+    "geom:longitude": -122.388942,
+    "iso:country": "US",
+    "media:created": 1411664311,
+    "media:fingerprint": "5767c862e3e2ea3d88e04d434f70c5e592d9d30d",
+    "media:imagehash_avg": "a:0093ffff8700007b",
+    "media:imagehash_diff": "d:2527a1a52f2f47d7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342995,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#c46210",
+              "name": "Alloy Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2691e",
+              "name": "chocolate",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bc5b19",
+          "name": "#bc5b19",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6e221d",
+          "name": "#6e221d",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#708090",
+              "name": "slategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#64789a",
+          "name": "#64789a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cbc4b7",
+          "name": "#cbc4b7",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4c422e",
+          "name": "#4c422e",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160519"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 512
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 400
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 400
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 160
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "YJYDH9QXqYDIT01Cu8SnW5RP6dxINbSxHW0Ds2bq4Gup0GbXzpan",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "gex3VTFUJUPAWmpTtgqz57RKzMTdPsg8iFCRQvni5brwJEcG0TqI",
+          "width": 320
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102191575, 
+      1159396321, 
+      102527513, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159342995, 
+      85688637, 
+      1159396153
     ],
-    "wof:id":1159342995,
-    "wof:lastmodified":1545938666,
-    "wof:name":"Installation view of \"When Art Rocked: San Francisco Music Posters\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528923073,
+    "wof:depicts": [
+      102527513, 
+      1360516181, 
+      1159396321, 
+      1159396153, 
+      1159160519, 
+      1360516191
+    ],
+    "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342995,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159342995,
+    "wof:lastmodified": 1577132890,
+    "wof:name": "Installation view of \"When Art Rocked: San Francisco Music Posters\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.388942,
-    37.615424,
-    -122.388942,
+    -122.388942, 
+    37.615424, 
+    -122.388942, 
     37.615424
-],
+  ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}
 }
