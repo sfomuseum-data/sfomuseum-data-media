@@ -2,228 +2,232 @@
   "id": 1159340617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38902,37.614533,-122.38902,37.614533",
-    "geom:latitude":37.614533,
-    "geom:longitude":-122.38902,
-    "iso:country":"US",
-    "media:created":1491505401,
-    "media:fingerprint":"3cf2eee90ef5add85e04cc11214a603321135b14",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#bf4f51",
-                        "name":"Bittersweet Shimmer",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bf504a",
-                "name":"#bf504a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6a2229",
-                "name":"#6a2229",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#987665",
-                "name":"#987665",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#acbdc2",
-                "name":"#acbdc2",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#22443e",
-                "name":"#22443e",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160665"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":560
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":438
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":438
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":175
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3600,
-                "mimetype":"image/jpeg",
-                "secret":"mRpCrbNTuDNztvByKTSDpgNnjX7OdJk4ELVYLPC36342khNqham4",
-                "width":2629
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
-                "width":350
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528918373,
-    "wof:depicts":[
-        102527513,
-        1360516271,
-        1159396321,
-        1159396153,
-        1159160665
-    ],
-    "wof:geomhash":"6bedd4d61f77b4621a51a918f70dcc8c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
+    "geom:latitude": 37.614533,
+    "geom:longitude": -122.38902,
+    "iso:country": "US",
+    "media:created": 1491505401,
+    "media:fingerprint": "3cf2eee90ef5add85e04cc11214a603321135b14",
+    "media:imagehash_avg": "a:43ffc7070191ff3c",
+    "media:imagehash_diff": "d:d79e8e4e1d37b4e0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159340617,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#bf4f51",
+              "name": "Bittersweet Shimmer",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bf504a",
+          "name": "#bf504a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6a2229",
+          "name": "#6a2229",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#987665",
+          "name": "#987665",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#acbdc2",
+          "name": "#acbdc2",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#22443e",
+          "name": "#22443e",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160665"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 560
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 438
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 438
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 175
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "mRpCrbNTuDNztvByKTSDpgNnjX7OdJk4ELVYLPC36342khNqham4",
+          "width": 2629
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "H03G7CqN1Qayr0BHWuuytCkZLs2FYo8xRIYm7EoZ8amkOL4m9Szp",
+          "width": 350
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85922583, 
+      85688637, 
+      102527513, 
+      1159340617, 
+      1159396153, 
+      102087579, 
+      102191575, 
+      85633793, 
+      1159396321
     ],
-    "wof:id":1159340617,
-    "wof:lastmodified":1545938662,
-    "wof:name":"Installation view of \"Stepping Out: Shoes in World Cultures\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528918373,
+    "wof:depicts": [
+      102527513, 
+      1360516271, 
+      1159396321, 
+      1159396153, 
+      1159160665
+    ],
+    "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159340617,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159340617,
+    "wof:lastmodified": 1577130229,
+    "wof:name": "Installation view of \"Stepping Out: Shoes in World Cultures\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38902,
-    37.614533,
-    -122.38902,
+    -122.38902, 
+    37.614533, 
+    -122.38902, 
     37.614533
-],
+  ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
 }
