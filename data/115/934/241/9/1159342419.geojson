@@ -2,228 +2,232 @@
   "id": 1159342419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38902,37.614533,-122.38902,37.614533",
-    "geom:latitude":37.614533,
-    "geom:longitude":-122.38902,
-    "iso:country":"US",
-    "media:created":1437067698,
-    "media:fingerprint":"0b46c546e9acaffad3f54b5dfa5a9593fe910093",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#d68a59",
-                        "name":"Raw Sienna",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cb7c42",
-                "name":"#cb7c42",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#bab86c",
-                        "name":"Olive Green",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#deb887",
-                        "name":"burlywood",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d9c270",
-                "name":"#d9c270",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#975632",
-                "name":"#975632",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#937c6b",
-                "name":"#937c6b",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c9bbb1",
-                "name":"#c9bbb1",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160585"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":733,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":572,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":572,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":229,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"evMIsNcJtZynQ5348gUC4wOiXi381t8HFKENUMmrwh5gNDWYU2iP",
-                "width":3352
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":458,
-                "mimetype":"image/jpeg",
-                "secret":"lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528921889,
-    "wof:depicts":[
-        102527513,
-        1360516271,
-        1159396321,
-        1159396153,
-        1159160585
-    ],
-    "wof:geomhash":"6bedd4d61f77b4621a51a918f70dcc8c",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
+    "geom:latitude": 37.614533,
+    "geom:longitude": -122.38902,
+    "iso:country": "US",
+    "media:created": 1437067698,
+    "media:fingerprint": "0b46c546e9acaffad3f54b5dfa5a9593fe910093",
+    "media:imagehash_avg": "a:1fdfc7c0e0f1e181",
+    "media:imagehash_diff": "d:fb9b1b0e07030307",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342419,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#d68a59",
+              "name": "Raw Sienna",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cb7c42",
+          "name": "#cb7c42",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#bab86c",
+              "name": "Olive Green",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#deb887",
+              "name": "burlywood",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d9c270",
+          "name": "#d9c270",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#975632",
+          "name": "#975632",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#937c6b",
+          "name": "#937c6b",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c9bbb1",
+          "name": "#c9bbb1",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160585"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 733,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 572,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 572,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 229,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "evMIsNcJtZynQ5348gUC4wOiXi381t8HFKENUMmrwh5gNDWYU2iP",
+          "width": 3352
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 458,
+          "mimetype": "image/jpeg",
+          "secret": "lmJkw4gZbp88iwINACHnS9kEw7ur4dN0O5BcCdQNrZu0J9GhqJkc",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688637, 
+      1159396153, 
+      102191575, 
+      85922583, 
+      102527513, 
+      1159342419, 
+      85633793, 
+      102087579, 
+      1159396321
     ],
-    "wof:id":1159342419,
-    "wof:lastmodified":1545938659,
-    "wof:name":"Installation view of \"I Love You California: A Natural History\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528921889,
+    "wof:depicts": [
+      102527513, 
+      1360516271, 
+      1159396321, 
+      1159396153, 
+      1159160585
+    ],
+    "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342419,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159342419,
+    "wof:lastmodified": 1577132146,
+    "wof:name": "Installation view of \"I Love You California: A Natural History\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38902,
-    37.614533,
-    -122.38902,
+    -122.38902, 
+    37.614533, 
+    -122.38902, 
     37.614533
-],
+  ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}
 }
