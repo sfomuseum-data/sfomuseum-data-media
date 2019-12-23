@@ -2,231 +2,235 @@
   "id": 1159340433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382712,37.617422,-122.382712,37.617422",
-    "geom:latitude":37.617422,
-    "geom:longitude":-122.382712,
-    "iso:country":"US",
-    "media:created":1518026063,
-    "media:fingerprint":"fd6064c8cb47483fb76fc5009169b324d79736ef",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#b4674d",
-                        "name":"Brown",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ca724f",
-                "name":"#ca724f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#efdecd",
-                        "name":"Almond",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#dcdcdc",
-                        "name":"gainsboro",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e9d8c9",
-                "name":"#e9d8c9",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#8a795d",
-                        "name":"Shadow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#8d7869",
-                "name":"#8d7869",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d5c1b1",
-                "name":"#d5c1b1",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#333a45",
-                "name":"#333a45",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160649"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"FY0Sgssn3my4OXfeHWDsmKrM06MzpFjR7KoFBivoSLTn3JTaPeeV",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396181,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159396121,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528917682,
-    "wof:depicts":[
-        1159396181,
-        102527513,
-        1159157067,
-        1159157271,
-        1159396121,
-        1159160649
-    ],
-    "wof:geomhash":"61c3061fada793d45fb528e1dd2a89d0",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
+    "geom:latitude": 37.617422,
+    "geom:longitude": -122.382712,
+    "iso:country": "US",
+    "media:created": 1518026063,
+    "media:fingerprint": "fd6064c8cb47483fb76fc5009169b324d79736ef",
+    "media:imagehash_avg": "a:302323034fefffff",
+    "media:imagehash_diff": "d:e6e6e6c6dad9195b",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159396181,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159340433,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396121
+          "closest": [
+            {
+              "hex": "#b4674d",
+              "name": "Brown",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ca724f",
+          "name": "#ca724f",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#efdecd",
+              "name": "Almond",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#dcdcdc",
+              "name": "gainsboro",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e9d8c9",
+          "name": "#e9d8c9",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#8a795d",
+              "name": "Shadow",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#8d7869",
+          "name": "#8d7869",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d5c1b1",
+          "name": "#d5c1b1",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#333a45",
+          "name": "#333a45",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160649"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "FY0Sgssn3my4OXfeHWDsmKrM06MzpFjR7KoFBivoSLTn3JTaPeeV",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "g7ct88bcqcRyXZXtDsJEztUTAG3Qq1batYs3N0ApE3cESofsZr36",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      85688637, 
+      1159396121, 
+      102527513, 
+      102191575, 
+      1159340433, 
+      1159157271, 
+      1159396181, 
+      85922583, 
+      85633793, 
+      102087579
     ],
-    "wof:id":1159340433,
-    "wof:lastmodified":1545938661,
-    "wof:name":"Installation view of \"Maneki Neko: Japan\u2019s Beckoning Cat\"",
-    "wof:parent_id":1159396181,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528917682,
+    "wof:depicts": [
+      1159396181, 
+      102527513, 
+      1159157067, 
+      1159157271, 
+      1159396121, 
+      1159160649
+    ],
+    "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159396181,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159340433,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396121
+      }
+    ],
+    "wof:id": 1159340433,
+    "wof:lastmodified": 1577130022,
+    "wof:name": "Installation view of \"Maneki Neko: Japan’s Beckoning Cat\"",
+    "wof:parent_id": 1159396181,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.382712,
-    37.617422,
-    -122.382712,
+    -122.382712, 
+    37.617422, 
+    -122.382712, 
     37.617422
-],
+  ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
 }
