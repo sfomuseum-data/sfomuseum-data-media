@@ -2,231 +2,235 @@
   "id": 1159340035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389412,37.615761,-122.389412,37.615761",
-    "geom:latitude":37.615761,
-    "geom:longitude":-122.389412,
-    "iso:country":"US",
-    "media:created":1506970231,
-    "media:fingerprint":"5d73344295102b43e2c33acacaa58acf0df71413",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#b4674d",
-                        "name":"Brown",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b77f4e",
-                "name":"#b77f4e",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cbad8a",
-                "name":"#cbad8a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#000000",
-                        "name":"Black",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#000000",
-                        "name":"black",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#251a0f",
-                "name":"#251a0f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bb8c62",
-                "name":"#bb8c62",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d5c8ba",
-                "name":"#d5c8ba",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160707"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":960
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":750
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":750
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":300
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2880,
-                "mimetype":"image/jpeg",
-                "secret":"La0qVQ9SJrZDPp4RUivSa4rg9AiJo1YwyUPpLvViQgW3d2P4KKfy",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
-                "width":600
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159157335,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159157333,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528850800,
-    "wof:depicts":[
-        1159157335,
-        102527513,
-        1159157863,
-        1159157271,
-        1159157333,
-        1159160707
-    ],
-    "wof:geomhash":"f1b927081dc10bf57e0dae974cfd758f",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
+    "geom:latitude": 37.615761,
+    "geom:longitude": -122.389412,
+    "iso:country": "US",
+    "media:created": 1506970231,
+    "media:fingerprint": "5d73344295102b43e2c33acacaa58acf0df71413",
+    "media:imagehash_avg": "a:ffffff80ccff0000",
+    "media:imagehash_diff": "d:fb7fed1999f11d3f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157335,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159340035,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157333
+          "closest": [
+            {
+              "hex": "#b4674d",
+              "name": "Brown",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b77f4e",
+          "name": "#b77f4e",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cbad8a",
+          "name": "#cbad8a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#000000",
+              "name": "Black",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#000000",
+              "name": "black",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#251a0f",
+          "name": "#251a0f",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bb8c62",
+          "name": "#bb8c62",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d5c8ba",
+          "name": "#d5c8ba",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160707"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 960
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 750
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 750
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 300
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2880,
+          "mimetype": "image/jpeg",
+          "secret": "La0qVQ9SJrZDPp4RUivSa4rg9AiJo1YwyUPpLvViQgW3d2P4KKfy",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "xiu9oy4IRxhhNQP55eiRMNOrP0bk4J4B7fLZgSjqdh9Oe7BsRufC",
+          "width": 600
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159157271, 
+      102527513, 
+      102087579, 
+      1159157333, 
+      85633793, 
+      85922583, 
+      1159157335, 
+      102191575, 
+      1159340035, 
+      85688637
     ],
-    "wof:id":1159340035,
-    "wof:lastmodified":1545938661,
-    "wof:name":"Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
-    "wof:parent_id":1159157335,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528850800,
+    "wof:depicts": [
+      1159157335, 
+      102527513, 
+      1159157863, 
+      1159157271, 
+      1159157333, 
+      1159160707
+    ],
+    "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159340035,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157333
+      }
+    ],
+    "wof:id": 1159340035,
+    "wof:lastmodified": 1577129838,
+    "wof:name": "Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
+    "wof:parent_id": 1159157335,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389412,
-    37.615761,
-    -122.389412,
+    -122.389412, 
+    37.615761, 
+    -122.389412, 
     37.615761
-],
-  "geometry": {"coordinates":[-122.38941199999999,37.615761],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}
 }
