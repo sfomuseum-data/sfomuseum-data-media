@@ -2,231 +2,235 @@
   "id": 1159343153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382712,37.617422,-122.382712,37.617422",
-    "geom:latitude":37.617422,
-    "geom:longitude":-122.382712,
-    "iso:country":"US",
-    "media:created":1417821454,
-    "media:fingerprint":"b5a82df811478b80df90f0d7b0cd9161b8dfa5a0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#1a4876",
-                        "name":"Midnight Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#191970",
-                        "name":"midnightblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#271a95",
-                "name":"#271a95",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#1a4876",
-                        "name":"Midnight Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#191970",
-                        "name":"midnightblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#2a2077",
-                "name":"#2a2077",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#8a795d",
-                        "name":"Shadow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#696969",
-                        "name":"dimgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#827566",
-                "name":"#827566",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c1b9ac",
-                "name":"#c1b9ac",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5d4835",
-                "name":"#5d4835",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160515"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"iBqMZygcce7czXfDpLnyzfcbuZkrtuS6vQAFogS6nzjP3rilwZLa",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396193,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159157325,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528925337,
-    "wof:depicts":[
-        1159396193,
-        102527513,
-        1360516255,
-        1159396321,
-        1159157325,
-        1159160515
-    ],
-    "wof:geomhash":"61c3061fada793d45fb528e1dd2a89d0",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
+    "geom:latitude": 37.617422,
+    "geom:longitude": -122.382712,
+    "iso:country": "US",
+    "media:created": 1417821454,
+    "media:fingerprint": "b5a82df811478b80df90f0d7b0cd9161b8dfa5a0",
+    "media:imagehash_avg": "a:f8f8f8981c1838ff",
+    "media:imagehash_diff": "d:33333333307363e2",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396193,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343153,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159157325
+          "closest": [
+            {
+              "hex": "#1a4876",
+              "name": "Midnight Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#191970",
+              "name": "midnightblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#271a95",
+          "name": "#271a95",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#1a4876",
+              "name": "Midnight Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#191970",
+              "name": "midnightblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#2a2077",
+          "name": "#2a2077",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#8a795d",
+              "name": "Shadow",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#696969",
+              "name": "dimgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#827566",
+          "name": "#827566",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c1b9ac",
+          "name": "#c1b9ac",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5d4835",
+          "name": "#5d4835",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160515"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "iBqMZygcce7czXfDpLnyzfcbuZkrtuS6vQAFogS6nzjP3rilwZLa",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "9qjFfMDzS4so1gDE0DPnlmHzk2q5i51prhISmA2EUvB5pC4w7omR",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102087579, 
+      85922583, 
+      85688637, 
+      1159396321, 
+      102527513, 
+      1159343153, 
+      1159396193, 
+      102191575, 
+      85633793, 
+      1159157325
     ],
-    "wof:id":1159343153,
-    "wof:lastmodified":1545938653,
-    "wof:name":"Installation view of \"Studio Glass, The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson\"",
-    "wof:parent_id":1159396193,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528925337,
+    "wof:depicts": [
+      1159396193, 
+      102527513, 
+      1360516255, 
+      1159396321, 
+      1159157325, 
+      1159160515
+    ],
+    "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396193,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343153,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159157325
+      }
+    ],
+    "wof:id": 1159343153,
+    "wof:lastmodified": 1577133039,
+    "wof:name": "Installation view of \"Studio Glass, The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson\"",
+    "wof:parent_id": 1159396193,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.382712,
-    37.617422,
-    -122.382712,
+    -122.382712, 
+    37.617422, 
+    -122.382712, 
     37.617422
-],
+  ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
 }
