@@ -2,228 +2,232 @@
   "id": 1159343359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1407342442,
-    "media:fingerprint":"dec4d22ab5b4ae2189ccd6dfaabdd40e91f26e2a",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#c46210",
-                        "name":"Alloy Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b8860b",
-                        "name":"darkgoldenrod",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cb8019",
-                "name":"#cb8019",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#ffae42",
-                        "name":"Yellow Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f4a460",
-                        "name":"sandybrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#f4bc51",
-                "name":"#f4bc51",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#784b2e",
-                "name":"#784b2e",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#817f7a",
-                "name":"#817f7a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b1b6bc",
-                "name":"#b1b6bc",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160509"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":512
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":400
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":400
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":160
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"eptkHcOK8CQiUbqhIyStW9CKKmx5P8bdQVckqt2uyKEfxUvYSKm3",
-                "width":1600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
-                "width":320
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528925678,
-    "wof:depicts":[
-        102527513,
-        1360516281,
-        1159396321,
-        1159396153,
-        1159160509
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1407342442,
+    "media:fingerprint": "dec4d22ab5b4ae2189ccd6dfaabdd40e91f26e2a",
+    "media:imagehash_avg": "a:00ffffff8581b000",
+    "media:imagehash_diff": "d:979e8e0c1d256347",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343359,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#c46210",
+              "name": "Alloy Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b8860b",
+              "name": "darkgoldenrod",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cb8019",
+          "name": "#cb8019",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#ffae42",
+              "name": "Yellow Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#f4a460",
+              "name": "sandybrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#f4bc51",
+          "name": "#f4bc51",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#784b2e",
+          "name": "#784b2e",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#817f7a",
+          "name": "#817f7a",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b1b6bc",
+          "name": "#b1b6bc",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160509"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 512
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 400
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 400
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 160
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "eptkHcOK8CQiUbqhIyStW9CKKmx5P8bdQVckqt2uyKEfxUvYSKm3",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "keXEGQGVTBNY7smBR8v2TREpoTmKhamru8UP10NsSub4r4QbCjLU",
+          "width": 320
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159396321, 
+      102191575, 
+      85688637, 
+      102087579, 
+      1159343359, 
+      85633793, 
+      85922583, 
+      1159396153, 
+      102527513
     ],
-    "wof:id":1159343359,
-    "wof:lastmodified":1545938656,
-    "wof:name":"Installation view of \"A Radiant Light: The Artistry of Louis C. Tiffany\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528925678,
+    "wof:depicts": [
+      102527513, 
+      1360516281, 
+      1159396321, 
+      1159396153, 
+      1159160509
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343359,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159343359,
+    "wof:lastmodified": 1577133258,
+    "wof:name": "Installation view of \"A Radiant Light: The Artistry of Louis C. Tiffany\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
