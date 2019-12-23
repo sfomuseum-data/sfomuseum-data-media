@@ -2,231 +2,235 @@
   "id": 1159342567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387197,37.619087,-122.387197,37.619087",
-    "geom:latitude":37.619087,
-    "geom:longitude":-122.387197,
-    "iso:country":"US",
-    "media:created":1437401327,
-    "media:fingerprint":"34bc867c1bb1e915bf0746b64201bcaf01b13eeb",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ffae42",
-                        "name":"Yellow Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#daa520",
-                        "name":"goldenrod",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e7c231",
-                "name":"#e7c231",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#fcd975",
-                        "name":"Goldenrod",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f0e68c",
-                        "name":"khaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#f3de73",
-                "name":"#f3de73",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#c46210",
-                        "name":"Alloy Orange",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b8860b",
-                        "name":"darkgoldenrod",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#be910d",
-                "name":"#be910d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#708090",
-                        "name":"slategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#747989",
-                "name":"#747989",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b6bfd6",
-                "name":"#b6bfd6",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160525"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"GfnCtbLmkbCBTN6pXL2nRFzGtIF7GAgSr7gQbboikrALvZF358e7",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1159396315,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396157,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528922183,
-    "wof:depicts":[
-        1159396315,
-        102527513,
-        1360516119,
-        1159396321,
-        1159396157,
-        1159160525
-    ],
-    "wof:geomhash":"86e9b7d5fe1f6f1a6479fa62588a1dea",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
+    "geom:latitude": 37.619087,
+    "geom:longitude": -122.387197,
+    "iso:country": "US",
+    "media:created": 1437401327,
+    "media:fingerprint": "34bc867c1bb1e915bf0746b64201bcaf01b13eeb",
+    "media:imagehash_avg": "a:7f3f2808080c060f",
+    "media:imagehash_diff": "d:fbbaea7878793e3e",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "concourse_id":1159396315,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159342567,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396157
+          "closest": [
+            {
+              "hex": "#ffae42",
+              "name": "Yellow Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#daa520",
+              "name": "goldenrod",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#e7c231",
+          "name": "#e7c231",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#fcd975",
+              "name": "Goldenrod",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#f0e68c",
+              "name": "khaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#f3de73",
+          "name": "#f3de73",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#c46210",
+              "name": "Alloy Orange",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b8860b",
+              "name": "darkgoldenrod",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#be910d",
+          "name": "#be910d",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#708090",
+              "name": "slategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#747989",
+          "name": "#747989",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b6bfd6",
+          "name": "#b6bfd6",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160525"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "GfnCtbLmkbCBTN6pXL2nRFzGtIF7GAgSr7gQbboikrALvZF358e7",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "6XFO6ei191oXz6S596j9yXfeQTXnB1rONWW7Wu7wo7yDGrvG5EMY",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      1159342567, 
+      85688637, 
+      1159396315, 
+      102191575, 
+      102087579, 
+      85633793, 
+      85922583, 
+      1159396321, 
+      102527513, 
+      1159396157
     ],
-    "wof:id":1159342567,
-    "wof:lastmodified":1545938652,
-    "wof:name":"Installation view of \"Life and Style in the Age of Art Deco\"",
-    "wof:parent_id":1159396315,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528922183,
+    "wof:depicts": [
+      1159396315, 
+      102527513, 
+      1360516119, 
+      1159396321, 
+      1159396157, 
+      1159160525
+    ],
+    "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "concourse_id": 1159396315,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159342567,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396157
+      }
+    ],
+    "wof:id": 1159342567,
+    "wof:lastmodified": 1577132355,
+    "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
+    "wof:parent_id": 1159396315,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.387197,
-    37.619087,
-    -122.387197,
+    -122.387197, 
+    37.619087, 
+    -122.387197, 
     37.619087
-],
+  ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}
 }
