@@ -2,228 +2,232 @@
   "id": 1159343255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389725,37.616594,-122.389725,37.616594",
-    "geom:latitude":37.616594,
-    "geom:longitude":-122.389725,
-    "iso:country":"US",
-    "media:created":1392074260,
-    "media:fingerprint":"f4bd2143eec72f6efd61abbc73379ecf76b778ef",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ee204d",
-                        "name":"Red",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#dc143c",
-                        "name":"crimson",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ea3554",
-                "name":"#ea3554",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#c5d0e6",
-                        "name":"Periwinkle",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#e6e6fa",
-                        "name":"lavender",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d6e4f0",
-                "name":"#d6e4f0",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a07559",
-                "name":"#a07559",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#c5d0e6",
-                        "name":"Periwinkle",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bdcedd",
-                "name":"#bdcedd",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#413a33",
-                "name":"#413a33",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160471"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":1023
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"FYWculPfbvHFwdEP90qHPr9cyUz2v3TXRmCWYNDGTbGvVt2q3ULv",
-                "width":3599
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528925508,
-    "wof:depicts":[
-        102527513,
-        1360516281,
-        1159396321,
-        1159396153,
-        1159160471
-    ],
-    "wof:geomhash":"ae3c0a2511e40d66a074eaad4fa505ef",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
+    "geom:latitude": 37.616594,
+    "geom:longitude": -122.389725,
+    "iso:country": "US",
+    "media:created": 1392074260,
+    "media:fingerprint": "f4bd2143eec72f6efd61abbc73379ecf76b778ef",
+    "media:imagehash_avg": "a:f0f8f8fcf8f87834",
+    "media:imagehash_diff": "d:e06060646050c064",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343255,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#ee204d",
+              "name": "Red",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#dc143c",
+              "name": "crimson",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ea3554",
+          "name": "#ea3554",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#c5d0e6",
+              "name": "Periwinkle",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#e6e6fa",
+              "name": "lavender",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d6e4f0",
+          "name": "#d6e4f0",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a07559",
+          "name": "#a07559",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#c5d0e6",
+              "name": "Periwinkle",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bdcedd",
+          "name": "#bdcedd",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#413a33",
+          "name": "#413a33",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160471"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "FYWculPfbvHFwdEP90qHPr9cyUz2v3TXRmCWYNDGTbGvVt2q3ULv",
+          "width": 3599
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "8eG8cny531oar1o2AhIIHlRbSIxOixKlh6AG3m8MvcwyHiGn4aYM",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102087579, 
+      85922583, 
+      1159343255, 
+      1159396153, 
+      102191575, 
+      85633793, 
+      85688637, 
+      1159396321, 
+      102527513
     ],
-    "wof:id":1159343255,
-    "wof:lastmodified":1545938655,
-    "wof:name":"Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528925508,
+    "wof:depicts": [
+      102527513, 
+      1360516281, 
+      1159396321, 
+      1159396153, 
+      1159160471
+    ],
+    "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343255,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159343255,
+    "wof:lastmodified": 1577133152,
+    "wof:name": "Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389725,
-    37.616594,
-    -122.389725,
+    -122.389725, 
+    37.616594, 
+    -122.389725, 
     37.616594
-],
+  ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}
 }
