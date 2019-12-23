@@ -2,211 +2,215 @@
   "id": 1159341997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389131,37.616029,-122.389131,37.616029",
-    "geom:latitude":37.616029,
-    "geom:longitude":-122.389131,
-    "iso:country":"US",
-    "media:created":1487266671,
-    "media:fingerprint":"df2449e7e774521b45081ac5e87803ba3d8056eb",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d5bea4",
-                "name":"#d5bea4",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a1815c",
-                "name":"#a1815c",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d8cab7",
-                "name":"#d8cab7",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#483c35",
-                "name":"#483c35",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160593"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"EwoZYkSfpIuOcmQLT8VviUM3ZhVsnSW0IecQeaKpNi1bGss0zRjq",
-                "width":3600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528921067,
-    "wof:depicts":[
-        102527513,
-        1360516191,
-        1159396321,
-        1159396153,
-        1159160593
-    ],
-    "wof:geomhash":"6d7e5f16d5e28971a22edfa865df72b7",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
+    "geom:latitude": 37.616029,
+    "geom:longitude": -122.389131,
+    "iso:country": "US",
+    "media:created": 1487266671,
+    "media:fingerprint": "df2449e7e774521b45081ac5e87803ba3d8056eb",
+    "media:imagehash_avg": "a:7fffff632363c000",
+    "media:imagehash_diff": "d:aecfcbc7c7c6071f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159341997,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d5bea4",
+          "name": "#d5bea4",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a1815c",
+          "name": "#a1815c",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d8cab7",
+          "name": "#d8cab7",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#483c35",
+          "name": "#483c35",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160593"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "EwoZYkSfpIuOcmQLT8VviUM3ZhVsnSW0IecQeaKpNi1bGss0zRjq",
+          "width": 3600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "EeqWHcXSytkO2ekKRU6eN9G1ovp2dLqnb87JIPGNIMHBPUpB6Nz5",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85922583, 
+      1159341997, 
+      1159396153, 
+      1159396321, 
+      85633793, 
+      85688637, 
+      102087579
     ],
-    "wof:id":1159341997,
-    "wof:lastmodified":1545938657,
-    "wof:name":"Installation view of \"All Roads Lead to Rome: 17th - 19th Century Architectural Models from the Collection of Piraneseum\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528921067,
+    "wof:depicts": [
+      102527513, 
+      1360516191, 
+      1159396321, 
+      1159396153, 
+      1159160593
+    ],
+    "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159341997,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159341997,
+    "wof:lastmodified": 1577131650,
+    "wof:name": "Installation view of \"All Roads Lead to Rome: 17th - 19th Century Architectural Models from the Collection of Piraneseum\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.389131,
-    37.616029,
-    -122.389131,
+    -122.389131, 
+    37.616029, 
+    -122.389131, 
     37.616029
-],
-  "geometry": {"coordinates":[-122.38913100000001,37.616029],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
 }
