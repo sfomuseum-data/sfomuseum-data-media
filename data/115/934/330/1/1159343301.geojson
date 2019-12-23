@@ -2,229 +2,233 @@
   "id": 1159343301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388942,37.615424,-122.388942,37.615424",
-    "geom:latitude":37.615424,
-    "geom:longitude":-122.388942,
-    "iso:country":"US",
-    "media:created":1401904835,
-    "media:fingerprint":"3734ac8cea1174c5b58420ea7cefa005789b1d8a",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c49462",
-                "name":"#c49462",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cca573",
-                "name":"#cca573",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#563f28",
-                "name":"#563f28",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#85754e",
-                        "name":"Gold Fusion",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#957450",
-                "name":"#957450",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d1c5b5",
-                "name":"#d1c5b5",
-                "reference":"vibrant"
-            }
-        ],
-        "depicts":[
-            "1159160377"
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":684,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"EqRZdSdYZwSx1s4rB4pr7nId6JGz4gtSK4W1CAwHXYc8F2Ej8jsz",
-                "width":3589
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":427,
-                "mimetype":"image/jpeg",
-                "secret":"GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
-                "width":640
-            }
-        },
-        "source":"user",
-        "status_id":0
-    },
-    "media:source":"sfomuseum",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_approximate":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159396321,
-        1159396153,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1528925585,
-    "wof:depicts":[
-        102527513,
-        1360516181,
-        1159396321,
-        1159396153,
-        1159160377,
-        1360516191
-    ],
-    "wof:geomhash":"02da6b5dec20c7e97a2493c7e34f9a62",
-    "wof:hierarchy":[
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
+    "geom:latitude": 37.615424,
+    "geom:longitude": -122.388942,
+    "iso:country": "US",
+    "media:created": 1401904835,
+    "media:fingerprint": "3734ac8cea1174c5b58420ea7cefa005789b1d8a",
+    "media:imagehash_avg": "a:670f4f6767070103",
+    "media:imagehash_diff": "d:afbf9f8b8b8e97ff",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "building_id":1159396321,
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159343301,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "wing_id":1159396153
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c49462",
+          "name": "#c49462",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cca573",
+          "name": "#cca573",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#563f28",
+          "name": "#563f28",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#85754e",
+              "name": "Gold Fusion",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#957450",
+          "name": "#957450",
+          "reference": "vibrant"
+        }, 
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            }, 
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d1c5b5",
+          "name": "#d1c5b5",
+          "reference": "vibrant"
         }
+      ],
+      "depicts": [
+        "1159160377"
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 684,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "EqRZdSdYZwSx1s4rB4pr7nId6JGz4gtSK4W1CAwHXYc8F2Ej8jsz",
+          "width": 3589
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 427,
+          "mimetype": "image/jpeg",
+          "secret": "GsgyesK9siHUHUQ7QnidfzyXgw3HHkJgnYGATkUZg1MDgDNbVCkd",
+          "width": 640
+        }
+      },
+      "source": "user",
+      "status_id": 0
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      85922583, 
+      102191575, 
+      85688637, 
+      1159396153, 
+      1159396321, 
+      85633793, 
+      102087579, 
+      1159343301
     ],
-    "wof:id":1159343301,
-    "wof:lastmodified":1545938643,
-    "wof:name":"Installation view of \"Doors: Entryways to World Culture\"",
-    "wof:parent_id":1159396153,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1528925585,
+    "wof:depicts": [
+      102527513, 
+      1360516181, 
+      1159396321, 
+      1159396153, 
+      1159160377, 
+      1360516191
+    ],
+    "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396321,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1159343301,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159396153
+      }
+    ],
+    "wof:id": 1159343301,
+    "wof:lastmodified": 1577133198,
+    "wof:name": "Installation view of \"Doors: Entryways to World Culture\"",
+    "wof:parent_id": 1159396153,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -122.388942,
-    37.615424,
-    -122.388942,
+    -122.388942, 
+    37.615424, 
+    -122.388942, 
     37.615424
-],
+  ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}
 }
