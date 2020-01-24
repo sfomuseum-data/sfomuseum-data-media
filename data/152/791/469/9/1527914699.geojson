@@ -1,0 +1,181 @@
+{
+  "id": 1527914699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2020-06-24",
+    "edtf:inception": "2019-09-28",
+    "geom:area": 0,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
+    "iso:country": "US",
+    "media:created": 1570889309,
+    "media:fingerprint": "9bfa6261a991f980804c3ed5d282b0ae7d36c851",
+    "media:imagehash_avg": "a:ffff7b11101e3818",
+    "media:imagehash_diff": "d:e0e0f23333f0e0f0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#807f72",
+          "name": "#807f72",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#c4c4bb",
+          "name": "#c4c4bb",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#4a473c",
+          "name": "#4a473c",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "F6G3zeTchESLTp5iS82OKNzRXVUkgqWY",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "FMKizBuGb3KolhgtzjDhV9FPx1cw50oU",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/152/791/469/9/1527914699_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      85688637, 
+      1495157237, 
+      554784711, 
+      1477855605, 
+      1477855943, 
+      102085387, 
+      102527513, 
+      1477855937, 
+      1477855833, 
+      85633793, 
+      102191575, 
+      102087579, 
+      1477855927, 
+      85922583
+    ],
+    "wof:country": "US",
+    "wof:created": 1579829350,
+    "wof:depicts": [
+      1477855833, 
+      1477855927, 
+      1477855943, 
+      1495157237, 
+      1477855605, 
+      1477855937
+    ],
+    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855943,
+        "installation_id": 1495157237,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      }, 
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855943,
+        "installation_id": 1495157237,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      }
+    ],
+    "wof:id": 1527914699,
+    "wof:lastmodified": 1579829377,
+    "wof:name": "Installation view of \"Above the Bay: The Aerial Photography of Stanley Page\"",
+    "wof:parent_id": 1495157237,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.387939, 
+    37.614512, 
+    -122.387939, 
+    37.614512
+  ],
+  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+}
