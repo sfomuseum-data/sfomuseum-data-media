@@ -1,0 +1,166 @@
+{
+  "id": 1713283783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "1999-04-01",
+    "edtf:inception": "1998-07-30",
+    "geom:area": 0,
+    "geom:bbox": "-122.385472,37.613926,-122.385472,37.613926",
+    "geom:latitude": 37.613926,
+    "geom:longitude": -122.385472,
+    "iso:country": "US",
+    "media:fingerprint": "4c8e5f58f0a644e210180d73c00cf30fa913cd7e",
+    "media:imagehash_avg": "a:ff3f43003434363e",
+    "media:imagehash_diff": "d:3e7757d3c4ecccf0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#4775b0",
+          "name": "#4775b0",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#9bb8e6",
+          "name": "#9bb8e6",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#173665",
+          "name": "#173665",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#6b87b2",
+          "name": "#6b87b2",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b4b6ca",
+          "name": "#b4b6ca",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 668,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 522,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 522,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1336,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 208,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2090,
+          "mimetype": "image/jpeg",
+          "secret": "5CmStCnxG3RVa2tcpMvMWTdts3ZoOqgP",
+          "width": 3203
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 417,
+          "mimetype": "image/jpeg",
+          "secret": "JTfloRzpJgtdEUwLVaOopktMAjdEALa3",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/171/328/378/3/1713283783_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1226604431, 
+      85922583, 
+      102191575, 
+      85633793, 
+      1159554817, 
+      102087579, 
+      1159157875, 
+      102527513, 
+      85688637, 
+      1159554803
+    ],
+    "wof:country": "US",
+    "wof:created": 1594766297,
+    "wof:depicts": [
+      1226604431
+    ],
+    "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159554803,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1159157875,
+        "installation_id": 1226604431,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "wing_id": 1159554817
+      }
+    ],
+    "wof:id": 1713283783,
+    "wof:lastmodified": 1594766362,
+    "wof:name": "Platform Shoes - History - 60’s Fashion - Today",
+    "wof:parent_id": 1226604431,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.385472, 
+    37.613926, 
+    -122.385472, 
+    37.613926
+  ],
+  "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}
+}
