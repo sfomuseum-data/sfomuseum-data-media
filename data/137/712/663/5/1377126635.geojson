@@ -2,209 +2,200 @@
   "id": 1377126635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "2016-05-26",
-    "edtf:inception": "2015-11-16",
-    "geom:area": 0,
-    "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
-    "geom:latitude": 37.617422,
-    "geom:longitude": -122.382712,
-    "iso:country": "US",
-    "media:created": 1448985008,
-    "media:fingerprint": "39b9dc162b88242a9ab50759ce51472c19a2b6b0",
-    "media:imagehash_avg": "a:6879858e38fcfeff",
-    "media:imagehash_diff": "d:d9cb191cf4b0e0e0",
-    "media:medium": "image",
-    "media:mimetype": "image/jpeg",
-    "media:properties": {
-      "colours": [
-        {
-          "hex": "#0f42eb",
-          "name": "#0f42eb",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#5db9f3",
-          "name": "#5db9f3",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#2e47a2",
-          "name": "#2e47a2",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#5c74a7",
-          "name": "#5c74a7",
-          "reference": "vibrant"
-        }, 
-        {
-          "hex": "#cbbda3",
-          "name": "#cbbda3",
-          "reference": "vibrant"
+    "date:cessation_lower":"2016-05-26",
+    "date:cessation_upper":"2016-05-26",
+    "date:inception_lower":"2015-11-16",
+    "date:inception_upper":"2015-11-16",
+    "edtf:cessation":"2016-05-26",
+    "edtf:inception":"2015-11-16",
+    "geom:area":0.0,
+    "geom:bbox":"-122.382712,37.617422,-122.382712,37.617422",
+    "geom:latitude":37.617422,
+    "geom:longitude":-122.382712,
+    "iso:country":"US",
+    "media:created":1448985008,
+    "media:fingerprint":"39b9dc162b88242a9ab50759ce51472c19a2b6b0",
+    "media:imagehash_avg":"a:6879858e38fcfeff",
+    "media:imagehash_diff":"d:d9cb191cf4b0e0e0",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "colours":[
+            {
+                "hex":"#0f42eb",
+                "name":"#0f42eb",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#5db9f3",
+                "name":"#5db9f3",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#2e47a2",
+                "name":"#2e47a2",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#5c74a7",
+                "name":"#5c74a7",
+                "reference":"vibrant"
+            },
+            {
+                "hex":"#cbbda3",
+                "name":"#cbbda3",
+                "reference":"vibrant"
+            }
+        ],
+        "depicts":[
+            1159160551
+        ],
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":768,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":614
+            },
+            "c":{
+                "extension":"jpg",
+                "height":600,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":480
+            },
+            "dc":{
+                "extension":"jpg",
+                "height":600,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":480
+            },
+            "ds":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":320
+            },
+            "k":{
+                "extension":"jpg",
+                "height":1536,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":1228
+            },
+            "n":{
+                "extension":"jpg",
+                "height":240,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":192
+            },
+            "o":{
+                "extension":"jpg",
+                "height":3600,
+                "mimetype":"image/jpeg",
+                "secret":"as3w8tDVGPbCKu53EVsOoRfxyeOTk0W0",
+                "width":2880
+            },
+            "s":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":480,
+                "mimetype":"image/jpeg",
+                "secret":"6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
+                "width":384
+            }
         }
-      ],
-      "depicts": [
-        1159160551
-      ],
-      "sizes": {
-        "b": {
-          "extension": "jpg",
-          "height": 768,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 614
-        },
-        "c": {
-          "extension": "jpg",
-          "height": 600,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 480
-        },
-        "dc": {
-          "extension": "jpg",
-          "height": 600,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 480
-        },
-        "ds": {
-          "extension": "jpg",
-          "height": 320,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 320
-        },
-        "k": {
-          "extension": "jpg",
-          "height": 1536,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 1228
-        },
-        "n": {
-          "extension": "jpg",
-          "height": 240,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 192
-        },
-        "o": {
-          "extension": "jpg",
-          "height": 3600,
-          "mimetype": "image/jpeg",
-          "secret": "as3w8tDVGPbCKu53EVsOoRfxyeOTk0W0",
-          "width": 2880
-        },
-        "s": {
-          "extension": "jpg",
-          "height": 320,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 320
-        },
-        "z": {
-          "extension": "jpg",
-          "height": 480,
-          "mimetype": "image/jpeg",
-          "secret": "6lwsvp4iGC6J1opq4cBDeY8faAiM7RTj",
-          "width": 384
-        }
-      }
     },
-    "media:source": "sfomuseum",
-    "media:status_id": 1,
-    "mz:hierarchy_label": 1,
-    "mz:is_approximate": 1,
-    "mz:is_current": -1,
-    "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
-    "wof:belongsto": [
-      85688637, 
-      1360516255, 
-      1360516191, 
-      1159157325, 
-      1159396193, 
-      1360516181, 
-      1159160551, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1159396153, 
-      1159396321, 
-      102527513
+    "media:source":"sfomuseum",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "src:geom":"unknown",
+    "wof:belongsto":[
+        85688637,
+        102087579,
+        102527513,
+        1360516181,
+        85633793,
+        102191575,
+        85922583,
+        1159396321,
+        1159396153,
+        1159160551,
+        1360516191
     ],
-    "wof:country": "US",
-    "wof:created": 1552092974,
-    "wof:depicts": [
-      102527513, 
-      1360516191, 
-      1360516255, 
-      1159157325, 
-      1360516181, 
-      1159160551, 
-      1159396153, 
-      1159396321, 
-      1159396193
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1552092974,
+    "wof:depicts":[
+        102527513,
+        1360516191,
+        1360516255,
+        1159157325,
+        1360516181,
+        1159160551,
+        1159396153,
+        1159396321,
+        1159396193
     ],
-    "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
-    "wof:hierarchy": [
-      {
-        "building_id": 1159396321,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516181,
-        "installation_id": 1159160551,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396153
-      }, 
-      {
-        "building_id": 1159396321,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516191,
-        "installation_id": 1159160551,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159396153
-      }, 
-      {
-        "building_id": 1159396321,
-        "campus_id": 102527513,
-        "concourse_id": 1159396193,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1360516255,
-        "installation_id": 1159160551,
-        "locality_id": 85922583,
-        "neighbourhood_id": -1,
-        "region_id": 85688637,
-        "wing_id": 1159157325
-      }
+    "wof:geomhash":"61c3061fada793d45fb528e1dd2a89d0",
+    "wof:hierarchy":[
+        {
+            "building_id":1159396321,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516181,
+            "installation_id":1159160551,
+            "locality_id":85922583,
+            "media_id":1377126635,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396153
+        },
+        {
+            "building_id":1159396321,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "enclosure_id":1360516191,
+            "installation_id":1159160551,
+            "locality_id":85922583,
+            "media_id":1377126635,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "wing_id":1159396153
+        }
     ],
-    "wof:id": 1377126635,
-    "wof:lastmodified": 1578437762,
-    "wof:name": "Installation view of \"Pixar’s Toy Story\"",
-    "wof:parent_id": 1159160551,
-    "wof:placetype": "media",
-    "wof:repo": "sfomuseum-data-media",
-    "wof:superseded_by": [],
-    "wof:supersedes": []
-  },
+    "wof:id":1377126635,
+    "wof:lastmodified":1600805712,
+    "wof:name":"Installation view of \"Pixar\u2019s Toy Story\"",
+    "wof:parent_id":1159160551,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
-  ],
+],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}
 }
