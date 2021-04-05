@@ -2,6 +2,10 @@
   "id": 1377043269,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1994-03-28",
+    "date:cessation_upper": "1994-03-28",
+    "date:inception_lower": "1994-02-09",
+    "date:inception_upper": "1994-02-09",
     "edtf:cessation": "1994-03-28",
     "edtf:inception": "1994-02-09",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#88b0ca",
           "name": "#88b0ca",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#afc5d9",
           "name": "#afc5d9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#737886",
           "name": "#737886",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bbcbd4",
           "name": "#bbcbd4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#383137",
           "name": "#383137",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 244,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1226607175, 
-      1360516265, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159554829, 
-      1159554803, 
+      85922583,
+      1226607175,
+      1360516265,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      1159554829,
+      1159554803,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1551136803,
     "wof:depicts": [
-      1159554803, 
-      1159554829, 
-      102527513, 
-      1226607175, 
+      1159554803,
+      1159554829,
+      102527513,
+      1226607175,
       1360516265
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516265,
         "installation_id": 1226607175,
         "locality_id": 85922583,
+        "media_id": 1377043269,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377043269,
-    "wof:lastmodified": 1577137348,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Bark: Photographs by Ann Giordano\"",
     "wof:parent_id": 1226607175,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

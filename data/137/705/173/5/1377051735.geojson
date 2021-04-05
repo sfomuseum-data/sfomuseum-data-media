@@ -2,6 +2,10 @@
   "id": 1377051735,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-01-06",
+    "date:cessation_upper": "2014-01-06",
+    "date:inception_lower": "2013-06-28",
+    "date:inception_upper": "2013-06-28",
     "edtf:cessation": "2014-01-06",
     "edtf:inception": "2013-06-28",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#b27068",
           "name": "#b27068",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c9ada0",
           "name": "#c9ada0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#474544",
           "name": "#474544",
@@ -107,27 +111,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1288,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159160455, 
-      1159396159, 
-      85922583, 
-      85688637, 
-      1159396333, 
-      102527513, 
-      102087579, 
+      102191575,
+      85633793,
+      1159160455,
+      1159396159,
+      85922583,
+      85688637,
+      1159396333,
+      102527513,
+      102087579,
       1360516273
     ],
     "wof:country": "US",
     "wof:created": 1551203285,
     "wof:depicts": [
-      1159160455, 
-      102527513, 
-      1159396333, 
-      1360516273, 
+      1159160455,
+      102527513,
+      1159396333,
+      1360516273,
       1159396159
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -141,13 +146,14 @@
         "enclosure_id": 1360516273,
         "installation_id": 1159160455,
         "locality_id": 85922583,
+        "media_id": 1377051735,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
       }
     ],
     "wof:id": 1377051735,
-    "wof:lastmodified": 1578436739,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Classic Plastics: 1870s-1970s\"",
     "wof:parent_id": 1159160455,
     "wof:placetype": "media",
@@ -156,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

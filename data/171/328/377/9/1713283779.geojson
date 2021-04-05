@@ -2,6 +2,10 @@
   "id": 1713283779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1999-04-01",
+    "date:cessation_upper": "1999-04-01",
+    "date:inception_lower": "1998-07-30",
+    "date:inception_upper": "1998-07-30",
     "edtf:cessation": "1999-04-01",
     "edtf:inception": "1998-07-30",
     "geom:area": 0,
@@ -20,17 +24,17 @@
           "hex": "#7a5e35",
           "name": "#7a5e35",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9e8361",
           "name": "#9e8361",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6b4c0",
           "name": "#b6b4c0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#40515d",
           "name": "#40515d",
@@ -107,18 +111,19 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/171/328/377/9/1713283779_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 44,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      1159157875, 
-      85688637, 
-      1159554817, 
-      102527513, 
-      102191575, 
-      1226604431, 
-      1159554803, 
-      102087579, 
+      85922583,
+      1159157875,
+      85688637,
+      1159554817,
+      102527513,
+      102191575,
+      1226604431,
+      1159554803,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -137,13 +142,14 @@
         "enclosure_id": 1159157875,
         "installation_id": 1226604431,
         "locality_id": 85922583,
+        "media_id": 1713283779,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1713283779,
-    "wof:lastmodified": 1594762411,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Platform Shoes - History - 60’s Fashion - Today",
     "wof:parent_id": 1226604431,
     "wof:placetype": "media",
@@ -152,9 +158,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

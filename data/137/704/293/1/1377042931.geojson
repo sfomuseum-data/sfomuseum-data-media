@@ -2,6 +2,10 @@
   "id": 1377042931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1982-08-05",
+    "date:cessation_upper": "1982-08-05",
+    "date:inception_lower": "1982-06-21",
+    "date:inception_upper": "1982-06-21",
     "edtf:cessation": "1982-08-05",
     "edtf:inception": "1982-06-21",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#9bb0d2",
           "name": "#9bb0d2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#918579",
           "name": "#918579",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b2b8c8",
           "name": "#b2b8c8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3b343b",
           "name": "#3b343b",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 464,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      1159396233, 
-      85633793, 
-      1360516133, 
-      1226612011, 
-      1159396327, 
-      102191575, 
-      85688637, 
-      1159396129, 
-      102087579, 
+      102527513,
+      1159396233,
+      85633793,
+      1360516133,
+      1226612011,
+      1159396327,
+      102191575,
+      85688637,
+      1159396129,
+      102087579,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1551132877,
     "wof:depicts": [
-      102527513, 
-      1360516133, 
-      1159396233, 
-      1159396327, 
-      1226612011, 
+      102527513,
+      1360516133,
+      1159396233,
+      1159396327,
+      1226612011,
       1159396129
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -149,13 +154,14 @@
         "enclosure_id": 1360516133,
         "installation_id": 1226612011,
         "locality_id": 85922583,
+        "media_id": 1377042931,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396129
       }
     ],
     "wof:id": 1377042931,
-    "wof:lastmodified": 1577137010,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"Artist's Furniture: New Dimensions and Statements in Design\"",
     "wof:parent_id": 1226612011,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

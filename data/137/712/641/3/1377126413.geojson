@@ -2,6 +2,10 @@
   "id": 1377126413,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-08-15",
+    "date:cessation_upper": "2016-08-15",
+    "date:inception_lower": "2016-02-12",
+    "date:inception_upper": "2016-02-12",
     "edtf:cessation": "2016-08-15",
     "edtf:inception": "2016-02-12",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#c4271f",
           "name": "#c4271f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a1633f",
           "name": "#a1633f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9f8f64",
           "name": "#9f8f64",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c5c4b3",
           "name": "#c5c4b3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#444242",
           "name": "#444242",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1352,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159396153, 
-      102191575, 
-      85633793, 
-      1360516281, 
-      1159160545, 
-      85688637, 
-      1159396321, 
+      102087579,
+      85922583,
+      1159396153,
+      102191575,
+      85633793,
+      1360516281,
+      1159160545,
+      85688637,
+      1159396321,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1552088826,
     "wof:depicts": [
-      1159396321, 
-      102527513, 
-      1159160545, 
-      1360516281, 
+      1159396321,
+      102527513,
+      1159160545,
+      1360516281,
       1159396153
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516281,
         "installation_id": 1159160545,
         "locality_id": 85922583,
+        "media_id": 1377126413,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396153
       }
     ],
     "wof:id": 1377126413,
-    "wof:lastmodified": 1578437605,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"The Allure of Art Nouveau:1890-1914\"",
     "wof:parent_id": 1159160545,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

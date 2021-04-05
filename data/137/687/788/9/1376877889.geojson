@@ -22,22 +22,22 @@
           "hex": "#c6b214",
           "name": "#c6b214",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6a271",
           "name": "#c6a271",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a56b54",
           "name": "#a56b54",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c3c5c9",
           "name": "#c3c5c9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#38322e",
           "name": "#38322e",
@@ -118,30 +118,31 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1602,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1360702457, 
-      85688637, 
-      1159157307, 
-      1159157271, 
-      85633793, 
-      1159396301, 
-      102087579, 
-      85922583, 
-      102527513, 
+      102191575,
+      1360702457,
+      85688637,
+      1159157307,
+      1159157271,
+      85633793,
+      1159396301,
+      102087579,
+      85922583,
+      102527513,
       1159157053
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1549486913,
     "wof:depicts": [
-      1159157053, 
-      1159157271, 
-      1159396301, 
-      102527513, 
-      1360702457, 
+      1159157053,
+      1159157271,
+      1159396301,
+      102527513,
+      1360702457,
       1159157307
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1376877889,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"The Modern Consumer – 1950s Products and Styles\"",
     "wof:parent_id": 1360702457,
     "wof:placetype": "media",
@@ -173,9 +174,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

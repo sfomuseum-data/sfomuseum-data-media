@@ -2,6 +2,10 @@
   "id": 1527914693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-06-24",
+    "date:cessation_upper": "2020-06-24",
+    "date:inception_lower": "2019-09-28",
+    "date:inception_upper": "2019-09-28",
     "edtf:cessation": "2020-06-24",
     "edtf:inception": "2019-09-28",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#5e2d26",
           "name": "#5e2d26",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#888175",
           "name": "#888175",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c8bfb6",
           "name": "#c8bfb6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4f4839",
           "name": "#4f4839",
@@ -108,32 +112,33 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/152/791/469/3/1527914693_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1653,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855833, 
-      1495157237, 
-      85922583, 
-      102085387, 
-      102191575, 
-      85633793, 
-      102087579, 
-      554784711, 
-      1477855605, 
-      102527513, 
-      1477855937, 
-      85688637, 
-      1477855927, 
+      1477855833,
+      1495157237,
+      85922583,
+      102085387,
+      102191575,
+      85633793,
+      102087579,
+      554784711,
+      1477855605,
+      102527513,
+      1477855937,
+      85688637,
+      1477855927,
       1477855943
     ],
     "wof:country": "US",
     "wof:created": 1579829344,
     "wof:depicts": [
-      1495157237, 
-      1477855605, 
-      1477855937, 
-      1477855833, 
-      1477855927, 
+      1495157237,
+      1477855605,
+      1477855937,
+      1477855833,
+      1477855927,
       1477855943
     ],
     "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
@@ -148,11 +153,12 @@
         "enclosure_id": 1477855943,
         "installation_id": 1495157237,
         "locality_id": 85922583,
+        "media_id": 1527914693,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1477855937,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -162,13 +168,14 @@
         "county_id": 102085387,
         "enclosure_id": 1477855943,
         "installation_id": 1495157237,
+        "media_id": 1527914693,
         "region_id": 85688637,
         "venue_id": 1477855937,
         "wing_id": 1477855833
       }
     ],
     "wof:id": 1527914693,
-    "wof:lastmodified": 1579829373,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Above the Bay: The Aerial Photography of Stanley Page\"",
     "wof:parent_id": 1495157237,
     "wof:placetype": "media",
@@ -177,9 +184,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}

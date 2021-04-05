@@ -2,6 +2,10 @@
   "id": 1377052049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-05-12",
+    "date:cessation_upper": "2014-05-12",
+    "date:inception_lower": "2013-11-01",
+    "date:inception_upper": "2013-11-01",
     "edtf:cessation": "2014-05-12",
     "edtf:inception": "2013-11-01",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#ba3736",
           "name": "#ba3736",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dec961",
           "name": "#dec961",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#28799e",
           "name": "#28799e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ab5973",
           "name": "#ab5973",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c7b4ae",
           "name": "#c7b4ae",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1222,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159396295, 
-      85922583, 
-      1159396333, 
-      102527513, 
-      102191575, 
-      1159396141, 
-      85688637, 
-      1159160369, 
-      85633793, 
-      102087579, 
+      1159396295,
+      85922583,
+      1159396333,
+      102527513,
+      102191575,
+      1159396141,
+      85688637,
+      1159160369,
+      85633793,
+      102087579,
       1360516121
     ],
     "wof:country": "US",
     "wof:created": 1551228294,
     "wof:depicts": [
-      1159160369, 
-      1360516121, 
-      1159396141, 
-      1159396333, 
-      102527513, 
+      1159160369,
+      1360516121,
+      1159396141,
+      1159396333,
+      102527513,
       1159396295
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -154,13 +159,14 @@
         "enclosure_id": 1360516121,
         "installation_id": 1159160369,
         "locality_id": 85922583,
+        "media_id": 1377052049,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396141
       }
     ],
     "wof:id": 1377052049,
-    "wof:lastmodified": 1578436964,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Japanese Toys! From Kokeshi to Kaiju\"",
     "wof:parent_id": 1159160369,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

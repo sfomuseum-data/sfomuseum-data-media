@@ -2,6 +2,10 @@
   "id": 1377012041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-01-30",
+    "date:cessation_upper": "2017-01-30",
+    "date:inception_lower": "2016-05-26",
+    "date:inception_upper": "2016-05-26",
     "edtf:cessation": "2017-01-30",
     "edtf:inception": "2016-05-26",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#27415f",
           "name": "#27415f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#807a74",
           "name": "#807a74",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cab5a3",
           "name": "#cab5a3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4f463c",
           "name": "#4f463c",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1075,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      1159160129, 
-      85633793, 
-      1159396321, 
-      102191575, 
-      1159396153, 
-      102087579, 
+      102527513,
+      85922583,
+      85688637,
+      1159160129,
+      85633793,
+      1159396321,
+      102191575,
+      1159396153,
+      102087579,
       1360516199
     ],
     "wof:country": "US",
     "wof:created": 1550791029,
     "wof:depicts": [
-      1159396321, 
-      1159396153, 
-      102527513, 
-      1159160129, 
+      1159396321,
+      1159396153,
+      102527513,
+      1159160129,
       1360516199
     ],
     "wof:geomhash": "28598dec3afc25749e087e49d73ad7b5",
@@ -146,13 +151,14 @@
         "enclosure_id": 1360516199,
         "installation_id": 1159160129,
         "locality_id": 85922583,
+        "media_id": 1377012041,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396153
       }
     ],
     "wof:id": 1377012041,
-    "wof:lastmodified": 1577134542,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Fashion in Flight: A History of Airline Uniform Design\"",
     "wof:parent_id": 1159160129,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389267, 
-    37.615645, 
-    -122.389267, 
+    -122.389267,
+    37.615645,
+    -122.389267,
     37.615645
   ],
   "geometry": {"coordinates":[-122.389267,37.615645],"type":"Point"}

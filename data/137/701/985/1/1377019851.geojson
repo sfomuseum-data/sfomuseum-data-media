@@ -2,6 +2,10 @@
   "id": 1377019851,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1997-10-31",
+    "date:cessation_upper": "1997-10-31",
+    "date:inception_lower": "1997-03-21",
+    "date:inception_upper": "1997-03-21",
     "edtf:cessation": "1997-10-31",
     "edtf:inception": "1997-03-21",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#ddd3a6",
           "name": "#ddd3a6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#554527",
           "name": "#554527",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a5945b",
           "name": "#a5945b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d1c5a2",
           "name": "#d1c5a2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5b4f30",
           "name": "#5b4f30",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 5,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102527513, 
-      1226603375, 
-      1159554803, 
-      102087579, 
-      1360516265, 
-      85922583, 
-      1159554829, 
+      102191575,
+      85633793,
+      102527513,
+      1226603375,
+      1159554803,
+      102087579,
+      1360516265,
+      85922583,
+      1159554829,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1550869104,
     "wof:depicts": [
-      1159554829, 
-      1159554803, 
-      1226603375, 
-      102527513, 
+      1159554829,
+      1159554803,
+      1226603375,
+      102527513,
       1360516265
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516265,
         "installation_id": 1226603375,
         "locality_id": 85922583,
+        "media_id": 1377019851,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377019851,
-    "wof:lastmodified": 1577135066,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"Building for Air Travel\"",
     "wof:parent_id": 1226603375,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

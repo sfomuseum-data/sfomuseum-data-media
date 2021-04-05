@@ -2,6 +2,10 @@
   "id": 1377019983,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1991-06-30",
+    "date:cessation_upper": "1991-06-30",
+    "date:inception_lower": "1991-05-01",
+    "date:inception_upper": "1991-05-01",
     "edtf:cessation": "1991-06-30",
     "edtf:inception": "1991-05-01",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#8e8573",
           "name": "#8e8573",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ccc1ac",
           "name": "#ccc1ac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#443830",
           "name": "#443830",
@@ -107,27 +111,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 270,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159554803, 
-      102191575, 
-      1226607773, 
-      1360516471, 
-      85633793, 
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      1159554803,
+      102191575,
+      1226607773,
+      1360516471,
+      85633793,
       1159554829
     ],
     "wof:country": "US",
     "wof:created": 1550869885,
     "wof:depicts": [
-      1159554803, 
-      1226607773, 
-      102527513, 
-      1360516471, 
+      1159554803,
+      1226607773,
+      102527513,
+      1360516471,
       1159554829
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -141,13 +146,14 @@
         "enclosure_id": 1360516471,
         "installation_id": 1226607773,
         "locality_id": 85922583,
+        "media_id": 1377019983,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377019983,
-    "wof:lastmodified": 1577135266,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Bowling: A Unique American Art Form\"",
     "wof:parent_id": 1226607773,
     "wof:placetype": "media",
@@ -156,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

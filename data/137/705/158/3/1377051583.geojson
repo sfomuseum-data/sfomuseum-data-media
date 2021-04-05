@@ -2,6 +2,10 @@
   "id": 1377051583,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1997-04-02",
+    "date:cessation_upper": "1997-04-02",
+    "date:inception_lower": "1997-02-28",
+    "date:inception_upper": "1997-02-28",
     "edtf:cessation": "1997-04-02",
     "edtf:inception": "1997-02-28",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#692927",
           "name": "#692927",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#7b8699",
           "name": "#7b8699",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6babe",
           "name": "#b6babe",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#413e47",
           "name": "#413e47",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 27,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159554817, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1159157873, 
-      1226603913, 
-      1159554803, 
+      85922583,
+      85633793,
+      1159554817,
+      102527513,
+      102191575,
+      102087579,
+      1159157873,
+      1226603913,
+      1159554803,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1551202234,
     "wof:depicts": [
-      1159554817, 
-      102527513, 
-      1226603913, 
-      1159554803, 
+      1159554817,
+      102527513,
+      1226603913,
+      1159554803,
       1159157873
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -146,13 +151,14 @@
         "enclosure_id": 1159157873,
         "installation_id": 1226603913,
         "locality_id": 85922583,
+        "media_id": 1377051583,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1377051583,
-    "wof:lastmodified": 1578436638,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"The Lunar Year: Artifacts and Tradition\"",
     "wof:parent_id": 1226603913,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

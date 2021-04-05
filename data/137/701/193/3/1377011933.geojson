@@ -2,6 +2,10 @@
   "id": 1377011933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2002-03-04",
+    "date:cessation_upper": "2002-03-04",
+    "date:inception_lower": "2001-09-05",
+    "date:inception_upper": "2001-09-05",
     "edtf:cessation": "2002-03-04",
     "edtf:inception": "2001-09-05",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#3c3917",
           "name": "#3c3917",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#989c66",
           "name": "#989c66",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#babeb1",
           "name": "#babeb1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#534d40",
           "name": "#534d40",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 112,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      1159396319, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1226605375, 
-      102191575, 
-      1360516477, 
-      1159396115, 
+      85688637,
+      1159396319,
+      102087579,
+      85922583,
+      102527513,
+      1226605375,
+      102191575,
+      1360516477,
+      1159396115,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1550786751,
     "wof:depicts": [
-      1360516477, 
-      1159396115, 
-      1159396319, 
-      102527513, 
+      1360516477,
+      1159396115,
+      1159396319,
+      102527513,
       1226605375
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -146,13 +151,14 @@
         "enclosure_id": 1360516477,
         "installation_id": 1226605375,
         "locality_id": 85922583,
+        "media_id": 1377011933,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396115
       }
     ],
     "wof:id": 1377011933,
-    "wof:lastmodified": 1577134399,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Origami: The Art of Paper Folding\"",
     "wof:parent_id": 1226605375,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

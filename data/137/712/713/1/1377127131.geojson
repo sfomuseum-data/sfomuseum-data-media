@@ -2,6 +2,10 @@
   "id": 1377127131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2013-05-20",
+    "date:cessation_upper": "2013-05-20",
+    "date:inception_lower": "2012-10-26",
+    "date:inception_upper": "2012-10-26",
     "edtf:cessation": "2013-05-20",
     "edtf:inception": "2012-10-26",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#dc4c19",
           "name": "#dc4c19",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e3c5a6",
           "name": "#e3c5a6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b9311f",
           "name": "#b9311f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#89765a",
           "name": "#89765a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d2b497",
           "name": "#d2b497",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1207,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1360516259, 
-      1159160347, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159396333, 
-      102087579, 
-      1159396109, 
-      1159396261, 
+      1360516259,
+      1159160347,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      1159396333,
+      102087579,
+      1159396109,
+      1159396261,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1552096697,
     "wof:depicts": [
-      1159396109, 
-      1159160347, 
-      1159396333, 
-      102527513, 
-      1360516259, 
+      1159396109,
+      1159160347,
+      1159396333,
+      102527513,
+      1360516259,
       1159396261
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -154,13 +159,14 @@
         "enclosure_id": 1360516259,
         "installation_id": 1159160347,
         "locality_id": 85922583,
+        "media_id": 1377127131,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396109
       }
     ],
     "wof:id": 1377127131,
-    "wof:lastmodified": 1578438113,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Let’s Play! 100 Years of Board Games\"",
     "wof:parent_id": 1159160347,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

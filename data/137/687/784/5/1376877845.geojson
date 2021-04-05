@@ -22,17 +22,17 @@
           "hex": "#c7ae66",
           "name": "#c7ae66",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#978969",
           "name": "#978969",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9bb4c2",
           "name": "#9bb4c2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4f4941",
           "name": "#4f4941",
@@ -113,30 +113,31 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1602,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      1159396301, 
-      102191575, 
-      1159157271, 
-      85922583, 
-      102087579, 
-      1159157053, 
-      85688637, 
-      85633793, 
-      1159157307, 
+      102527513,
+      1159396301,
+      102191575,
+      1159157271,
+      85922583,
+      102087579,
+      1159157053,
+      85688637,
+      85633793,
+      1159157307,
       1360702457
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1549486846,
     "wof:depicts": [
-      1360702457, 
-      102527513, 
-      1159157053, 
-      1159157307, 
-      1159157271, 
+      1360702457,
+      102527513,
+      1159157053,
+      1159157307,
+      1159157271,
       1159396301
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1376877845,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"The Modern Consumer – 1950s Products and Styles\"",
     "wof:parent_id": 1360702457,
     "wof:placetype": "media",
@@ -168,9 +169,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1377126341,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-12-11",
+    "date:cessation_upper": "2017-12-11",
+    "date:inception_lower": "2017-04-21",
+    "date:inception_upper": "2017-04-21",
     "edtf:cessation": "2017-12-11",
     "edtf:inception": "2017-04-21",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#b18856",
           "name": "#b18856",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ddc9a6",
           "name": "#ddc9a6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5e3f1f",
           "name": "#5e3f1f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a37846",
           "name": "#a37846",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cdb38e",
           "name": "#cdb38e",
@@ -117,31 +121,32 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1468,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1159268871, 
-      1159157271, 
-      102087579, 
-      1159157037, 
-      1159160703, 
-      85922583, 
-      1159157335, 
-      102527513, 
-      85633793, 
-      85688637, 
+      102191575,
+      1159268871,
+      1159157271,
+      102087579,
+      1159157037,
+      1159160703,
+      85922583,
+      1159157335,
+      102527513,
+      85633793,
+      85688637,
       1159157333
     ],
     "wof:country": "US",
     "wof:created": 1552088171,
     "wof:depicts": [
-      1159157333, 
-      1159268871, 
-      1159157271, 
-      102527513, 
-      1159157335, 
-      1159157037, 
+      1159157333,
+      1159268871,
+      1159157271,
+      102527513,
+      1159157335,
+      1159157037,
       1159160703
     ],
     "wof:geomhash": "b29df8069ff4c513d31fc8548a8b0843",
@@ -156,6 +161,7 @@
         "enclosure_id": 1159157037,
         "installation_id": 1159160703,
         "locality_id": 85922583,
+        "media_id": 1377126341,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1159268871,
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1377126341,
-    "wof:lastmodified": 1578437552,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"At Home with Arts and Crafts\"",
     "wof:parent_id": 1159160703,
     "wof:placetype": "media",
@@ -172,9 +178,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389537, 
-    37.616642, 
-    -122.389537, 
+    -122.389537,
+    37.616642,
+    -122.389537,
     37.616642
   ],
   "geometry": {"coordinates":[-122.389537,37.616642],"type":"Point"}

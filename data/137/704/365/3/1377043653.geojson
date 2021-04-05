@@ -2,6 +2,10 @@
   "id": 1377043653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-08-18",
+    "date:cessation_upper": "2014-08-18",
+    "date:inception_lower": "2013-11-22",
+    "date:inception_upper": "2013-11-22",
     "edtf:cessation": "2014-08-18",
     "edtf:inception": "2013-11-22",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#af2c1e",
           "name": "#af2c1e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9d1d13",
           "name": "#9d1d13",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a75a52",
           "name": "#a75a52",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#babdc1",
           "name": "#babdc1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#485354",
           "name": "#485354",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1294,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      1360521563, 
-      1159160467, 
-      1159396153, 
-      102191575, 
-      1159396321, 
-      1360541657, 
-      85688637, 
+      85633793,
+      102087579,
+      85922583,
+      1360521563,
+      1159160467,
+      1159396153,
+      102191575,
+      1159396321,
+      1360541657,
+      85688637,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1551142515,
     "wof:depicts": [
-      1159396153, 
-      1159396321, 
-      1159160467, 
-      1360541657, 
-      102527513, 
+      1159396153,
+      1159396321,
+      1159160467,
+      1360541657,
+      102527513,
       1360521563
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
@@ -153,6 +158,7 @@
         "enclosure_id": 1360541657,
         "installation_id": 1159160467,
         "locality_id": 85922583,
+        "media_id": 1377043653,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521563,
@@ -160,7 +166,7 @@
       }
     ],
     "wof:id": 1377043653,
-    "wof:lastmodified": 1577137800,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Airline Identity: Marks, Brands and Logos\"",
     "wof:parent_id": 1159160467,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387989, 
-    37.614385, 
-    -122.387989, 
+    -122.387989,
+    37.614385,
+    -122.387989,
     37.614385
   ],
   "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}

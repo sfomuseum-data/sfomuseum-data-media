@@ -2,6 +2,10 @@
   "id": 1377043197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1985-03-14",
+    "date:cessation_upper": "1985-03-14",
+    "date:inception_lower": "1984-11-30",
+    "date:inception_upper": "1984-11-30",
     "edtf:cessation": "1985-03-14",
     "edtf:inception": "1984-11-30",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#e6edf4",
           "name": "#e6edf4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#857a73",
           "name": "#857a73",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d1c3aa",
           "name": "#d1c3aa",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4d4a4d",
           "name": "#4d4a4d",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 727,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      1226617941, 
-      102087579, 
-      1360516129, 
-      85922583, 
-      1159554819, 
-      1159554801, 
-      1159554841, 
+      85688637,
+      102527513,
+      85633793,
+      1226617941,
+      102087579,
+      1360516129,
+      85922583,
+      1159554819,
+      1159554801,
+      1159554841,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1551133716,
     "wof:depicts": [
-      1159554819, 
-      1226617941, 
-      102527513, 
-      1159554841, 
-      1360516129, 
+      1159554819,
+      1226617941,
+      102527513,
+      1159554841,
+      1360516129,
       1159554801
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -149,13 +154,14 @@
         "enclosure_id": 1360516129,
         "installation_id": 1226617941,
         "locality_id": 85922583,
+        "media_id": 1377043197,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554819
       }
     ],
     "wof:id": 1377043197,
-    "wof:lastmodified": 1577137260,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Art and Travel\"",
     "wof:parent_id": 1226617941,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1377052147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-21",
+    "date:cessation_upper": "2008-07-21",
+    "date:inception_lower": "2007-09-12",
+    "date:inception_upper": "2007-09-12",
     "edtf:cessation": "2008-07-21",
     "edtf:inception": "2007-09-12",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#d1bd0b",
           "name": "#d1bd0b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6ba4c4",
           "name": "#6ba4c4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#084aa2",
           "name": "#084aa2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ac9754",
           "name": "#ac9754",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bbc6ba",
           "name": "#bbc6ba",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 939,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1360521569, 
-      1159159931, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1360541661, 
-      1159396147, 
-      102527513, 
-      102191575, 
-      85633793, 
+      1360521569,
+      1159159931,
+      85688637,
+      85922583,
+      102087579,
+      1360541661,
+      1159396147,
+      102527513,
+      102191575,
+      85633793,
       1159396337
     ],
     "wof:country": "US",
     "wof:created": 1551228807,
     "wof:depicts": [
-      1159396147, 
-      1360541661, 
-      1159396337, 
-      102527513, 
-      1159159931, 
+      1159396147,
+      1360541661,
+      1159396337,
+      102527513,
+      1159159931,
       1360521569
     ],
     "wof:geomhash": "093173c9a3fec8175f6f795ac3d928e2",
@@ -153,6 +158,7 @@
         "enclosure_id": 1360541661,
         "installation_id": 1159159931,
         "locality_id": 85922583,
+        "media_id": 1377052147,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521569,
@@ -160,7 +166,7 @@
       }
     ],
     "wof:id": 1377052147,
-    "wof:lastmodified": 1578437039,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Young Eyes on the Skies: The Golden Age of Aviation Toys\"",
     "wof:parent_id": 1159159931,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38622, 
-    37.616463, 
-    -122.38622, 
+    -122.38622,
+    37.616463,
+    -122.38622,
     37.616463
   ],
   "geometry": {"coordinates":[-122.38622,37.616463],"type":"Point"}

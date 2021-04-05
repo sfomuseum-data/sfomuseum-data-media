@@ -2,6 +2,10 @@
   "id": 1377043329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1996-09-15",
+    "date:cessation_upper": "1996-09-15",
+    "date:inception_lower": "1996-03-15",
+    "date:inception_upper": "1996-03-15",
     "edtf:cessation": "1996-09-15",
     "edtf:inception": "1996-03-15",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#d2bb81",
           "name": "#d2bb81",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#081c21",
           "name": "#081c21",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8b7c6a",
           "name": "#8b7c6a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c2b8ac",
           "name": "#c2b8ac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#684539",
           "name": "#684539",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 158,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1226611157, 
-      1159554855, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1360516127, 
-      85688637, 
-      1159554821, 
-      102527513, 
+      102087579,
+      1226611157,
+      1159554855,
+      102191575,
+      85922583,
+      85633793,
+      1360516127,
+      85688637,
+      1159554821,
+      102527513,
       1159554803
     ],
     "wof:country": "US",
     "wof:created": 1551138233,
     "wof:depicts": [
-      1159554855, 
-      1159554821, 
-      1159554803, 
-      1360516127, 
-      102527513, 
+      1159554855,
+      1159554821,
+      1159554803,
+      1360516127,
+      102527513,
       1226611157
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -154,13 +159,14 @@
         "enclosure_id": 1360516127,
         "installation_id": 1226611157,
         "locality_id": 85922583,
+        "media_id": 1377043329,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554821
       }
     ],
     "wof:id": 1377043329,
-    "wof:lastmodified": 1577137430,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Boomerang\"",
     "wof:parent_id": 1226611157,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

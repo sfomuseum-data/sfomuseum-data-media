@@ -2,6 +2,10 @@
   "id": 1376996397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-04-22",
+    "date:cessation_upper": "2019-04-22",
+    "date:inception_lower": "2018-07-20",
+    "date:inception_upper": "2018-07-20",
     "edtf:cessation": "2019-04-22",
     "edtf:inception": "2018-07-20",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#b78168",
           "name": "#b78168",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a67f66",
           "name": "#a67f66",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cea8c0",
           "name": "#cea8c0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5c534e",
           "name": "#5c534e",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1601,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      1159157335, 
-      1159157039, 
-      1159157333, 
-      102191575, 
+      102087579,
+      102527513,
+      85688637,
+      1159157271,
+      85633793,
+      85922583,
+      1159157335,
+      1159157039,
+      1159157333,
+      102191575,
       1226620513
     ],
     "wof:country": "US",
     "wof:created": 1550611153,
     "wof:depicts": [
-      102527513, 
-      1226620513, 
-      1159157335, 
-      1159157039, 
-      1159157271, 
+      102527513,
+      1226620513,
+      1159157335,
+      1159157039,
+      1159157271,
       1159157333
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -149,13 +154,14 @@
         "enclosure_id": 1159157039,
         "installation_id": 1226620513,
         "locality_id": 85922583,
+        "media_id": 1376996397,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1376996397,
-    "wof:lastmodified": 1577133962,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Caticons\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1377043217,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1994-03-28",
+    "date:cessation_upper": "1994-03-28",
+    "date:inception_lower": "1994-02-09",
+    "date:inception_upper": "1994-02-09",
     "edtf:cessation": "1994-03-28",
     "edtf:inception": "1994-02-09",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#837975",
           "name": "#837975",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bbc2c5",
           "name": "#bbc2c5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#483e3c",
           "name": "#483e3c",
@@ -107,27 +111,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 244,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1226607175, 
-      1159554803, 
-      102527513, 
-      102191575, 
-      1360516265, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159554829, 
+      1226607175,
+      1159554803,
+      102527513,
+      102191575,
+      1360516265,
+      85633793,
+      102087579,
+      85688637,
+      1159554829,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1551136462,
     "wof:depicts": [
-      1159554829, 
-      102527513, 
-      1226607175, 
-      1159554803, 
+      1159554829,
+      102527513,
+      1226607175,
+      1159554803,
       1360516265
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -141,13 +146,14 @@
         "enclosure_id": 1360516265,
         "installation_id": 1226607175,
         "locality_id": 85922583,
+        "media_id": 1377043217,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377043217,
-    "wof:lastmodified": 1577137284,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Bark: Photographs by Ann Giordano\"",
     "wof:parent_id": 1226607175,
     "wof:placetype": "media",
@@ -156,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

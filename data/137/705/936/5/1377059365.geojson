@@ -2,6 +2,10 @@
   "id": 1377059365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2012-01-23",
+    "date:cessation_upper": "2012-01-23",
+    "date:inception_lower": "2011-06-03",
+    "date:inception_upper": "2011-06-03",
     "edtf:cessation": "2012-01-23",
     "edtf:inception": "2011-06-03",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#b69654",
           "name": "#b69654",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6090a9",
           "name": "#6090a9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bcd1d3",
           "name": "#bcd1d3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#453d37",
           "name": "#453d37",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1073,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159160125, 
-      85688637, 
-      1360541661, 
-      102087579, 
-      85633793, 
-      1159396147, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1360521569, 
+      1159160125,
+      85688637,
+      1360541661,
+      102087579,
+      85633793,
+      1159396147,
+      102527513,
+      102191575,
+      85922583,
+      1360521569,
       1159396337
     ],
     "wof:country": "US",
     "wof:created": 1551306967,
     "wof:depicts": [
-      1360541661, 
-      102527513, 
-      1360521569, 
-      1159396147, 
-      1159396337, 
+      1360541661,
+      102527513,
+      1360521569,
+      1159396147,
+      1159396337,
       1159160125
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
@@ -148,6 +153,7 @@
         "enclosure_id": 1360541661,
         "installation_id": 1159160125,
         "locality_id": 85922583,
+        "media_id": 1377059365,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521569,
@@ -155,7 +161,7 @@
       }
     ],
     "wof:id": 1377059365,
-    "wof:lastmodified": 1578437211,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Postwar Propliners in Miniature: Models from the Collection of Anthony J. Lawler\"",
     "wof:parent_id": 1159160125,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387989, 
-    37.614385, 
-    -122.387989, 
+    -122.387989,
+    37.614385,
+    -122.387989,
     37.614385
   ],
   "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}

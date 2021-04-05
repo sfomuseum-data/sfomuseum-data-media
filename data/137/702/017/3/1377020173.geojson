@@ -2,6 +2,10 @@
   "id": 1377020173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1997-04-24",
+    "date:cessation_upper": "1997-04-24",
+    "date:inception_lower": "1996-11-07",
+    "date:inception_upper": "1996-11-07",
     "edtf:cessation": "1997-04-24",
     "edtf:inception": "1996-11-07",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#77898b",
           "name": "#77898b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#acb9bd",
           "name": "#acb9bd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#67513b",
           "name": "#67513b",
@@ -107,27 +111,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 20,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      1159157883, 
-      1226603769, 
-      1159554817, 
-      102191575, 
-      1159554803, 
-      85688637, 
-      85633793, 
+      85922583,
+      102527513,
+      1159157883,
+      1226603769,
+      1159554817,
+      102191575,
+      1159554803,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1550871297,
     "wof:depicts": [
-      1226603769, 
-      102527513, 
-      1159554817, 
-      1159554803, 
+      1226603769,
+      102527513,
+      1159554817,
+      1159554803,
       1159157883
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -141,13 +146,14 @@
         "enclosure_id": 1159157883,
         "installation_id": 1226603769,
         "locality_id": 85922583,
+        "media_id": 1377020173,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1377020173,
-    "wof:lastmodified": 1577135530,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Barbie® Takes A Vacation to Exotic Places\"",
     "wof:parent_id": 1226603769,
     "wof:placetype": "media",
@@ -156,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

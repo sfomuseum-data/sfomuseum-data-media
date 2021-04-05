@@ -2,6 +2,10 @@
   "id": 1377126901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-03-03",
+    "date:cessation_upper": "2014-03-03",
+    "date:inception_lower": "2013-08-20",
+    "date:inception_upper": "2013-08-20",
     "edtf:cessation": "2014-03-03",
     "edtf:inception": "2013-08-20",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#a17c61",
           "name": "#a17c61",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c5bfb2",
           "name": "#c5bfb2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#503e36",
           "name": "#503e36",
@@ -107,29 +111,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1208,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396333, 
-      1360516183, 
-      1159396159, 
-      102527513, 
-      102087579, 
-      1159160349, 
-      85688637, 
+      102191575,
+      85633793,
+      85922583,
+      1159396333,
+      1360516183,
+      1159396159,
+      102527513,
+      102087579,
+      1159160349,
+      85688637,
       1360516193
     ],
     "wof:country": "US",
     "wof:created": 1552094219,
     "wof:depicts": [
-      1159396333, 
-      1159160349, 
-      1159396159, 
-      102527513, 
-      1360516193, 
+      1159396333,
+      1159160349,
+      1159396159,
+      102527513,
+      1360516193,
       1360516183
     ],
     "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
@@ -143,10 +148,11 @@
         "enclosure_id": 1360516183,
         "installation_id": 1159160349,
         "locality_id": 85922583,
+        "media_id": 1377126901,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
-      }, 
+      },
       {
         "building_id": 1159396333,
         "campus_id": 102527513,
@@ -156,13 +162,14 @@
         "enclosure_id": 1360516193,
         "installation_id": 1159160349,
         "locality_id": 85922583,
+        "media_id": 1377126901,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
       }
     ],
     "wof:id": 1377126901,
-    "wof:lastmodified": 1578437950,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"America’s Cup, Sailing for International Sport’s Greatest Trophy 1851-1937\"",
     "wof:parent_id": 1159160349,
     "wof:placetype": "media",
@@ -171,9 +178,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388942, 
-    37.615424, 
-    -122.388942, 
+    -122.388942,
+    37.615424,
+    -122.388942,
     37.615424
   ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}

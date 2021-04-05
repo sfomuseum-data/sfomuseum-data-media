@@ -2,6 +2,10 @@
   "id": 1377126507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2016-07-25",
+    "date:cessation_upper": "2016-07-25",
+    "date:inception_lower": "2016-01-22",
+    "date:inception_upper": "2016-01-22",
     "edtf:cessation": "2016-07-25",
     "edtf:inception": "2016-01-22",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#af7f47",
           "name": "#af7f47",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c49a56",
           "name": "#c49a56",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8b532b",
           "name": "#8b532b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#987959",
           "name": "#987959",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ceba9b",
           "name": "#ceba9b",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1388,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159396153, 
-      85633793, 
-      1360516271, 
-      102527513, 
-      85922583, 
-      102087579, 
-      1159160583, 
-      85688637, 
-      1159396321, 
+      1159396153,
+      85633793,
+      1360516271,
+      102527513,
+      85922583,
+      102087579,
+      1159160583,
+      85688637,
+      1159396321,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1552089192,
     "wof:depicts": [
-      102527513, 
-      1159396153, 
-      1159396321, 
-      1360516271, 
+      102527513,
+      1159396153,
+      1159396321,
+      1360516271,
       1159160583
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516271,
         "installation_id": 1159160583,
         "locality_id": 85922583,
+        "media_id": 1377126507,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396153
       }
     ],
     "wof:id": 1377126507,
-    "wof:lastmodified": 1578437674,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"Essential Style: Antique and Vintage Handbags\"",
     "wof:parent_id": 1159160583,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

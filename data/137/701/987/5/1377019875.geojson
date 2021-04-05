@@ -2,6 +2,10 @@
   "id": 1377019875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1997-10-31",
+    "date:cessation_upper": "1997-10-31",
+    "date:inception_lower": "1997-03-21",
+    "date:inception_upper": "1997-03-21",
     "edtf:cessation": "1997-10-31",
     "edtf:inception": "1997-03-21",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#968278",
           "name": "#968278",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cdc1b2",
           "name": "#cdc1b2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4b3e3e",
           "name": "#4b3e3e",
@@ -107,27 +111,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 5,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1159554803, 
-      102087579, 
-      85922583, 
-      1360516265, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159554829, 
+      102191575,
+      1159554803,
+      102087579,
+      85922583,
+      1360516265,
+      85688637,
+      102527513,
+      85633793,
+      1159554829,
       1226603375
     ],
     "wof:country": "US",
     "wof:created": 1550869261,
     "wof:depicts": [
-      1226603375, 
-      1159554803, 
-      1360516265, 
-      102527513, 
+      1226603375,
+      1159554803,
+      1360516265,
+      102527513,
       1159554829
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -141,13 +146,14 @@
         "enclosure_id": 1360516265,
         "installation_id": 1226603375,
         "locality_id": 85922583,
+        "media_id": 1377019875,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377019875,
-    "wof:lastmodified": 1577135101,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Building for Air Travel\"",
     "wof:parent_id": 1226603375,
     "wof:placetype": "media",
@@ -156,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

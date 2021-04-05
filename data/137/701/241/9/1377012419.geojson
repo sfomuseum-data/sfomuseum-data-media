@@ -2,6 +2,10 @@
   "id": 1377012419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2004-03-30",
+    "date:cessation_upper": "2004-03-30",
+    "date:inception_lower": "2003-04-30",
+    "date:inception_upper": "2003-04-30",
     "edtf:cessation": "2004-03-30",
     "edtf:inception": "2003-04-30",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#918445",
           "name": "#918445",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dbc797",
           "name": "#dbc797",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5b5122",
           "name": "#5b5122",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a49363",
           "name": "#a49363",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c4ae7c",
           "name": "#c4ae7c",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 128,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159159445, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1360521557, 
-      1360521543, 
+      1159159445,
+      85922583,
+      85688637,
+      85633793,
+      102087579,
+      102527513,
+      102191575,
+      1360521557,
+      1360521543,
       1159396319
     ],
     "wof:country": "US",
     "wof:created": 1550799852,
     "wof:depicts": [
-      1360521557, 
-      1159396319, 
-      102527513, 
-      1159159445, 
+      1360521557,
+      1159396319,
+      102527513,
+      1159159445,
       1360521543
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360521557,
         "installation_id": 1159159445,
         "locality_id": 85922583,
+        "media_id": 1377012419,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1360521543
       }
     ],
     "wof:id": 1377012419,
-    "wof:lastmodified": 1577134999,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Mapping America\"",
     "wof:parent_id": 1159159445,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

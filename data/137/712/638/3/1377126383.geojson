@@ -2,6 +2,10 @@
   "id": 1377126383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-09",
+    "date:cessation_upper": "2018-07-09",
+    "date:inception_lower": "2017-11-17",
+    "date:inception_upper": "2017-11-17",
     "edtf:cessation": "2018-07-09",
     "edtf:inception": "2017-11-17",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#b56f4e",
           "name": "#b56f4e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cca884",
           "name": "#cca884",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a88361",
           "name": "#a88361",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d1bda9",
           "name": "#d1bda9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#463f3a",
           "name": "#463f3a",
@@ -117,31 +121,32 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1403,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157039, 
-      1159160603, 
-      1159157271, 
-      1159157335, 
-      85688637, 
-      102527513, 
-      1159268871, 
-      1159157333, 
-      102191575, 
-      85633793, 
-      102087579, 
+      1159157039,
+      1159160603,
+      1159157271,
+      1159157335,
+      85688637,
+      102527513,
+      1159268871,
+      1159157333,
+      102191575,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1552088448,
     "wof:depicts": [
-      1159157333, 
-      102527513, 
-      1159157335, 
-      1159160603, 
-      1159157271, 
-      1159157039, 
+      1159157333,
+      102527513,
+      1159157335,
+      1159160603,
+      1159157271,
+      1159157039,
       1159268871
     ],
     "wof:geomhash": "fe8f943e6f22ea96ce01a2aaea507aa4",
@@ -156,6 +161,7 @@
         "enclosure_id": 1159157039,
         "installation_id": 1159160603,
         "locality_id": 85922583,
+        "media_id": 1377126383,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1159268871,
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1377126383,
-    "wof:lastmodified": 1578437584,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"American Folk Art: An Enduring Legacy\"",
     "wof:parent_id": 1159160603,
     "wof:placetype": "media",
@@ -172,9 +178,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388743, 
-    37.614609, 
-    -122.388743, 
+    -122.388743,
+    37.614609,
+    -122.388743,
     37.614609
   ],
   "geometry": {"coordinates":[-122.388743,37.614609],"type":"Point"}

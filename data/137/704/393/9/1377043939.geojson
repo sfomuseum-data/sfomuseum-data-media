@@ -2,6 +2,10 @@
   "id": 1377043939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2013-02-11",
+    "date:cessation_upper": "2013-02-11",
+    "date:inception_lower": "2012-07-16",
+    "date:inception_upper": "2012-07-16",
     "edtf:cessation": "2013-02-11",
     "edtf:inception": "2012-07-16",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#ba8d02",
           "name": "#ba8d02",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8d7b70",
           "name": "#8d7b70",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6b8bc",
           "name": "#b6b8bc",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3d3f47",
           "name": "#3d3f47",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1197,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      85633793, 
-      1159160327, 
-      1159396159, 
-      102191575, 
-      85922583, 
-      1360516183, 
-      1360516193, 
-      102087579, 
+      1159396333,
+      102527513,
+      85633793,
+      1159160327,
+      1159396159,
+      102191575,
+      85922583,
+      1360516183,
+      1360516193,
+      102087579,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1551145122,
     "wof:depicts": [
-      1360516183, 
-      1360516193, 
-      1159396159, 
-      1159396333, 
-      102527513, 
+      1360516183,
+      1360516193,
+      1159396159,
+      1159396333,
+      102527513,
       1159160327
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -148,10 +153,11 @@
         "enclosure_id": 1360516183,
         "installation_id": 1159160327,
         "locality_id": 85922583,
+        "media_id": 1377043939,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
-      }, 
+      },
       {
         "building_id": 1159396333,
         "campus_id": 102527513,
@@ -161,13 +167,14 @@
         "enclosure_id": 1360516193,
         "installation_id": 1159160327,
         "locality_id": 85922583,
+        "media_id": 1377043939,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
       }
     ],
     "wof:id": 1377043939,
-    "wof:lastmodified": 1578436458,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"From Repack to Rwanda, The Origins, Evolution and Global Reach of the Mountain Bike\"",
     "wof:parent_id": 1159160327,
     "wof:placetype": "media",
@@ -176,9 +183,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

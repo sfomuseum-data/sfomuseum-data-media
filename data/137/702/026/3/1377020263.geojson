@@ -2,6 +2,10 @@
   "id": 1377020263,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2013-10-28",
+    "date:cessation_upper": "2013-10-28",
+    "date:inception_lower": "2013-03-15",
+    "date:inception_upper": "2013-03-15",
     "edtf:cessation": "2013-10-28",
     "edtf:inception": "2013-03-15",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#5178bc",
           "name": "#5178bc",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e39b6a",
           "name": "#e39b6a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#7f2e22",
           "name": "#7f2e22",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#976d61",
           "name": "#976d61",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b5b8bd",
           "name": "#b5b8bd",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1201,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1360516121, 
-      1159160335, 
-      85922583, 
-      1159396333, 
-      1159396295, 
-      85688637, 
-      1159396141, 
-      102527513, 
-      85633793, 
+      102191575,
+      1360516121,
+      1159160335,
+      85922583,
+      1159396333,
+      1159396295,
+      85688637,
+      1159396141,
+      102527513,
+      85633793,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1550874709,
     "wof:depicts": [
-      102527513, 
-      1159396295, 
-      1159160335, 
-      1360516121, 
-      1159396141, 
+      102527513,
+      1159396295,
+      1159160335,
+      1360516121,
+      1159396141,
       1159396333
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -154,13 +159,14 @@
         "enclosure_id": 1360516121,
         "installation_id": 1159160335,
         "locality_id": 85922583,
+        "media_id": 1377020263,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396141
       }
     ],
     "wof:id": 1377020263,
-    "wof:lastmodified": 1577135632,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"The Art of Recology: The Artist in Residence Program 1990-2013\"",
     "wof:parent_id": 1159160335,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

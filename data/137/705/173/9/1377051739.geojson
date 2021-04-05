@@ -2,6 +2,10 @@
   "id": 1377051739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-03-31",
+    "date:cessation_upper": "2008-03-31",
+    "date:inception_lower": "2007-04-25",
+    "date:inception_upper": "2007-04-25",
     "edtf:cessation": "2008-03-31",
     "edtf:inception": "2007-04-25",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#917d63",
           "name": "#917d63",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cdc3b4",
           "name": "#cdc3b4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5c513d",
           "name": "#5c513d",
@@ -107,29 +111,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 913,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159159885, 
-      1159396147, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      1360521569, 
-      102527513, 
-      85633793, 
-      1360541651, 
-      85688637, 
+      1159159885,
+      1159396147,
+      1159396337,
+      102191575,
+      102087579,
+      1360521569,
+      102527513,
+      85633793,
+      1360541651,
+      85688637,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1551227485,
     "wof:depicts": [
-      1360521569, 
-      1159396337, 
-      1159396147, 
-      1360541651, 
-      1159159885, 
+      1360521569,
+      1159396337,
+      1159396147,
+      1360541651,
+      1159159885,
       102527513
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
@@ -143,6 +148,7 @@
         "enclosure_id": 1360541651,
         "installation_id": 1159159885,
         "locality_id": 85922583,
+        "media_id": 1377051739,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521569,
@@ -150,7 +156,7 @@
       }
     ],
     "wof:id": 1377051739,
-    "wof:lastmodified": 1578436741,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Mills Field Memories: SFO at 80\"",
     "wof:parent_id": 1159159885,
     "wof:placetype": "media",
@@ -159,9 +165,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387989, 
-    37.614385, 
-    -122.387989, 
+    -122.387989,
+    37.614385,
+    -122.387989,
     37.614385
   ],
   "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}

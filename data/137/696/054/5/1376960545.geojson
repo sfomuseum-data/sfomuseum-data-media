@@ -2,6 +2,10 @@
   "id": 1376960545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2004-09-01",
+    "date:cessation_upper": "2004-09-01",
+    "date:inception_lower": "2003-05-20",
+    "date:inception_upper": "2003-05-20",
     "edtf:cessation": "2004-09-01",
     "edtf:inception": "2003-05-20",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#a8a11a",
           "name": "#a8a11a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c8deaf",
           "name": "#c8deaf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#876923",
           "name": "#876923",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#84936b",
           "name": "#84936b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b8d0ab",
           "name": "#b8d0ab",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 646,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159396319, 
-      102087579, 
-      1159159593, 
-      1159396115, 
-      102527513, 
-      102191575, 
-      85922583, 
-      85633793, 
-      85688637, 
+      1159396319,
+      102087579,
+      1159159593,
+      1159396115,
+      102527513,
+      102191575,
+      85922583,
+      85633793,
+      85688637,
       1360516477
     ],
     "wof:country": "US",
     "wof:created": 1550190150,
     "wof:depicts": [
-      102527513, 
-      1360516477, 
-      1159159593, 
-      1159396319, 
+      102527513,
+      1360516477,
+      1159159593,
+      1159396319,
       1159396115
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516477,
         "installation_id": 1159159593,
         "locality_id": 85922583,
+        "media_id": 1376960545,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396115
       }
     ],
     "wof:id": 1376960545,
-    "wof:lastmodified": 1577133885,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"",
     "wof:parent_id": 1159159593,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

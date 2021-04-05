@@ -2,6 +2,10 @@
   "id": 1377052199,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2010-12-17",
+    "date:cessation_upper": "2010-12-17",
+    "date:inception_lower": "2010-06-25",
+    "date:inception_upper": "2010-06-25",
     "edtf:cessation": "2010-12-17",
     "edtf:inception": "2010-06-25",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#a52901",
           "name": "#a52901",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8c7239",
           "name": "#8c7239",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#857d69",
           "name": "#857d69",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c9bd9f",
           "name": "#c9bd9f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#664532",
           "name": "#664532",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1116,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159160195, 
-      85633793, 
-      1360516479, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85922583, 
+      85688637,
+      102527513,
+      1159160195,
+      85633793,
+      1360516479,
+      1159396337,
+      102191575,
+      102087579,
+      85922583,
       1159396139
     ],
     "wof:country": "US",
     "wof:created": 1551230034,
     "wof:depicts": [
-      1159160195, 
-      1159396139, 
-      1360516479, 
-      1159396337, 
+      1159160195,
+      1159396139,
+      1360516479,
+      1159396337,
       102527513
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516479,
         "installation_id": 1159160195,
         "locality_id": 85922583,
+        "media_id": 1377052199,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396139
       }
     ],
     "wof:id": 1377052199,
-    "wof:lastmodified": 1578437102,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"How Freight Flies: A Legacy of Air Cargo Carriers\"",
     "wof:parent_id": 1159160195,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

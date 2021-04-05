@@ -26,22 +26,22 @@
           "hex": "#875139",
           "name": "#875139",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6e412f",
           "name": "#6e412f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#987b67",
           "name": "#987b67",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#aac4d0",
           "name": "#aac4d0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3c5157",
           "name": "#3c5157",
@@ -122,33 +122,33 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1397,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157333, 
-      1159157271, 
-      1376812931, 
-      102191575, 
-      1376912567, 
-      1159157045, 
-      1159157047, 
-      1159157335, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
+      1159157333,
+      1159157271,
+      1376812931,
+      102191575,
+      1159157045,
+      1159157047,
+      1159157335,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1549667849,
     "wof:depicts": [
-      1376812931, 
-      102527513, 
-      1159157333, 
-      1159157271, 
-      1159157045, 
-      1159157335, 
+      1376812931,
+      102527513,
+      1159157333,
+      1159157271,
+      1159157045,
+      1159157335,
       1159157047
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -167,7 +167,7 @@
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
-      }, 
+      },
       {
         "building_id": 1159157271,
         "campus_id": 102527513,
@@ -185,7 +185,7 @@
       }
     ],
     "wof:id": 1376912567,
-    "wof:lastmodified": 1577133753,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"Reflections in Wood – Surfboards \u0026 Shapers\"",
     "wof:parent_id": 1376812931,
     "wof:placetype": "media",
@@ -195,9 +195,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

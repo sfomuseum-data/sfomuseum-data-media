@@ -2,6 +2,10 @@
   "id": 1377043621,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2002-07-29",
+    "date:cessation_upper": "2002-07-29",
+    "date:inception_lower": "2002-01-08",
+    "date:inception_upper": "2002-01-08",
     "edtf:cessation": "2002-07-29",
     "edtf:inception": "2002-01-08",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#936443",
           "name": "#936443",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#acdce7",
           "name": "#acdce7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#613420",
           "name": "#613420",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9b876a",
           "name": "#9b876a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a2c8d4",
           "name": "#a2c8d4",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 179,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1360521571, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396319, 
-      85688637, 
-      1360541557, 
-      1159159507, 
+      85922583,
+      1360521571,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1159396319,
+      85688637,
+      1360541557,
+      1159159507,
       1159396107
     ],
     "wof:country": "US",
     "wof:created": 1551142070,
     "wof:depicts": [
-      1360521571, 
-      102527513, 
-      1159159507, 
-      1159396107, 
-      1159396319, 
+      1360521571,
+      102527513,
+      1159159507,
+      1159396107,
+      1159396319,
       1360541557
     ],
     "wof:geomhash": "093173c9a3fec8175f6f795ac3d928e2",
@@ -153,6 +158,7 @@
         "enclosure_id": 1360541557,
         "installation_id": 1159159507,
         "locality_id": 85922583,
+        "media_id": 1377043621,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521571,
@@ -160,7 +166,7 @@
       }
     ],
     "wof:id": 1377043621,
-    "wof:lastmodified": 1577137770,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"The Golden Age of Airships\"",
     "wof:parent_id": 1159159507,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38622, 
-    37.616463, 
-    -122.38622, 
+    -122.38622,
+    37.616463,
+    -122.38622,
     37.616463
   ],
   "geometry": {"coordinates":[-122.38622,37.616463],"type":"Point"}

@@ -23,22 +23,22 @@
           "hex": "#d24730",
           "name": "#d24730",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c96e62",
           "name": "#c96e62",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a21539",
           "name": "#a21539",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8f6067",
           "name": "#8f6067",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c3c1b8",
           "name": "#c3c1b8",
@@ -119,30 +119,31 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 0,
+    "sfomuseum:exhibition_id": 1619,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      1159157335, 
-      102191575, 
-      102527513, 
-      1226620561, 
-      85922583, 
-      85688637, 
-      1159157333, 
-      85633793, 
+      102087579,
+      1159157271,
+      1159157335,
+      102191575,
+      102527513,
+      1226620561,
+      85922583,
+      85688637,
+      1159157333,
+      85633793,
       1159157041
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1549479247,
     "wof:depicts": [
-      1159157041, 
-      1226620561, 
-      102527513, 
-      1159157271, 
-      1159157335, 
+      1159157041,
+      1226620561,
+      102527513,
+      1159157271,
+      1159157335,
       1159157333
     ],
     "wof:geomhash": "28598dec3afc25749e087e49d73ad7b5",
@@ -164,7 +165,7 @@
       }
     ],
     "wof:id": 1376877837,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"A Legacy of Pride: Gilbert Baker and the 40th Anniversary of the Rainbow Flag\"",
     "wof:parent_id": 1226620561,
     "wof:placetype": "media",
@@ -176,9 +177,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389267, 
-    37.615645, 
-    -122.389267, 
+    -122.389267,
+    37.615645,
+    -122.389267,
     37.615645
   ],
   "geometry": {"coordinates":[-122.389267,37.615645],"type":"Point"}

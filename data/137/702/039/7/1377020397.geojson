@@ -2,6 +2,10 @@
   "id": 1377020397,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-08",
+    "date:cessation_upper": "2017-05-08",
+    "date:inception_lower": "2016-10-21",
+    "date:inception_upper": "2016-10-21",
     "edtf:cessation": "2017-05-08",
     "edtf:inception": "2016-10-21",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#5083ba",
           "name": "#5083ba",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ecd3bd",
           "name": "#ecd3bd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#0c4a8c",
           "name": "#0c4a8c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6580ac",
           "name": "#6580ac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8b8c6",
           "name": "#a8b8c6",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1394,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      1159396193, 
-      85688637, 
-      85922583, 
-      1159396321, 
-      1360516255, 
-      1159157325, 
-      102191575, 
-      85633793, 
-      1226619799, 
+      102527513,
+      1159396193,
+      85688637,
+      85922583,
+      1159396321,
+      1360516255,
+      1159157325,
+      102191575,
+      85633793,
+      1226619799,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1550875551,
     "wof:depicts": [
-      1159396321, 
-      1226619799, 
-      1159157325, 
-      1360516255, 
-      102527513, 
+      1159396321,
+      1226619799,
+      1159157325,
+      1360516255,
+      102527513,
       1159396193
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -154,13 +159,14 @@
         "enclosure_id": 1360516255,
         "installation_id": 1226619799,
         "locality_id": 85922583,
+        "media_id": 1377020397,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157325
       }
     ],
     "wof:id": 1377020397,
-    "wof:lastmodified": 1577135796,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"The Mysterious Talking Board: Ouija and Beyond\"",
     "wof:parent_id": 1226619799,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

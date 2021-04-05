@@ -2,6 +2,10 @@
   "id": 1377020803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1994-01-15",
+    "date:cessation_upper": "1994-01-15",
+    "date:inception_lower": "1993-11-16",
+    "date:inception_upper": "1993-11-16",
     "edtf:cessation": "1994-01-15",
     "edtf:inception": "1993-11-16",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#693432",
           "name": "#693432",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#73868e",
           "name": "#73868e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bbb8bf",
           "name": "#bbb8bf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#323449",
           "name": "#323449",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 193,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159554817, 
-      85922583, 
-      1159554803, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1226606173, 
-      1159157883, 
+      1159554817,
+      85922583,
+      1159554803,
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      1226606173,
+      1159157883,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1550884503,
     "wof:depicts": [
-      1159554803, 
-      1159554817, 
-      1159157883, 
-      1226606173, 
+      1159554803,
+      1159554817,
+      1159157883,
+      1226606173,
       102527513
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -146,13 +151,14 @@
         "enclosure_id": 1159157883,
         "installation_id": 1226606173,
         "locality_id": 85922583,
+        "media_id": 1377020803,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1377020803,
-    "wof:lastmodified": 1577136399,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"B is for Bears\"",
     "wof:parent_id": 1226606173,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

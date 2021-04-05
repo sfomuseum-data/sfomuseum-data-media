@@ -2,6 +2,10 @@
   "id": 1376996407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-04-22",
+    "date:cessation_upper": "2019-04-22",
+    "date:inception_lower": "2018-07-20",
+    "date:inception_upper": "2018-07-20",
     "edtf:cessation": "2019-04-22",
     "edtf:inception": "2018-07-20",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#ca8a43",
           "name": "#ca8a43",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dead5f",
           "name": "#dead5f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#7f4d23",
           "name": "#7f4d23",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ae9070",
           "name": "#ae9070",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bccbd5",
           "name": "#bccbd5",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1601,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1226620513, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1159157333, 
-      1159157335, 
+      1226620513,
+      85688637,
+      102527513,
+      1159157271,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      1159157333,
+      1159157335,
       1159157039
     ],
     "wof:country": "US",
     "wof:created": 1550611169,
     "wof:depicts": [
-      1159157271, 
-      1159157335, 
-      1159157039, 
-      102527513, 
-      1159157333, 
+      1159157271,
+      1159157335,
+      1159157039,
+      102527513,
+      1159157333,
       1226620513
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -154,13 +159,14 @@
         "enclosure_id": 1159157039,
         "installation_id": 1226620513,
         "locality_id": 85922583,
+        "media_id": 1376996407,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1376996407,
-    "wof:lastmodified": 1577133976,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Caticons\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

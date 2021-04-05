@@ -2,6 +2,10 @@
   "id": 1377470963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1999-07-30",
+    "date:cessation_upper": "1999-07-30",
+    "date:inception_lower": "1998-11-15",
+    "date:inception_upper": "1998-11-15",
     "edtf:cessation": "1999-07-30",
     "edtf:inception": "1998-11-15",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#c7a670",
           "name": "#c7a670",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cbac89",
           "name": "#cbac89",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#813b27",
           "name": "#813b27",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ad8e5b",
           "name": "#ad8e5b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ccc5b9",
           "name": "#ccc5b9",
@@ -117,26 +121,27 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 63,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159554829, 
-      1159554803, 
-      102087579, 
-      1360516471, 
-      1226604841, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
+      1159554829,
+      1159554803,
+      102087579,
+      1360516471,
+      1226604841,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1555627826,
     "wof:depicts": [
-      1226604841, 
-      1159554829, 
-      1226604841, 
+      1226604841,
+      1159554829,
+      1226604841,
       1360516471
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -150,13 +155,14 @@
         "enclosure_id": 1360516471,
         "installation_id": 1226604841,
         "locality_id": 85922583,
+        "media_id": 1377470963,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377470963,
-    "wof:lastmodified": 1578438315,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"A World View of Puppets\"",
     "wof:parent_id": 1226604841,
     "wof:placetype": "media",
@@ -165,9 +171,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

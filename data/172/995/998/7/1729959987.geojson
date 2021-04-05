@@ -112,6 +112,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/998/7/1729959987_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1494,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -174,7 +175,7 @@
       }
     ],
     "wof:id": 1729959987,
-    "wof:lastmodified": 1617660616,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Flying the Freedom Birds: Airlines and the Vietnam War\"",
     "wof:parent_id": 1495157221,
     "wof:placetype": "media",

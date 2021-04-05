@@ -2,6 +2,10 @@
   "id": 1376878053,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-05-17",
+    "date:cessation_upper": "2019-05-17",
+    "date:inception_lower": "2018-10-05",
+    "date:inception_upper": "2018-10-05",
     "edtf:cessation": "2019-05-17",
     "edtf:inception": "2018-10-05",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#1167bd",
           "name": "#1167bd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d0a969",
           "name": "#d0a969",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#376990",
           "name": "#376990",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#578ba9",
           "name": "#578ba9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6c8c1",
           "name": "#c6c8c1",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1589,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157335, 
-      1159157333, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1360667837, 
-      1159157271, 
-      102087579, 
+      1159157335,
+      1159157333,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102527513,
+      1360667837,
+      1159157271,
+      102087579,
       1159157037
     ],
     "wof:country": "US",
     "wof:created": 1549500463,
     "wof:depicts": [
-      102527513, 
-      1159157335, 
-      1159157037, 
-      1159157271, 
-      1360667837, 
+      102527513,
+      1159157335,
+      1159157037,
+      1159157271,
+      1360667837,
       1159157333
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -154,13 +159,14 @@
         "enclosure_id": 1159157037,
         "installation_id": 1360667837,
         "locality_id": 85922583,
+        "media_id": 1376878053,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1376878053,
-    "wof:lastmodified": 1577133618,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"A Sterling Renaissance, British Silver Design 1957-2018\"",
     "wof:parent_id": 1360667837,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

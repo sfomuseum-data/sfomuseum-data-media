@@ -2,6 +2,10 @@
   "id": 1377020815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1993-10-15",
+    "date:cessation_upper": "1993-10-15",
+    "date:inception_lower": "1993-08-15",
+    "date:inception_upper": "1993-08-15",
     "edtf:cessation": "1993-10-15",
     "edtf:inception": "1993-08-15",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#958668",
           "name": "#958668",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d1c6a5",
           "name": "#d1c6a5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#554031",
           "name": "#554031",
@@ -107,27 +111,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 299,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1360516467, 
-      1159554803, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1226608683, 
-      85688637, 
+      85633793,
+      102087579,
+      1360516467,
+      1159554803,
+      102527513,
+      85922583,
+      102191575,
+      1226608683,
+      85688637,
       1159554829
     ],
     "wof:country": "US",
     "wof:created": 1550885325,
     "wof:depicts": [
-      1360516467, 
-      1159554829, 
-      102527513, 
-      1226608683, 
+      1360516467,
+      1159554829,
+      102527513,
+      1226608683,
       1159554803
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -141,13 +146,14 @@
         "enclosure_id": 1360516467,
         "installation_id": 1226608683,
         "locality_id": 85922583,
+        "media_id": 1377020815,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377020815,
-    "wof:lastmodified": 1577136419,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Ancestor Figures from New Guinea\"",
     "wof:parent_id": 1226608683,
     "wof:placetype": "media",
@@ -156,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

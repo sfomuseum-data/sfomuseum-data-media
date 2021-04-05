@@ -26,22 +26,22 @@
           "hex": "#3a97d5",
           "name": "#3a97d5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#896131",
           "name": "#896131",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6694b2",
           "name": "#6694b2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6bab5",
           "name": "#c6bab5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3e4953",
           "name": "#3e4953",
@@ -122,31 +122,31 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1601,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1226620513, 
-      1159157335, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      1159157039, 
-      102527513, 
-      1376996405, 
-      85688637, 
+      102087579,
+      1226620513,
+      1159157335,
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      1159157039,
+      102527513,
+      85688637,
       1159157333
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1550611167,
     "wof:depicts": [
-      1226620513, 
-      1159157039, 
-      1159157333, 
-      1159157271, 
-      1159157335, 
+      1226620513,
+      1159157039,
+      1159157333,
+      1159157271,
+      1159157335,
       102527513
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1376996405,
-    "wof:lastmodified": 1577133973,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Caticons: The Cat in Art\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",
@@ -178,9 +178,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

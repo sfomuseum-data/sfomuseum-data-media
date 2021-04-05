@@ -2,6 +2,10 @@
   "id": 1377126565,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2017-05-17",
+    "date:cessation_upper": "2017-05-17",
+    "date:inception_lower": "2017-02-22",
+    "date:inception_upper": "2017-02-22",
     "edtf:cessation": "2017-05-17",
     "edtf:inception": "2017-02-22",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#e55635",
           "name": "#e55635",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ce9d6b",
           "name": "#ce9d6b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#2054a7",
           "name": "#2054a7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#667f9a",
           "name": "#667f9a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8a9fb3",
           "name": "#8a9fb3",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1484,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159160721, 
-      1159396157, 
-      85633793, 
-      1360516161, 
-      85688637, 
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      1159160721,
+      1159396157,
+      85633793,
+      1360516161,
+      85688637,
       1159396321
     ],
     "wof:country": "US",
     "wof:created": 1552091928,
     "wof:depicts": [
-      1360516161, 
-      1159160721, 
-      1159396157, 
-      1159396321, 
+      1360516161,
+      1159160721,
+      1159396157,
+      1159396321,
       102527513
     ],
     "wof:geomhash": "2bde3733f865a039345d3654b4b7de52",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516161,
         "installation_id": 1159160721,
         "locality_id": 85922583,
+        "media_id": 1377126565,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396157
       }
     ],
     "wof:id": 1377126565,
-    "wof:lastmodified": 1578437715,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Installation view of \"Jeff Devine: 1970s Surf Photography\"",
     "wof:parent_id": 1159160721,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387515, 
-    37.617685, 
-    -122.387515, 
+    -122.387515,
+    37.617685,
+    -122.387515,
     37.617685
   ],
   "geometry": {"coordinates":[-122.387515,37.617685],"type":"Point"}

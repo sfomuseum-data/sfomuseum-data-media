@@ -117,6 +117,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/944/7/1729959447_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1768,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -175,7 +176,7 @@
       }
     ],
     "wof:id": 1729959447,
-    "wof:lastmodified": 1617654481,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Hair Style\"",
     "wof:parent_id": 1729842179,
     "wof:placetype": "media",

@@ -26,12 +26,12 @@
           "hex": "#697e89",
           "name": "#697e89",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b4bec6",
           "name": "#b4bec6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#38434b",
           "name": "#38434b",
@@ -112,31 +112,31 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1601,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157335, 
-      85688637, 
-      1159157333, 
-      1226620513, 
-      1159157039, 
-      1376996439, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159157335,
+      85688637,
+      1159157333,
+      1226620513,
+      1159157039,
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1550611205,
     "wof:depicts": [
-      1226620513, 
-      1159157333, 
-      1159157039, 
-      102527513, 
-      1159157271, 
+      1226620513,
+      1159157333,
+      1159157039,
+      102527513,
+      1159157271,
       1159157335
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1376996439,
-    "wof:lastmodified": 1577134012,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Caticons: The Cat in Art\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",
@@ -168,9 +168,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

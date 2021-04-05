@@ -2,6 +2,10 @@
   "id": 1377126149,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-02",
+    "date:cessation_upper": "2018-04-02",
+    "date:inception_lower": "2017-08-18",
+    "date:inception_upper": "2017-08-18",
     "edtf:cessation": "2018-04-02",
     "edtf:inception": "2017-08-18",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#d97242",
           "name": "#d97242",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e7caaa",
           "name": "#e7caaa",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8e3235",
           "name": "#8e3235",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a57464",
           "name": "#a57464",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a6b5c1",
           "name": "#a6b5c1",
@@ -117,31 +121,32 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1419,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159160631, 
-      85922583, 
-      1159157333, 
-      1159157271, 
-      1159157335, 
-      102191575, 
-      1159157047, 
-      85688637, 
-      102527513, 
-      1159157045, 
-      85633793, 
+      1159160631,
+      85922583,
+      1159157333,
+      1159157271,
+      1159157335,
+      102191575,
+      1159157047,
+      85688637,
+      102527513,
+      1159157045,
+      85633793,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1552087224,
     "wof:depicts": [
-      1159160631, 
-      1159157271, 
-      1159157045, 
-      1159157335, 
-      1159157333, 
-      1159157047, 
+      1159160631,
+      1159157271,
+      1159157045,
+      1159157335,
+      1159157333,
+      1159157047,
       102527513
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -156,10 +161,11 @@
         "enclosure_id": 1159157047,
         "installation_id": 1159160631,
         "locality_id": 85922583,
+        "media_id": 1377126149,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
-      }, 
+      },
       {
         "building_id": 1159157271,
         "campus_id": 102527513,
@@ -170,13 +176,14 @@
         "enclosure_id": 1159157045,
         "installation_id": 1159160631,
         "locality_id": 85922583,
+        "media_id": 1377126149,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1377126149,
-    "wof:lastmodified": 1578437414,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Empowering Threads: Textiles of Jolom Mayaetik\"",
     "wof:parent_id": 1159160631,
     "wof:placetype": "media",
@@ -185,9 +192,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

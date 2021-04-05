@@ -2,6 +2,10 @@
   "id": 1377020491,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-10-20",
+    "date:cessation_upper": "2014-10-20",
+    "date:inception_lower": "2013-12-13",
+    "date:inception_upper": "2013-12-13",
     "edtf:cessation": "2014-10-20",
     "edtf:inception": "2013-12-13",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#261912",
           "name": "#261912",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#61849f",
           "name": "#61849f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d6c5b1",
           "name": "#d6c5b1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#504031",
           "name": "#504031",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1297,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1360516259, 
-      102191575, 
-      1159160469, 
-      85633793, 
-      85688637, 
-      1159396109, 
-      1159396333, 
-      102087579, 
-      85922583, 
-      1159396261, 
+      1360516259,
+      102191575,
+      1159160469,
+      85633793,
+      85688637,
+      1159396109,
+      1159396333,
+      102087579,
+      85922583,
+      1159396261,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1550876149,
     "wof:depicts": [
-      1159396261, 
-      1159160469, 
-      102527513, 
-      1159396333, 
-      1360516259, 
+      1159396261,
+      1159160469,
+      102527513,
+      1159396333,
+      1360516259,
       1159396109
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -149,13 +154,14 @@
         "enclosure_id": 1360516259,
         "installation_id": 1159160469,
         "locality_id": 85922583,
+        "media_id": 1377020491,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396109
       }
     ],
     "wof:id": 1377020491,
-    "wof:lastmodified": 1577135941,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"San Francisco, From the David Rumsey Map Collection\"",
     "wof:parent_id": 1159160469,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

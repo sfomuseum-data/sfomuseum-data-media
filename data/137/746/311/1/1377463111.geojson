@@ -2,6 +2,10 @@
   "id": 1377463111,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2019-09-16",
+    "date:cessation_upper": "2019-09-16",
+    "date:inception_lower": "2019-03-09",
+    "date:inception_upper": "2019-03-09",
     "edtf:cessation": "2019-09-16",
     "edtf:inception": "2019-03-09",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#3797d4",
           "name": "#3797d4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#acd3e3",
           "name": "#acd3e3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8876c",
           "name": "#a8876c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c9c0ac",
           "name": "#c9c0ac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4d4036",
           "name": "#4d4036",
@@ -117,25 +121,26 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1487,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102087579, 
-      85688637, 
-      1159157333, 
-      102527513, 
-      1159157335, 
-      1377462859, 
-      102191575, 
-      1159157863, 
+      85633793,
+      1159157271,
+      102087579,
+      85688637,
+      1159157333,
+      102527513,
+      1159157335,
+      1377462859,
+      102191575,
+      1159157863,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555542406,
     "wof:depicts": [
-      1377462859, 
+      1377462859,
       102527513
     ],
     "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
@@ -150,6 +155,7 @@
         "enclosure_id": 1159157863,
         "installation_id": 1377462859,
         "locality_id": 85922583,
+        "media_id": 1377463111,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1159157863,
@@ -157,7 +163,7 @@
       }
     ],
     "wof:id": 1377463111,
-    "wof:lastmodified": 1578357462,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"Aluminum: the Miracle Metal of Aviation\"",
     "wof:parent_id": 1377462859,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387939, 
-    37.614512, 
-    -122.387939, 
+    -122.387939,
+    37.614512,
+    -122.387939,
     37.614512
   ],
   "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1377043811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-26",
+    "date:cessation_upper": "2018-02-26",
+    "date:inception_lower": "2017-06-23",
+    "date:inception_upper": "2017-06-23",
     "edtf:cessation": "2018-02-26",
     "edtf:inception": "2017-06-23",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#cbc754",
           "name": "#cbc754",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d7d267",
           "name": "#d7d267",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#274e76",
           "name": "#274e76",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9c956a",
           "name": "#9c956a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9db2c0",
           "name": "#9db2c0",
@@ -117,31 +121,32 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1508,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1159157053, 
-      1159160725, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      1159268871, 
-      85688637, 
-      1159396301, 
-      102191575, 
-      85633793, 
+      102087579,
+      1159157053,
+      1159160725,
+      85922583,
+      1159157271,
+      102527513,
+      1159268871,
+      85688637,
+      1159396301,
+      102191575,
+      85633793,
       1159157307
     ],
     "wof:country": "US",
     "wof:created": 1551142975,
     "wof:depicts": [
-      1159157053, 
-      1159268871, 
-      1159157307, 
-      1159157271, 
-      102527513, 
-      1159396301, 
+      1159157053,
+      1159268871,
+      1159157307,
+      1159157271,
+      102527513,
+      1159396301,
       1159160725
     ],
     "wof:geomhash": "1a71df9d6f65e0e70d6eb3fd9c88e5e7",
@@ -156,6 +161,7 @@
         "enclosure_id": 1159157053,
         "installation_id": 1159160725,
         "locality_id": 85922583,
+        "media_id": 1377043811,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1159268871,
@@ -163,7 +169,7 @@
       }
     ],
     "wof:id": 1377043811,
-    "wof:lastmodified": 1577137986,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Flying the Main Line: A History of United Airlines\"",
     "wof:parent_id": 1159160725,
     "wof:placetype": "media",
@@ -172,9 +178,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387109, 
-    37.618847, 
-    -122.387109, 
+    -122.387109,
+    37.618847,
+    -122.387109,
     37.618847
   ],
   "geometry": {"coordinates":[-122.387109,37.618847],"type":"Point"}

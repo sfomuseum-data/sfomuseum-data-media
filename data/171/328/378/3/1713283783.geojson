@@ -2,6 +2,10 @@
   "id": 1713283783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1999-04-01",
+    "date:cessation_upper": "1999-04-01",
+    "date:inception_lower": "1998-07-30",
+    "date:inception_upper": "1998-07-30",
     "edtf:cessation": "1999-04-01",
     "edtf:inception": "1998-07-30",
     "geom:area": 0,
@@ -20,22 +24,22 @@
           "hex": "#4775b0",
           "name": "#4775b0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9bb8e6",
           "name": "#9bb8e6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#173665",
           "name": "#173665",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6b87b2",
           "name": "#6b87b2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b4b6ca",
           "name": "#b4b6ca",
@@ -112,18 +116,19 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/171/328/378/3/1713283783_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 44,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1226604431, 
-      85922583, 
-      102191575, 
-      85633793, 
-      1159554817, 
-      102087579, 
-      1159157875, 
-      102527513, 
-      85688637, 
+      1226604431,
+      85922583,
+      102191575,
+      85633793,
+      1159554817,
+      102087579,
+      1159157875,
+      102527513,
+      85688637,
       1159554803
     ],
     "wof:country": "US",
@@ -142,13 +147,14 @@
         "enclosure_id": 1159157875,
         "installation_id": 1226604431,
         "locality_id": 85922583,
+        "media_id": 1713283783,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1713283783,
-    "wof:lastmodified": 1594766362,
+    "wof:lastmodified": 1617666639,
     "wof:name": "Platform Shoes - History - 60’s Fashion - Today",
     "wof:parent_id": 1226604431,
     "wof:placetype": "media",
@@ -157,9 +163,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1377126131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-26",
+    "date:cessation_upper": "2018-11-26",
+    "date:inception_lower": "2018-03-09",
+    "date:inception_upper": "2018-03-09",
     "edtf:cessation": "2018-11-26",
     "edtf:inception": "2018-03-09",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#768abf",
           "name": "#768abf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b37970",
           "name": "#b37970",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6becd",
           "name": "#b6becd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#423f49",
           "name": "#423f49",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1591,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1159157307, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159160853, 
-      1159157053, 
-      1159157271, 
-      102527513, 
+      85922583,
+      1159157307,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      1159160853,
+      1159157053,
+      1159157271,
+      102527513,
       1159396301
     ],
     "wof:country": "US",
     "wof:created": 1552086912,
     "wof:depicts": [
-      1159157307, 
-      1159157271, 
-      1159157053, 
-      102527513, 
-      1159396301, 
+      1159157307,
+      1159157271,
+      1159157053,
+      102527513,
+      1159396301,
       1159160853
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -149,13 +154,14 @@
         "enclosure_id": 1159157053,
         "installation_id": 1159160853,
         "locality_id": 85922583,
+        "media_id": 1377126131,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157307
       }
     ],
     "wof:id": 1377126131,
-    "wof:lastmodified": 1578437401,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"On the Radio\"",
     "wof:parent_id": 1159160853,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

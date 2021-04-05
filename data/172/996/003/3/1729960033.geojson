@@ -117,6 +117,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/172/996/003/3/1729960033_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1488,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -179,7 +180,7 @@
       }
     ],
     "wof:id": 1729960033,
-    "wof:lastmodified": 1617662772,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Widebody: The Launch of the Jumbojets in the Early 1970s\r\"",
     "wof:parent_id": 1495157219,
     "wof:placetype": "media",

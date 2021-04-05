@@ -2,6 +2,10 @@
   "id": 1377470815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2008-07-02",
+    "date:cessation_upper": "2008-07-02",
+    "date:inception_lower": "2008-02-08",
+    "date:inception_upper": "2008-02-08",
     "edtf:cessation": "2008-07-02",
     "edtf:inception": "2008-02-08",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#ba4e3d",
           "name": "#ba4e3d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#85837b",
           "name": "#85837b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c0c6c7",
           "name": "#c0c6c7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#454342",
           "name": "#454342",
@@ -112,28 +116,29 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 958,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1360521569, 
-      1159396337, 
-      1159396147, 
-      85922583, 
-      102087579, 
-      1360541633, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1159159965, 
+      1360521569,
+      1159396337,
+      1159396147,
+      85922583,
+      102087579,
+      1360541633,
+      85688637,
+      102191575,
+      85633793,
+      1159159965,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1555625858,
     "wof:depicts": [
-      1159159965, 
-      1360541633, 
-      1159396147, 
-      1159159965, 
+      1159159965,
+      1360541633,
+      1159396147,
+      1159159965,
       1360521569
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
@@ -147,6 +152,7 @@
         "enclosure_id": 1360541633,
         "installation_id": 1159159965,
         "locality_id": 85922583,
+        "media_id": 1377470815,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521569,
@@ -154,7 +160,7 @@
       }
     ],
     "wof:id": 1377470815,
-    "wof:lastmodified": 1578438247,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Airports on Paper:  Design  Documents and Informational Publications, 1927-2005\"",
     "wof:parent_id": 1159159965,
     "wof:placetype": "media",
@@ -163,9 +169,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387989, 
-    37.614385, 
-    -122.387989, 
+    -122.387989,
+    37.614385,
+    -122.387989,
     37.614385
   ],
   "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}

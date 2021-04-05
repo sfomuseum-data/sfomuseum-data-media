@@ -2,6 +2,10 @@
   "id": 1377011949,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2004-01-15",
+    "date:cessation_upper": "2004-01-15",
+    "date:inception_lower": "2003-03-21",
+    "date:inception_upper": "2003-03-21",
     "edtf:cessation": "2004-01-15",
     "edtf:inception": "2003-03-21",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#991e15",
           "name": "#991e15",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e1c2a8",
           "name": "#e1c2a8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#861b10",
           "name": "#861b10",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9b8667",
           "name": "#9b8667",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cdae90",
           "name": "#cdae90",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 184,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      1360521571, 
-      1159396107, 
-      1159396319, 
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1360541563, 
-      1159159515, 
+      102527513,
+      1360521571,
+      1159396107,
+      1159396319,
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      1360541563,
+      1159159515,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1550788879,
     "wof:depicts": [
-      1360541563, 
-      1159396107, 
-      1159396319, 
-      102527513, 
-      1159159515, 
+      1360541563,
+      1159396107,
+      1159396319,
+      102527513,
+      1159159515,
       1360521571
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
@@ -153,6 +158,7 @@
         "enclosure_id": 1360541563,
         "installation_id": 1159159515,
         "locality_id": 85922583,
+        "media_id": 1377011949,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 1360521571,
@@ -160,7 +166,7 @@
       }
     ],
     "wof:id": 1377011949,
-    "wof:lastmodified": 1577134415,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Flight of the Crane: Japan Air Lines Travel Posters\"",
     "wof:parent_id": 1159159515,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387989, 
-    37.614385, 
-    -122.387989, 
+    -122.387989,
+    37.614385,
+    -122.387989,
     37.614385
   ],
   "geometry": {"coordinates":[-122.387989,37.614385],"type":"Point"}

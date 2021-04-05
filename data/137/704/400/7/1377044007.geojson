@@ -2,6 +2,10 @@
   "id": 1377044007,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2012-08-06",
+    "date:cessation_upper": "2012-08-06",
+    "date:inception_lower": "2012-03-02",
+    "date:inception_upper": "2012-03-02",
     "edtf:cessation": "2012-08-06",
     "edtf:inception": "2012-03-02",
     "geom:area": 0,
@@ -21,12 +25,12 @@
           "hex": "#946b69",
           "name": "#946b69",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8a098",
           "name": "#a8a098",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#502f32",
           "name": "#502f32",
@@ -107,29 +111,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1193,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159396295, 
-      1159396141, 
-      1159396333, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1360516121, 
-      1159160321, 
+      1159396295,
+      1159396141,
+      1159396333,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      102527513,
+      1360516121,
+      1159160321,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1551146086,
     "wof:depicts": [
-      1159396295, 
-      1159160321, 
-      1159396141, 
-      1159396333, 
-      1360516121, 
+      1159396295,
+      1159160321,
+      1159396141,
+      1159396333,
+      1360516121,
       102527513
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -144,13 +149,14 @@
         "enclosure_id": 1360516121,
         "installation_id": 1159160321,
         "locality_id": 85922583,
+        "media_id": 1377044007,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396141
       }
     ],
     "wof:id": 1377044007,
-    "wof:lastmodified": 1578436504,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Threading the Needle: Sewing in the Machine Age\"",
     "wof:parent_id": 1159160321,
     "wof:placetype": "media",
@@ -159,9 +165,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

@@ -2,6 +2,10 @@
   "id": 1377127039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2013-12-08",
+    "date:cessation_upper": "2013-12-08",
+    "date:inception_lower": "2013-05-24",
+    "date:inception_upper": "2013-05-24",
     "edtf:cessation": "2013-12-08",
     "edtf:inception": "2013-05-24",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#e2d9be",
           "name": "#e2d9be",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#938668",
           "name": "#938668",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cdc2a8",
           "name": "#cdc2a8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#494239",
           "name": "#494239",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1218,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1159160361, 
-      1159396333, 
-      85633793, 
-      1159396261, 
-      102191575, 
-      1360516259, 
-      1159396109, 
-      102527513, 
-      102087579, 
+      85922583,
+      1159160361,
+      1159396333,
+      85633793,
+      1159396261,
+      102191575,
+      1360516259,
+      1159396109,
+      102527513,
+      102087579,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1552096358,
     "wof:depicts": [
-      1159396109, 
-      1159396333, 
-      1159396261, 
-      1159160361, 
-      102527513, 
+      1159396109,
+      1159396333,
+      1159396261,
+      1159160361,
+      102527513,
       1360516259
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -149,13 +154,14 @@
         "enclosure_id": 1360516259,
         "installation_id": 1159160361,
         "locality_id": 85922583,
+        "media_id": 1377127039,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396109
       }
     ],
     "wof:id": 1377127039,
-    "wof:lastmodified": 1578438046,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"From Ship to Shore: Nautical Arts from the San Francisco Maritime National Historic Park\"",
     "wof:parent_id": 1159160361,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

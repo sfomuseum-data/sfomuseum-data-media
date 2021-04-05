@@ -2,6 +2,10 @@
   "id": 1377126961,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2014-03-03",
+    "date:cessation_upper": "2014-03-03",
+    "date:inception_lower": "2013-08-20",
+    "date:inception_upper": "2013-08-20",
     "edtf:cessation": "2014-03-03",
     "edtf:inception": "2013-08-20",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#a0760e",
           "name": "#a0760e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#024734",
           "name": "#024734",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b18557",
           "name": "#b18557",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d3c1b4",
           "name": "#d3c1b4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a4331",
           "name": "#4a4331",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1208,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1360516193, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1360516183, 
-      1159160349, 
-      1159396159, 
-      1159396333, 
+      85922583,
+      85688637,
+      1360516193,
+      102527513,
+      85633793,
+      102087579,
+      1360516183,
+      1159160349,
+      1159396159,
+      1159396333,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1552094305,
     "wof:depicts": [
-      1360516183, 
-      1159160349, 
-      1159396333, 
-      102527513, 
-      1159396159, 
+      1360516183,
+      1159160349,
+      1159396333,
+      102527513,
+      1159396159,
       1360516193
     ],
     "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
@@ -153,10 +158,11 @@
         "enclosure_id": 1360516183,
         "installation_id": 1159160349,
         "locality_id": 85922583,
+        "media_id": 1377126961,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
-      }, 
+      },
       {
         "building_id": 1159396333,
         "campus_id": 102527513,
@@ -166,13 +172,14 @@
         "enclosure_id": 1360516193,
         "installation_id": 1159160349,
         "locality_id": 85922583,
+        "media_id": 1377126961,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396159
       }
     ],
     "wof:id": 1377126961,
-    "wof:lastmodified": 1578437994,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"America’s Cup, Sailing for International Sport’s Greatest Trophy 1851-1937\"",
     "wof:parent_id": 1159160349,
     "wof:placetype": "media",
@@ -181,9 +188,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388942, 
-    37.615424, 
-    -122.388942, 
+    -122.388942,
+    37.615424,
+    -122.388942,
     37.615424
   ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}

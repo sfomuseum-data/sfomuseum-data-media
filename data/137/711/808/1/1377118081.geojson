@@ -2,6 +2,10 @@
   "id": 1377118081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2007-10-30",
+    "date:cessation_upper": "2007-10-30",
+    "date:inception_lower": "2007-05-23",
+    "date:inception_upper": "2007-05-23",
     "edtf:cessation": "2007-10-30",
     "edtf:inception": "2007-05-23",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#8c452d",
           "name": "#8c452d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#1b437b",
           "name": "#1b437b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#978c59",
           "name": "#978c59",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bfc4af",
           "name": "#bfc4af",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#464628",
           "name": "#464628",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 908,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1159396139, 
-      102087579, 
-      1360516479, 
+      85633793,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
+      85922583,
+      1159396139,
+      102087579,
+      1360516479,
       1159159879
     ],
     "wof:country": "US",
     "wof:created": 1552007464,
     "wof:depicts": [
-      1159159879, 
-      1159396139, 
-      1360516479, 
-      1159396337, 
+      1159159879,
+      1159396139,
+      1360516479,
+      1159396337,
       102527513
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516479,
         "installation_id": 1159159879,
         "locality_id": 85922583,
+        "media_id": 1377118081,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159396139
       }
     ],
     "wof:id": 1377118081,
-    "wof:lastmodified": 1578437229,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"Baseball by the Bay: San Francisco, Oakland, and the National Pastime\"",
     "wof:parent_id": 1159159879,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

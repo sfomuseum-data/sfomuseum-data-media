@@ -2,6 +2,10 @@
   "id": 1377051593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1995-02-10",
+    "date:cessation_upper": "1995-02-10",
+    "date:inception_lower": "1994-10-30",
+    "date:inception_upper": "1994-10-30",
     "edtf:cessation": "1995-02-10",
     "edtf:inception": "1994-10-30",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#b2685d",
           "name": "#b2685d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#947a74",
           "name": "#947a74",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6bdc5",
           "name": "#b6bdc5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a3e40",
           "name": "#4a3e40",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 304,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159554803, 
-      1159554829, 
-      102087579, 
-      85688637, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1360516467, 
+      1159554803,
+      1159554829,
+      102087579,
+      85688637,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      1360516467,
       1226608827
     ],
     "wof:country": "US",
     "wof:created": 1551202736,
     "wof:depicts": [
-      1360516467, 
-      102527513, 
-      1226608827, 
-      1159554829, 
+      1360516467,
+      102527513,
+      1226608827,
+      1159554829,
       1159554803
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -146,13 +151,14 @@
         "enclosure_id": 1360516467,
         "installation_id": 1226608827,
         "locality_id": 85922583,
+        "media_id": 1377051593,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377051593,
-    "wof:lastmodified": 1578436644,
+    "wof:lastmodified": 1617666642,
     "wof:name": "Installation view of \"Architectural Building Blocks\"",
     "wof:parent_id": 1226608827,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

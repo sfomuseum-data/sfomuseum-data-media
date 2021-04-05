@@ -2,6 +2,10 @@
   "id": 1377011841,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1986-07-06",
+    "date:cessation_upper": "1986-07-06",
+    "date:inception_lower": "1986-04-15",
+    "date:inception_upper": "1986-04-15",
     "edtf:cessation": "1986-07-06",
     "edtf:inception": "1986-04-15",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#d8c99f",
           "name": "#d8c99f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#817e86",
           "name": "#817e86",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6c6b7",
           "name": "#c6c6b7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#54393e",
           "name": "#54393e",
@@ -112,29 +116,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 431,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159554841, 
-      102191575, 
-      1360516129, 
-      1226612107, 
-      102527513, 
-      85633793, 
-      1159554819, 
-      102087579, 
-      1159554801, 
-      85922583, 
+      1159554841,
+      102191575,
+      1360516129,
+      1226612107,
+      102527513,
+      85633793,
+      1159554819,
+      102087579,
+      1159554801,
+      85922583,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1550784301,
     "wof:depicts": [
-      1159554819, 
-      1226612107, 
-      1360516129, 
-      1159554801, 
-      102527513, 
+      1159554819,
+      1226612107,
+      1360516129,
+      1159554801,
+      102527513,
       1159554841
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -149,13 +154,14 @@
         "enclosure_id": 1360516129,
         "installation_id": 1226612107,
         "locality_id": 85922583,
+        "media_id": 1377011841,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554819
       }
     ],
     "wof:id": 1377011841,
-    "wof:lastmodified": 1577134308,
+    "wof:lastmodified": 1617666643,
     "wof:name": "Installation view of \"Airport Cafe\"",
     "wof:parent_id": 1226612107,
     "wof:placetype": "media",
@@ -164,9 +170,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

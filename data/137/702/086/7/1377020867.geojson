@@ -2,6 +2,10 @@
   "id": 1377020867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1993-10-15",
+    "date:cessation_upper": "1993-10-15",
+    "date:inception_lower": "1993-08-15",
+    "date:inception_upper": "1993-08-15",
     "edtf:cessation": "1993-10-15",
     "edtf:inception": "1993-08-15",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#d6bfa2",
           "name": "#d6bfa2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#709191",
           "name": "#709191",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b7cebb",
           "name": "#b7cebb",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3e5156",
           "name": "#3e5156",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 299,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1159554829, 
-      1159554803, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1360516467, 
-      85688637, 
-      85633793, 
+      85922583,
+      1159554829,
+      1159554803,
+      102527513,
+      102191575,
+      102087579,
+      1360516467,
+      85688637,
+      85633793,
       1226608683
     ],
     "wof:country": "US",
     "wof:created": 1550885654,
     "wof:depicts": [
-      1226608683, 
-      1360516467, 
-      1159554829, 
-      1159554803, 
+      1226608683,
+      1360516467,
+      1159554829,
+      1159554803,
       102527513
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -146,13 +151,14 @@
         "enclosure_id": 1360516467,
         "installation_id": 1226608683,
         "locality_id": 85922583,
+        "media_id": 1377020867,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377020867,
-    "wof:lastmodified": 1577136487,
+    "wof:lastmodified": 1617666644,
     "wof:name": "Installation view of \"Ancestor Figures from New Guinea\"",
     "wof:parent_id": 1226608683,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

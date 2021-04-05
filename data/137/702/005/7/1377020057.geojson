@@ -2,6 +2,10 @@
   "id": 1377020057,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1991-06-30",
+    "date:cessation_upper": "1991-06-30",
+    "date:inception_lower": "1991-05-01",
+    "date:inception_upper": "1991-05-01",
     "edtf:cessation": "1991-06-30",
     "edtf:inception": "1991-05-01",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#c8c084",
           "name": "#c8c084",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e2dc9e",
           "name": "#e2dc9e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#273868",
           "name": "#273868",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#968e65",
           "name": "#968e65",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#aeb7c4",
           "name": "#aeb7c4",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 270,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102087579, 
-      1159554829, 
-      1159554803, 
-      1360516471, 
-      1226607773, 
-      85922583, 
-      102527513, 
+      85688637,
+      102191575,
+      102087579,
+      1159554829,
+      1159554803,
+      1360516471,
+      1226607773,
+      85922583,
+      102527513,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1550870342,
     "wof:depicts": [
-      1159554829, 
-      1159554803, 
-      102527513, 
-      1226607773, 
+      1159554829,
+      1159554803,
+      102527513,
+      1226607773,
       1360516471
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
@@ -151,13 +156,14 @@
         "enclosure_id": 1360516471,
         "installation_id": 1226607773,
         "locality_id": 85922583,
+        "media_id": 1377020057,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554829
       }
     ],
     "wof:id": 1377020057,
-    "wof:lastmodified": 1577135367,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Bowling: A Unique American Art Form\"",
     "wof:parent_id": 1226607773,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38274, 
-    37.617227, 
-    -122.38274, 
+    -122.38274,
+    37.617227,
+    -122.38274,
     37.617227
   ],
   "geometry": {"coordinates":[-122.38274,37.617227],"type":"Point"}

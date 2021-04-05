@@ -2,6 +2,10 @@
   "id": 1377020197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1997-04-24",
+    "date:cessation_upper": "1997-04-24",
+    "date:inception_lower": "1996-11-07",
+    "date:inception_upper": "1996-11-07",
     "edtf:cessation": "1997-04-24",
     "edtf:inception": "1996-11-07",
     "geom:area": 0,
@@ -21,17 +25,17 @@
           "hex": "#acc8da",
           "name": "#acc8da",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#657a8c",
           "name": "#657a8c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#afc1cd",
           "name": "#afc1cd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#323a50",
           "name": "#323a50",
@@ -112,27 +116,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 20,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159554803, 
-      85688637, 
-      102527513, 
-      1159157883, 
-      1226603769, 
-      85922583, 
-      1159554817, 
-      102191575, 
-      102087579, 
+      1159554803,
+      85688637,
+      102527513,
+      1159157883,
+      1226603769,
+      85922583,
+      1159554817,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1550871430,
     "wof:depicts": [
-      1159554803, 
-      1159157883, 
-      102527513, 
-      1226603769, 
+      1159554803,
+      1159157883,
+      102527513,
+      1226603769,
       1159554817
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -146,13 +151,14 @@
         "enclosure_id": 1159157883,
         "installation_id": 1226603769,
         "locality_id": 85922583,
+        "media_id": 1377020197,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1377020197,
-    "wof:lastmodified": 1577135567,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Barbie® Takes A Vacation to Exotic Places\"",
     "wof:parent_id": 1226603769,
     "wof:placetype": "media",
@@ -161,9 +167,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

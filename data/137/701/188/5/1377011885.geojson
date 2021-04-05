@@ -2,6 +2,10 @@
   "id": 1377011885,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1998-07-21",
+    "date:cessation_upper": "1998-07-21",
+    "date:inception_lower": "1997-12-05",
+    "date:inception_upper": "1997-12-05",
     "edtf:cessation": "1998-07-21",
     "edtf:inception": "1997-12-05",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#964a3c",
           "name": "#964a3c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4e3124",
           "name": "#4e3124",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#958d72",
           "name": "#958d72",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c7c2ac",
           "name": "#c7c2ac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3e4a62",
           "name": "#3e4a62",
@@ -117,27 +121,28 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 14,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1226603591, 
-      1159554817, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159554803, 
-      102527513, 
-      1159157875, 
-      85922583, 
+      1226603591,
+      1159554817,
+      102191575,
+      85633793,
+      102087579,
+      1159554803,
+      102527513,
+      1159157875,
+      85922583,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1550785865,
     "wof:depicts": [
-      1226603591, 
-      1159554817, 
-      1159157875, 
-      102527513, 
+      1226603591,
+      1159554817,
+      1159157875,
+      102527513,
       1159554803
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
@@ -151,13 +156,14 @@
         "enclosure_id": 1159157875,
         "installation_id": 1226603591,
         "locality_id": 85922583,
+        "media_id": 1377011885,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1377011885,
-    "wof:lastmodified": 1577134350,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"A Medley of Skates and Memorabilia\"",
     "wof:parent_id": 1226603591,
     "wof:placetype": "media",
@@ -166,9 +172,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385472, 
-    37.613926, 
-    -122.385472, 
+    -122.385472,
+    37.613926,
+    -122.385472,
     37.613926
   ],
   "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}

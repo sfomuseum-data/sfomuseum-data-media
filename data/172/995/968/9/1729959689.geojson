@@ -117,6 +117,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/968/9/1729959689_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1775,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -175,7 +176,7 @@
       }
     ],
     "wof:id": 1729959689,
-    "wof:lastmodified": 1617657040,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Surf’s Up! Instrumental Rock n’ Roll\"",
     "wof:parent_id": 1729842105,
     "wof:placetype": "media",

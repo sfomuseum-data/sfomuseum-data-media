@@ -2,6 +2,10 @@
   "id": 1377020935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1993-04-30",
+    "date:cessation_upper": "1993-04-30",
+    "date:inception_lower": "1992-12-01",
+    "date:inception_upper": "1992-12-01",
     "edtf:cessation": "1993-04-30",
     "edtf:inception": "1992-12-01",
     "geom:area": 0,
@@ -21,22 +25,22 @@
           "hex": "#cbdee6",
           "name": "#cbdee6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#66392b",
           "name": "#66392b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#747e87",
           "name": "#747e87",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b2c4cc",
           "name": "#b2c4cc",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4d513c",
           "name": "#4d513c",
@@ -117,29 +121,30 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:exhibition_id": 1728,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1376812951, 
-      102087579, 
-      1159554821, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1159554855, 
-      85922583, 
-      85633793, 
-      1360516127, 
+      1376812951,
+      102087579,
+      1159554821,
+      102527513,
+      102191575,
+      85688637,
+      1159554855,
+      85922583,
+      85633793,
+      1360516127,
       1159554803
     ],
     "wof:country": "US",
     "wof:created": 1550887309,
     "wof:depicts": [
-      1159554855, 
-      1360516127, 
-      1376812951, 
-      1159554803, 
-      1159554821, 
+      1159554855,
+      1360516127,
+      1376812951,
+      1159554803,
+      1159554821,
       102527513
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -154,13 +159,14 @@
         "enclosure_id": 1360516127,
         "installation_id": 1376812951,
         "locality_id": 85922583,
+        "media_id": 1377020935,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554821
       }
     ],
     "wof:id": 1377020935,
-    "wof:lastmodified": 1577136582,
+    "wof:lastmodified": 1617666641,
     "wof:name": "Installation view of \"Before the 21st Century: An Ode to Boats, Cars, Motorcycles, Planes, and Trains\"",
     "wof:parent_id": 1376812951,
     "wof:placetype": "media",
@@ -169,9 +175,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

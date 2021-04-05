@@ -107,6 +107,7 @@
     "media:status_id": 1,
     "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/991/3/1729959913_{secret}_{label}.{extention}",
     "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1752,
     "sfomuseum:placetype": "image",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -165,7 +166,7 @@
       }
     ],
     "wof:id": 1729959913,
-    "wof:lastmodified": 1617659436,
+    "wof:lastmodified": 1617666640,
     "wof:name": "Installation view of \"Eclectic Taste: Victorian Silver Plate\"",
     "wof:parent_id": 1729842189,
     "wof:placetype": "media",
