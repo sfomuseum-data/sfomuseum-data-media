@@ -21,22 +21,22 @@
           "hex": "#33499e",
           "name": "#33499e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d2d096",
           "name": "#d2d096",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8a05a",
           "name": "#a8a05a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d5d3ab",
           "name": "#d5d3ab",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#394867",
           "name": "#394867",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186455,
+    "sfomuseum:object_id": 109341,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      1159396307, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      772974587, 
-      102527513, 
-      102087579, 
-      1159157317, 
+      85633793,
+      1159396307,
+      85922583,
+      1159157271,
+      102191575,
+      772974587,
+      102527513,
+      102087579,
+      1159157317,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457584,
     "wof:depicts": [
-      772974587, 
+      772974587,
       102527513
     ],
     "wof:geomhash": "13c7e4b91165f2035f5a3e3c67695dfd",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455213,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Pohina",
     "wof:parent_id": 772974587,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383393, 
-    37.615179, 
-    -122.383393, 
+    -122.383393,
+    37.615179,
+    -122.383393,
     37.615179
   ],
   "geometry": {"coordinates":[-122.383393,37.615179],"type":"Point"}

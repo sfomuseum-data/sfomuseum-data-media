@@ -21,22 +21,22 @@
           "hex": "#bb8a67",
           "name": "#bb8a67",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e5c199",
           "name": "#e5c199",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8d7d5e",
           "name": "#8d7d5e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c1c2b8",
           "name": "#c1c2b8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3f403a",
           "name": "#3f403a",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186478,
+    "sfomuseum:object_id": 109301,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157339, 
-      102191575, 
-      85633793, 
-      772975289, 
-      1159157333, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1159157271, 
+      1159157339,
+      102191575,
+      85633793,
+      772975289,
+      1159157333,
+      102527513,
+      85688637,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457585,
     "wof:depicts": [
-      772975289, 
+      772975289,
       102527513
     ],
     "wof:geomhash": "f47c801e40f4269224dd3c8fccb184b1",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455215,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Take Off 2006",
     "wof:parent_id": 772975289,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389964, 
-    37.611949, 
-    -122.389964, 
+    -122.389964,
+    37.611949,
+    -122.389964,
     37.611949
   ],
   "geometry": {"coordinates":[-122.389964,37.611949],"type":"Point"}

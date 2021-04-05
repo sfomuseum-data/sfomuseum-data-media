@@ -21,12 +21,12 @@
           "hex": "#7a808d",
           "name": "#7a808d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8acc6",
           "name": "#a8acc6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#2c3e44",
           "name": "#2c3e44",
@@ -108,23 +108,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64115,
+    "sfomuseum:object_id": 109322,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
-      1159396121, 
-      102191575, 
-      85688637, 
+      1159157271,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
+      1159396121,
+      102191575,
+      85688637,
       772974809
     ],
     "wof:country": "US",
     "wof:created": 1555457659,
     "wof:depicts": [
-      772974809, 
+      772974809,
       102527513
     ],
     "wof:geomhash": "6df00b9fb06eb12f78fa7c9a57c395af",
@@ -144,7 +145,7 @@
       }
     ],
     "wof:id": 1377455289,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Death Valley II",
     "wof:parent_id": 772974809,
     "wof:placetype": "media",
@@ -153,9 +154,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383962, 
-    37.615906, 
-    -122.383962, 
+    -122.383962,
+    37.615906,
+    -122.383962,
     37.615906
   ],
   "geometry": {"coordinates":[-122.383962,37.615906],"type":"Point"}

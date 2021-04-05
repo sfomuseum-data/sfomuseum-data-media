@@ -21,22 +21,22 @@
           "hex": "#4d75ab",
           "name": "#4d75ab",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dbc590",
           "name": "#dbc590",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5e4f25",
           "name": "#5e4f25",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#677c95",
           "name": "#677c95",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#acbdc6",
           "name": "#acbdc6",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186475,
+    "sfomuseum:object_id": 109290,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      772974591, 
-      102087579, 
-      1159157337, 
-      102527513, 
-      85633793, 
-      85922583, 
-      1159157333, 
-      1159157271, 
-      102191575, 
+      772974591,
+      102087579,
+      1159157337,
+      102527513,
+      85633793,
+      85922583,
+      1159157333,
+      1159157271,
+      102191575,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457598,
     "wof:depicts": [
-      772974591, 
+      772974591,
       102527513
     ],
     "wof:geomhash": "182f405412a146ff7360c01772cda348",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455235,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Fly, Flight, Fugit",
     "wof:parent_id": 772974591,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.390957, 
-    37.617707, 
-    -122.390957, 
+    -122.390957,
+    37.617707,
+    -122.390957,
     37.617707
   ],
   "geometry": {"coordinates":[-122.390957,37.617707],"type":"Point"}

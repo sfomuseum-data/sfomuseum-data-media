@@ -21,22 +21,22 @@
           "hex": "#2f4b8d",
           "name": "#2f4b8d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#843e38",
           "name": "#843e38",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#888b7a",
           "name": "#888b7a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c1c0b5",
           "name": "#c1c0b5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#47423d",
           "name": "#47423d",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64193,
+    "sfomuseum:object_id": 109346,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      772975385, 
-      102527513, 
-      1159396301, 
-      85922583, 
-      1159157271, 
-      1159157307, 
-      85688637, 
-      102191575, 
+      102087579,
+      772975385,
+      102527513,
+      1159396301,
+      85922583,
+      1159157271,
+      1159157307,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1555457575,
     "wof:depicts": [
-      772975385, 
+      772975385,
       102527513
     ],
     "wof:geomhash": "472c2cc173d23f6cb3dc8c729cca52a6",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455201,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Billboard Series",
     "wof:parent_id": 772975385,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388318, 
-    37.62024, 
-    -122.388318, 
+    -122.388318,
+    37.62024,
+    -122.388318,
     37.62024
   ],
   "geometry": {"coordinates":[-122.388318,37.62024],"type":"Point"}

@@ -23,17 +23,17 @@
           "hex": "#60472e",
           "name": "#60472e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#958770",
           "name": "#958770",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c4bdb2",
           "name": "#c4bdb2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#392b20",
           "name": "#392b20",
@@ -115,22 +115,23 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64150,
+    "sfomuseum:object_id": 109362,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1360702201, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      1159160869, 
+      102191575,
+      1360702201,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      1159160869,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457540,
     "wof:depicts": [
-      1360702205, 
+      1360702205,
       102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
@@ -149,7 +150,7 @@
       }
     ],
     "wof:id": 1377455165,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Cilindro Costruito",
     "wof:parent_id": 1360702205,
     "wof:placetype": "media",
@@ -158,9 +159,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

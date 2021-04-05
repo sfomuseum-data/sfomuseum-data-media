@@ -21,22 +21,22 @@
           "hex": "#4684b0",
           "name": "#4684b0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d9cb69",
           "name": "#d9cb69",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#1d4796",
           "name": "#1d4796",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#508cb0",
           "name": "#508cb0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cbc59b",
           "name": "#cbc59b",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186489,
+    "sfomuseum:object_id": 109294,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      772974923, 
-      1159157333, 
-      102527513, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      1159157337, 
+      85922583,
+      85688637,
+      772974923,
+      1159157333,
+      102527513,
+      1159157271,
+      85633793,
+      102087579,
+      1159157337,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1555457536,
     "wof:depicts": [
-      772974923, 
+      772974923,
       102527513
     ],
     "wof:geomhash": "63f867d9b3e5f01ee5ef9e4da727f5e5",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455161,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Bird Technology",
     "wof:parent_id": 772974923,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39306, 
-    37.618608, 
-    -122.39306, 
+    -122.39306,
+    37.618608,
+    -122.39306,
     37.618608
   ],
   "geometry": {"coordinates":[-122.39306,37.618608],"type":"Point"}

@@ -21,17 +21,17 @@
           "hex": "#a0180a",
           "name": "#a0180a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#83867c",
           "name": "#83867c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6cbb8",
           "name": "#c6cbb8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#464f40",
           "name": "#464f40",
@@ -113,24 +113,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64209,
+    "sfomuseum:object_id": 109353,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      772974737, 
-      1159157335, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159157333, 
+      772974737,
+      1159157335,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      1159157333,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457567,
     "wof:depicts": [
-      772974737, 
+      772974737,
       102527513
     ],
     "wof:geomhash": "2deadcbb2da4e7558bb7b6e26d658588",
@@ -151,7 +152,7 @@
       }
     ],
     "wof:id": 1377455197,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "On The Air",
     "wof:parent_id": 772974737,
     "wof:placetype": "media",
@@ -160,9 +161,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389777, 
-    37.615464, 
-    -122.389777, 
+    -122.389777,
+    37.615464,
+    -122.389777,
     37.615464
   ],
   "geometry": {"coordinates":[-122.389777,37.615464],"type":"Point"}

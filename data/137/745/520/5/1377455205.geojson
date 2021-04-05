@@ -21,12 +21,12 @@
           "hex": "#a17e66",
           "name": "#a17e66",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d6c8c2",
           "name": "#d6c8c2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#49362c",
           "name": "#49362c",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186443,
+    "sfomuseum:object_id": 173500,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      1159157307, 
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1159162791, 
-      1159157309, 
-      85922583, 
+      85688637,
+      1159157307,
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      1159162791,
+      1159157309,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
     "wof:created": 1555457581,
     "wof:depicts": [
-      1159162791, 
+      1159162791,
       102527513
     ],
     "wof:geomhash": "50f72a458b4701486efd835cf6fdf05a",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455205,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": 1159162791,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386569, 
-    37.61803, 
-    -122.386569, 
+    -122.386569,
+    37.61803,
+    -122.386569,
     37.61803
   ],
   "geometry": {"coordinates":[-122.386569,37.61803],"type":"Point"}

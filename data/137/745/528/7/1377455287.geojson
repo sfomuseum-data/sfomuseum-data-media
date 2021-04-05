@@ -21,22 +21,22 @@
           "hex": "#dca235",
           "name": "#dca235",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e4ba38",
           "name": "#e4ba38",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b09f6e",
           "name": "#b09f6e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c5bdab",
           "name": "#c5bdab",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5b5961",
           "name": "#5b5961",
@@ -118,23 +118,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186457,
+    "sfomuseum:object_id": 109315,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      772975365, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      85688637, 
-      85922583, 
+      102527513,
+      772975365,
+      102087579,
+      102191575,
+      85633793,
+      1159157271,
+      85688637,
+      85922583,
       1159396121
     ],
     "wof:country": "US",
     "wof:created": 1555457656,
     "wof:depicts": [
-      772975365, 
+      772975365,
       102527513
     ],
     "wof:geomhash": "1261a596df6c521505648e38eb53a90e",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455287,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "The Great Transparents",
     "wof:parent_id": 772975365,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384385, 
-    37.617737, 
-    -122.384385, 
+    -122.384385,
+    37.617737,
+    -122.384385,
     37.617737
   ],
   "geometry": {"coordinates":[-122.384385,37.617737],"type":"Point"}

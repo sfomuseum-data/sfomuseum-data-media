@@ -21,22 +21,22 @@
           "hex": "#c07c3c",
           "name": "#c07c3c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e8c09d",
           "name": "#e8c09d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5a402b",
           "name": "#5a402b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b17a52",
           "name": "#b17a52",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bab3b1",
           "name": "#bab3b1",
@@ -118,21 +118,22 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64156,
+    "sfomuseum:object_id": 113726,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      772975241, 
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
+      85688637,
+      772975241,
+      102527513,
+      85633793,
+      102087579,
+      102191575,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457578,
     "wof:depicts": [
-      772975241, 
+      772975241,
       102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
@@ -152,7 +153,7 @@
       }
     ],
     "wof:id": 1377455203,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": 772975241,
     "wof:placetype": "media",
@@ -161,9 +162,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

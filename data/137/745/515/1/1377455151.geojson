@@ -21,22 +21,22 @@
           "hex": "#dc001a",
           "name": "#dc001a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d3677f",
           "name": "#d3677f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a2050d",
           "name": "#a2050d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8a7d5f",
           "name": "#8a7d5f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c5c0ba",
           "name": "#c5c0ba",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186445,
+    "sfomuseum:object_id": 169882,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1159157317, 
-      102527513, 
-      1159157323, 
-      1159157271, 
-      102191575, 
-      85633793, 
+      102087579,
+      85922583,
+      85688637,
+      1159157317,
+      102527513,
+      1159157323,
+      1159157271,
+      102191575,
+      85633793,
       1159162777
     ],
     "wof:country": "US",
     "wof:created": 1555457525,
     "wof:depicts": [
-      1159162777, 
+      1159162777,
       102527513
     ],
     "wof:geomhash": "71c9c07c5e694aefb307d7bc43a70623",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455151,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1159162777,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38379, 
-    37.615831, 
-    -122.38379, 
+    -122.38379,
+    37.615831,
+    -122.38379,
     37.615831
   ],
   "geometry": {"coordinates":[-122.38379,37.615831],"type":"Point"}

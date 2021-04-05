@@ -21,22 +21,22 @@
           "hex": "#ad8546",
           "name": "#ad8546",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#543828",
           "name": "#543828",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a38456",
           "name": "#a38456",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b6ac82",
           "name": "#b6ac82",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5c442e",
           "name": "#5c442e",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 22479,
+    "sfomuseum:object_id": 109361,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      772975077, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      1159396121, 
-      1159396181, 
-      85633793, 
-      85922583, 
+      102191575,
+      772975077,
+      102527513,
+      102087579,
+      1159157271,
+      1159396121,
+      1159396181,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457560,
     "wof:depicts": [
-      772975077, 
+      772975077,
       102527513
     ],
     "wof:geomhash": "bddfa20de226cb13d890bc8da3c47989",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455191,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "The Peasant's Parade",
     "wof:parent_id": 772975077,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.381859, 
-    37.617673, 
-    -122.381859, 
+    -122.381859,
+    37.617673,
+    -122.381859,
     37.617673
   ],
   "geometry": {"coordinates":[-122.381859,37.617673],"type":"Point"}

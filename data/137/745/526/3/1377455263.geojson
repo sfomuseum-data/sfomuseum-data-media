@@ -21,22 +21,22 @@
           "hex": "#b68939",
           "name": "#b68939",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#efe1c5",
           "name": "#efe1c5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8d8774",
           "name": "#8d8774",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cabda9",
           "name": "#cabda9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#434138",
           "name": "#434138",
@@ -118,23 +118,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 48497,
+    "sfomuseum:object_id": 109350,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85688637, 
-      772974345, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
+      102087579,
+      1159157271,
+      85688637,
+      772974345,
+      102191575,
+      85633793,
+      85922583,
+      102527513,
       1159157307
     ],
     "wof:country": "US",
     "wof:created": 1555457634,
     "wof:depicts": [
-      772974345, 
+      772974345,
       102527513
     ],
     "wof:geomhash": "305e27dddc307c1cdbedeaacf4681e69",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455263,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Two Wings for Wall and Person",
     "wof:parent_id": 772974345,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387856, 
-    37.617495, 
-    -122.387856, 
+    -122.387856,
+    37.617495,
+    -122.387856,
     37.617495
   ],
   "geometry": {"coordinates":[-122.387856,37.617495],"type":"Point"}

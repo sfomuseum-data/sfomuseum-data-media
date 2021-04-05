@@ -21,22 +21,22 @@
           "hex": "#d4150b",
           "name": "#d4150b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d5716f",
           "name": "#d5716f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b00f0d",
           "name": "#b00f0d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#93856d",
           "name": "#93856d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cda8a0",
           "name": "#cda8a0",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186447,
+    "sfomuseum:object_id": 164874,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159157323, 
-      1159162779, 
-      1159157317, 
-      102087579, 
-      1159157271, 
+      102191575,
+      85922583,
+      85633793,
+      85688637,
+      1159157323,
+      1159162779,
+      1159157317,
+      102087579,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1555457619,
     "wof:depicts": [
-      1159162779, 
+      1159162779,
       102527513
     ],
     "wof:geomhash": "c04e4c42cde472639ba18f97336ca4f9",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455253,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Riven/River",
     "wof:parent_id": 1159162779,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383744, 
-    37.615863, 
-    -122.383744, 
+    -122.383744,
+    37.615863,
+    -122.383744,
     37.615863
   ],
   "geometry": {"coordinates":[-122.383744,37.615863],"type":"Point"}

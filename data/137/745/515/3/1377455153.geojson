@@ -21,22 +21,22 @@
           "hex": "#3a569b",
           "name": "#3a569b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6e4f8",
           "name": "#c6e4f8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#2a426e",
           "name": "#2a426e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#748eb0",
           "name": "#748eb0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9ab5c8",
           "name": "#9ab5c8",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186474,
+    "sfomuseum:object_id": 109397,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159157333, 
-      1159157337, 
-      85688637, 
-      102527513, 
-      102087579, 
-      772975617, 
-      1159157271, 
+      85922583,
+      85633793,
+      1159157333,
+      1159157337,
+      85688637,
+      102527513,
+      102087579,
+      772975617,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1555457526,
     "wof:depicts": [
-      772975617, 
+      772975617,
       102527513
     ],
     "wof:geomhash": "62f404249a176a100b2a68e8381d3d01",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455153,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Blue Deer",
     "wof:parent_id": 772975617,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.391965, 
-    37.617988, 
-    -122.391965, 
+    -122.391965,
+    37.617988,
+    -122.391965,
     37.617988
   ],
   "geometry": {"coordinates":[-122.391965,37.617988],"type":"Point"}

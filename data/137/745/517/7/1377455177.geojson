@@ -23,22 +23,22 @@
           "hex": "#c74037",
           "name": "#c74037",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e88468",
           "name": "#e88468",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#056b74",
           "name": "#056b74",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#86916b",
           "name": "#86916b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b0d6c1",
           "name": "#b0d6c1",
@@ -120,22 +120,23 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 151852,
+    "sfomuseum:object_id": 109358,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159160869, 
-      1360702201, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159160869,
+      1360702201,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457551,
     "wof:depicts": [
-      1360702203, 
+      1360702203,
       102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455177,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1360702203,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

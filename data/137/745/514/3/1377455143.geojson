@@ -21,22 +21,22 @@
           "hex": "#bf643f",
           "name": "#bf643f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d98768",
           "name": "#d98768",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ab5336",
           "name": "#ab5336",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a76b57",
           "name": "#a76b57",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d0b7b0",
           "name": "#d0b7b0",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 151853,
+    "sfomuseum:object_id": 109323,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      1159157325, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      1159157327, 
-      85688637, 
-      772974807, 
+      85922583,
+      102087579,
+      1159157325,
+      1159157271,
+      102191575,
+      85633793,
+      1159157327,
+      85688637,
+      772974807,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1555457516,
     "wof:depicts": [
-      772974807, 
+      772974807,
       102527513
     ],
     "wof:geomhash": "1e535dcf5731190d69da9c826d8c9d7d",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455143,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Above Bolinas",
     "wof:parent_id": 772974807,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384058, 
-    37.61588, 
-    -122.384058, 
+    -122.384058,
+    37.61588,
+    -122.384058,
     37.61588
   ],
   "geometry": {"coordinates":[-122.384058,37.61588],"type":"Point"}

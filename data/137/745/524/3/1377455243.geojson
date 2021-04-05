@@ -21,22 +21,22 @@
           "hex": "#eaac0a",
           "name": "#eaac0a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#db9088",
           "name": "#db9088",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#674f12",
           "name": "#674f12",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ab7060",
           "name": "#ab7060",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d8c2ad",
           "name": "#d8c2ad",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186456,
+    "sfomuseum:object_id": 109314,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      772975691, 
-      1159157327, 
-      102087579, 
-      1159157325, 
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      772975691,
+      1159157327,
+      102087579,
+      1159157325,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1555457611,
     "wof:depicts": [
-      772975691, 
+      772975691,
       102527513
     ],
     "wof:geomhash": "bb9026af475db427d0b4c5a093325313",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455243,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Metamorphosis",
     "wof:parent_id": 772975691,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383908, 
-    37.617529, 
-    -122.383908, 
+    -122.383908,
+    37.617529,
+    -122.383908,
     37.617529
   ],
   "geometry": {"coordinates":[-122.383908,37.617529],"type":"Point"}

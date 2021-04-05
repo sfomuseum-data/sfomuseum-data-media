@@ -21,12 +21,12 @@
           "hex": "#847c73",
           "name": "#847c73",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8b7cc",
           "name": "#a8b7cc",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a453f",
           "name": "#4a453f",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64223,
+    "sfomuseum:object_id": 109399,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157335, 
-      85688637, 
-      772975243, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1159157333, 
-      1159157271, 
-      85633793, 
+      1159157335,
+      85688637,
+      772975243,
+      102527513,
+      102191575,
+      102087579,
+      1159157333,
+      1159157271,
+      85633793,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457548,
     "wof:depicts": [
-      772975243, 
+      772975243,
       102527513
     ],
     "wof:geomhash": "4466feab57f545898f94a2f7fa5ac9f1",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455171,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Anemone",
     "wof:parent_id": 772975243,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389187, 
-    37.61574, 
-    -122.389187, 
+    -122.389187,
+    37.61574,
+    -122.389187,
     37.61574
   ],
   "geometry": {"coordinates":[-122.389187,37.61574],"type":"Point"}

@@ -21,12 +21,12 @@
           "hex": "#87837a",
           "name": "#87837a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c6c2b9",
           "name": "#c6c2b9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#44413a",
           "name": "#44413a",
@@ -108,22 +108,23 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186483,
+    "sfomuseum:object_id": 109355,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      85688637, 
+      102527513,
+      102087579,
+      85922583,
+      102191575,
+      1159157271,
+      85633793,
+      85688637,
       772975221
     ],
     "wof:country": "US",
     "wof:created": 1555457608,
     "wof:depicts": [
-      772975221, 
+      772975221,
       102527513
     ],
     "wof:geomhash": "a3e7166f1b6ce0717b20b60263be7d85",
@@ -142,7 +143,7 @@
       }
     ],
     "wof:id": 1377455241,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Wind Portal",
     "wof:parent_id": 772975221,
     "wof:placetype": "media",
@@ -151,9 +152,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.390742, 
-    37.617792, 
-    -122.390742, 
+    -122.390742,
+    37.617792,
+    -122.390742,
     37.617792
   ],
   "geometry": {"coordinates":[-122.390742,37.617792],"type":"Point"}

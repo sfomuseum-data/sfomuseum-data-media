@@ -21,12 +21,12 @@
           "hex": "#7f7679",
           "name": "#7f7679",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#beb9bb",
           "name": "#beb9bb",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#44383e",
           "name": "#44383e",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64153,
+    "sfomuseum:object_id": 109374,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157325, 
-      85688637, 
-      772975065, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1159157327, 
-      1159157271, 
-      102191575, 
+      1159157325,
+      85688637,
+      772975065,
+      85633793,
+      85922583,
+      102527513,
+      1159157327,
+      1159157271,
+      102191575,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457613,
     "wof:depicts": [
-      772975065, 
+      772975065,
       102527513
     ],
     "wof:geomhash": "0c39b7c470cda86fb149158b51f92eea",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455245,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "17 December 1903",
     "wof:parent_id": 772975065,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384477, 
-    37.617601, 
-    -122.384477, 
+    -122.384477,
+    37.617601,
+    -122.384477,
     37.617601
   ],
   "geometry": {"coordinates":[-122.384477,37.617601],"type":"Point"}

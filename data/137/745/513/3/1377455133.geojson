@@ -21,22 +21,22 @@
           "hex": "#02a6c8",
           "name": "#02a6c8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#7db4d9",
           "name": "#7db4d9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#558605",
           "name": "#558605",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5da499",
           "name": "#5da499",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#75b594",
           "name": "#75b594",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186476,
+    "sfomuseum:object_id": 109392,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      1159157333, 
-      85922583, 
-      85688637, 
-      1159162815, 
-      1159157339, 
-      102527513, 
-      1159157271, 
-      102191575, 
+      85633793,
+      1159157333,
+      85922583,
+      85688637,
+      1159162815,
+      1159157339,
+      102527513,
+      1159157271,
+      102191575,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457507,
     "wof:depicts": [
-      1159162815, 
+      1159162815,
       102527513
     ],
     "wof:geomhash": "da66cf531ec8caad33befc48631d4fb3",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455133,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Seneca",
     "wof:parent_id": 1159162815,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389042, 
-    37.613628, 
-    -122.389042, 
+    -122.389042,
+    37.613628,
+    -122.389042,
     37.613628
   ],
   "geometry": {"coordinates":[-122.389042,37.613628],"type":"Point"}

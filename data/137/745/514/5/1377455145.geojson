@@ -21,22 +21,22 @@
           "hex": "#ca360e",
           "name": "#ca360e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d4af53",
           "name": "#d4af53",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a71e0e",
           "name": "#a71e0e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#7599a2",
           "name": "#7599a2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a1c0ce",
           "name": "#a1c0ce",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186468,
+    "sfomuseum:object_id": 109292,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      772975577, 
-      1159157333, 
-      1159157337, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      85633793, 
+      772975577,
+      1159157333,
+      1159157337,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
+      1159157271,
+      85633793,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1555457516,
     "wof:depicts": [
-      772975577, 
+      772975577,
       102527513
     ],
     "wof:geomhash": "9bc4b6906e5b779ac4ee5601db040bde",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455145,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": 772975577,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.392475, 
-    37.618349, 
-    -122.392475, 
+    -122.392475,
+    37.618349,
+    -122.392475,
     37.618349
   ],
   "geometry": {"coordinates":[-122.392475,37.618349],"type":"Point"}

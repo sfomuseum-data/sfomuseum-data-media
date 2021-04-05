@@ -21,22 +21,22 @@
           "hex": "#1685d8",
           "name": "#1685d8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#f75066",
           "name": "#f75066",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#0a5496",
           "name": "#0a5496",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8b7e6e",
           "name": "#8b7e6e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dbb6ae",
           "name": "#dbb6ae",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186482,
+    "sfomuseum:object_id": 109297,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102527513, 
-      772975163, 
-      1159157333, 
-      1159157271, 
+      85688637,
+      102191575,
+      85922583,
+      85633793,
+      102087579,
+      102527513,
+      772975163,
+      1159157333,
+      1159157271,
       1159157339
     ],
     "wof:country": "US",
     "wof:created": 1555457587,
     "wof:depicts": [
-      772975163, 
+      772975163,
       102527513
     ],
     "wof:geomhash": "afa3155255a988bc01925a6d767cacbc",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455219,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Horse of Another Color",
     "wof:parent_id": 772975163,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38872, 
-    37.613581, 
-    -122.38872, 
+    -122.38872,
+    37.613581,
+    -122.38872,
     37.613581
   ],
   "geometry": {"coordinates":[-122.38872,37.613581],"type":"Point"}

@@ -21,22 +21,22 @@
           "hex": "#e48106",
           "name": "#e48106",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b96007",
           "name": "#b96007",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b56a61",
           "name": "#b56a61",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b2b8bd",
           "name": "#b2b8bd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#443332",
           "name": "#443332",
@@ -118,23 +118,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186493,
+    "sfomuseum:object_id": 109331,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      1159396121, 
-      85922583, 
+      85688637,
+      102087579,
+      102527513,
+      102191575,
+      1159157271,
+      85633793,
+      1159396121,
+      85922583,
       772974839
     ],
     "wof:country": "US",
     "wof:created": 1555457591,
     "wof:depicts": [
-      772974839, 
+      772974839,
       102527513
     ],
     "wof:geomhash": "9ddcc541a4f7b1502f5b750182498e2d",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455225,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Untitled",
     "wof:parent_id": 772974839,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382996, 
-    37.616509, 
-    -122.382996, 
+    -122.382996,
+    37.616509,
+    -122.382996,
     37.616509
   ],
   "geometry": {"coordinates":[-122.382996,37.616509],"type":"Point"}

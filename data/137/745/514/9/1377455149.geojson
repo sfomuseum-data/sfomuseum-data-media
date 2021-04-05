@@ -21,22 +21,22 @@
           "hex": "#e9bd15",
           "name": "#e9bd15",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#022887",
           "name": "#022887",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#867041",
           "name": "#867041",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c3baa9",
           "name": "#c3baa9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#534f39",
           "name": "#534f39",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186440,
+    "sfomuseum:object_id": 109345,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159157307, 
-      85633793, 
-      102087579, 
-      1159162809, 
-      1159396267, 
-      102191575, 
-      85922583, 
+      85688637,
+      102527513,
+      1159157307,
+      85633793,
+      102087579,
+      1159162809,
+      1159396267,
+      102191575,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
     "wof:created": 1555457522,
     "wof:depicts": [
-      772975641, 
+      772975641,
       102527513
     ],
     "wof:geomhash": "7beaf6c9eefd8a2eaa2877f3f9b03d89",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455149,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Letter's Missing",
     "wof:parent_id": 772975641,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385249, 
-    37.618234, 
-    -122.385249, 
+    -122.385249,
+    37.618234,
+    -122.385249,
     37.618234
   ],
   "geometry": {"coordinates":[-122.385249,37.618234],"type":"Point"}

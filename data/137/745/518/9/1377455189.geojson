@@ -21,22 +21,22 @@
           "hex": "#efca36",
           "name": "#efca36",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c9af7e",
           "name": "#c9af7e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a51908",
           "name": "#a51908",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8c786f",
           "name": "#8c786f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d9d6c0",
           "name": "#d9d6c0",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186459,
+    "sfomuseum:object_id": 109318,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      1159396181, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85688637, 
-      772974725, 
+      102087579,
+      1159157271,
+      1159396181,
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      85688637,
+      772974725,
       1159396121
     ],
     "wof:country": "US",
     "wof:created": 1555457559,
     "wof:depicts": [
-      772974725, 
+      772974725,
       102527513
     ],
     "wof:geomhash": "c23f917d27d42abf4c774a191fc23da2",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455189,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Homage to Zane Grey",
     "wof:parent_id": 772974725,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.381414, 
-    37.617066, 
-    -122.381414, 
+    -122.381414,
+    37.617066,
+    -122.381414,
     37.617066
   ],
   "geometry": {"coordinates":[-122.381414,37.617066],"type":"Point"}

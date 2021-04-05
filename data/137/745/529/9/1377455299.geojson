@@ -21,17 +21,17 @@
           "hex": "#eae1c3",
           "name": "#eae1c3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#95745b",
           "name": "#95745b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cdc3b1",
           "name": "#cdc3b1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a4541",
           "name": "#4a4541",
@@ -113,24 +113,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 125109,
+    "sfomuseum:object_id": 158855,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157307, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      1159162795, 
-      102087579, 
-      102527513, 
-      1159396267, 
-      102191575, 
+      1159157307,
+      1159157271,
+      85633793,
+      85922583,
+      1159162795,
+      102087579,
+      102527513,
+      1159396267,
+      102191575,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457675,
     "wof:depicts": [
-      1159162795, 
+      1159162795,
       102527513
     ],
     "wof:geomhash": "3ac6ba578ac47272f749941e189ce993",
@@ -151,7 +152,7 @@
       }
     ],
     "wof:id": 1377455299,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Sky",
     "wof:parent_id": 1159162795,
     "wof:placetype": "media",
@@ -160,9 +161,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38409, 
-    37.619398, 
-    -122.38409, 
+    -122.38409,
+    37.619398,
+    -122.38409,
     37.619398
   ],
   "geometry": {"coordinates":[-122.38409,37.619398],"type":"Point"}

@@ -21,12 +21,12 @@
           "hex": "#7e7d7f",
           "name": "#7e7d7f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bfbfbf",
           "name": "#bfbfbf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a423f",
           "name": "#4a423f",
@@ -108,23 +108,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186462,
+    "sfomuseum:object_id": 113728,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      772974583, 
-      1159157271, 
-      85688637, 
-      102527513, 
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      772974583,
+      1159157271,
+      85688637,
+      102527513,
       1159396121
     ],
     "wof:country": "US",
     "wof:created": 1555457664,
     "wof:depicts": [
-      772974583, 
+      772974583,
       102527513
     ],
     "wof:geomhash": "ee5428ca70ade116af62d352bcb62211",
@@ -144,7 +145,7 @@
       }
     ],
     "wof:id": 1377455293,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Topograph I and II",
     "wof:parent_id": 772974583,
     "wof:placetype": "media",
@@ -153,9 +154,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389979, 
-    37.615223, 
-    -122.389979, 
+    -122.389979,
+    37.615223,
+    -122.389979,
     37.615223
   ],
   "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}

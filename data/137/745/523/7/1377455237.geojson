@@ -21,22 +21,22 @@
           "hex": "#b8ac27",
           "name": "#b8ac27",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c79f82",
           "name": "#c79f82",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#755037",
           "name": "#755037",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a07a5e",
           "name": "#a07a5e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c3bebf",
           "name": "#c3bebf",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64283,
+    "sfomuseum:object_id": 113729,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1159396181, 
-      102191575, 
-      772975735, 
-      1159396121, 
-      1159157271, 
+      102087579,
+      85922583,
+      102527513,
+      85633793,
+      1159396181,
+      102191575,
+      772975735,
+      1159396121,
+      1159157271,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457602,
     "wof:depicts": [
-      772975735, 
+      772975735,
       102527513
     ],
     "wof:geomhash": "66e1b04152a6caff381287024d7b7ebd",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455237,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Butterfly Wall",
     "wof:parent_id": 772975735,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.381671, 
-    37.617788, 
-    -122.381671, 
+    -122.381671,
+    37.617788,
+    -122.381671,
     37.617788
   ],
   "geometry": {"coordinates":[-122.381671,37.617788],"type":"Point"}

@@ -21,22 +21,22 @@
           "hex": "#d85937",
           "name": "#d85937",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e1c994",
           "name": "#e1c994",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#840819",
           "name": "#840819",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#aa8952",
           "name": "#aa8952",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d9b7a7",
           "name": "#d9b7a7",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186479,
+    "sfomuseum:object_id": 109300,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157333, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      772974889, 
-      1159157339, 
+      1159157333,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      772974889,
+      1159157339,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457655,
     "wof:depicts": [
-      772974889, 
+      772974889,
       102527513
     ],
     "wof:geomhash": "361b4208c59d052d57f1ef672c8bfd62",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455285,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "World Civilization",
     "wof:parent_id": 772974889,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389978, 
-    37.612139, 
-    -122.389978, 
+    -122.389978,
+    37.612139,
+    -122.389978,
     37.612139
   ],
   "geometry": {"coordinates":[-122.389978,37.612139],"type":"Point"}

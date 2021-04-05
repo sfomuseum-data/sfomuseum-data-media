@@ -21,22 +21,22 @@
           "hex": "#03509a",
           "name": "#03509a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#f7be96",
           "name": "#f7be96",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#043b7e",
           "name": "#043b7e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6881a9",
           "name": "#6881a9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d1bfbd",
           "name": "#d1bfbd",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186473,
+    "sfomuseum:object_id": 109291,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      772974943, 
-      1159157271, 
-      1159157337, 
+      85922583,
+      85633793,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      772974943,
+      1159157271,
+      1159157337,
       1159157333
     ],
     "wof:country": "US",
     "wof:created": 1555457590,
     "wof:depicts": [
-      772974943, 
+      772974943,
       102527513
     ],
     "wof:geomhash": "b4d12e0f6f5e2602819eb58d86e1c0bf",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455223,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Baile!",
     "wof:parent_id": 772974943,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.392416, 
-    37.618166, 
-    -122.392416, 
+    -122.392416,
+    37.618166,
+    -122.392416,
     37.618166
   ],
   "geometry": {"coordinates":[-122.392416,37.618166],"type":"Point"}

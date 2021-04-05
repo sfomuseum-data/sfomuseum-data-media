@@ -21,22 +21,22 @@
           "hex": "#4265a1",
           "name": "#4265a1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6183c5",
           "name": "#6183c5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9d5c3b",
           "name": "#9d5c3b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6e7c92",
           "name": "#6e7c92",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b0b5d2",
           "name": "#b0b5d2",
@@ -118,23 +118,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 22468,
+    "sfomuseum:object_id": 113730,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      772975627, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      1159396121, 
-      102191575, 
+      85922583,
+      772975627,
+      85633793,
+      85688637,
+      1159157271,
+      102527513,
+      1159396121,
+      102191575,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457330,
     "wof:depicts": [
-      772975627, 
+      772975627,
       102527513
     ],
     "wof:geomhash": "3b1c858ecb89a7cddd6b121bc7e8f990",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455119,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Air Over Under",
     "wof:parent_id": 772975627,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384206, 
-    37.616624, 
-    -122.384206, 
+    -122.384206,
+    37.616624,
+    -122.384206,
     37.616624
   ],
   "geometry": {"coordinates":[-122.384206,37.616624],"type":"Point"}

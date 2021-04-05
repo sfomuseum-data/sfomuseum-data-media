@@ -21,22 +21,22 @@
           "hex": "#be4837",
           "name": "#be4837",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#f1bd90",
           "name": "#f1bd90",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#984d49",
           "name": "#984d49",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a97951",
           "name": "#a97951",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d7b5b0",
           "name": "#d7b5b0",
@@ -104,24 +104,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 22480,
+    "sfomuseum:object_id": 109363,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396181, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      1159396121, 
+      85633793,
+      85922583,
+      85688637,
+      1159396181,
+      102191575,
+      102087579,
+      1159157271,
+      102527513,
+      1159396121,
       772975537
     ],
     "wof:country": "US",
     "wof:created": 1555457518,
     "wof:depicts": [
-      772975537, 
+      772975537,
       102527513
     ],
     "wof:geomhash": "5411d8b30e74fd4e60e58c6e96d02527",
@@ -142,7 +143,7 @@
       }
     ],
     "wof:id": 1377455147,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Urns",
     "wof:parent_id": 772975537,
     "wof:placetype": "media",
@@ -151,9 +152,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.381419, 
-    37.617822, 
-    -122.381419, 
+    -122.381419,
+    37.617822,
+    -122.381419,
     37.617822
   ],
   "geometry": {"coordinates":[-122.381419,37.617822],"type":"Point"}

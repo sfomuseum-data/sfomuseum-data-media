@@ -21,22 +21,22 @@
           "hex": "#1982b9",
           "name": "#1982b9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#52a4d9",
           "name": "#52a4d9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#056092",
           "name": "#056092",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a48961",
           "name": "#a48961",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a4bad2",
           "name": "#a4bad2",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64191,
+    "sfomuseum:object_id": 109305,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157307, 
-      1159157271, 
-      102191575, 
-      85922583, 
-      1159396267, 
-      102087579, 
-      772974445, 
-      102527513, 
-      85633793, 
+      1159157307,
+      1159157271,
+      102191575,
+      85922583,
+      1159396267,
+      102087579,
+      772974445,
+      102527513,
+      85633793,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457571,
     "wof:depicts": [
-      772974445, 
+      772974445,
       102527513
     ],
     "wof:geomhash": "5a11acfbc6d0c00ea78bc2ff21023831",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455199,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": 772974445,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384466, 
-    37.618523, 
-    -122.384466, 
+    -122.384466,
+    37.618523,
+    -122.384466,
     37.618523
   ],
   "geometry": {"coordinates":[-122.384466,37.618523],"type":"Point"}

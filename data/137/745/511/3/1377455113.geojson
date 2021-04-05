@@ -21,17 +21,17 @@
           "hex": "#a8bfe0",
           "name": "#a8bfe0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6c7a88",
           "name": "#6c7a88",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a1b6cf",
           "name": "#a1b6cf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#53473d",
           "name": "#53473d",
@@ -113,18 +113,19 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 18883,
+    "sfomuseum:object_id": 109307,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102527513, 
-      1159396267, 
-      102191575, 
-      1159157307, 
-      1159157271, 
-      85688637, 
-      772975785, 
-      85922583, 
-      85633793, 
+      102527513,
+      1159396267,
+      102191575,
+      1159157307,
+      1159157271,
+      85688637,
+      772975785,
+      85922583,
+      85633793,
       102087579
     ],
     "wof:breaches": [],
@@ -151,7 +152,7 @@
       }
     ],
     "wof:id": 1377455113,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Behind Ted McMann's Garage",
     "wof:parent_id": 772975785,
     "wof:placetype": "media",
@@ -161,9 +162,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384799, 
-    37.618931, 
-    -122.384799, 
+    -122.384799,
+    37.618931,
+    -122.384799,
     37.618931
   ],
   "geometry": {"coordinates":[-122.384799,37.618931],"type":"Point"}

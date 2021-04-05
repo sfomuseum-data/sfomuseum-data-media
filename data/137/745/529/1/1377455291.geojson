@@ -21,17 +21,17 @@
           "hex": "#c49f0c",
           "name": "#c49f0c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a89a63",
           "name": "#a89a63",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c8c7b9",
           "name": "#c8c7b9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5b5947",
           "name": "#5b5947",
@@ -99,24 +99,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64224,
+    "sfomuseum:object_id": 109296,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157333, 
-      772974347, 
-      1159157335, 
-      102527513, 
-      102191575, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      1159157333,
+      772974347,
+      1159157335,
+      102527513,
+      102191575,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457662,
     "wof:depicts": [
-      772974347, 
+      772974347,
       102527513
     ],
     "wof:geomhash": "2e33e9a61de1775310c9db0b1a94c101",
@@ -137,7 +138,7 @@
       }
     ],
     "wof:id": 1377455291,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": 772974347,
     "wof:placetype": "media",
@@ -146,9 +147,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388897, 
-    37.615659, 
-    -122.388897, 
+    -122.388897,
+    37.615659,
+    -122.388897,
     37.615659
   ],
   "geometry": {"coordinates":[-122.388897,37.615659],"type":"Point"}

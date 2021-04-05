@@ -21,22 +21,22 @@
           "hex": "#d5c6a2",
           "name": "#d5c6a2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#342a18",
           "name": "#342a18",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#888776",
           "name": "#888776",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c4c5b7",
           "name": "#c4c5b7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#494535",
           "name": "#494535",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186481,
+    "sfomuseum:object_id": 109299,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85688637, 
-      772975117, 
-      1159157333, 
-      102087579, 
-      102527513, 
-      1159157339, 
-      85633793, 
-      85922583, 
-      1159157271, 
+      85688637,
+      772975117,
+      1159157333,
+      102087579,
+      102527513,
+      1159157339,
+      85633793,
+      85922583,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
     "wof:created": 1555457651,
     "wof:depicts": [
-      772975117, 
+      772975117,
       102527513
     ],
     "wof:geomhash": "6f8dd6f6f354bcb88823529ef60fcccf",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455277,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666160,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": 772975117,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389412, 
-    37.613063, 
-    -122.389412, 
+    -122.389412,
+    37.613063,
+    -122.389412,
     37.613063
   ],
   "geometry": {"coordinates":[-122.389412,37.613063],"type":"Point"}

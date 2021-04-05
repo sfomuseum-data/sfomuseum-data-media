@@ -21,22 +21,22 @@
           "hex": "#d64c7a",
           "name": "#d64c7a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8a284c",
           "name": "#8a284c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a6496a",
           "name": "#a6496a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bfbbae",
           "name": "#bfbbae",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#41403a",
           "name": "#41403a",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64105,
+    "sfomuseum:object_id": 109335,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      772975375, 
-      1159396307, 
-      85633793, 
-      1159157317, 
-      102087579, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1159157271, 
+      772975375,
+      1159396307,
+      85633793,
+      1159157317,
+      102087579,
+      85688637,
+      102191575,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1555457503,
     "wof:depicts": [
-      772975375, 
+      772975375,
       102527513
     ],
     "wof:geomhash": "b1aee21d7e945bb4948c81585ff4ca04",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455129,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Mujer Pegada, No. 4",
     "wof:parent_id": 772975375,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382883, 
-    37.614839, 
-    -122.382883, 
+    -122.382883,
+    37.614839,
+    -122.382883,
     37.614839
   ],
   "geometry": {"coordinates":[-122.382883,37.614839],"type":"Point"}

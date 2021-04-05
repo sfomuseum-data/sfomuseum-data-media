@@ -21,12 +21,12 @@
           "hex": "#7e7b78",
           "name": "#7e7b78",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b7b8b8",
           "name": "#b7b8b8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4a392b",
           "name": "#4a392b",
@@ -108,23 +108,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186498,
+    "sfomuseum:object_id": 109304,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157307, 
-      102087579, 
-      85633793, 
-      85922583, 
-      772974439, 
-      1159157271, 
-      102191575, 
-      85688637, 
+      1159157307,
+      102087579,
+      85633793,
+      85922583,
+      772974439,
+      1159157271,
+      102191575,
+      85688637,
       102527513
     ],
     "wof:country": "US",
     "wof:created": 1555457586,
     "wof:depicts": [
-      772974439, 
+      772974439,
       102527513
     ],
     "wof:geomhash": "24aa52889348bb1270f533ba9dc03f9d",
@@ -144,7 +145,7 @@
       }
     ],
     "wof:id": 1377455217,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "The Hesperides",
     "wof:parent_id": 772974439,
     "wof:placetype": "media",
@@ -153,9 +154,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384756, 
-    37.61817, 
-    -122.384756, 
+    -122.384756,
+    37.61817,
+    -122.384756,
     37.61817
   ],
   "geometry": {"coordinates":[-122.384756,37.61817],"type":"Point"}

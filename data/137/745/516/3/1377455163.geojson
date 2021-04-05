@@ -23,22 +23,22 @@
           "hex": "#c75f19",
           "name": "#c75f19",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#deac98",
           "name": "#deac98",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#791b0b",
           "name": "#791b0b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#548d9f",
           "name": "#548d9f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#dcc5d0",
           "name": "#dcc5d0",
@@ -120,22 +120,23 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64148,
+    "sfomuseum:object_id": 109357,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1360702201, 
-      1159160869, 
-      102191575, 
-      102087579, 
-      102527513, 
+      85633793,
+      85922583,
+      1360702201,
+      1159160869,
+      102191575,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
     "wof:created": 1555457538,
     "wof:depicts": [
-      1360702201, 
+      1360702201,
       102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455163,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Garden in San Andreas Valley",
     "wof:parent_id": 1360702201,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

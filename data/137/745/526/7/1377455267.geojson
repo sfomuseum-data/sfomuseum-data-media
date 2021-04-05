@@ -21,17 +21,17 @@
           "hex": "#2a425a",
           "name": "#2a425a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#6f8091",
           "name": "#6f8091",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cac8c1",
           "name": "#cac8c1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#48473d",
           "name": "#48473d",
@@ -113,24 +113,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64127,
+    "sfomuseum:object_id": 109326,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      1159157327, 
-      85922583, 
-      85688637, 
-      85633793, 
-      772975259, 
+      102191575,
+      1159157271,
+      102527513,
+      102087579,
+      1159157327,
+      85922583,
+      85688637,
+      85633793,
+      772975259,
       1159157325
     ],
     "wof:country": "US",
     "wof:created": 1555457637,
     "wof:depicts": [
-      772975259, 
+      772975259,
       102527513
     ],
     "wof:geomhash": "60a7a468ed62a4efb499b322535dc075",
@@ -151,7 +152,7 @@
       }
     ],
     "wof:id": 1377455267,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Stacking Stones",
     "wof:parent_id": 772975259,
     "wof:placetype": "media",
@@ -160,9 +161,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383879, 
-    37.616067, 
-    -122.383879, 
+    -122.383879,
+    37.616067,
+    -122.383879,
     37.616067
   ],
   "geometry": {"coordinates":[-122.383879,37.616067],"type":"Point"}

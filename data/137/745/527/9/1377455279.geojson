@@ -21,22 +21,22 @@
           "hex": "#b36c34",
           "name": "#b36c34",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d8c851",
           "name": "#d8c851",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#885f33",
           "name": "#885f33",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8e9c54",
           "name": "#8e9c54",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c3c29c",
           "name": "#c3c29c",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64192,
+    "sfomuseum:object_id": 109306,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      772975769, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      1159396267, 
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
+      772975769,
+      102191575,
+      1159157271,
+      102527513,
+      1159396267,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
       1159157307
     ],
     "wof:country": "US",
     "wof:created": 1555457652,
     "wof:depicts": [
-      772975769, 
+      772975769,
       102527513
     ],
     "wof:geomhash": "75bc4ca281a9ce4c71ffe456b98704f4",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455279,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": 772975769,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384638, 
-    37.618549, 
-    -122.384638, 
+    -122.384638,
+    37.618549,
+    -122.384638,
     37.618549
   ],
   "geometry": {"coordinates":[-122.384638,37.618549],"type":"Point"}

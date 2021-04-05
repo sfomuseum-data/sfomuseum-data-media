@@ -21,22 +21,22 @@
           "hex": "#4fa418",
           "name": "#4fa418",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ece6d1",
           "name": "#ece6d1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#646d25",
           "name": "#646d25",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#938161",
           "name": "#938161",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d1c1a1",
           "name": "#d1c1a1",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64108,
+    "sfomuseum:object_id": 109339,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      772975851, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159396307, 
-      102191575, 
-      1159157271, 
+      772975851,
+      102527513,
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      1159396307,
+      102191575,
+      1159157271,
       1159157317
     ],
     "wof:country": "US",
     "wof:created": 1555457509,
     "wof:depicts": [
-      772975851, 
+      772975851,
       102527513
     ],
     "wof:geomhash": "21ebac399e834a1d8c1d865948661e86",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455135,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 772975851,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382304, 
-    37.614814, 
-    -122.382304, 
+    -122.382304,
+    37.614814,
+    -122.382304,
     37.614814
   ],
   "geometry": {"coordinates":[-122.382304,37.614814],"type":"Point"}

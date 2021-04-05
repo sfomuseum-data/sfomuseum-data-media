@@ -21,22 +21,22 @@
           "hex": "#c88d51",
           "name": "#c88d51",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c8a788",
           "name": "#c8a788",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#72502f",
           "name": "#72502f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#ab825b",
           "name": "#ab825b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#cebdab",
           "name": "#cebdab",
@@ -118,23 +118,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186501,
+    "sfomuseum:object_id": 109313,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102087579, 
-      85688637, 
-      772975761, 
-      102527513, 
-      85633793, 
-      85922583, 
+      1159157271,
+      102191575,
+      102087579,
+      85688637,
+      772975761,
+      102527513,
+      85633793,
+      85922583,
       1159396121
     ],
     "wof:country": "US",
     "wof:created": 1555457547,
     "wof:depicts": [
-      772975761, 
+      772975761,
       102527513
     ],
     "wof:geomhash": "74ed97d4b2384c6614480bde2d901f80",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455169,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Hitwood",
     "wof:parent_id": 772975761,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384241, 
-    37.617775, 
-    -122.384241, 
+    -122.384241,
+    37.617775,
+    -122.384241,
     37.617775
   ],
   "geometry": {"coordinates":[-122.384241,37.617775],"type":"Point"}

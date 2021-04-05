@@ -21,12 +21,12 @@
           "hex": "#838878",
           "name": "#838878",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c7d7d4",
           "name": "#c7d7d4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#424538",
           "name": "#424538",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186480,
+    "sfomuseum:object_id": 109298,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85688637, 
-      772975121, 
-      1159157333, 
-      102527513, 
-      85922583, 
-      1159157339, 
-      102191575, 
+      1159157271,
+      85633793,
+      85688637,
+      772975121,
+      1159157333,
+      102527513,
+      85922583,
+      1159157339,
+      102191575,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457552,
     "wof:depicts": [
-      772975121, 
+      772975121,
       102527513
     ],
     "wof:geomhash": "efd612d259894dc610c129a594d32ecd",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455179,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Namoo House",
     "wof:parent_id": 772975121,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.389101, 
-    37.612978, 
-    -122.389101, 
+    -122.389101,
+    37.612978,
+    -122.389101,
     37.612978
   ],
   "geometry": {"coordinates":[-122.389101,37.612978],"type":"Point"}

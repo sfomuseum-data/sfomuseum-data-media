@@ -21,22 +21,22 @@
           "hex": "#5f86c4",
           "name": "#5f86c4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#99b2e1",
           "name": "#99b2e1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3d5d90",
           "name": "#3d5d90",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a45e68",
           "name": "#a45e68",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9ca6be",
           "name": "#9ca6be",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186442,
+    "sfomuseum:object_id": 173504,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102191575, 
-      1159157307, 
-      1159157309, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159162789, 
+      85922583,
+      1159157271,
+      102191575,
+      1159157307,
+      1159157309,
+      102527513,
+      85633793,
+      85688637,
+      1159162789,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457650,
     "wof:depicts": [
-      1159162789, 
+      1159162789,
       102527513
     ],
     "wof:geomhash": "e958faf7093751da25dcc18f7d929834",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455275,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Forever in the Sky",
     "wof:parent_id": 1159162789,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38659, 
-    37.618183, 
-    -122.38659, 
+    -122.38659,
+    37.618183,
+    -122.38659,
     37.618183
   ],
   "geometry": {"coordinates":[-122.38659,37.618183],"type":"Point"}

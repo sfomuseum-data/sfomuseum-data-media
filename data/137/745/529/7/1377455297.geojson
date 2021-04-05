@@ -21,12 +21,12 @@
           "hex": "#6a7791",
           "name": "#6a7791",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c8c8c1",
           "name": "#c8c8c1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#4d4136",
           "name": "#4d4136",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186439,
+    "sfomuseum:object_id": 109375,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157307, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1159162811, 
-      1159157309, 
+      1159157307,
+      85688637,
+      85922583,
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
+      1159162811,
+      1159157309,
       102087579
     ],
     "wof:country": "US",
     "wof:created": 1555457671,
     "wof:depicts": [
-      1159162811, 
+      1159162811,
       102527513
     ],
     "wof:geomhash": "6edce0f36f851e88911510e76d74edba",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455297,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": 1159162811,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38482, 
-    37.618077, 
-    -122.38482, 
+    -122.38482,
+    37.618077,
+    -122.38482,
     37.618077
   ],
   "geometry": {"coordinates":[-122.38482,37.618077],"type":"Point"}

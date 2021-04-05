@@ -21,22 +21,22 @@
           "hex": "#2981cd",
           "name": "#2981cd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#f07e81",
           "name": "#f07e81",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#903640",
           "name": "#903640",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#45639c",
           "name": "#45639c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#9eadc1",
           "name": "#9eadc1",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64217,
+    "sfomuseum:object_id": 109327,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      85922583, 
-      1159157333, 
-      102191575, 
-      772975759, 
-      102527513, 
-      85633793, 
-      1159157271, 
-      102087579, 
-      85688637, 
+      85922583,
+      1159157333,
+      102191575,
+      772975759,
+      102527513,
+      85633793,
+      1159157271,
+      102087579,
+      85688637,
       1159157335
     ],
     "wof:country": "US",
     "wof:created": 1555457498,
     "wof:depicts": [
-      772975759, 
+      772975759,
       102527513
     ],
     "wof:geomhash": "e6a46e8506f959749b899985a8c0c7f0",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455125,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Conquest of Space",
     "wof:parent_id": 772975759,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.39012, 
-    37.616254, 
-    -122.39012, 
+    -122.39012,
+    37.616254,
+    -122.39012,
     37.616254
   ],
   "geometry": {"coordinates":[-122.39012,37.616254],"type":"Point"}

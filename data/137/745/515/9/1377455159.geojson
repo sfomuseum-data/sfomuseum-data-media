@@ -21,22 +21,22 @@
           "hex": "#d7a925",
           "name": "#d7a925",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d2ad54",
           "name": "#d2ad54",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bd8e21",
           "name": "#bd8e21",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#86816f",
           "name": "#86816f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c7c2ad",
           "name": "#c7c2ad",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64112,
+    "sfomuseum:object_id": 109343,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      772975239, 
-      1159157271, 
-      102527513, 
-      1159157319, 
-      102087579, 
-      85688637, 
+      102191575,
+      85633793,
+      85922583,
+      772975239,
+      1159157271,
+      102527513,
+      1159157319,
+      102087579,
+      85688637,
       1159157317
     ],
     "wof:country": "US",
     "wof:created": 1555457534,
     "wof:depicts": [
-      772975239, 
+      772975239,
       102527513
     ],
     "wof:geomhash": "81349cbbe596cd922c67825d42681e4f",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455159,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Flight Patterns",
     "wof:parent_id": 772975239,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384289, 
-    37.615464, 
-    -122.384289, 
+    -122.384289,
+    37.615464,
+    -122.384289,
     37.615464
   ],
   "geometry": {"coordinates":[-122.384289,37.615464],"type":"Point"}

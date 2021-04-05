@@ -21,22 +21,22 @@
           "hex": "#e9c634",
           "name": "#e9c634",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#94b9d4",
           "name": "#94b9d4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a21100",
           "name": "#a21100",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#7891a7",
           "name": "#7891a7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#c9ccb5",
           "name": "#c9ccb5",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64218,
+    "sfomuseum:object_id": 109352,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102527513, 
-      1159157337, 
-      102191575, 
-      85633793, 
-      772975733, 
-      102087579, 
-      85922583, 
+      1159157271,
+      85688637,
+      102527513,
+      1159157337,
+      102191575,
+      85633793,
+      772975733,
+      102087579,
+      85922583,
       1159157333
     ],
     "wof:country": "US",
     "wof:created": 1555457564,
     "wof:depicts": [
-      772975733, 
+      772975733,
       102527513
     ],
     "wof:geomhash": "1df731bad6959275c44d2cd2f98a8ab4",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455195,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Ceiling Flood",
     "wof:parent_id": 772975733,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.392169, 
-    37.618183, 
-    -122.392169, 
+    -122.392169,
+    37.618183,
+    -122.392169,
     37.618183
   ],
   "geometry": {"coordinates":[-122.392169,37.618183],"type":"Point"}

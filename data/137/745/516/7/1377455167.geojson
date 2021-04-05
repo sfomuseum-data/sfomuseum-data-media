@@ -21,22 +21,22 @@
           "hex": "#85acc5",
           "name": "#85acc5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a8c6d9",
           "name": "#a8c6d9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#22425c",
           "name": "#22425c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#5985a3",
           "name": "#5985a3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b0c5cb",
           "name": "#b0c5cb",
@@ -118,22 +118,23 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 151854,
+    "sfomuseum:object_id": 109342,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159160869, 
-      102191575, 
-      85688637, 
-      772975279, 
-      102087579, 
-      85922583, 
-      102527513, 
+      1159160869,
+      102191575,
+      85688637,
+      772975279,
+      102087579,
+      85922583,
+      102527513,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1555457545,
     "wof:depicts": [
-      772975279, 
+      772975279,
       102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377455167,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "The Smile of Reason",
     "wof:parent_id": 772975279,
     "wof:placetype": "media",
@@ -162,9 +163,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
+    -122.386166,
+    37.616356,
+    -122.386166,
     37.616356
   ],
   "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}

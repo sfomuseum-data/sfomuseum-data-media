@@ -21,22 +21,22 @@
           "hex": "#2d7f97",
           "name": "#2d7f97",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#8ec4d2",
           "name": "#8ec4d2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#265d5c",
           "name": "#265d5c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#518798",
           "name": "#518798",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#d8d6c3",
           "name": "#d8d6c3",
@@ -118,23 +118,24 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 64106,
+    "sfomuseum:object_id": 109336,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102087579, 
-      1159157317, 
-      772975331, 
-      102191575, 
-      85633793, 
-      102527513, 
-      85922583, 
-      85688637, 
+      102087579,
+      1159157317,
+      772975331,
+      102191575,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
     "wof:created": 1555457644,
     "wof:depicts": [
-      772975331, 
+      772975331,
       102527513
     ],
     "wof:geomhash": "4b192e093a043e89ede93b806ce82054",
@@ -154,7 +155,7 @@
       }
     ],
     "wof:id": 1377455271,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Petanque et St Savin IV",
     "wof:parent_id": 772975331,
     "wof:placetype": "media",
@@ -163,9 +164,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.382481, 
-    37.614661, 
-    -122.382481, 
+    -122.382481,
+    37.614661,
+    -122.382481,
     37.614661
   ],
   "geometry": {"coordinates":[-122.382481,37.614661],"type":"Point"}

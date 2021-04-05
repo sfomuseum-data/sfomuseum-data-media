@@ -21,12 +21,12 @@
           "hex": "#807f86",
           "name": "#807f86",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#bfb9bf",
           "name": "#bfb9bf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#433b3d",
           "name": "#433b3d",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186450,
+    "sfomuseum:object_id": 109381,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      772974723, 
-      1159396267, 
-      1159157307, 
-      102527513, 
-      102087579, 
-      1159157271, 
+      102191575,
+      85922583,
+      85688637,
+      772974723,
+      1159396267,
+      1159157307,
+      102527513,
+      102087579,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
     "wof:created": 1555457530,
     "wof:depicts": [
-      772974723, 
+      772974723,
       102527513
     ],
     "wof:geomhash": "5622929ffe7c3f56e1e1fa99e2e2f39c",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455155,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Loop Series #4: Masquerade in Black",
     "wof:parent_id": 772974723,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384595, 
-    37.618965, 
-    -122.384595, 
+    -122.384595,
+    37.618965,
+    -122.384595,
     37.618965
   ],
   "geometry": {"coordinates":[-122.384595,37.618965],"type":"Point"}

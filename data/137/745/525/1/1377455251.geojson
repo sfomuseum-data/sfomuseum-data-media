@@ -21,12 +21,12 @@
           "hex": "#777f85",
           "name": "#777f85",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#b3b9bd",
           "name": "#b3b9bd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#3e4348",
           "name": "#3e4348",
@@ -108,24 +108,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186460,
+    "sfomuseum:object_id": 109324,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      772975227, 
-      1159157325, 
-      1159157327, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
+      102191575,
+      85688637,
+      772975227,
+      1159157325,
+      1159157327,
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457619,
     "wof:depicts": [
-      772975227, 
+      772975227,
       102527513
     ],
     "wof:geomhash": "af3080dc119f7bf85d0f59b4e89d1504",
@@ -146,7 +147,7 @@
       }
     ],
     "wof:id": 1377455251,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": 772975227,
     "wof:placetype": "media",
@@ -155,9 +156,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383892, 
-    37.615984, 
-    -122.383892, 
+    -122.383892,
+    37.615984,
+    -122.383892,
     37.615984
   ],
   "geometry": {"coordinates":[-122.383892,37.615984],"type":"Point"}

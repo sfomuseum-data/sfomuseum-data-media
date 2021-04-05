@@ -21,22 +21,22 @@
           "hex": "#e08a30",
           "name": "#e08a30",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#e0b67e",
           "name": "#e0b67e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#623422",
           "name": "#623422",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a49d5d",
           "name": "#a49d5d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "hex": "#a4bbc2",
           "name": "#a4bbc2",
@@ -118,24 +118,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:image_id": 186465,
+    "sfomuseum:object_id": 109293,
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159157337, 
-      102191575, 
-      102527513, 
-      772974373, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      1159157333, 
+      1159157337,
+      102191575,
+      102527513,
+      772974373,
+      85633793,
+      102087579,
+      85688637,
+      1159157271,
+      1159157333,
       85922583
     ],
     "wof:country": "US",
     "wof:created": 1555457629,
     "wof:depicts": [
-      772974373, 
+      772974373,
       102527513
     ],
     "wof:geomhash": "fdfb63f489167c37a00981cb1a95b42c",
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377455259,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617666159,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": 772974373,
     "wof:placetype": "media",
@@ -165,9 +166,9 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.393119, 
-    37.61843, 
-    -122.393119, 
+    -122.393119,
+    37.61843,
+    -122.393119,
     37.61843
   ],
   "geometry": {"coordinates":[-122.393119,37.61843],"type":"Point"}
