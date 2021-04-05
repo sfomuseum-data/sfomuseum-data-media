@@ -2,8 +2,8 @@
   "id": 1159341681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
@@ -184,7 +184,6 @@
       85633793, 
       85922583, 
       102527513, 
-      1159341681, 
       85688637, 
       102087579
     ],
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159341681,
-    "wof:lastmodified": 1577131403,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

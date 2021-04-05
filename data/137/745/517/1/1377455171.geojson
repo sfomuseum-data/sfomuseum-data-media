@@ -2,8 +2,8 @@
   "id": 1377455171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.389187,37.615740,-122.389187,37.615740",
     "geom:latitude": 37.61574,
@@ -138,6 +138,7 @@
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
+        "media_id": 1377455171,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 772975243,
@@ -145,7 +146,7 @@
       }
     ],
     "wof:id": 1377455171,
-    "wof:lastmodified": 1578438193,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Anemone",
     "wof:parent_id": 772975243,
     "wof:placetype": "media",

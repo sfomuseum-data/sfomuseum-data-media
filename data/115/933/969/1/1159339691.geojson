@@ -2,8 +2,8 @@
   "id": 1159339691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
@@ -185,8 +185,7 @@
       1159396333, 
       1159396159, 
       102191575, 
-      102087579, 
-      1159339691
+      102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -215,7 +214,7 @@
       }
     ],
     "wof:id": 1159339691,
-    "wof:lastmodified": 1577129534,
+    "wof:lastmodified": 1617666013,
     "wof:name": "Installation view of \"Moto Bellissima: Italian Motorcycles from the 1950s and 1960s\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",

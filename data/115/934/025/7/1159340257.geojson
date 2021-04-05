@@ -2,8 +2,8 @@
   "id": 1159340257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.384814,37.617787,-122.384814,37.617787",
@@ -179,7 +179,6 @@
     "src:geom": "unknown",
     "wof:belongsto": [
       85922583, 
-      1159340257, 
       1159157271, 
       102087579, 
       85633793, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159340257,
-    "wof:lastmodified": 1577129910,
+    "wof:lastmodified": 1617666013,
     "wof:name": "Installation view of \"America in Color: 1940-1943\"",
     "wof:parent_id": 1159396121,
     "wof:placetype": "media",

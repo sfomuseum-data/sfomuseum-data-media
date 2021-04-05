@@ -2,9 +2,9 @@
   "id": 1376877837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
+    "edtf:cessation": "",
     "edtf:deprecated": "2019-02-06",
-    "edtf:inception": "uuuu",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389267,37.615645,-122.389267,37.615645",
@@ -124,7 +124,6 @@
     "wof:belongsto": [
       102087579, 
       1159157271, 
-      1376877837, 
       1159157335, 
       102191575, 
       102527513, 
@@ -165,7 +164,7 @@
       }
     ],
     "wof:id": 1376877837,
-    "wof:lastmodified": 1577133395,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"A Legacy of Pride: Gilbert Baker and the 40th Anniversary of the Rainbow Flag\"",
     "wof:parent_id": 1226620561,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159340721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -180,7 +180,6 @@
     "wof:belongsto": [
       1159157271, 
       85922583, 
-      1159340721, 
       85688637, 
       102527513, 
       102087579, 
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159340721,
-    "wof:lastmodified": 1577130354,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"The Automatic Age: Coin-Operated Machines\"",
     "wof:parent_id": 1159157335,
     "wof:placetype": "media",

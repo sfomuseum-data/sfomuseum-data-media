@@ -2,8 +2,8 @@
   "id": 1159342557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -168,7 +168,6 @@
       85633793, 
       102087579, 
       85922583, 
-      1159342557, 
       102191575, 
       85688637
     ],
@@ -200,7 +199,7 @@
       }
     ],
     "wof:id": 1159342557,
-    "wof:lastmodified": 1577132338,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",

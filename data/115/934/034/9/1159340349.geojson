@@ -2,8 +2,8 @@
   "id": 1159340349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -185,7 +185,6 @@
       102527513, 
       102191575, 
       1159396121, 
-      1159340349, 
       85633793, 
       85922583
     ],
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159340349,
-    "wof:lastmodified": 1577129924,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"Maneki Neko: Japan’s Beckoning Cat\"",
     "wof:parent_id": 1159396181,
     "wof:placetype": "media",

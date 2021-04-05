@@ -2,8 +2,8 @@
   "id": 1159342691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -186,7 +186,6 @@
       102527513, 
       102087579, 
       85922583, 
-      1159342691, 
       85633793
     ],
     "wof:breaches": [],
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159342691,
-    "wof:lastmodified": 1577132533,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",

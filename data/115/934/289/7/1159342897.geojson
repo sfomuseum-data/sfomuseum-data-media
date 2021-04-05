@@ -2,8 +2,8 @@
   "id": 1159342897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -185,7 +185,6 @@
       1159396321, 
       102527513, 
       85633793, 
-      1159342897, 
       102087579
     ],
     "wof:breaches": [],
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159342897,
-    "wof:lastmodified": 1577132771,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"A World of Characters: Advertising Icons from the Warren Dotz Collection\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1376877885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -122,7 +122,6 @@
     "src:geom": "unknown",
     "wof:belongsto": [
       85922583, 
-      1376877885, 
       102087579, 
       1159157307, 
       85688637, 
@@ -164,7 +163,7 @@
       }
     ],
     "wof:id": 1376877885,
-    "wof:lastmodified": 1577133454,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"The Modern Consumer – 1950s Products and Styles\"",
     "wof:parent_id": 1360702457,
     "wof:placetype": "media",

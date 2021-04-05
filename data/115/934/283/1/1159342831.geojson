@@ -2,8 +2,8 @@
   "id": 1159342831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159342831, 
       102191575, 
       102087579, 
       85922583, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159342831,
-    "wof:lastmodified": 1577132693,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Installation view of \"A World of Characters: Advertising Icons from the Warren Dotz Collection\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

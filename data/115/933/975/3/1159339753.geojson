@@ -2,8 +2,8 @@
   "id": 1159339753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
@@ -185,7 +185,6 @@
       1159396333, 
       102191575, 
       102527513, 
-      1159339753, 
       85922583
     ],
     "wof:breaches": [],
@@ -216,7 +215,7 @@
       }
     ],
     "wof:id": 1159339753,
-    "wof:lastmodified": 1577129604,
+    "wof:lastmodified": 1617666013,
     "wof:name": "Installation view of \"The Enduring Designs of Josef Frank\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",

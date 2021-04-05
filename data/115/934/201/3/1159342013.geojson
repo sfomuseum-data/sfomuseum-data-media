@@ -2,8 +2,8 @@
   "id": 1159342013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -161,7 +161,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159342013, 
       1159396153, 
       85688637, 
       1159396321, 
@@ -197,7 +196,7 @@
       }
     ],
     "wof:id": 1159342013,
-    "wof:lastmodified": 1577131665,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Installation view of \"Mingei: Traditional Japanese Arts \"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

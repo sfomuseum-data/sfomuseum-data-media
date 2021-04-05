@@ -2,8 +2,8 @@
   "id": 1159341185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -184,7 +184,6 @@
       1159396321, 
       85633793, 
       85922583, 
-      1159341185, 
       102527513, 
       1159396315, 
       85688637
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159341185,
-    "wof:lastmodified": 1577130778,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"Games of Chance: Gambling Devices of the Mechanical Age\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",

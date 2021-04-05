@@ -2,8 +2,8 @@
   "id": 1159340595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159340595, 
       85922583, 
       85688637, 
       102527513, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159340595,
-    "wof:lastmodified": 1577130200,
+    "wof:lastmodified": 1617666013,
     "wof:name": "Installation view of \"Stepping Out: Shoes in World Cultures\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

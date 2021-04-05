@@ -2,8 +2,8 @@
   "id": 1159340425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159340425, 
       102527513, 
       85633793, 
       85688637, 
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159340425,
-    "wof:lastmodified": 1577130015,
+    "wof:lastmodified": 1617666013,
     "wof:name": "Installation view of \"Maneki Neko: Japan’s Beckoning Cat\"",
     "wof:parent_id": 1159396181,
     "wof:placetype": "media",

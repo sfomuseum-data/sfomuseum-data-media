@@ -2,8 +2,8 @@
   "id": 1159342149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -148,7 +148,6 @@
       102527513, 
       102191575, 
       1159396321, 
-      1159342149, 
       1159396153, 
       85633793, 
       102087579, 
@@ -180,7 +179,7 @@
       }
     ],
     "wof:id": 1159342149,
-    "wof:lastmodified": 1577131821,
+    "wof:lastmodified": 1617666015,
     "wof:name": "Installation view of \"Joseff of Hollywood: Jeweler to the Stars\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159340479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -162,7 +162,6 @@
     "src:geom": "unknown",
     "wof:belongsto": [
       102087579, 
-      1159340479, 
       102191575, 
       1159396121, 
       1159396181, 
@@ -200,7 +199,7 @@
       }
     ],
     "wof:id": 1159340479,
-    "wof:lastmodified": 1577130070,
+    "wof:lastmodified": 1617666013,
     "wof:name": "Installation view of \"The Typewriter: An Innovation in Writing\"",
     "wof:parent_id": 1159396181,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159343243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -185,7 +185,6 @@
       85688637, 
       102527513, 
       102087579, 
-      1159343243, 
       1159396153
     ],
     "wof:breaches": [],
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159343243,
-    "wof:lastmodified": 1577133140,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1377455145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.392475,37.618349,-122.392475,37.618349",
     "geom:latitude": 37.618349,
@@ -148,6 +148,7 @@
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
+        "media_id": 1377455145,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 772975577,
@@ -155,7 +156,7 @@
       }
     ],
     "wof:id": 1377455145,
-    "wof:lastmodified": 1578438178,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": 772975577,
     "wof:placetype": "media",

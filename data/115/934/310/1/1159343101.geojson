@@ -2,8 +2,8 @@
   "id": 1159343101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -183,7 +183,6 @@
       85688637, 
       102191575, 
       85922583, 
-      1159343101, 
       1159396321, 
       85633793, 
       1159396153
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159343101,
-    "wof:lastmodified": 1577132981,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

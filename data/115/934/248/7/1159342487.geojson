@@ -2,8 +2,8 @@
   "id": 1159342487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -182,7 +182,6 @@
       1159396153, 
       102191575, 
       85688637, 
-      1159342487, 
       1159396321, 
       102527513, 
       85633793, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159342487,
-    "wof:lastmodified": 1577132237,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"I Love You California: A Natural History\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

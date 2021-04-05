@@ -2,8 +2,8 @@
   "id": 1159342953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
@@ -179,7 +179,6 @@
     "src:geom": "unknown",
     "wof:belongsto": [
       102087579, 
-      1159342953, 
       85922583, 
       85688637, 
       102527513, 
@@ -215,7 +214,7 @@
       }
     ],
     "wof:id": 1159342953,
-    "wof:lastmodified": 1577132838,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"When Art Rocked: San Francisco Music Posters\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159342559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159342559, 
       85688637, 
       102191575, 
       85633793, 
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159342559,
-    "wof:lastmodified": 1577132341,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",

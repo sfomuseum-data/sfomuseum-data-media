@@ -2,8 +2,8 @@
   "id": 1159342763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -180,7 +180,6 @@
     "wof:belongsto": [
       85922583, 
       85688637, 
-      1159342763, 
       1159396153, 
       102191575, 
       102087579, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159342763,
-    "wof:lastmodified": 1577132619,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Egyptian Revival: An Everlasting Allure\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159339987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389154,37.615761,-122.389154,37.615761",
@@ -184,7 +184,6 @@
       1159157333, 
       1159157335, 
       102191575, 
-      1159339987, 
       85688637, 
       102527513, 
       85633793
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159339987,
-    "wof:lastmodified": 1577129786,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
     "wof:parent_id": 1159157335,
     "wof:placetype": "media",

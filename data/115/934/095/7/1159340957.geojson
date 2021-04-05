@@ -2,8 +2,8 @@
   "id": 1159340957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159340957, 
       1159396153, 
       102191575, 
       102087579, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159340957,
-    "wof:lastmodified": 1577130490,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"All Roads Lead to Rome: 17th - 19th Century Architectural Models from the Collection of Piraneseum\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

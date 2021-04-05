@@ -2,8 +2,8 @@
   "id": 1159340623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -182,7 +182,6 @@
       102527513, 
       85922583, 
       85633793, 
-      1159340623, 
       102191575, 
       102087579, 
       85688637, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159340623,
-    "wof:lastmodified": 1577130237,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"Stepping Out: Shoes in World Cultures\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

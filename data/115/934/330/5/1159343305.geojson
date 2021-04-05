@@ -2,8 +2,8 @@
   "id": 1159343305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159343305, 
       85633793, 
       102087579, 
       85688637, 
@@ -215,7 +214,7 @@
       }
     ],
     "wof:id": 1159343305,
-    "wof:lastmodified": 1577133203,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Doors: Entryways to World Culture\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

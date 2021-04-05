@@ -2,8 +2,8 @@
   "id": 1159343435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -181,7 +181,6 @@
       85688637, 
       1159396193, 
       102191575, 
-      1159343435, 
       1159396321, 
       85633793, 
       102087579, 
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159343435,
-    "wof:lastmodified": 1577133341,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"Studio Glass, The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159341621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159341621, 
       1159396153, 
       85633793, 
       85922583, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159341621,
-    "wof:lastmodified": 1577131325,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

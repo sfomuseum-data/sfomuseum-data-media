@@ -2,8 +2,8 @@
   "id": 1159342045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -181,7 +181,6 @@
       102527513, 
       85922583, 
       102087579, 
-      1159342045, 
       1159396153, 
       85688637, 
       1159396321, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159342045,
-    "wof:lastmodified": 1577131702,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Installation view of \"Mingei: Traditional Japanese Arts \"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

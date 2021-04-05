@@ -2,8 +2,8 @@
   "id": 1159341113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -169,7 +169,6 @@
       1159396321, 
       1159396157, 
       1159396315, 
-      1159341113, 
       85688637
     ],
     "wof:breaches": [],
@@ -200,7 +199,7 @@
       }
     ],
     "wof:id": 1159341113,
-    "wof:lastmodified": 1577130684,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",

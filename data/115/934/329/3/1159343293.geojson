@@ -2,8 +2,8 @@
   "id": 1159343293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388942,37.615424,-122.388942,37.615424",
@@ -168,7 +168,6 @@
       102087579, 
       85922583, 
       102191575, 
-      1159343293, 
       85688637
     ],
     "wof:breaches": [],
@@ -198,7 +197,7 @@
       }
     ],
     "wof:id": 1159343293,
-    "wof:lastmodified": 1577133190,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Doors: Entryways to World Culture\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

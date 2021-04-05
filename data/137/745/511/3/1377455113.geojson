@@ -2,8 +2,8 @@
   "id": 1377455113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.384799,37.618931,-122.384799,37.618931",
     "geom:latitude": 37.618931,
@@ -123,7 +123,6 @@
       1159157271, 
       85688637, 
       772975785, 
-      1377455113, 
       85922583, 
       85633793, 
       102087579
@@ -152,7 +151,7 @@
       }
     ],
     "wof:id": 1377455113,
-    "wof:lastmodified": 1578438168,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Behind Ted McMann's Garage",
     "wof:parent_id": 772975785,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159339975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389412,37.615761,-122.389412,37.615761",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159339975, 
       85922583, 
       102527513, 
       85688637, 
@@ -217,7 +216,7 @@
       }
     ],
     "wof:id": 1159339975,
-    "wof:lastmodified": 1577129773,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
     "wof:parent_id": 1159157335,
     "wof:placetype": "media",

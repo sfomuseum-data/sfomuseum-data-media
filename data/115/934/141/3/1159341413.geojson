@@ -2,8 +2,8 @@
   "id": 1159341413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -169,7 +169,6 @@
       102527513, 
       85633793, 
       102087579, 
-      1159341413, 
       1159396321
     ],
     "wof:breaches": [],
@@ -200,7 +199,7 @@
       }
     ],
     "wof:id": 1159341413,
-    "wof:lastmodified": 1577131073,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"The Nation’s Game: A History of the National Football League\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159341773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.382712,37.617422,-122.382712,37.617422",
@@ -163,7 +163,6 @@
     "wof:belongsto": [
       1159396321, 
       102191575, 
-      1159341773, 
       102527513, 
       85922583, 
       1159157325, 
@@ -200,7 +199,7 @@
       }
     ],
     "wof:id": 1159341773,
-    "wof:lastmodified": 1577131514,
+    "wof:lastmodified": 1617666015,
     "wof:name": "Installation view of \"A Potter’s Life: Marguerite Wildenhain at Pond Farm\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",

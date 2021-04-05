@@ -2,8 +2,8 @@
   "id": 1159343129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -178,7 +178,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159343129, 
       1159396153, 
       102191575, 
       102087579, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159343129,
-    "wof:lastmodified": 1577133008,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

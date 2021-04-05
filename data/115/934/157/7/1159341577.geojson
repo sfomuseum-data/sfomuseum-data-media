@@ -2,8 +2,8 @@
   "id": 1159341577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.387197,37.619087,-122.387197,37.619087",
@@ -161,7 +161,6 @@
     "sfomuseum:placetype": "image",
     "src:geom": "unknown",
     "wof:belongsto": [
-      1159341577, 
       1159396321, 
       1159396315, 
       1159396157, 
@@ -200,7 +199,7 @@
       }
     ],
     "wof:id": 1159341577,
-    "wof:lastmodified": 1577131272,
+    "wof:lastmodified": 1617666015,
     "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",

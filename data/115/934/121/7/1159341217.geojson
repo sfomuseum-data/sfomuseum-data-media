@@ -2,8 +2,8 @@
   "id": 1159341217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389020,37.614533,-122.389020,37.614533",
@@ -185,8 +185,7 @@
       1159396321, 
       102527513, 
       85633793, 
-      85922583, 
-      1159341217
+      85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159341217,
-    "wof:lastmodified": 1577130820,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"From Print to Plate: Views of the East on Transferware\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

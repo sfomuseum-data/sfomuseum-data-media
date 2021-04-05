@@ -2,8 +2,8 @@
   "id": 1159342787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
@@ -185,8 +185,7 @@
       85688637, 
       1159396337, 
       102191575, 
-      85633793, 
-      1159342787
+      85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159342787,
-    "wof:lastmodified": 1577132647,
+    "wof:lastmodified": 1617666016,
     "wof:name": "Installation view of \"Pacific Coast League: The West Coast’s Major League 1903-1957\"",
     "wof:parent_id": 1159396147,
     "wof:placetype": "media",

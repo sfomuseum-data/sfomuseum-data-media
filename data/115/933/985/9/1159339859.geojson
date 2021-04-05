@@ -2,8 +2,8 @@
   "id": 1159339859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -184,7 +184,6 @@
       102527513, 
       102191575, 
       102087579, 
-      1159339859, 
       85688637, 
       1159396333
     ],
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159339859,
-    "wof:lastmodified": 1577129699,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"Automata: Mechanical Wonders of the Nineteenth Century\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",

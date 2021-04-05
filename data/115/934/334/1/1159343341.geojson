@@ -2,8 +2,8 @@
   "id": 1159343341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -179,7 +179,6 @@
     "src:geom": "unknown",
     "wof:belongsto": [
       102087579, 
-      1159343341, 
       85688637, 
       102191575, 
       85922583, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159343341,
-    "wof:lastmodified": 1577133240,
+    "wof:lastmodified": 1617666018,
     "wof:name": "Installation view of \"A Radiant Light: The Artistry of Louis C. Tiffany\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

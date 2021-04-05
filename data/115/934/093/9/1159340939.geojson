@@ -2,8 +2,8 @@
   "id": 1159340939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389131,37.616029,-122.389131,37.616029",
@@ -164,7 +164,6 @@
       102191575, 
       102087579, 
       85922583, 
-      1159340939, 
       102527513, 
       1159396321, 
       85633793, 
@@ -197,7 +196,7 @@
       }
     ],
     "wof:id": 1159340939,
-    "wof:lastmodified": 1577130468,
+    "wof:lastmodified": 1617666014,
     "wof:name": "Installation view of \"All Roads Lead to Rome: 17th - 19th Century Architectural Models from the Collection of Piraneseum\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",

@@ -2,8 +2,8 @@
   "id": 1159340981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "uuuu",
-    "edtf:inception": "uuuu",
+    "edtf:cessation": "",
+    "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389725,37.616594,-122.389725,37.616594",
@@ -180,7 +180,6 @@
     "wof:belongsto": [
       1159396153, 
       85922583, 
-      1159340981, 
       85633793, 
       102527513, 
       102191575, 
@@ -214,7 +213,7 @@
       }
     ],
     "wof:id": 1159340981,
-    "wof:lastmodified": 1577130521,
+    "wof:lastmodified": 1617666017,
     "wof:name": "Installation view of \"A Modern Approach: Mid-century Design\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
