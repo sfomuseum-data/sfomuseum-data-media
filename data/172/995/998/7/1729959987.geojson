@@ -1,0 +1,192 @@
+{
+  "id": 1729959987,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-06-21",
+    "date:cessation_upper": "2020-06-21",
+    "date:inception_lower": "2019-09-28",
+    "date:inception_upper": "2019-09-28",
+    "edtf:cessation": "2020-06-21",
+    "edtf:inception": "2019-09-28",
+    "geom:area": 0,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
+    "iso:country": "US",
+    "media:created": 1569608033,
+    "media:fingerprint": "beaa298bb4b397542c547f202c3f6eee81c468bf",
+    "media:imagehash_avg": "a:7e7e7e7e7e7c0000",
+    "media:imagehash_diff": "d:f8f8b89c9c9c1f3d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#574227",
+          "name": "#574227",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#978767",
+          "name": "#978767",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#cec5b4",
+          "name": "#cec5b4",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#65533b",
+          "name": "#65533b",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 614
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 479
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 479
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 1228
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 191
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "TQzThk2FKiVLngscX8Q62pFtUej0oXeP",
+          "width": 2879
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "nUYbPHOdwsCD2L9jBEFAcyzOYkesgwMj",
+          "width": 383
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/998/7/1729959987_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1477855605,
+      102527513,
+      1477855927,
+      102191575,
+      85633793,
+      102087579,
+      1477855947,
+      1495157221,
+      85922583,
+      554784711,
+      85688637,
+      1477855937,
+      1477855833,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1617660553,
+    "wof:depicts": [
+      1495157221,
+      1477855605,
+      1477855937,
+      1477855833,
+      1477855927,
+      1477855947
+    ],
+    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855947,
+        "installation_id": 1495157221,
+        "locality_id": 85922583,
+        "media_id": 1729959987,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855947,
+        "installation_id": 1495157221,
+        "media_id": 1729959987,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      }
+    ],
+    "wof:id": 1729959987,
+    "wof:lastmodified": 1617660616,
+    "wof:name": "Installation view of \"Flying the Freedom Birds: Airlines and the Vietnam War\"",
+    "wof:parent_id": 1495157221,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.387939,
+    37.614512,
+    -122.387939,
+    37.614512
+  ],
+  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+}
