@@ -1,0 +1,224 @@
+{
+  "id": 1729959369,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-09-19",
+    "date:cessation_upper": "2021-09-19",
+    "date:inception_lower": "2021-02-13",
+    "date:inception_upper": "2021-02-13",
+    "edtf:cessation": "2021-09-19",
+    "edtf:inception": "2021-02-13",
+    "geom:area": 0,
+    "geom:bbox": "-122.389023,37.615714,-122.389023,37.615714",
+    "geom:latitude": 37.61571381938699,
+    "geom:longitude": -122.389022733102,
+    "iso:country": "US",
+    "media:created": 1614425110,
+    "media:fingerprint": "0c2f44c24eaa2029f12dc40dba0a7c85596eab0c",
+    "media:imagehash_avg": "a:ffffff20e0e1c0c0",
+    "media:imagehash_diff": "d:034343c3cd4d0d09",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b58a4a",
+          "name": "#b58a4a",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#e9c170",
+          "name": "#e9c170",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#9e814f",
+          "name": "#9e814f",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#b3c6ca",
+          "name": "#b3c6ca",
+          "reference": "vibrant"
+        }, 
+        {
+          "hex": "#454240",
+          "name": "#454240",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 512
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 400
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 400
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 1024
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 160
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "hRcM8cpi1mC5dGauQOpce9Dm1bu9wY6K",
+          "width": 2400
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "IOy4mL6quPCpQElaHgWGfOwH0aZaL1gd",
+          "width": 320
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/936/9/1729959369_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1729792387, 
+      102527513, 
+      1729792679, 
+      102191575, 
+      85633793, 
+      102087579, 
+      1729792785, 
+      1729842175, 
+      85922583, 
+      554784711, 
+      85688637, 
+      1729792579, 
+      102085387, 
+      1729792787, 
+      1729959369
+    ],
+    "wof:country": "US",
+    "wof:created": 1617653232,
+    "wof:depicts": [
+      1729842175, 
+      1729792387, 
+      1729792579, 
+      1729792679, 
+      1729792785, 
+      1729792787
+    ],
+    "wof:geomhash": "a81b29a45bae298a2e3d4771916d78fa",
+    "wof:hierarchy": [
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792785,
+        "installation_id": 1729842175,
+        "locality_id": 85922583,
+        "media_id": 1729959369,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792579
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792785,
+        "installation_id": 1729842175,
+        "media_id": 1729959369,
+        "region_id": 85688637,
+        "wing_id": 1729792579
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792787,
+        "installation_id": 1729842175,
+        "locality_id": 85922583,
+        "media_id": 1729959369,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792579
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792787,
+        "installation_id": 1729842175,
+        "media_id": 1729959369,
+        "region_id": 85688637,
+        "wing_id": 1729792579
+      }
+    ],
+    "wof:id": 1729959369,
+    "wof:lastmodified": 1617653281,
+    "wof:name": "Installation view of \"Early American Motorcycle\"",
+    "wof:parent_id": 1729842175,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.389022733102, 
+    37.61571381938699, 
+    -122.389022733102, 
+    37.61571381938699
+  ],
+  "geometry": {"coordinates":[-122.389022733102,37.61571381938699],"type":"Point"}
+}
