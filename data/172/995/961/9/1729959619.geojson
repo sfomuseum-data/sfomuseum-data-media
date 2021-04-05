@@ -1,0 +1,193 @@
+{
+  "id": 1729959619,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2021-07-18",
+    "date:cessation_upper": "2021-07-18",
+    "date:inception_lower": "2020-10-31",
+    "date:inception_upper": "2020-10-31",
+    "edtf:cessation": "2021-07-18",
+    "edtf:inception": "2020-10-31",
+    "geom:area": 0,
+    "geom:bbox": "-122.382713,37.617412,-122.382713,37.617412",
+    "geom:latitude": 37.61741180848045,
+    "geom:longitude": -122.38271343030829,
+    "iso:country": "US",
+    "media:created": 1604662199,
+    "media:fingerprint": "cdef5d20a4f1b4f4142be171a43277989a778b66",
+    "media:imagehash_avg": "a:0004b63efe7dff00",
+    "media:imagehash_diff": "d:e46c6c6cdac1e5e1",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b57851",
+          "name": "#b57851",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#d4b996",
+          "name": "#d4b996",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#794438",
+          "name": "#794438",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#aa816a",
+          "name": "#aa816a",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#b8bdba",
+          "name": "#b8bdba",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "0EWZUG7qphiInamYeHjM3NWHUOLO1sTt",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "T2bx80EyqZt8krqczC2EUdTC4215px0T",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/995/961/9/1729959619_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1729792387,
+      102527513,
+      1729792391,
+      102191575,
+      85633793,
+      102087579,
+      1729792769,
+      1729842105,
+      85922583,
+      554784711,
+      85688637,
+      1729792389,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1617656461,
+    "wof:depicts": [
+      1729842105,
+      1729792387,
+      1729792389,
+      1729792391,
+      1729792769
+    ],
+    "wof:geomhash": "9d9992ad1428601dffdcefd08f08d518",
+    "wof:hierarchy": [
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792391,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1729792769,
+        "installation_id": 1729842105,
+        "locality_id": 85922583,
+        "media_id": 1729959619,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1729792389
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792391,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1729792769,
+        "installation_id": 1729842105,
+        "media_id": 1729959619,
+        "region_id": 85688637,
+        "wing_id": 1729792389
+      }
+    ],
+    "wof:id": 1729959619,
+    "wof:lastmodified": 1617656514,
+    "wof:name": "Installation view of \"Surf’s Up! Instrumental Rock n’ Roll\"",
+    "wof:parent_id": 1729842105,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38271343030829,
+    37.61741180848045,
+    -122.38271343030829,
+    37.61741180848045
+  ],
+  "geometry": {"coordinates":[-122.38271343030829,37.61741180848045],"type":"Point"}
+}
