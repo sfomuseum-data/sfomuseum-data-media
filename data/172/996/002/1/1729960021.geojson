@@ -1,0 +1,197 @@
+{
+  "id": 1729960021,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2020-06-14",
+    "date:cessation_upper": "2020-06-14",
+    "date:inception_lower": "2019-09-21",
+    "date:inception_upper": "2019-09-21",
+    "edtf:cessation": "2020-06-14",
+    "edtf:inception": "2019-09-21",
+    "geom:area": 0,
+    "geom:bbox": "-122.387939,37.614512,-122.387939,37.614512",
+    "geom:latitude": 37.614512,
+    "geom:longitude": -122.387939,
+    "iso:country": "US",
+    "media:created": 1569934959,
+    "media:fingerprint": "ce34a7bf0a255bdf555b124cdecf1c185cdd2b5f",
+    "media:imagehash_avg": "a:1d9f8f8785477c38",
+    "media:imagehash_diff": "d:b135352d2d99d8e0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#a85e3e",
+          "name": "#a85e3e",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#e6ddc4",
+          "name": "#e6ddc4",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#6f2624",
+          "name": "#6f2624",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#a17456",
+          "name": "#a17456",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#c9b795",
+          "name": "#c9b795",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "ciR5pICFMbJBDsXS1hblapDPxBL4aFKr",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "twmTdIEqQJ8UzQBdCSI7EuVnuqI7wjWB",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://millsfield.sfomuseum.org/media/172/996/002/1/1729960021_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1477855605,
+      102527513,
+      1477855927,
+      102191575,
+      85633793,
+      102087579,
+      1477855949,
+      1495157219,
+      85922583,
+      554784711,
+      85688637,
+      1477855937,
+      1477855833,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1617662632,
+    "wof:depicts": [
+      1477855927,
+      1477855949,
+      1495157219,
+      1477855605,
+      1477855937,
+      1477855833
+    ],
+    "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855949,
+        "installation_id": 1495157219,
+        "locality_id": 85922583,
+        "media_id": 1729960021,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855927,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855949,
+        "installation_id": 1495157219,
+        "media_id": 1729960021,
+        "region_id": 85688637,
+        "venue_id": 1477855937,
+        "wing_id": 1477855833
+      }
+    ],
+    "wof:id": 1729960021,
+    "wof:lastmodified": 1617662688,
+    "wof:name": "Installation view of \"Widebody: The Launch of the Jumbojets in the Early 1970s\r\"",
+    "wof:parent_id": 1495157219,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.387939,
+    37.614512,
+    -122.387939,
+    37.614512
+  ],
+  "geometry": {"coordinates":[-122.387939,37.614512],"type":"Point"}
+}
