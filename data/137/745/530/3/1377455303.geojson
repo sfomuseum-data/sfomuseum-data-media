@@ -5,6 +5,7 @@
     "date:cessation_lower": "2018-12-04",
     "date:cessation_upper": "2018-12-04",
     "edtf:cessation": "2018-12-04",
+    "edtf:deprecated": "2021-04-06",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:bbox": "-122.383549,37.617580,-122.383549,37.617580",
@@ -118,7 +119,7 @@
     "media:status_id": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 0,
     "sfomuseum:image_id": 151852,
     "sfomuseum:object_id": 109358,
     "sfomuseum:placetype": "image",
@@ -159,12 +160,14 @@
       }
     ],
     "wof:id": 1377455303,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617744646,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 772974353,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1377455177
+    ],
     "wof:supersedes": []
   },
   "bbox": [
