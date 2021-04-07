@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 464,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1159396327,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377042883,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820395,
     "wof:name": "Installation view of \"Artist's Furniture: New Dimensions and Statements in Design\"",
     "wof:parent_id": 1226612011,
     "wof:placetype": "media",

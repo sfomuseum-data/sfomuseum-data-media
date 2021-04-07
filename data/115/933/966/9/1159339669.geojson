@@ -24,7 +24,7 @@
               "hex": "#ee204d",
               "name": "Red",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#dc143c",
               "name": "crimson",
@@ -34,14 +34,14 @@
           "hex": "#e01e32",
           "name": "#e01e32",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -51,14 +51,14 @@
           "hex": "#c68d87",
           "name": "#c68d87",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b0000",
               "name": "darkred",
@@ -68,14 +68,14 @@
           "hex": "#8b0412",
           "name": "#8b0412",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#5d76cb",
               "name": "Indigo",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4682b4",
               "name": "steelblue",
@@ -85,14 +85,14 @@
           "hex": "#547aa1",
           "name": "#547aa1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,26 +176,26 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396333, 
-      102527513, 
-      1159396159, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159396333,
+      102527513,
+      1159396159,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528847896,
     "wof:depicts": [
-      102527513, 
-      1360516183, 
-      1159396333, 
-      1159396159, 
-      1159160263, 
+      102527513,
+      1360516183,
+      1159396333,
+      1159396159,
+      1159160263,
       1360516193
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -214,7 +214,7 @@
       }
     ],
     "wof:id": 1159339669,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"Moto Bellissima: Italian Motorcycles from the 1950s and 1960s\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -224,9 +224,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

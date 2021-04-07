@@ -24,7 +24,7 @@
               "hex": "#ff7538",
               "name": "Orange",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2691e",
               "name": "chocolate",
@@ -34,14 +34,14 @@
           "hex": "#e47e2a",
           "name": "#e47e2a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#edd19c",
               "name": "Maize",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f0e68c",
               "name": "khaki",
@@ -51,14 +51,14 @@
           "hex": "#ecd29c",
           "name": "#ecd29c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#2e5894",
               "name": "B'dazzled Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#483d8b",
               "name": "darkslateblue",
@@ -68,14 +68,14 @@
           "hex": "#205a92",
           "name": "#205a92",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#85754e",
               "name": "Gold Fusion",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -85,14 +85,14 @@
           "hex": "#8b644a",
           "name": "#8b644a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159396153, 
-      1159396321, 
+      102527513,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      1159396153,
+      1159396321,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922875,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160511
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159342871,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"A World of Characters: Advertising Icons from the Warren Dotz Collection\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

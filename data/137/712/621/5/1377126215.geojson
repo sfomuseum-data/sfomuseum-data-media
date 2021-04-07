@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1468,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157037,
       1159157271,
@@ -169,7 +169,7 @@
       }
     ],
     "wof:id": 1377126215,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820399,
     "wof:name": "Installation view of \"At Home with Arts and Crafts\"",
     "wof:parent_id": 1159160703,
     "wof:placetype": "media",

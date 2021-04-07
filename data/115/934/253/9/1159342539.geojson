@@ -24,7 +24,7 @@
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -34,14 +34,14 @@
           "hex": "#c7a864",
           "name": "#c7a864",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -51,14 +51,14 @@
           "hex": "#943f4c",
           "name": "#943f4c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -68,14 +68,14 @@
           "hex": "#ac8e63",
           "name": "#ac8e63",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#b9bfce",
           "name": "#b9bfce",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#6e5160",
               "name": "Eggplant",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#696969",
               "name": "dimgrey",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      1159396315, 
-      1159396157, 
-      102527513, 
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      1159396321,
+      1159396315,
+      1159396157,
+      102527513,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922119,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160525
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159342539,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

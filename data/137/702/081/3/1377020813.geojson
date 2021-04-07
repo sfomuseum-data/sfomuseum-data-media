@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 299,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360516467,
       1226608683,
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1377020813,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"Ancestor Figures from New Guinea\"",
     "wof:parent_id": 1226608683,
     "wof:placetype": "media",

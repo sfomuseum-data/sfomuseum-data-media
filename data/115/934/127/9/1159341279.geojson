@@ -24,7 +24,7 @@
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b22222",
               "name": "firebrick",
@@ -34,14 +34,14 @@
           "hex": "#b40c1e",
           "name": "#b40c1e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#bc5d58",
               "name": "Chestnut",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -51,14 +51,14 @@
           "hex": "#c5595a",
           "name": "#c5595a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#2e5894",
               "name": "B'dazzled Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4682b4",
               "name": "steelblue",
@@ -68,14 +68,14 @@
           "hex": "#3869a5",
           "name": "#3869a5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -85,14 +85,14 @@
           "hex": "#a7875f",
           "name": "#a7875f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      1159396153, 
-      102527513, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      102087579, 
+      85922583,
+      1159396153,
+      102527513,
+      85688637,
+      1159396321,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919888,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160587
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159341279,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"From Print to Plate: Views of the East on Transferware\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

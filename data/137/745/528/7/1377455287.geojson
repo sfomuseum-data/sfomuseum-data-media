@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186457,
     "sfomuseum:object_id": 109315,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       772975365,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455287,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "The Great Transparents",
     "wof:parent_id": 772975365,
     "wof:placetype": "media",

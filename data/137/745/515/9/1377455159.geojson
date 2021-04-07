@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64112,
     "sfomuseum:object_id": 109343,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455159,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Flight Patterns",
     "wof:parent_id": 772975239,
     "wof:placetype": "media",

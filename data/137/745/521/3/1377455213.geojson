@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186455,
     "sfomuseum:object_id": 109341,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       1159396307,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455213,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Pohina",
     "wof:parent_id": 772974587,
     "wof:placetype": "media",

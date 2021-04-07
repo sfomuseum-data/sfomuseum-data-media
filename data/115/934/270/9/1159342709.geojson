@@ -24,7 +24,7 @@
               "hex": "#1f75fe",
               "name": "Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4169e1",
               "name": "royalblue",
@@ -34,14 +34,14 @@
           "hex": "#275aef",
           "name": "#275aef",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9aceeb",
               "name": "Cornflower",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#87cefa",
               "name": "lightskyblue",
@@ -51,14 +51,14 @@
           "hex": "#92a8f8",
           "name": "#92a8f8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -68,14 +68,14 @@
           "hex": "#a5292b",
           "name": "#a5292b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#926eae",
               "name": "Violet (Purple)",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#778899",
               "name": "lightslategrey",
@@ -85,14 +85,14 @@
           "hex": "#737e9e",
           "name": "#737e9e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396321, 
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1159157325, 
-      102191575, 
-      85633793, 
+      1159396321,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
+      1159157325,
+      102191575,
+      85633793,
       1159396193
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922448,
     "wof:depicts": [
-      1159396193, 
-      102527513, 
-      1360516255, 
-      1159396321, 
-      1159157325, 
+      1159396193,
+      102527513,
+      1360516255,
+      1159396321,
+      1159157325,
       1159160523
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159342709,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

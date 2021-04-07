@@ -24,7 +24,7 @@
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -34,14 +34,14 @@
           "hex": "#8a796f",
           "name": "#8a796f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d3d3d3",
               "name": "lightgrey",
@@ -51,14 +51,14 @@
           "hex": "#d6d0c2",
           "name": "#d6d0c2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -142,25 +142,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396321, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159396153, 
+      1159396321,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      1159396153,
       85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528921233,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160579
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -179,7 +179,7 @@
       }
     ],
     "wof:id": 1159342071,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"Mingei: Traditional Japanese Arts \"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -189,9 +189,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

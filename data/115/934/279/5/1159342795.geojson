@@ -24,7 +24,7 @@
               "hex": "#c5d0e6",
               "name": "Periwinkle",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -34,14 +34,14 @@
           "hex": "#b1ccdd",
           "name": "#b1ccdd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#6699cc",
               "name": "Blue Gray",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#5f9ea0",
               "name": "cadetblue",
@@ -51,14 +51,14 @@
           "hex": "#678bac",
           "name": "#678bac",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a2a2d0",
               "name": "Blue Bell",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a9a9a9",
               "name": "darkgrey",
@@ -68,14 +68,14 @@
           "hex": "#8fa7c0",
           "name": "#8fa7c0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1159396147, 
+      1159396337,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
+      1159396147,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922624,
     "wof:depicts": [
-      102527513, 
-      1360516195, 
-      1159396337, 
-      1159396147, 
+      102527513,
+      1360516195,
+      1159396337,
+      1159396147,
       1159160019
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159342795,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Pacific Coast League: The West Coast’s Major League 1903-1957\"",
     "wof:parent_id": 1159396147,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

@@ -30,7 +30,7 @@
     "mz:is_current": 0,
     "sfomuseum:exhibition_id": 179,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360541557,
       1159159507,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1377043599,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"The Golden Age of Airships\"",
     "wof:parent_id": 1159159507,
     "wof:placetype": "media",

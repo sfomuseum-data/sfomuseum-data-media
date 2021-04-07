@@ -24,7 +24,7 @@
               "hex": "#9aceeb",
               "name": "Cornflower",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -34,14 +34,14 @@
           "hex": "#a9c8e1",
           "name": "#a9c8e1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -51,14 +51,14 @@
           "hex": "#887e75",
           "name": "#887e75",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#d5bdab",
           "name": "#d5bdab",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1159396153, 
+      102191575,
+      85922583,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      1159396153,
       1159396321
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528921994,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160585
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159342473,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"I Love You California: A Natural History\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

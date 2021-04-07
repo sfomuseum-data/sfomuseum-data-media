@@ -24,7 +24,7 @@
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -34,14 +34,14 @@
           "hex": "#b02e3d",
           "name": "#b02e3d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cc6666",
               "name": "Fuzzy Wuzzy",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -51,14 +51,14 @@
           "hex": "#b9676d",
           "name": "#b9676d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -68,14 +68,14 @@
           "hex": "#932538",
           "name": "#932538",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -85,14 +85,14 @@
           "hex": "#5d7799",
           "name": "#5d7799",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396333, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85633793, 
-      85922583, 
-      102527513, 
+      1159396333,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      85922583,
+      102527513,
       1159396159
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528848572,
     "wof:depicts": [
-      102527513, 
-      1360516283, 
-      1159396333, 
-      1159396159, 
+      102527513,
+      1360516283,
+      1159396333,
+      1159396159,
       1159160203
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159339867,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"Automata: Mechanical Wonders of the Nineteenth Century\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

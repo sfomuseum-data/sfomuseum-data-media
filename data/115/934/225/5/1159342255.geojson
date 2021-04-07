@@ -24,7 +24,7 @@
               "hex": "#c0448f",
               "name": "Red Violet",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c71585",
               "name": "mediumvioletred",
@@ -34,14 +34,14 @@
           "hex": "#c73280",
           "name": "#c73280",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -51,14 +51,14 @@
           "hex": "#acc5db",
           "name": "#acc5db",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -68,14 +68,14 @@
           "hex": "#af8c5f",
           "name": "#af8c5f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -85,14 +85,14 @@
           "hex": "#d0b998",
           "name": "#d0b998",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1159396153, 
-      102191575, 
-      1159396321, 
-      85688637, 
-      102087579, 
+      102527513,
+      85633793,
+      1159396153,
+      102191575,
+      1159396321,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528921596,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160527
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159342255,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820392,
     "wof:name": "Installation view of \"Egyptian Revival: An Everlasting Allure\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

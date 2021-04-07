@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 64115,
     "sfomuseum:object_id": 109322,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
       102087579,
@@ -145,7 +145,7 @@
       }
     ],
     "wof:id": 1377455289,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Death Valley II",
     "wof:parent_id": 772974809,
     "wof:placetype": "media",

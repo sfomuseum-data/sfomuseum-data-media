@@ -24,7 +24,7 @@
               "hex": "#2b6cc4",
               "name": "Denim",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4682b4",
               "name": "steelblue",
@@ -34,14 +34,14 @@
           "hex": "#3e8ab1",
           "name": "#3e8ab1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a2a2d0",
               "name": "Blue Bell",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#9370db",
               "name": "mediumpurple",
@@ -51,14 +51,14 @@
           "hex": "#8799d2",
           "name": "#8799d2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -68,14 +68,14 @@
           "hex": "#a98e76",
           "name": "#a98e76",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#c2b9af",
           "name": "#c2b9af",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1159157333, 
-      102527513, 
-      1159157335, 
-      85922583, 
-      102191575, 
+      85633793,
+      102087579,
+      85688637,
+      1159157333,
+      102527513,
+      1159157335,
+      85922583,
+      102191575,
       1159157271
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528850793,
     "wof:depicts": [
-      1159157335, 
-      102527513, 
-      1159157863, 
-      1159157271, 
-      1159157333, 
+      1159157335,
+      102527513,
+      1159157863,
+      1159157271,
+      1159157333,
       1159160707
     ],
     "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159340029,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
     "wof:parent_id": 1159157335,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389412, 
-    37.615761, 
-    -122.389412, 
+    -122.389412,
+    37.615761,
+    -122.389412,
     37.615761
   ],
   "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}

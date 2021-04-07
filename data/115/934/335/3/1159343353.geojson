@@ -24,7 +24,7 @@
               "hex": "#85754e",
               "name": "Gold Fusion",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -34,14 +34,14 @@
           "hex": "#876236",
           "name": "#876236",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -51,14 +51,14 @@
           "hex": "#af915d",
           "name": "#af915d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#b9c1c6",
           "name": "#b9c1c6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1159396321, 
-      102191575, 
-      85922583, 
-      1159396153, 
-      85633793, 
+      102527513,
+      85688637,
+      1159396321,
+      102191575,
+      85922583,
+      1159396153,
+      85633793,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925668,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160509
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159343353,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"A Radiant Light: The Artistry of Louis C. Tiffany\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

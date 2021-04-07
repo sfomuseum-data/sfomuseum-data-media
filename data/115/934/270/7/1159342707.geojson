@@ -24,7 +24,7 @@
               "hex": "#fefe22",
               "name": "Laser Lemon",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#ffd700",
               "name": "gold",
@@ -34,14 +34,14 @@
           "hex": "#f8dc11",
           "name": "#f8dc11",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -51,14 +51,14 @@
           "hex": "#e0b684",
           "name": "#e0b684",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#947d6f",
           "name": "#947d6f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a9a9a9",
               "name": "darkgrey",
@@ -85,14 +85,14 @@
           "hex": "#a4b3c3",
           "name": "#a4b3c3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159396321, 
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396193, 
-      85633793, 
+      102087579,
+      85922583,
+      1159396321,
+      102527513,
+      102191575,
+      85688637,
+      1159396193,
+      85633793,
       1159157325
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922444,
     "wof:depicts": [
-      1159396193, 
-      102527513, 
-      1360516255, 
-      1159396321, 
-      1159157325, 
+      1159396193,
+      102527513,
+      1360516255,
+      1159396321,
+      1159157325,
       1159160523
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159342707,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

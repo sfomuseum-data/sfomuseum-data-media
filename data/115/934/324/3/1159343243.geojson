@@ -24,7 +24,7 @@
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -34,14 +34,14 @@
           "hex": "#c78f73",
           "name": "#c78f73",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -51,14 +51,14 @@
           "hex": "#e2aa8b",
           "name": "#e2aa8b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#95918c",
               "name": "Gray",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#778899",
               "name": "lightslategrey",
@@ -68,14 +68,14 @@
           "hex": "#7a8894",
           "name": "#7a8894",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -85,14 +85,14 @@
           "hex": "#bac8d1",
           "name": "#bac8d1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
+      1159396321,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
       1159396153
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925491,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160471
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159343243,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

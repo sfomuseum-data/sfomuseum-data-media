@@ -24,7 +24,7 @@
               "hex": "#cd4a4c",
               "name": "Mahogany",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b22222",
               "name": "firebrick",
@@ -34,14 +34,14 @@
           "hex": "#c23829",
           "name": "#c23829",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#eceabe",
               "name": "Spring Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#ffe4c4",
               "name": "bisque",
@@ -51,14 +51,14 @@
           "hex": "#f3e3bf",
           "name": "#f3e3bf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#724c31",
           "name": "#724c31",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a5694f",
               "name": "Sepia",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -85,14 +85,14 @@
           "hex": "#af7d52",
           "name": "#af7d52",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159396333, 
-      1159396159, 
-      102191575, 
-      102527513, 
-      102087579, 
+      85633793,
+      85688637,
+      1159396333,
+      1159396159,
+      102191575,
+      102527513,
+      102087579,
       85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528848616,
     "wof:depicts": [
-      102527513, 
-      1360516283, 
-      1159396333, 
-      1159396159, 
+      102527513,
+      1360516283,
+      1159396333,
+      1159396159,
       1159160203
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159339907,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"Automata: Mechanical Wonders of the Nineteenth Century\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

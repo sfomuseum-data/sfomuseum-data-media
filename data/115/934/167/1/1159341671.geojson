@@ -24,7 +24,7 @@
               "hex": "#b4674d",
               "name": "Brown",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -34,14 +34,14 @@
           "hex": "#b6714a",
           "name": "#b6714a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#efdecd",
               "name": "Almond",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#ffe4c4",
               "name": "bisque",
@@ -51,14 +51,14 @@
           "hex": "#f1e0c2",
           "name": "#f1e0c2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#724b36",
           "name": "#724b36",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -85,14 +85,14 @@
           "hex": "#637e98",
           "name": "#637e98",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      1159396153, 
-      1159396321, 
-      102087579, 
-      102527513, 
-      102191575, 
+      85688637,
+      85922583,
+      1159396153,
+      1159396321,
+      102087579,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920565,
     "wof:depicts": [
-      102527513, 
-      1360541665, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360541665,
+      1159396321,
+      1159396153,
       1159160547
     ],
     "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159341671,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389412, 
-    37.615761, 
-    -122.389412, 
+    -122.389412,
+    37.615761,
+    -122.389412,
     37.615761
   ],
   "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}

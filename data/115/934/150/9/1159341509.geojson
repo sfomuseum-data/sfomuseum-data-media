@@ -24,7 +24,7 @@
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -34,14 +34,14 @@
           "hex": "#90112b",
           "name": "#90112b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#696969",
               "name": "dimgrey",
@@ -51,14 +51,14 @@
           "hex": "#8e5b60",
           "name": "#8e5b60",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#c6bbb4",
           "name": "#c6bbb4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,27 +159,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      1159396157, 
-      102527513, 
-      85922583, 
-      1159396321, 
-      85633793, 
-      1159396315, 
-      102191575, 
+      85688637,
+      1159396157,
+      102527513,
+      85922583,
+      1159396321,
+      85633793,
+      1159396315,
+      102191575,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920290,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160681
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1159341509,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"Games of Chance: Gambling Devices of the Mechanical Age\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -209,9 +209,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

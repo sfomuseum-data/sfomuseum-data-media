@@ -24,7 +24,7 @@
               "hex": "#6699cc",
               "name": "Blue Gray",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#9370db",
               "name": "mediumpurple",
@@ -34,14 +34,14 @@
           "hex": "#8493c9",
           "name": "#8493c9",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#5d76cb",
               "name": "Indigo",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#778899",
               "name": "lightslategrey",
@@ -51,14 +51,14 @@
           "hex": "#6782ae",
           "name": "#6782ae",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a2add0",
               "name": "Wild Blue Yonder",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -68,14 +68,14 @@
           "hex": "#a5b4d0",
           "name": "#a5b4d0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,27 +159,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      1159396321, 
-      102527513, 
-      1159396315, 
-      102191575, 
-      1159396157, 
-      85633793, 
-      102087579, 
+      85922583,
+      1159396321,
+      102527513,
+      1159396315,
+      102191575,
+      1159396157,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919586,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160591
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1159341107,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -209,9 +209,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

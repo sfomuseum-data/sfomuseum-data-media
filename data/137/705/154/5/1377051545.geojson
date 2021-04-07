@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 27,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       1159554803,
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1377051545,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"The Lunar Year: Artifacts and Tradition\"",
     "wof:parent_id": 1226603913,
     "wof:placetype": "media",

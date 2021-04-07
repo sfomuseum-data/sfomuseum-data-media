@@ -115,7 +115,7 @@
     "sfomuseum:image_id": 64127,
     "sfomuseum:object_id": 109326,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1159157271,
@@ -152,7 +152,7 @@
       }
     ],
     "wof:id": 1377455267,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Stacking Stones",
     "wof:parent_id": 772975259,
     "wof:placetype": "media",

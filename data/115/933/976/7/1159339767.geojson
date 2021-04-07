@@ -24,7 +24,7 @@
               "hex": "#fddde6",
               "name": "Piggy Pink",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#faf0e6",
               "name": "linen",
@@ -34,14 +34,14 @@
           "hex": "#f3efe2",
           "name": "#f3efe2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -51,14 +51,14 @@
           "hex": "#827a74",
           "name": "#827a74",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#c6c2bb",
           "name": "#c6c2bb",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,27 +159,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      1159396159, 
-      1159396333, 
-      102087579, 
-      85922583, 
-      85633793, 
-      102527513, 
+      85688637,
+      1159396159,
+      1159396333,
+      102087579,
+      85922583,
+      85633793,
+      102527513,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528848403,
     "wof:depicts": [
-      102527513, 
-      1360516183, 
-      1159396333, 
-      1159396159, 
-      1159160215, 
-      1360516193, 
+      102527513,
+      1360516183,
+      1159396333,
+      1159396159,
+      1159160215,
+      1360516193,
       1360516201
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -198,7 +198,7 @@
       }
     ],
     "wof:id": 1159339767,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"The Enduring Designs of Josef Frank\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -208,9 +208,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

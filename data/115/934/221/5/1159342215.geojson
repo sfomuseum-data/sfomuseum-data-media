@@ -24,7 +24,7 @@
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -34,14 +34,14 @@
           "hex": "#e2bfa1",
           "name": "#e2bfa1",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -51,14 +51,14 @@
           "hex": "#674631",
           "name": "#674631",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#957b6b",
           "name": "#957b6b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#b5bcbb",
           "name": "#b5bcbb",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396153, 
-      102191575, 
-      85688637, 
-      1159396321, 
-      85633793, 
-      85922583, 
-      102087579, 
+      1159396153,
+      102191575,
+      85688637,
+      1159396321,
+      85633793,
+      85922583,
+      102087579,
       102527513
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528921470,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160579
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159342215,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820392,
     "wof:name": "Installation view of \"Mingei: Traditional Japanese Arts \"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186453,
     "sfomuseum:object_id": 164860,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85688637,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455209,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Spirogyrate",
     "wof:parent_id": 1159162799,
     "wof:placetype": "media",

@@ -113,7 +113,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 244,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360516265,
       1226607175,
@@ -153,7 +153,7 @@
       }
     ],
     "wof:id": 1377043279,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820396,
     "wof:name": "Installation view of \"Bark: Photographs by Ann Giordano\"",
     "wof:parent_id": 1226607175,
     "wof:placetype": "media",

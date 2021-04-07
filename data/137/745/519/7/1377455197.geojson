@@ -115,7 +115,7 @@
     "sfomuseum:image_id": 64209,
     "sfomuseum:object_id": 109353,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       772974737,
       1159157335,
@@ -152,7 +152,7 @@
       }
     ],
     "wof:id": 1377455197,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "On The Air",
     "wof:parent_id": 772974737,
     "wof:placetype": "media",

@@ -24,7 +24,7 @@
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -34,14 +34,14 @@
           "hex": "#beac68",
           "name": "#beac68",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#efcdb8",
               "name": "Desert Sand",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f5deb3",
               "name": "wheat",
@@ -51,14 +51,14 @@
           "hex": "#e5d9ba",
           "name": "#e5d9ba",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -68,14 +68,14 @@
           "hex": "#a99962",
           "name": "#a99962",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -85,14 +85,14 @@
           "hex": "#b7afd6",
           "name": "#b7afd6",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85633793, 
-      1159396321, 
-      1159396193, 
-      85922583, 
-      1159157325, 
-      85688637, 
+      102087579,
+      102191575,
+      85633793,
+      1159396321,
+      1159396193,
+      85922583,
+      1159157325,
+      85688637,
       102527513
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920778,
     "wof:depicts": [
-      1159396193, 
-      102527513, 
-      1360516255, 
-      1159396321, 
-      1159157325, 
+      1159396193,
+      102527513,
+      1360516255,
+      1159396321,
+      1159157325,
       1159160559
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341793,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820392,
     "wof:name": "Installation view of \"A Potter’s Life: Marguerite Wildenhain at Pond Farm\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1600,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360664647,
       1159396121,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377020621,
-    "wof:lastmodified": 1617666644,
+    "wof:lastmodified": 1617820404,
     "wof:name": "Installation view of \"Down-Home Music: The Story of Arhoolie Records\"",
     "wof:parent_id": 1360664647,
     "wof:placetype": "media",

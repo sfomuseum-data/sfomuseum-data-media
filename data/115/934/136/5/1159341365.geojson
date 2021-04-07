@@ -24,7 +24,7 @@
               "hex": "#ffcf48",
               "name": "Sunglow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#ffd700",
               "name": "gold",
@@ -34,14 +34,14 @@
           "hex": "#e4d727",
           "name": "#e4d727",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -51,14 +51,14 @@
           "hex": "#b9a36d",
           "name": "#b9a36d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#8f726a",
           "name": "#8f726a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a9a9a9",
               "name": "darkgrey",
@@ -85,14 +85,14 @@
           "hex": "#b8b6ae",
           "name": "#b8b6ae",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396315, 
-      85922583, 
-      1159396157, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1159396321, 
+      1159396315,
+      85922583,
+      1159396157,
+      102527513,
+      102087579,
+      102191575,
+      85688637,
+      1159396321,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920043,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160617
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341365,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"The Nation’s Game: A History of the National Football League\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

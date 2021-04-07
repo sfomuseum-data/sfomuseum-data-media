@@ -109,7 +109,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1346,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396321,
       1360521563,
@@ -152,7 +152,7 @@
       }
     ],
     "wof:id": 1377059315,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820400,
     "wof:name": "Installation view of \"Catch Our Style: California Regional Airlines\"",
     "wof:parent_id": 1159160543,
     "wof:placetype": "media",

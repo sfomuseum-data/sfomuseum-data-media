@@ -24,7 +24,7 @@
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -34,14 +34,14 @@
           "hex": "#daab79",
           "name": "#daab79",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#696969",
               "name": "dimgrey",
@@ -51,14 +51,14 @@
           "hex": "#926560",
           "name": "#926560",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#b9bbbe",
           "name": "#b9bbbe",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -159,27 +159,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159396315, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85922583, 
-      1159396157, 
+      85688637,
+      102527513,
+      1159396315,
+      85633793,
+      102087579,
+      102191575,
+      85922583,
+      1159396157,
       1159396321
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922078,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160525
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1159342519,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Life and Style in the Age of Art Deco\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -209,9 +209,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

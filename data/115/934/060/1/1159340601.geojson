@@ -24,7 +24,7 @@
               "hex": "#c8385a",
               "name": "Maroon",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#dc143c",
               "name": "crimson",
@@ -34,14 +34,14 @@
           "hex": "#d32a54",
           "name": "#d32a54",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -51,14 +51,14 @@
           "hex": "#bd9071",
           "name": "#bd9071",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -68,14 +68,14 @@
           "hex": "#9d4b31",
           "name": "#9d4b31",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a57164",
               "name": "Blast Off Bronze",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -85,14 +85,14 @@
           "hex": "#9b7864",
           "name": "#9b7864",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396153, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396321, 
+      102087579,
+      85688637,
+      1159396153,
+      102191575,
+      85633793,
+      85922583,
+      1159396321,
       102527513
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528918333,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160665
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340601,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"Stepping Out: Shoes in World Cultures\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

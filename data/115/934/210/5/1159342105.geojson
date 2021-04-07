@@ -24,7 +24,7 @@
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -34,14 +34,14 @@
           "hex": "#be9872",
           "name": "#be9872",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -51,14 +51,14 @@
           "hex": "#82807f",
           "name": "#82807f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#bfc0bd",
           "name": "#bfc0bd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1159396321, 
-      102527513, 
-      85922583, 
+      102191575,
+      85688637,
+      85633793,
+      102087579,
+      1159396321,
+      102527513,
+      85922583,
       1159396153
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528921289,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160549
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159342105,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617820392,
     "wof:name": "Installation view of \"Joseff of Hollywood: Jeweler to the Stars\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

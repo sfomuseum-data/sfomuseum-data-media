@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186438,
     "sfomuseum:object_id": 171354,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159162805,
       1159396267,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455131,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820406,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": 1159162805,
     "wof:placetype": "media",

@@ -24,7 +24,7 @@
               "hex": "#cd4a4c",
               "name": "Mahogany",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -34,14 +34,14 @@
           "hex": "#c34245",
           "name": "#c34245",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -51,14 +51,14 @@
           "hex": "#c4c670",
           "name": "#c4c670",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#324ab2",
               "name": "Violet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#483d8b",
               "name": "darkslateblue",
@@ -68,14 +68,14 @@
           "hex": "#2138aa",
           "name": "#2138aa",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#7851a9",
               "name": "Royal Purple",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#483d8b",
               "name": "darkslateblue",
@@ -85,14 +85,14 @@
           "hex": "#595f9b",
           "name": "#595f9b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a9a9a9",
               "name": "darkgrey",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159396157, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396321, 
-      1159396315, 
+      102527513,
+      102191575,
+      1159396157,
+      85633793,
+      85922583,
+      85688637,
+      1159396321,
+      1159396315,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920212,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160617
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341463,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"The Nation’s Game: A History of the National Football League\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

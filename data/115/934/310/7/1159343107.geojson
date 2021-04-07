@@ -24,7 +24,7 @@
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -34,14 +34,14 @@
           "hex": "#957c62",
           "name": "#957c62",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -51,14 +51,14 @@
           "hex": "#c3bcaf",
           "name": "#c3bcaf",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -142,25 +142,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396321, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1159396153, 
-      102191575, 
-      85633793, 
+      1159396321,
+      102087579,
+      85922583,
+      102527513,
+      1159396153,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925263,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160465
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -179,7 +179,7 @@
       }
     ],
     "wof:id": 1159343107,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Turn, Weave, Fire and Fold: Vessels from the Forrest L. Merrill Collection\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -189,9 +189,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

@@ -24,7 +24,7 @@
               "hex": "#9c7c38",
               "name": "Metallic Sunburst",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b8860b",
               "name": "darkgoldenrod",
@@ -34,14 +34,14 @@
           "hex": "#a58520",
           "name": "#a58520",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -51,14 +51,14 @@
           "hex": "#6b4931",
           "name": "#6b4931",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#91816e",
           "name": "#91816e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d3d3d3",
               "name": "lightgrey",
@@ -85,14 +85,14 @@
           "hex": "#cdcbc8",
           "name": "#cdcbc8",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396157, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1159396315, 
-      102087579, 
-      1159396321, 
+      1159396157,
+      85633793,
+      85688637,
+      102527513,
+      102191575,
+      1159396315,
+      102087579,
+      1159396321,
       85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919532,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160591
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341079,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

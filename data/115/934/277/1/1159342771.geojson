@@ -24,7 +24,7 @@
               "hex": "#cd4a4c",
               "name": "Mahogany",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -34,14 +34,14 @@
           "hex": "#cf6441",
           "name": "#cf6441",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#5d76cb",
               "name": "Indigo",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#7b68ee",
               "name": "mediumslateblue",
@@ -51,14 +51,14 @@
           "hex": "#8176ec",
           "name": "#8176ec",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -68,14 +68,14 @@
           "hex": "#964126",
           "name": "#964126",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -85,14 +85,14 @@
           "hex": "#b4816b",
           "name": "#b4816b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396153, 
-      1159396321, 
-      102527513, 
-      102087579, 
-      85922583, 
-      102191575, 
-      85688637, 
+      1159396153,
+      1159396321,
+      102527513,
+      102087579,
+      85922583,
+      102191575,
+      85688637,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922554,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160527
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159342771,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"Egyptian Revival: An Everlasting Allure\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

@@ -24,7 +24,7 @@
               "hex": "#a5694f",
               "name": "Sepia",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -34,14 +34,14 @@
           "hex": "#a55235",
           "name": "#a55235",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -51,14 +51,14 @@
           "hex": "#a03824",
           "name": "#a03824",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -68,14 +68,14 @@
           "hex": "#ae8a5e",
           "name": "#ae8a5e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -85,14 +85,14 @@
           "hex": "#ceb59c",
           "name": "#ceb59c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396121, 
-      102527513, 
+      85633793,
+      1159157271,
+      102191575,
+      85922583,
+      85688637,
+      1159396121,
+      102527513,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915648,
     "wof:depicts": [
-      102527513, 
-      1159157065, 
-      1159157271, 
-      1159396121, 
+      102527513,
+      1159157065,
+      1159157271,
+      1159396121,
       1159160865
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340269,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"America in Color: 1940-1943\"",
     "wof:parent_id": 1159396121,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

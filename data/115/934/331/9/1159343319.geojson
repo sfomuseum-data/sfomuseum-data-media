@@ -24,7 +24,7 @@
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -34,14 +34,14 @@
           "hex": "#d4b99d",
           "name": "#d4b99d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a57164",
               "name": "Blast Off Bronze",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -51,14 +51,14 @@
           "hex": "#a27860",
           "name": "#a27860",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -68,14 +68,14 @@
           "hex": "#cbb69b",
           "name": "#cbb69b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      1159396153, 
-      102191575, 
-      85922583, 
-      85633793, 
-      102527513, 
-      102087579, 
+      85688637,
+      1159396153,
+      102191575,
+      85922583,
+      85633793,
+      102527513,
+      102087579,
       1159396321
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925613,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160471
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159343319,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

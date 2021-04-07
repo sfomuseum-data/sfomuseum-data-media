@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 186460,
     "sfomuseum:object_id": 109324,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85688637,
@@ -147,7 +147,7 @@
       }
     ],
     "wof:id": 1377455251,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": 772975227,
     "wof:placetype": "media",

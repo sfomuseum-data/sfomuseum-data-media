@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64106,
     "sfomuseum:object_id": 109336,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1159157317,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455271,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820401,
     "wof:name": "Petanque et St Savin IV",
     "wof:parent_id": 772975331,
     "wof:placetype": "media",

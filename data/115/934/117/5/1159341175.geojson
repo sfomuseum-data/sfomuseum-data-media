@@ -24,7 +24,7 @@
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -34,14 +34,14 @@
           "hex": "#c8a36d",
           "name": "#c8a36d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -51,14 +51,14 @@
           "hex": "#d5ae78",
           "name": "#d5ae78",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#2e5894",
               "name": "B'dazzled Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#483d8b",
               "name": "darkslateblue",
@@ -68,14 +68,14 @@
           "hex": "#35578f",
           "name": "#35578f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -85,14 +85,14 @@
           "hex": "#a98e6a",
           "name": "#a98e6a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      102087579, 
-      1159396321, 
-      85633793, 
-      102527513, 
-      85688637, 
-      1159396157, 
+      85922583,
+      102191575,
+      102087579,
+      1159396321,
+      85633793,
+      102527513,
+      85688637,
+      1159396157,
       1159396315
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919705,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160681
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341175,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"Games of Chance: Gambling Devices of the Mechanical Age\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

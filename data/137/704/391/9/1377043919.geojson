@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1197,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1360516193,
@@ -179,7 +179,7 @@
       }
     ],
     "wof:id": 1377043919,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820398,
     "wof:name": "Installation view of \"From Repack to Rwanda, The Origins, Evolution and Global Reach of the Mountain Bike\"",
     "wof:parent_id": 1159160327,
     "wof:placetype": "media",

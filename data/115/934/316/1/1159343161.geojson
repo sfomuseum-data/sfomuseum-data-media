@@ -24,7 +24,7 @@
               "hex": "#9c7c38",
               "name": "Metallic Sunburst",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -34,14 +34,14 @@
           "hex": "#a58d49",
           "name": "#a58d49",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#1a4876",
               "name": "Midnight Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#191970",
               "name": "midnightblue",
@@ -51,14 +51,14 @@
           "hex": "#192369",
           "name": "#192369",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#968c68",
           "name": "#968c68",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#cfcab7",
           "name": "#cfcab7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      85633793, 
-      102191575, 
-      102087579, 
-      1159157325, 
+      85922583,
+      85688637,
+      1159396321,
+      102527513,
+      85633793,
+      102191575,
+      102087579,
+      1159157325,
       1159396193
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925354,
     "wof:depicts": [
-      1159396193, 
-      102527513, 
-      1360516255, 
-      1159396321, 
-      1159157325, 
+      1159396193,
+      102527513,
+      1360516255,
+      1159396321,
+      1159157325,
       1159160515
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159343161,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Studio Glass, The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson\"",
     "wof:parent_id": 1159396193,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

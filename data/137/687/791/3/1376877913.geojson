@@ -120,7 +120,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1602,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
       102527513,
@@ -164,7 +164,7 @@
       }
     ],
     "wof:id": 1376877913,
-    "wof:lastmodified": 1617666639,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"The Modern Consumer – 1950s Products and Styles\"",
     "wof:parent_id": 1360702457,
     "wof:placetype": "media",

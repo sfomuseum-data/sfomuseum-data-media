@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 186439,
     "sfomuseum:object_id": 109375,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157307,
       85688637,
@@ -147,7 +147,7 @@
       }
     ],
     "wof:id": 1377455297,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": 1159162811,
     "wof:placetype": "media",

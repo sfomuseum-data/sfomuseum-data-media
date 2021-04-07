@@ -24,7 +24,7 @@
               "hex": "#6699cc",
               "name": "Blue Gray",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#6495ed",
               "name": "cornflowerblue",
@@ -34,14 +34,14 @@
           "hex": "#6392e2",
           "name": "#6392e2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -51,14 +51,14 @@
           "hex": "#697f95",
           "name": "#697f95",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#b8bfc4",
           "name": "#b8bfc4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159396321, 
-      85922583, 
-      102527513, 
-      85688637, 
-      85633793, 
+      102191575,
+      102087579,
+      1159396321,
+      85922583,
+      102527513,
+      85688637,
+      85633793,
       1159396153
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919902,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160587
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159341287,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"From Print to Plate: Views of the East on Transferware\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

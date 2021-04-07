@@ -24,7 +24,7 @@
               "hex": "#cd4a4c",
               "name": "Mahogany",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -34,14 +34,14 @@
           "hex": "#bb4030",
           "name": "#bb4030",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cc6666",
               "name": "Fuzzy Wuzzy",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -51,14 +51,14 @@
           "hex": "#cb7762",
           "name": "#cb7762",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#693429",
           "name": "#693429",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -85,14 +85,14 @@
           "hex": "#5d8499",
           "name": "#5d8499",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102527513, 
-      1159157335, 
-      85633793, 
-      102191575, 
-      85922583, 
-      1159157333, 
+      85688637,
+      102087579,
+      102527513,
+      1159157335,
+      85633793,
+      102191575,
+      85922583,
+      1159157333,
       1159157271
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528918662,
     "wof:depicts": [
-      1159157335, 
-      102527513, 
-      1159157037, 
-      1159157271, 
-      1159157333, 
+      1159157335,
+      102527513,
+      1159157037,
+      1159157271,
+      1159157333,
       1159160765
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159340711,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"The Automatic Age: Coin-Operated Machines\"",
     "wof:parent_id": 1159157335,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

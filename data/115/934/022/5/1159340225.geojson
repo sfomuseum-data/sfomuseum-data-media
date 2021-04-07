@@ -24,7 +24,7 @@
               "hex": "#f8d568",
               "name": "Orange Yellow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f4a460",
               "name": "sandybrown",
@@ -34,14 +34,14 @@
           "hex": "#e5c25e",
           "name": "#e5c25e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -51,14 +51,14 @@
           "hex": "#c1a76c",
           "name": "#c1a76c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#1a4876",
               "name": "Midnight Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#191970",
               "name": "midnightblue",
@@ -68,14 +68,14 @@
           "hex": "#0f3f6e",
           "name": "#0f3f6e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -85,14 +85,14 @@
           "hex": "#b5926e",
           "name": "#b5926e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85922583, 
+      1159157271,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
       1159157307
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915280,
     "wof:depicts": [
-      102527513, 
-      1159157063, 
-      1159157271, 
-      1159157307, 
+      102527513,
+      1159157063,
+      1159157271,
+      1159157307,
       1159160863
     ],
     "wof:geomhash": "edf274c9ca4831cccb19a109af2ffdf2",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340225,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"Caleb Charland: Back to Light\"",
     "wof:parent_id": 1159157307,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384864, 
-    37.617997, 
-    -122.384864, 
+    -122.384864,
+    37.617997,
+    -122.384864,
     37.617997
   ],
   "geometry": {"coordinates":[-122.384864,37.617997],"type":"Point"}

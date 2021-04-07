@@ -24,7 +24,7 @@
               "hex": "#d68a59",
               "name": "Raw Sienna",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -34,14 +34,14 @@
           "hex": "#c68759",
           "name": "#c68759",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -51,14 +51,14 @@
           "hex": "#8f322a",
           "name": "#8f322a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#9f8261",
           "name": "#9f8261",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#c5d0e6",
               "name": "Periwinkle",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -85,14 +85,14 @@
           "hex": "#b8c7db",
           "name": "#b8c7db",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      1159396321, 
-      102191575, 
-      85688637, 
-      1159396153, 
-      102087579, 
-      85633793, 
+      102527513,
+      1159396321,
+      102191575,
+      85688637,
+      1159396153,
+      102087579,
+      85633793,
       85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920573,
     "wof:depicts": [
-      102527513, 
-      1360541665, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360541665,
+      1159396321,
+      1159396153,
       1159160547
     ],
     "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159341675,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820392,
     "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389412, 
-    37.615761, 
-    -122.389412, 
+    -122.389412,
+    37.615761,
+    -122.389412,
     37.615761
   ],
   "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}

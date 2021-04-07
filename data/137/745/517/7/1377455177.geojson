@@ -122,7 +122,7 @@
     "sfomuseum:image_id": 151852,
     "sfomuseum:object_id": 109358,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159160869,
       1360702201,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455177,
-    "wof:lastmodified": 1617744616,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1360702203,
     "wof:placetype": "media",

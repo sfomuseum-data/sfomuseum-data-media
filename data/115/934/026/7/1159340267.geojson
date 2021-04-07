@@ -24,7 +24,7 @@
               "hex": "#9c7c38",
               "name": "Metallic Sunburst",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -34,14 +34,14 @@
           "hex": "#a6722b",
           "name": "#a6722b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -51,14 +51,14 @@
           "hex": "#c5a480",
           "name": "#c5a480",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -68,14 +68,14 @@
           "hex": "#624e2b",
           "name": "#624e2b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a57164",
               "name": "Blast Off Bronze",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -85,14 +85,14 @@
           "hex": "#a57d56",
           "name": "#a57d56",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85688637, 
+      85633793,
+      102087579,
+      1159157271,
+      85922583,
+      102527513,
+      102191575,
+      85688637,
       1159396121
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915645,
     "wof:depicts": [
-      102527513, 
-      1159157065, 
-      1159157271, 
-      1159396121, 
+      102527513,
+      1159157065,
+      1159157271,
+      1159396121,
       1159160865
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340267,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"America in Color: 1940-1943\"",
     "wof:parent_id": 1159396121,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

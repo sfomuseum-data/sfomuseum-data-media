@@ -24,7 +24,7 @@
               "hex": "#fefe22",
               "name": "Laser Lemon",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#ffff00",
               "name": "yellow",
@@ -34,14 +34,14 @@
           "hex": "#efec15",
           "name": "#efec15",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#fff44f",
               "name": "Lemon Yellow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f0e68c",
               "name": "khaki",
@@ -51,14 +51,14 @@
           "hex": "#ebe854",
           "name": "#ebe854",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#2e5894",
               "name": "B'dazzled Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#483d8b",
               "name": "darkslateblue",
@@ -68,14 +68,14 @@
           "hex": "#41518e",
           "name": "#41518e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#5d76cb",
               "name": "Indigo",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4682b4",
               "name": "steelblue",
@@ -85,14 +85,14 @@
           "hex": "#5065b0",
           "name": "#5065b0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a2add0",
               "name": "Wild Blue Yonder",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      1159396157, 
-      102527513, 
-      1159396315, 
-      1159396321, 
-      85633793, 
-      85922583, 
-      102191575, 
+      102087579,
+      1159396157,
+      102527513,
+      1159396315,
+      1159396321,
+      85633793,
+      85922583,
+      102191575,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920147,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160617
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341425,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"The Nation’s Game: A History of the National Football League\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

@@ -24,7 +24,7 @@
               "hex": "#bc5d58",
               "name": "Chestnut",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -34,14 +34,14 @@
           "hex": "#ba615e",
           "name": "#ba615e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#7366bd",
               "name": "Blue Violet",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -51,14 +51,14 @@
           "hex": "#5a6ca0",
           "name": "#5a6ca0",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#c4c4c5",
           "name": "#c4c4c5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -159,25 +159,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396121, 
-      102087579, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
-      85922583, 
+      1159396121,
+      102087579,
+      85688637,
+      102191575,
+      85633793,
+      102527513,
+      85922583,
       1159157271
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915496,
     "wof:depicts": [
-      102527513, 
-      1159157065, 
-      1159157271, 
-      1159396121, 
+      102527513,
+      1159157065,
+      1159157271,
+      1159396121,
       1159160865
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -196,7 +196,7 @@
       }
     ],
     "wof:id": 1159340243,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"America in Color: 1940-1943\"",
     "wof:parent_id": 1159396121,
     "wof:placetype": "media",
@@ -206,9 +206,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

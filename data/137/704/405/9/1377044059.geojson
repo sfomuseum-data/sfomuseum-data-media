@@ -113,7 +113,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1193,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       1159396295,
@@ -156,7 +156,7 @@
       }
     ],
     "wof:id": 1377044059,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820398,
     "wof:name": "Installation view of \"Threading the Needle: Sewing in the Machine Age\"",
     "wof:parent_id": 1159160321,
     "wof:placetype": "media",

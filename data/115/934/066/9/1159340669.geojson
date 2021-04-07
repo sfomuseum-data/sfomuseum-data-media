@@ -24,7 +24,7 @@
               "hex": "#a5694f",
               "name": "Sepia",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -34,14 +34,14 @@
           "hex": "#965c3f",
           "name": "#965c3f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -51,14 +51,14 @@
           "hex": "#9a7d65",
           "name": "#9a7d65",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -68,14 +68,14 @@
           "hex": "#c0b9b3",
           "name": "#c0b9b3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -159,27 +159,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159396121, 
-      1159396181, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      102087579, 
+      85922583,
+      85633793,
+      1159396121,
+      1159396181,
+      102191575,
+      1159157271,
+      102527513,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528918466,
     "wof:depicts": [
-      1159396181, 
-      102527513, 
-      1159157067, 
-      1159157271, 
-      1159396121, 
+      1159396181,
+      102527513,
+      1159157067,
+      1159157271,
+      1159396121,
       1159160605
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
@@ -199,7 +199,7 @@
       }
     ],
     "wof:id": 1159340669,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"The Typewriter: An Innovation in Writing\"",
     "wof:parent_id": 1159396181,
     "wof:placetype": "media",
@@ -209,9 +209,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.382712, 
-    37.617422, 
-    -122.382712, 
+    -122.382712,
+    37.617422,
+    -122.382712,
     37.617422
   ],
   "geometry": {"coordinates":[-122.382712,37.617422],"type":"Point"}

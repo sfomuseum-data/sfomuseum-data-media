@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1591,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1159157053,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1377126133,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820398,
     "wof:name": "Installation view of \"On the Radio\"",
     "wof:parent_id": 1159160853,
     "wof:placetype": "media",

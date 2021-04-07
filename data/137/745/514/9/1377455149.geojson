@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186440,
     "sfomuseum:object_id": 109345,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       102527513,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455149,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820406,
     "wof:name": "Letter's Missing",
     "wof:parent_id": 772975641,
     "wof:placetype": "media",

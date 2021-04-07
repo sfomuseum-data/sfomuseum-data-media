@@ -24,7 +24,7 @@
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#e9967a",
               "name": "darksalmon",
@@ -34,14 +34,14 @@
           "hex": "#d39a65",
           "name": "#d39a65",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -51,14 +51,14 @@
           "hex": "#d7bb9e",
           "name": "#d7bb9e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#8e7d6d",
           "name": "#8e7d6d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#d8c7b4",
           "name": "#d8c7b4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      85688637, 
-      1159396321, 
-      102527513, 
-      85922583, 
-      102191575, 
+      102087579,
+      85633793,
+      85688637,
+      1159396321,
+      102527513,
+      85922583,
+      102191575,
       1159396153
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919224,
     "wof:depicts": [
-      102527513, 
-      1360516191, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516191,
+      1159396321,
+      1159396153,
       1159160593
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340909,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"All Roads Lead to Rome: 17th - 19th Century Architectural Models from the Collection of Piraneseum\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

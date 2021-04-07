@@ -24,7 +24,7 @@
               "hex": "#c46210",
               "name": "Alloy Orange",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2691e",
               "name": "chocolate",
@@ -34,14 +34,14 @@
           "hex": "#bc5b19",
           "name": "#bc5b19",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -51,14 +51,14 @@
           "hex": "#6e221d",
           "name": "#6e221d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -68,14 +68,14 @@
           "hex": "#64789a",
           "name": "#64789a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#cbc4b7",
           "name": "#cbc4b7",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,26 +176,26 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      1159396321, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
+      102191575,
+      1159396321,
+      102527513,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
       1159396153
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528923073,
     "wof:depicts": [
-      102527513, 
-      1360516181, 
-      1159396321, 
-      1159396153, 
-      1159160519, 
+      102527513,
+      1360516181,
+      1159396321,
+      1159396153,
+      1159160519,
       1360516191
     ],
     "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
@@ -214,7 +214,7 @@
       }
     ],
     "wof:id": 1159342995,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"When Art Rocked: San Francisco Music Posters\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -224,9 +224,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.388942, 
-    37.615424, 
-    -122.388942, 
+    -122.388942,
+    37.615424,
+    -122.388942,
     37.615424
   ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}

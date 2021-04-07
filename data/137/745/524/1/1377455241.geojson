@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 186483,
     "sfomuseum:object_id": 109355,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       102087579,
@@ -143,7 +143,7 @@
       }
     ],
     "wof:id": 1377455241,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Wind Portal",
     "wof:parent_id": 772975221,
     "wof:placetype": "media",

@@ -24,7 +24,7 @@
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -34,14 +34,14 @@
           "hex": "#917566",
           "name": "#917566",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b0c4de",
               "name": "lightsteelblue",
@@ -51,14 +51,14 @@
           "hex": "#b4c5cd",
           "name": "#b4c5cd",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -142,25 +142,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159396321, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159396153, 
+      102191575,
+      85922583,
+      1159396321,
+      85688637,
+      102527513,
+      85633793,
+      1159396153,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925504,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160471
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -179,7 +179,7 @@
       }
     ],
     "wof:id": 1159343251,
-    "wof:lastmodified": 1617666018,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -189,9 +189,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

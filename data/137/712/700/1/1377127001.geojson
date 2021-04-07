@@ -113,7 +113,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1218,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       1159396333,
@@ -156,7 +156,7 @@
       }
     ],
     "wof:id": 1377127001,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1617820406,
     "wof:name": "Installation view of \"From Ship to Shore: Nautical Arts from the San Francisco Maritime National Historic Park\"",
     "wof:parent_id": 1159160361,
     "wof:placetype": "media",

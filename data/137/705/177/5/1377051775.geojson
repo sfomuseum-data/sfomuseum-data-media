@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1222,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       85633793,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377051775,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820398,
     "wof:name": "Installation view of \"Japanese Toys! From Kokeshi to Kaiju\"",
     "wof:parent_id": 1159160369,
     "wof:placetype": "media",

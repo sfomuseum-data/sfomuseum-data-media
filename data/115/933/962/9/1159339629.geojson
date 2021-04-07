@@ -24,7 +24,7 @@
               "hex": "#1cd3a2",
               "name": "Caribbean Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#00fa9a",
               "name": "mediumspringgreen",
@@ -34,14 +34,14 @@
           "hex": "#02e492",
           "name": "#02e492",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -51,14 +51,14 @@
           "hex": "#c3a980",
           "name": "#c3a980",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#1cac78",
               "name": "Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#3cb371",
               "name": "mediumseagreen",
@@ -68,14 +68,14 @@
           "hex": "#1fbc67",
           "name": "#1fbc67",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#87a96b",
               "name": "Asparagus",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -85,14 +85,14 @@
           "hex": "#80a566",
           "name": "#80a566",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#dbd7d2",
               "name": "Timberwolf",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#dcdcdc",
               "name": "gainsboro",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396321, 
-      1159396153, 
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
+      1159396321,
+      1159396153,
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      102087579,
       102527513
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528742958,
     "wof:depicts": [
-      102527513, 
-      1360541639, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360541639,
+      1159396321,
+      1159396153,
       1159160723
     ],
     "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159339629,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"When You Got It - Flaunt It: Advertising Braniff Airlines\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389412, 
-    37.615761, 
-    -122.389412, 
+    -122.389412,
+    37.615761,
+    -122.389412,
     37.615761
   ],
   "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}

@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186473,
     "sfomuseum:object_id": 109291,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       85633793,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455223,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Baile!",
     "wof:parent_id": 772974943,
     "wof:placetype": "media",

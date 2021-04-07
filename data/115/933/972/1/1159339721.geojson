@@ -24,7 +24,7 @@
               "hex": "#324ab2",
               "name": "Violet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4169e1",
               "name": "royalblue",
@@ -34,14 +34,14 @@
           "hex": "#2a3dcb",
           "name": "#2a3dcb",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -51,14 +51,14 @@
           "hex": "#d3bda3",
           "name": "#d3bda3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -68,14 +68,14 @@
           "hex": "#2b4b5e",
           "name": "#2b4b5e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a57164",
               "name": "Blast Off Bronze",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -85,14 +85,14 @@
           "hex": "#ab825b",
           "name": "#ab825b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396333, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
+      1159396333,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
       1159396159
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528848336,
     "wof:depicts": [
-      102527513, 
-      1360516183, 
-      1159396333, 
-      1159396159, 
-      1159160215, 
-      1360516193, 
+      102527513,
+      1360516183,
+      1159396333,
+      1159396159,
+      1159160215,
+      1360516193,
       1360516201
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -215,7 +215,7 @@
       }
     ],
     "wof:id": 1159339721,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820401,
     "wof:name": "Installation view of \"The Enduring Designs of Josef Frank\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -225,9 +225,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1216,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360516283,
       1159396333,
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1377126777,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1617820400,
     "wof:name": "Installation view of \"Souvenirs: Tokens of Travel\"",
     "wof:parent_id": 1159160359,
     "wof:placetype": "media",

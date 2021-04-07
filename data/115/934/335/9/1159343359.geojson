@@ -24,7 +24,7 @@
               "hex": "#c46210",
               "name": "Alloy Orange",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#b8860b",
               "name": "darkgoldenrod",
@@ -34,14 +34,14 @@
           "hex": "#cb8019",
           "name": "#cb8019",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#ffae42",
               "name": "Yellow Orange",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f4a460",
               "name": "sandybrown",
@@ -51,14 +51,14 @@
           "hex": "#f4bc51",
           "name": "#f4bc51",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#784b2e",
           "name": "#784b2e",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -85,14 +85,14 @@
           "hex": "#817f7a",
           "name": "#817f7a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396321, 
-      102191575, 
-      85688637, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1159396153, 
+      1159396321,
+      102191575,
+      85688637,
+      102087579,
+      85633793,
+      85922583,
+      1159396153,
       102527513
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925678,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160509
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159343359,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"A Radiant Light: The Artistry of Louis C. Tiffany\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

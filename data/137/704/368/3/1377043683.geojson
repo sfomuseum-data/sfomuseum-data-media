@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1294,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360521563,
       1360541657,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1377043683,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"Airline Identity: Marks, Brands and Logos\"",
     "wof:parent_id": 1159160467,
     "wof:placetype": "media",

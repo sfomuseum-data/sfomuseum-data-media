@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 646,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159159593,
       85688637,
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1376960581,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"",
     "wof:parent_id": 1159159593,
     "wof:placetype": "media",

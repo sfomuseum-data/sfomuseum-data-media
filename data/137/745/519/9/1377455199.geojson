@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64191,
     "sfomuseum:object_id": 109305,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157307,
       1159157271,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455199,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": 772974445,
     "wof:placetype": "media",

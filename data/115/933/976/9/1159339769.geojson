@@ -24,7 +24,7 @@
               "hex": "#cd4a4c",
               "name": "Mahogany",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2691e",
               "name": "chocolate",
@@ -34,14 +34,14 @@
           "hex": "#c65132",
           "name": "#c65132",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a2add0",
               "name": "Wild Blue Yonder",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#87ceeb",
               "name": "skyblue",
@@ -51,14 +51,14 @@
           "hex": "#83b3d5",
           "name": "#83b3d5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -68,14 +68,14 @@
           "hex": "#243f52",
           "name": "#243f52",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#6699cc",
               "name": "Blue Gray",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#5f9ea0",
               "name": "cadetblue",
@@ -85,14 +85,14 @@
           "hex": "#6896ab",
           "name": "#6896ab",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85633793, 
-      1159396159, 
-      102527513, 
-      1159396333, 
-      102087579, 
-      85922583, 
-      85688637, 
+      85633793,
+      1159396159,
+      102527513,
+      1159396333,
+      102087579,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528848406,
     "wof:depicts": [
-      102527513, 
-      1360516183, 
-      1159396333, 
-      1159396159, 
-      1159160215, 
-      1360516193, 
+      102527513,
+      1360516183,
+      1159396333,
+      1159396159,
+      1159160215,
+      1360516193,
       1360516201
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -215,7 +215,7 @@
       }
     ],
     "wof:id": 1159339769,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"The Enduring Designs of Josef Frank\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -225,9 +225,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

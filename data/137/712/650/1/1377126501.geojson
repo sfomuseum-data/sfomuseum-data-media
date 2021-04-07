@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1388,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159160583,
       102087579,
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1377126501,
-    "wof:lastmodified": 1617666644,
+    "wof:lastmodified": 1617820406,
     "wof:name": "Installation view of \"Essential Style: Antique and Vintage Handbags\"",
     "wof:parent_id": 1159160583,
     "wof:placetype": "media",

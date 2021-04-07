@@ -24,7 +24,7 @@
               "hex": "#a5694f",
               "name": "Sepia",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -34,14 +34,14 @@
           "hex": "#ad7e52",
           "name": "#ad7e52",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#efcdb8",
               "name": "Desert Sand",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f5deb3",
               "name": "wheat",
@@ -51,14 +51,14 @@
           "hex": "#dec6b2",
           "name": "#dec6b2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#85754e",
               "name": "Gold Fusion",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -68,14 +68,14 @@
           "hex": "#815e3b",
           "name": "#815e3b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a5694f",
               "name": "Sepia",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -85,14 +85,14 @@
           "hex": "#997350",
           "name": "#997350",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      1159396321, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159396153, 
-      102527513, 
+      85688637,
+      1159396321,
+      85633793,
+      85922583,
+      102087579,
+      1159396153,
+      102527513,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919285,
     "wof:depicts": [
-      102527513, 
-      1360516191, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516191,
+      1159396321,
+      1159396153,
       1159160593
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340943,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"All Roads Lead to Rome: 17th - 19th Century Architectural Models from the Collection of Piraneseum\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 20,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       1159157883,
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1377020139,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820395,
     "wof:name": "Installation view of \"Barbie® Takes A Vacation to Exotic Places\"",
     "wof:parent_id": 1226603769,
     "wof:placetype": "media",

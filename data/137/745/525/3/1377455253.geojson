@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186447,
     "sfomuseum:object_id": 164874,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85922583,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455253,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Riven/River",
     "wof:parent_id": 1159162779,
     "wof:placetype": "media",

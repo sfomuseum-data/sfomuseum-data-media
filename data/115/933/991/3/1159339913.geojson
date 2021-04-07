@@ -24,7 +24,7 @@
               "hex": "#95918c",
               "name": "Gray",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -34,14 +34,14 @@
           "hex": "#908a85",
           "name": "#908a85",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -51,14 +51,14 @@
           "hex": "#bfc1c4",
           "name": "#bfc1c4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -142,25 +142,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396159, 
-      102087579, 
-      1159396333, 
-      85633793, 
-      102191575, 
-      85922583, 
-      85688637, 
+      1159396159,
+      102087579,
+      1159396333,
+      85633793,
+      102191575,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528848624,
     "wof:depicts": [
-      102527513, 
-      1360516283, 
-      1159396333, 
-      1159396159, 
+      102527513,
+      1360516283,
+      1159396333,
+      1159396159,
       1159160203
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -179,7 +179,7 @@
       }
     ],
     "wof:id": 1159339913,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"Automata: Mechanical Wonders of the Nineteenth Century\"",
     "wof:parent_id": 1159396159,
     "wof:placetype": "media",
@@ -189,9 +189,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

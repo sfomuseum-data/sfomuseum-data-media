@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64114,
     "sfomuseum:object_id": 109321,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       772975731,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455257,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Welcome North, Welcome South, Welcome East, Welcome West",
     "wof:parent_id": 772975731,
     "wof:placetype": "media",

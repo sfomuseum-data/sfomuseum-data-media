@@ -24,7 +24,7 @@
               "hex": "#ffcf48",
               "name": "Sunglow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#daa520",
               "name": "goldenrod",
@@ -34,14 +34,14 @@
           "hex": "#ddd12a",
           "name": "#ddd12a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#fff44f",
               "name": "Lemon Yellow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f0e68c",
               "name": "khaki",
@@ -51,14 +51,14 @@
           "hex": "#f7f14c",
           "name": "#f7f14c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#69401c",
           "name": "#69401c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -85,14 +85,14 @@
           "hex": "#988859",
           "name": "#988859",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      1159396315, 
-      85633793, 
-      85922583, 
-      1159396321, 
-      1159396157, 
-      102087579, 
-      102191575, 
+      102527513,
+      1159396315,
+      85633793,
+      85922583,
+      1159396321,
+      1159396157,
+      102087579,
+      102191575,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920422,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160591
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159341587,
-    "wof:lastmodified": 1617666015,
+    "wof:lastmodified": 1617820392,
     "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

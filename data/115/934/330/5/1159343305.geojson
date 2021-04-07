@@ -24,7 +24,7 @@
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -34,14 +34,14 @@
           "hex": "#855b34",
           "name": "#855b34",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#efcdb8",
               "name": "Desert Sand",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f5deb3",
               "name": "wheat",
@@ -51,14 +51,14 @@
           "hex": "#e1cfbc",
           "name": "#e1cfbc",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#6e4f29",
           "name": "#6e4f29",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -85,14 +85,14 @@
           "hex": "#a17f69",
           "name": "#a17f69",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,26 +176,26 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159396153, 
-      1159396321, 
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      1159396153,
+      1159396321,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925592,
     "wof:depicts": [
-      102527513, 
-      1360516181, 
-      1159396321, 
-      1159396153, 
-      1159160377, 
+      102527513,
+      1360516181,
+      1159396321,
+      1159396153,
+      1159160377,
       1360516191
     ],
     "wof:geomhash": "02da6b5dec20c7e97a2493c7e34f9a62",
@@ -214,7 +214,7 @@
       }
     ],
     "wof:id": 1159343305,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"Doors: Entryways to World Culture\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -224,9 +224,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.388942, 
-    37.615424, 
-    -122.388942, 
+    -122.388942,
+    37.615424,
+    -122.388942,
     37.615424
   ],
   "geometry": {"coordinates":[-122.388942,37.615424],"type":"Point"}

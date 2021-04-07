@@ -30,7 +30,7 @@
     "mz:is_current": 0,
     "sfomuseum:exhibition_id": 158,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       1226611157,
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 1377043589,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"Boomerang\"",
     "wof:parent_id": 1226611157,
     "wof:placetype": "media",

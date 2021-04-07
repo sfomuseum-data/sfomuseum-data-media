@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64193,
     "sfomuseum:object_id": 109346,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       772975385,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455201,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Billboard Series",
     "wof:parent_id": 772975385,
     "wof:placetype": "media",

@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1207,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1159396261,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1377127187,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820401,
     "wof:name": "Installation view of \"Let’s Play! 100 Years of Board Games\"",
     "wof:parent_id": 1159160347,
     "wof:placetype": "media",

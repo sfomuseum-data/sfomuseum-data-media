@@ -24,7 +24,7 @@
               "hex": "#9c7c38",
               "name": "Metallic Sunburst",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd853f",
               "name": "peru",
@@ -34,14 +34,14 @@
           "hex": "#b07635",
           "name": "#b07635",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -51,14 +51,14 @@
           "hex": "#dfc096",
           "name": "#dfc096",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8b4513",
               "name": "saddlebrown",
@@ -68,14 +68,14 @@
           "hex": "#894919",
           "name": "#894919",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a57164",
               "name": "Blast Off Bronze",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -85,14 +85,14 @@
           "hex": "#9b7757",
           "name": "#9b7757",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1159396121, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
+      85922583,
+      85688637,
+      1159396121,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915642,
     "wof:depicts": [
-      102527513, 
-      1159157065, 
-      1159157271, 
-      1159396121, 
+      102527513,
+      1159157065,
+      1159157271,
+      1159396121,
       1159160865
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340263,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"America in Color: 1940-1943\"",
     "wof:parent_id": 1159396121,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384814, 
-    37.617787, 
-    -122.384814, 
+    -122.384814,
+    37.617787,
+    -122.384814,
     37.617787
   ],
   "geometry": {"coordinates":[-122.384814,37.617787],"type":"Point"}

@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186476,
     "sfomuseum:object_id": 109392,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       1159157333,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455133,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820401,
     "wof:name": "Seneca",
     "wof:parent_id": 1159162815,
     "wof:placetype": "media",

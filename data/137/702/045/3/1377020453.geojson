@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1394,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       102087579,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377020453,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820396,
     "wof:name": "Installation view of \"The Mysterious Talking Board: Ouija and Beyond\"",
     "wof:parent_id": 1226619799,
     "wof:placetype": "media",

@@ -24,7 +24,7 @@
               "hex": "#bf4f51",
               "name": "Bittersweet Shimmer",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#cd5c5c",
               "name": "indianred",
@@ -34,14 +34,14 @@
           "hex": "#af4155",
           "name": "#af4155",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#de5d83",
               "name": "Blush",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#db7093",
               "name": "palevioletred",
@@ -51,14 +51,14 @@
           "hex": "#d86594",
           "name": "#d86594",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a57164",
               "name": "Blast Off Bronze",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#996863",
           "name": "#996863",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#c9b8aa",
           "name": "#c9b8aa",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159396153, 
-      1159396321, 
-      85922583, 
-      85633793, 
-      102527513, 
+      102191575,
+      102087579,
+      1159396153,
+      1159396321,
+      85922583,
+      85633793,
+      102527513,
       85688637
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528920278,
     "wof:depicts": [
-      102527513, 
-      1360516271, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516271,
+      1159396321,
+      1159396153,
       1159160587
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159341501,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"From Print to Plate: Views of the East on Transferware\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38902, 
-    37.614533, 
-    -122.38902, 
+    -122.38902,
+    37.614533,
+    -122.38902,
     37.614533
   ],
   "geometry": {"coordinates":[-122.38902,37.614533],"type":"Point"}

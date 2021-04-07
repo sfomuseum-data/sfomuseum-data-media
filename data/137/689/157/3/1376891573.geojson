@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1589,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       102087579,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1376891573,
-    "wof:lastmodified": 1617666639,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"A Sterling Renaissance, British Silver Design 1957-2018\"",
     "wof:parent_id": 1360667837,
     "wof:placetype": "media",

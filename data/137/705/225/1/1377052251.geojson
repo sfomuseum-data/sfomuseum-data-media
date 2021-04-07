@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1064,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       1360521569,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377052251,
-    "wof:lastmodified": 1617666644,
+    "wof:lastmodified": 1617820406,
     "wof:name": "Installation view of \"Japan Airlines: Over Fifty-Five Years of Service\"",
     "wof:parent_id": 1159160109,
     "wof:placetype": "media",

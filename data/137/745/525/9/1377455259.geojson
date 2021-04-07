@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186465,
     "sfomuseum:object_id": 109293,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157337,
       102191575,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455259,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": 772974373,
     "wof:placetype": "media",

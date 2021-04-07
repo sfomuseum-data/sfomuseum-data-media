@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 913,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       1159396337,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1377051757,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820398,
     "wof:name": "Installation view of \"Mills Field Memories: SFO at 80\"",
     "wof:parent_id": 1159159885,
     "wof:placetype": "media",

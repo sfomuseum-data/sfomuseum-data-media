@@ -24,7 +24,7 @@
               "hex": "#ffae42",
               "name": "Yellow Orange",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#daa520",
               "name": "goldenrod",
@@ -34,14 +34,14 @@
           "hex": "#c9ad1f",
           "name": "#c9ad1f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#bab86c",
               "name": "Olive Green",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bdb76b",
               "name": "darkkhaki",
@@ -51,14 +51,14 @@
           "hex": "#cac15c",
           "name": "#cac15c",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#228b22",
               "name": "forestgreen",
@@ -68,14 +68,14 @@
           "hex": "#2e7634",
           "name": "#2e7634",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#87a96b",
               "name": "Asparagus",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8fbc8f",
               "name": "darkseagreen",
@@ -85,14 +85,14 @@
           "hex": "#83b262",
           "name": "#83b262",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a9a9a9",
               "name": "darkgrey",
@@ -176,27 +176,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      1159157333, 
-      1159157335, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
+      102087579,
+      1159157333,
+      1159157335,
+      102191575,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528850737,
     "wof:depicts": [
-      1159157335, 
-      102527513, 
-      1159157863, 
-      1159157271, 
-      1159157333, 
+      1159157335,
+      102527513,
+      1159157863,
+      1159157271,
+      1159157333,
       1159160707
     ],
     "wof:geomhash": "f1b927081dc10bf57e0dae974cfd758f",
@@ -216,7 +216,7 @@
       }
     ],
     "wof:id": 1159339997,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"Aviation Evolutions: The Jim Lund 1:72 Scale Model Airplane Collection\"",
     "wof:parent_id": 1159157335,
     "wof:placetype": "media",
@@ -226,9 +226,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389412, 
-    37.615761, 
-    -122.389412, 
+    -122.389412,
+    37.615761,
+    -122.389412,
     37.615761
   ],
   "geometry": {"coordinates":[-122.389412,37.615761],"type":"Point"}

@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1728,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       102191575,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1377021071,
-    "wof:lastmodified": 1617666644,
+    "wof:lastmodified": 1617820405,
     "wof:name": "Installation view of \"Before the 21st Century: An Ode to Boats, Cars, Motorcycles, Planes, and Trains\"",
     "wof:parent_id": 1376812951,
     "wof:placetype": "media",

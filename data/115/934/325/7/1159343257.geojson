@@ -24,7 +24,7 @@
               "hex": "#1974d2",
               "name": "Navy Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#4169e1",
               "name": "royalblue",
@@ -34,14 +34,14 @@
           "hex": "#2d88d5",
           "name": "#2d88d5",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#deb887",
               "name": "burlywood",
@@ -51,14 +51,14 @@
           "hex": "#e1b99b",
           "name": "#e1b99b",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#1164b4",
               "name": "Green Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#008080",
               "name": "teal",
@@ -68,14 +68,14 @@
           "hex": "#09549d",
           "name": "#09549d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#708090",
               "name": "slategrey",
@@ -85,14 +85,14 @@
           "hex": "#757c8a",
           "name": "#757c8a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d3d3d3",
               "name": "lightgrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159396153, 
-      1159396321, 
-      102527513, 
-      85922583, 
-      102191575, 
+      102087579,
+      85688637,
+      1159396153,
+      1159396321,
+      102527513,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528925511,
     "wof:depicts": [
-      102527513, 
-      1360516281, 
-      1159396321, 
-      1159396153, 
+      102527513,
+      1360516281,
+      1159396321,
+      1159396153,
       1159160471
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159343257,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Lace: A Sumptuous History (1600s-1900s)\"",
     "wof:parent_id": 1159396153,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389725, 
-    37.616594, 
-    -122.389725, 
+    -122.389725,
+    37.616594,
+    -122.389725,
     37.616594
   ],
   "geometry": {"coordinates":[-122.389725,37.616594],"type":"Point"}

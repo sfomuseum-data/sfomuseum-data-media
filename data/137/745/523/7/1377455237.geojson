@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64283,
     "sfomuseum:object_id": 113729,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       85922583,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455237,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Butterfly Wall",
     "wof:parent_id": 772975735,
     "wof:placetype": "media",

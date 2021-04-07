@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186459,
     "sfomuseum:object_id": 109318,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1159157271,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455189,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Homage to Zane Grey",
     "wof:parent_id": 772974725,
     "wof:placetype": "media",

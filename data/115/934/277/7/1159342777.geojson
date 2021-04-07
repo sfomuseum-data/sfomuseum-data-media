@@ -24,7 +24,7 @@
               "hex": "#1a4876",
               "name": "Midnight Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#483d8b",
               "name": "darkslateblue",
@@ -34,14 +34,14 @@
           "hex": "#264579",
           "name": "#264579",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#191970",
               "name": "midnightblue",
@@ -51,14 +51,14 @@
           "hex": "#13253d",
           "name": "#13253d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9f8170",
               "name": "Beaver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#908579",
           "name": "#908579",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cdc5c2",
               "name": "Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -85,14 +85,14 @@
           "hex": "#cac3b4",
           "name": "#cac3b4",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      85688637, 
-      1159396147, 
-      102087579, 
-      85922583, 
-      85633793, 
+      1159396337,
+      102527513,
+      85688637,
+      1159396147,
+      102087579,
+      85922583,
+      85633793,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922593,
     "wof:depicts": [
-      102527513, 
-      1360516195, 
-      1159396337, 
-      1159396147, 
+      102527513,
+      1360516195,
+      1159396337,
+      1159396147,
       1159160019
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159342777,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Pacific Coast League: The West Coast’s Major League 1903-1957\"",
     "wof:parent_id": 1159396147,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

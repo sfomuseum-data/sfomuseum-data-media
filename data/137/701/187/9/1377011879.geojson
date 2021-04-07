@@ -31,7 +31,7 @@
     "mz:is_current": 0,
     "sfomuseum:exhibition_id": 431,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159554841,
       102527513,
@@ -75,7 +75,7 @@
       }
     ],
     "wof:id": 1377011879,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"Airport Cafe\"",
     "wof:parent_id": 1226612107,
     "wof:placetype": "media",

@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186474,
     "sfomuseum:object_id": 109397,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       85633793,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455153,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Blue Deer",
     "wof:parent_id": 772975617,
     "wof:placetype": "media",

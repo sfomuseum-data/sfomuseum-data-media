@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1601,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       102527513,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1376996397,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"Caticons\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",

@@ -121,7 +121,7 @@
     "mz:is_current": 0,
     "sfomuseum:exhibition_id": 1619,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1159157271,
@@ -165,7 +165,7 @@
       }
     ],
     "wof:id": 1376877837,
-    "wof:lastmodified": 1617666639,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Installation view of \"A Legacy of Pride: Gilbert Baker and the 40th Anniversary of the Rainbow Flag\"",
     "wof:parent_id": 1226620561,
     "wof:placetype": "media",

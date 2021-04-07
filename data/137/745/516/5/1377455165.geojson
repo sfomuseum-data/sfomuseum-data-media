@@ -117,7 +117,7 @@
     "sfomuseum:image_id": 64150,
     "sfomuseum:object_id": 109362,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1360702201,
@@ -150,7 +150,7 @@
       }
     ],
     "wof:id": 1377455165,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Cilindro Costruito",
     "wof:parent_id": 1360702205,
     "wof:placetype": "media",

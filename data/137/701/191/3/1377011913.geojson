@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 112,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1226605375,
       1360516477,
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1377011913,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"Origami: The Art of Paper Folding\"",
     "wof:parent_id": 1226605375,
     "wof:placetype": "media",

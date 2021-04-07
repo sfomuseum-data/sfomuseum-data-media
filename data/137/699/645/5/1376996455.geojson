@@ -124,7 +124,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1601,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157333,
       102191575,
@@ -168,7 +168,7 @@
       }
     ],
     "wof:id": 1376996455,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"Caticons: The Cat in Art\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",

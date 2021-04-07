@@ -24,7 +24,7 @@
               "hex": "#ffae42",
               "name": "Yellow Orange",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#daa520",
               "name": "goldenrod",
@@ -34,14 +34,14 @@
           "hex": "#d7af38",
           "name": "#d7af38",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#cd9575",
               "name": "Antique Brass",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#bc8f8f",
               "name": "rosybrown",
@@ -51,14 +51,14 @@
           "hex": "#c08079",
           "name": "#c08079",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#9c2542",
               "name": "Big Dip O' Ruby",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a52a2a",
               "name": "brown",
@@ -68,14 +68,14 @@
           "hex": "#913025",
           "name": "#913025",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#85754e",
               "name": "Gold Fusion",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#6b8e23",
               "name": "olivedrab",
@@ -85,14 +85,14 @@
           "hex": "#8d844a",
           "name": "#8d844a",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#deaa88",
               "name": "Tumbleweed",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -176,26 +176,26 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396147, 
-      102527513, 
-      102087579, 
-      1159396337, 
+      85922583,
+      85688637,
+      85633793,
+      1159396147,
+      102527513,
+      102087579,
+      1159396337,
       102191575
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528922510,
     "wof:depicts": [
-      102527513, 
-      1360516187, 
-      1159396337, 
-      1159396147, 
-      1159160081, 
+      102527513,
+      1360516187,
+      1159396337,
+      1159396147,
+      1159160081,
       1360516195
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
@@ -214,7 +214,7 @@
       }
     ],
     "wof:id": 1159342743,
-    "wof:lastmodified": 1617666016,
+    "wof:lastmodified": 1617820393,
     "wof:name": "Installation view of \"Pinball! From Bagatelle to Rainbow and Flipper to Twilight Zone\"",
     "wof:parent_id": 1159396147,
     "wof:placetype": "media",
@@ -224,9 +224,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389131, 
-    37.616029, 
-    -122.389131, 
+    -122.389131,
+    37.616029,
+    -122.389131,
     37.616029
   ],
   "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}

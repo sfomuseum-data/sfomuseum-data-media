@@ -24,7 +24,7 @@
               "hex": "#87a96b",
               "name": "Asparagus",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#8fbc8f",
               "name": "darkseagreen",
@@ -34,14 +34,14 @@
           "hex": "#86a961",
           "name": "#86a961",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#a2a2d0",
               "name": "Blue Bell",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a9a9a9",
               "name": "darkgrey",
@@ -51,14 +51,14 @@
           "hex": "#979dc3",
           "name": "#979dc3",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -142,27 +142,27 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102191575, 
-      1159396157, 
-      102527513, 
-      1159396315, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159396321, 
+      102191575,
+      1159396157,
+      102527513,
+      1159396315,
+      102087579,
+      85688637,
+      85922583,
+      1159396321,
       85633793
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919634,
     "wof:depicts": [
-      1159396315, 
-      102527513, 
-      1360516119, 
-      1159396321, 
-      1159396157, 
+      1159396315,
+      102527513,
+      1360516119,
+      1159396321,
+      1159396157,
       1159160591
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
@@ -182,7 +182,7 @@
       }
     ],
     "wof:id": 1159341135,
-    "wof:lastmodified": 1617666014,
+    "wof:lastmodified": 1617820391,
     "wof:name": "Installation view of \"Celebrating a Vision: Art \u0026 Disability\"",
     "wof:parent_id": 1159396315,
     "wof:placetype": "media",
@@ -192,9 +192,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.387197, 
-    37.619087, 
-    -122.387197, 
+    -122.387197,
+    37.619087,
+    -122.387197,
     37.619087
   ],
   "geometry": {"coordinates":[-122.387197,37.619087],"type":"Point"}

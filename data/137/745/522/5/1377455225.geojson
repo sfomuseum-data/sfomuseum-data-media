@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186493,
     "sfomuseum:object_id": 109331,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       102087579,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455225,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Untitled",
     "wof:parent_id": 772974839,
     "wof:placetype": "media",

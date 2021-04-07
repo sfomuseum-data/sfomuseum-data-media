@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1116,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       85633793,
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1377052179,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820399,
     "wof:name": "Installation view of \"How Freight Flies: A Legacy of Air Cargo Carriers\"",
     "wof:parent_id": 1159160195,
     "wof:placetype": "media",

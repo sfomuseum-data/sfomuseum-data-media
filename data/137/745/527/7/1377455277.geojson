@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186481,
     "sfomuseum:object_id": 109299,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       772975117,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455277,
-    "wof:lastmodified": 1617666160,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": 772975117,
     "wof:placetype": "media",

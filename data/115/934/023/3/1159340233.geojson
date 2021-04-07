@@ -24,7 +24,7 @@
               "hex": "#757575",
               "name": "Sonic Silver",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -34,14 +34,14 @@
           "hex": "#858082",
           "name": "#858082",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#b0b7c6",
               "name": "Cadet Blue",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#c0c0c0",
               "name": "silver",
@@ -51,14 +51,14 @@
           "hex": "#bcbcc2",
           "name": "#bcbcc2",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#414a4c",
               "name": "Outer Space",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#2f4f4f",
               "name": "darkslategrey",
@@ -142,25 +142,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
+      85688637,
+      1159157271,
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
       1159157307
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915290,
     "wof:depicts": [
-      102527513, 
-      1159157063, 
-      1159157271, 
-      1159157307, 
+      102527513,
+      1159157063,
+      1159157271,
+      1159157307,
       1159160863
     ],
     "wof:geomhash": "edf274c9ca4831cccb19a109af2ffdf2",
@@ -179,7 +179,7 @@
       }
     ],
     "wof:id": 1159340233,
-    "wof:lastmodified": 1617666013,
+    "wof:lastmodified": 1617820390,
     "wof:name": "Installation view of \"Caleb Charland: Back to Light\"",
     "wof:parent_id": 1159157307,
     "wof:placetype": "media",
@@ -189,9 +189,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384864, 
-    37.617997, 
-    -122.384864, 
+    -122.384864,
+    37.617997,
+    -122.384864,
     37.617997
   ],
   "geometry": {"coordinates":[-122.384864,37.617997],"type":"Point"}

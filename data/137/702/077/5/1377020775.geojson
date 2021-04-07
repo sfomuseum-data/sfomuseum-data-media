@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 193,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1226606173,
       1159554803,
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1377020775,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"B is for Bears\"",
     "wof:parent_id": 1226606173,
     "wof:placetype": "media",

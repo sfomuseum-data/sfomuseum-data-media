@@ -124,7 +124,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1397,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157047,
       102527513,
@@ -185,7 +185,7 @@
       }
     ],
     "wof:id": 1376912541,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"Reflections in Wood – Surfboards \u0026 Shapers\"",
     "wof:parent_id": 1376812931,
     "wof:placetype": "media",

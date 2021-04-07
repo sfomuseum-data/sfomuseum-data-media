@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186456,
     "sfomuseum:object_id": 109314,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455243,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Metamorphosis",
     "wof:parent_id": 772975691,
     "wof:placetype": "media",

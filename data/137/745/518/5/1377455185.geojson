@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186458,
     "sfomuseum:object_id": 109316,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       1159396121,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455185,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "The Journey #2",
     "wof:parent_id": 772974541,
     "wof:placetype": "media",

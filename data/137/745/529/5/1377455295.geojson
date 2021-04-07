@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64104,
     "sfomuseum:object_id": 109334,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       772975671,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455295,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Martha H",
     "wof:parent_id": 772975671,
     "wof:placetype": "media",

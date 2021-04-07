@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 186462,
     "sfomuseum:object_id": 113728,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -145,7 +145,7 @@
       }
     ],
     "wof:id": 1377455293,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Topograph I and II",
     "wof:parent_id": 772974583,
     "wof:placetype": "media",

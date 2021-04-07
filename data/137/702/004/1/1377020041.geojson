@@ -113,7 +113,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 270,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       1159554829,
@@ -153,7 +153,7 @@
       }
     ],
     "wof:id": 1377020041,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820404,
     "wof:name": "Installation view of \"Bowling: A Unique American Art Form\"",
     "wof:parent_id": 1226607773,
     "wof:placetype": "media",

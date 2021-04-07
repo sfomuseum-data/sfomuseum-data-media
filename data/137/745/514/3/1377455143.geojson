@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 151853,
     "sfomuseum:object_id": 109323,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85922583,
       102087579,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455143,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820401,
     "wof:name": "Above Bolinas",
     "wof:parent_id": 772974807,
     "wof:placetype": "media",

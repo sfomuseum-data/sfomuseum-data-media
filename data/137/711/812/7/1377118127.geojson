@@ -113,7 +113,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1396,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
       102087579,
@@ -173,7 +173,7 @@
       }
     ],
     "wof:id": 1377118127,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820395,
     "wof:name": "Installation view of \"Isamu Noguchi: Inside and Out\"",
     "wof:parent_id": 1226619815,
     "wof:placetype": "media",

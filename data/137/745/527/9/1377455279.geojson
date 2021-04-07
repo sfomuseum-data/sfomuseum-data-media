@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64192,
     "sfomuseum:object_id": 109306,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       772975769,
       102191575,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455279,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": 772975769,
     "wof:placetype": "media",

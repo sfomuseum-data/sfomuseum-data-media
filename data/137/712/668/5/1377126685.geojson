@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1355,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       102087579,
@@ -178,7 +178,7 @@
       }
     ],
     "wof:id": 1377126685,
-    "wof:lastmodified": 1617666639,
+    "wof:lastmodified": 1617820400,
     "wof:name": "Installation view of \"Pixar’s Toy Story\"",
     "wof:parent_id": 1159160551,
     "wof:placetype": "media",

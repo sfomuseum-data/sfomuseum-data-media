@@ -30,7 +30,7 @@
     "mz:is_current": 0,
     "sfomuseum:exhibition_id": 5,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       1159554829,
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 1377019859,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820395,
     "wof:name": "Installation view of \"Building for Air Travel\"",
     "wof:parent_id": 1226603375,
     "wof:placetype": "media",

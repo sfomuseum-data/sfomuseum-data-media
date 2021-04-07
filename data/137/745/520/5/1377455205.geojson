@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 186443,
     "sfomuseum:object_id": 173500,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85688637,
       1159157307,
@@ -147,7 +147,7 @@
       }
     ],
     "wof:id": 1377455205,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": 1159162791,
     "wof:placetype": "media",

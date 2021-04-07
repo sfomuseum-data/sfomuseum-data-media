@@ -122,7 +122,7 @@
     "sfomuseum:image_id": 64148,
     "sfomuseum:object_id": 109357,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       85633793,
       85922583,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455163,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Garden in San Andreas Valley",
     "wof:parent_id": 1360702201,
     "wof:placetype": "media",

@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1075,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       1159160129,
@@ -163,7 +163,7 @@
       }
     ],
     "wof:id": 1377012097,
-    "wof:lastmodified": 1617666641,
+    "wof:lastmodified": 1617820394,
     "wof:name": "Installation view of \"Fashion in Flight: A History of Airline Uniform Design\"",
     "wof:parent_id": 1159160129,
     "wof:placetype": "media",

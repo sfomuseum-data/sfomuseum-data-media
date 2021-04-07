@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1201,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396333,
       85633793,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377020261,
-    "wof:lastmodified": 1617666644,
+    "wof:lastmodified": 1617820404,
     "wof:name": "Installation view of \"The Art of Recology: The Artist in Residence Program 1990-2013\"",
     "wof:parent_id": 1159160335,
     "wof:placetype": "media",

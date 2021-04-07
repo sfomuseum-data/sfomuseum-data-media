@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 958,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360521569,
       1159396337,
@@ -160,7 +160,7 @@
       }
     ],
     "wof:id": 1377470815,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Installation view of \"Airports on Paper:  Design  Documents and Informational Publications, 1927-2005\"",
     "wof:parent_id": 1159159965,
     "wof:placetype": "media",

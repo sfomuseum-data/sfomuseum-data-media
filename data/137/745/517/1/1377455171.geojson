@@ -110,7 +110,7 @@
     "sfomuseum:image_id": 64223,
     "sfomuseum:object_id": 109399,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157335,
       85688637,
@@ -147,7 +147,7 @@
       }
     ],
     "wof:id": 1377455171,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Anemone",
     "wof:parent_id": 772975243,
     "wof:placetype": "media",

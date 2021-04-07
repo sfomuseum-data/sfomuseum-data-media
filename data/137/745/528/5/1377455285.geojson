@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186479,
     "sfomuseum:object_id": 109300,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157333,
       102527513,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455285,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820389,
     "wof:name": "World Civilization",
     "wof:parent_id": 772974889,
     "wof:placetype": "media",

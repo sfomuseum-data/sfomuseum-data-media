@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 14,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
       1159157875,
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1377011901,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820403,
     "wof:name": "Installation view of \"A Medley of Skates and Memorabilia\"",
     "wof:parent_id": 1226603591,
     "wof:placetype": "media",

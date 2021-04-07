@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1508,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
       85633793,
@@ -164,7 +164,7 @@
       }
     ],
     "wof:id": 1377043717,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"Flying the Main Line: A History of United Airlines\"",
     "wof:parent_id": 1159160725,
     "wof:placetype": "media",

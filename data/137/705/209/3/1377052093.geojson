@@ -123,7 +123,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 939,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159396337,
       102191575,
@@ -166,7 +166,7 @@
       }
     ],
     "wof:id": 1377052093,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820399,
     "wof:name": "Installation view of \"Young Eyes on the Skies: The Golden Age of Aviation Toys\"",
     "wof:parent_id": 1159159931,
     "wof:placetype": "media",

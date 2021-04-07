@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186501,
     "sfomuseum:object_id": 109313,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
       102191575,
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377455169,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Hitwood",
     "wof:parent_id": 772975761,
     "wof:placetype": "media",

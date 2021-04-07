@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 1073,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1360541661,
       102191575,
@@ -161,7 +161,7 @@
       }
     ],
     "wof:id": 1377059369,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1617820400,
     "wof:name": "Installation view of \"Postwar Propliners in Miniature: Models from the Collection of Anthony J. Lawler\"",
     "wof:parent_id": 1159160125,
     "wof:placetype": "media",

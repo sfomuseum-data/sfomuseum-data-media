@@ -24,7 +24,7 @@
               "hex": "#85754e",
               "name": "Gold Fusion",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#a0522d",
               "name": "sienna",
@@ -34,14 +34,14 @@
           "hex": "#8c6740",
           "name": "#8c6740",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#edd19c",
               "name": "Maize",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#f0e68c",
               "name": "khaki",
@@ -51,14 +51,14 @@
           "hex": "#e8d588",
           "name": "#e8d588",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#8a795d",
               "name": "Shadow",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#808080",
               "name": "grey",
@@ -68,14 +68,14 @@
           "hex": "#95775f",
           "name": "#95775f",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#e7c697",
               "name": "Gold",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#d2b48c",
               "name": "tan",
@@ -85,14 +85,14 @@
           "hex": "#d4ba9d",
           "name": "#d4ba9d",
           "reference": "vibrant"
-        }, 
+        },
         {
           "closest": [
             {
               "hex": "#714b23",
               "name": "Raw Umber",
               "reference": "crayola"
-            }, 
+            },
             {
               "hex": "#556b2f",
               "name": "darkolivegreen",
@@ -176,25 +176,25 @@
     "mz:is_approximate": 1,
     "mz:is_current": -1,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1159157307, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1159157307,
       1159157271
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915287,
     "wof:depicts": [
-      102527513, 
-      1159157063, 
-      1159157271, 
-      1159157307, 
+      102527513,
+      1159157063,
+      1159157271,
+      1159157307,
       1159160863
     ],
     "wof:geomhash": "edf274c9ca4831cccb19a109af2ffdf2",
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1159340231,
-    "wof:lastmodified": 1617666017,
+    "wof:lastmodified": 1617820402,
     "wof:name": "Installation view of \"Caleb Charland: Back to Light\"",
     "wof:parent_id": 1159157307,
     "wof:placetype": "media",
@@ -223,9 +223,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384864, 
-    37.617997, 
-    -122.384864, 
+    -122.384864,
+    37.617997,
+    -122.384864,
     37.617997
   ],
   "geometry": {"coordinates":[-122.384864,37.617997],"type":"Point"}

@@ -118,7 +118,7 @@
     "mz:is_current": -1,
     "sfomuseum:exhibition_id": 304,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159554803,
       85633793,
@@ -158,7 +158,7 @@
       }
     ],
     "wof:id": 1377051637,
-    "wof:lastmodified": 1617666642,
+    "wof:lastmodified": 1617820397,
     "wof:name": "Installation view of \"Architectural Building Blocks\"",
     "wof:parent_id": 1226608827,
     "wof:placetype": "media",

@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 186445,
     "sfomuseum:object_id": 169882,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102087579,
       85922583,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455151,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1159162777,
     "wof:placetype": "media",

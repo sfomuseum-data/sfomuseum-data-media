@@ -120,7 +120,7 @@
     "sfomuseum:image_id": 64238,
     "sfomuseum:object_id": 109308,
     "sfomuseum:placetype": "image",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157271,
       85922583,
@@ -157,7 +157,7 @@
       }
     ],
     "wof:id": 1377455183,
-    "wof:lastmodified": 1617666159,
+    "wof:lastmodified": 1617820388,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": 772975299,
     "wof:placetype": "media",
