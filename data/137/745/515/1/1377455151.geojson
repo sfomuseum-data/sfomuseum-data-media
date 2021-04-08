@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:e3e3fb737a97171c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455151,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": -4,
     "wof:placetype": "media",

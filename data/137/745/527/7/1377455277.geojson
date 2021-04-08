@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:0c00414333e34100",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455277,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843597,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": -4,
     "wof:placetype": "media",

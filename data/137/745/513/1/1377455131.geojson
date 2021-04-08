@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:868e4e0e25650402",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455131,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": -4,
     "wof:placetype": "media",

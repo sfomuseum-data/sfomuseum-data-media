@@ -8,6 +8,7 @@
     "geom:bbox": "-122.389112,37.615489,-122.389112,37.615489",
     "geom:latitude": 37.615489,
     "geom:longitude": -122.389112,
+    "media:placetype": "publicart",
     "sfomuseum:filename": "64221.jpg",
     "sfomuseum:image_id": 64221,
     "sfomuseum:object_id": 109317,
@@ -110,7 +111,7 @@
       }
     ],
     "wof:id": 1729966467,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Gateway",
     "wof:parent_id": -4,
     "wof:placetype": "media",

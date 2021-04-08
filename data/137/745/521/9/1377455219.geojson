@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:3b9296b0fac9c0c6",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455219,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843597,
     "wof:name": "Horse of Another Color",
     "wof:parent_id": -4,
     "wof:placetype": "media",

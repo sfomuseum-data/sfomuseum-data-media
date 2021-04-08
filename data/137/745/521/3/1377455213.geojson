@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:4664b8d2b0311d07",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455213,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Pohina",
     "wof:parent_id": -4,
     "wof:placetype": "media",

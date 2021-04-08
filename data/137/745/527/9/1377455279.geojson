@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:70101c1c8cdec2f3",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455279,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": -4,
     "wof:placetype": "media",

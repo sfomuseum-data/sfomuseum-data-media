@@ -17,6 +17,7 @@
     "media:imagehash_diff": "d:8282820242424292",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -198,7 +199,7 @@
       }
     ],
     "wof:id": 1377455165,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Cilindro Costruito",
     "wof:parent_id": -4,
     "wof:placetype": "media",

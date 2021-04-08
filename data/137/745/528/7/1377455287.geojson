@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:9eccf6e6d6f6ee8e",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -215,7 +216,7 @@
       }
     ],
     "wof:id": 1377455287,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843596,
     "wof:name": "The Great Transparents",
     "wof:parent_id": -4,
     "wof:placetype": "media",

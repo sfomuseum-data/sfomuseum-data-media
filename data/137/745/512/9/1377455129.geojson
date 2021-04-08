@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:b332727372737161",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -193,7 +194,7 @@
       }
     ],
     "wof:id": 1377455129,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Mujer Pegada, No. 4",
     "wof:parent_id": -4,
     "wof:placetype": "media",

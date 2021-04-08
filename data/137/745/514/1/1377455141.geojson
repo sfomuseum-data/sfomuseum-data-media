@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:7d69614c7cfaf69c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455141,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Void",
     "wof:parent_id": -4,
     "wof:placetype": "media",

@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:5e9e9a71b8b4e4c6",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455209,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Spirogyrate",
     "wof:parent_id": -4,
     "wof:placetype": "media",

@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:61636323233b3b33",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455181,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": -4,
     "wof:placetype": "media",

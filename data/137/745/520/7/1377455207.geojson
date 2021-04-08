@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:fc9e7fcec440031f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455207,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Untitled (Large Variation)",
     "wof:parent_id": -4,
     "wof:placetype": "media",

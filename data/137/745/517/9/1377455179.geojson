@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:40711111791b1303",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -213,7 +214,7 @@
       }
     ],
     "wof:id": 1377455179,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843597,
     "wof:name": "Namoo House",
     "wof:parent_id": -4,
     "wof:placetype": "media",

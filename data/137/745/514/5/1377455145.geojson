@@ -15,6 +15,7 @@
     "media:imagehash_diff": "d:a7373f3b6562761c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
     "media:properties": {
       "colours": [
         {
@@ -223,7 +224,7 @@
       }
     ],
     "wof:id": 1377455145,
-    "wof:lastmodified": 1617843481,
+    "wof:lastmodified": 1617843597,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": -4,
     "wof:placetype": "media",

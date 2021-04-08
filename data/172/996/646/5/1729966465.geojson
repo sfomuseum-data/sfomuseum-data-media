@@ -8,6 +8,7 @@
     "geom:bbox": "-122.382765,37.617185,-122.382765,37.617185",
     "geom:latitude": 37.617185,
     "geom:longitude": -122.382765,
+    "media:placetype": "publicart",
     "sfomuseum:filename": "22463.tif",
     "sfomuseum:image_id": 22463,
     "sfomuseum:object_id": 113727,
@@ -107,7 +108,7 @@
       }
     ],
     "wof:id": 1729966465,
-    "wof:lastmodified": 1617843480,
+    "wof:lastmodified": 1617843596,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": -4,
     "wof:placetype": "media",
