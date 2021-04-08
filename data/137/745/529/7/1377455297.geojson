@@ -107,6 +107,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "Simpson.jpg",
     "sfomuseum:image_id": 186439,
     "sfomuseum:object_id": 109375,
     "sfomuseum:placetype": "image",
@@ -212,7 +213,7 @@
       }
     ],
     "wof:id": 1377455297,
-    "wof:lastmodified": 1617828087,
+    "wof:lastmodified": 1617843480,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": -4,
     "wof:placetype": "media",

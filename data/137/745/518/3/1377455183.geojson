@@ -117,6 +117,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "64238.jpg",
     "sfomuseum:image_id": 64238,
     "sfomuseum:object_id": 109308,
     "sfomuseum:placetype": "image",
@@ -222,7 +223,7 @@
       }
     ],
     "wof:id": 1377455183,
-    "wof:lastmodified": 1617828087,
+    "wof:lastmodified": 1617843480,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": -4,
     "wof:placetype": "media",

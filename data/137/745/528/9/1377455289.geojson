@@ -107,6 +107,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "64115.jpg",
     "sfomuseum:image_id": 64115,
     "sfomuseum:object_id": 109322,
     "sfomuseum:placetype": "image",
@@ -204,7 +205,7 @@
       }
     ],
     "wof:id": 1377455289,
-    "wof:lastmodified": 1617828086,
+    "wof:lastmodified": 1617843480,
     "wof:name": "Death Valley II",
     "wof:parent_id": -4,
     "wof:placetype": "media",

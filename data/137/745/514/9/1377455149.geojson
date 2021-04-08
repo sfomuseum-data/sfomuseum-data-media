@@ -117,6 +117,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "Saunders.jpg",
     "sfomuseum:image_id": 186440,
     "sfomuseum:object_id": 109345,
     "sfomuseum:placetype": "image",
@@ -222,7 +223,7 @@
       }
     ],
     "wof:id": 1377455149,
-    "wof:lastmodified": 1617828087,
+    "wof:lastmodified": 1617843480,
     "wof:name": "Letter's Missing",
     "wof:parent_id": -4,
     "wof:placetype": "media",

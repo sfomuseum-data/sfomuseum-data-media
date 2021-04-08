@@ -117,6 +117,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "64104.jpg",
     "sfomuseum:image_id": 64104,
     "sfomuseum:object_id": 109334,
     "sfomuseum:placetype": "image",
@@ -190,7 +191,7 @@
       }
     ],
     "wof:id": 1377455295,
-    "wof:lastmodified": 1617828086,
+    "wof:lastmodified": 1617843480,
     "wof:name": "Martha H",
     "wof:parent_id": -4,
     "wof:placetype": "media",

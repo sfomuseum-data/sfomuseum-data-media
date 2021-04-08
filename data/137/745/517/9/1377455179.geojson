@@ -107,6 +107,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "Untitled.jpg",
     "sfomuseum:image_id": 186480,
     "sfomuseum:object_id": 109298,
     "sfomuseum:placetype": "image",
@@ -212,7 +213,7 @@
       }
     ],
     "wof:id": 1377455179,
-    "wof:lastmodified": 1617828087,
+    "wof:lastmodified": 1617843481,
     "wof:name": "Namoo House",
     "wof:parent_id": -4,
     "wof:placetype": "media",

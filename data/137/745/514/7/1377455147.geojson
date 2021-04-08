@@ -103,6 +103,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfomuseum:filename": "22480.jpg",
     "sfomuseum:image_id": 22480,
     "sfomuseum:object_id": 109363,
     "sfomuseum:placetype": "image",
@@ -205,7 +206,7 @@
       }
     ],
     "wof:id": 1377455147,
-    "wof:lastmodified": 1617828086,
+    "wof:lastmodified": 1617843480,
     "wof:name": "Urns",
     "wof:parent_id": -4,
     "wof:placetype": "media",
