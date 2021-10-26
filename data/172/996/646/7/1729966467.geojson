@@ -111,10 +111,11 @@
       }
     ],
     "wof:id": 1729966467,
-    "wof:lastmodified": 1617843596,
+    "wof:lastmodified": 1635284368,
     "wof:name": "Gateway",
     "wof:parent_id": -4,
     "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
