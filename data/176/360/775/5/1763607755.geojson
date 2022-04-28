@@ -1,0 +1,184 @@
+{
+  "id": 1763607755,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-11-13",
+    "date:cessation_upper": "2022-11-13",
+    "date:inception_lower": "2022-04-16",
+    "date:inception_upper": "2022-04-16",
+    "edtf:cessation": "2022-11-13",
+    "edtf:inception": "2022-04-16",
+    "geom:area": 0,
+    "geom:bbox": "-122.385208,37.612686,-122.385208,37.612686",
+    "geom:latitude": 37.61268608757595,
+    "geom:longitude": -122.38520847545882,
+    "iso:country": "US",
+    "media:created": 1650480113,
+    "media:fingerprint": "0db42214f2ff67e4f01a09028ff2d9e5469ae262",
+    "media:imagehash_avg": "a:0030787c3c3c7c60",
+    "media:imagehash_diff": "d:03e1e0f0f0d0c0c7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#8c7e71",
+          "name": "#8c7e71",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#c8bbac",
+          "name": "#c8bbac",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#594e3c",
+          "name": "#594e3c",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "5rm7c6PjoaT4jRAPUPswlik2Ouz13v2r",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "a9G5LnTLPOSD2Ng6BM8lvmXLiTXgCSFa",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/176/360/775/5/1763607755_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1763594995,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588177,
+      102191575,
+      85633793,
+      102087579,
+      1763588501,
+      1763594995,
+      85922583,
+      554784711,
+      85688637,
+      1763588175,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1651183063,
+    "wof:depicts": [
+      1763588121,
+      1763588175,
+      1763588177,
+      1763588501,
+      1763594995
+    ],
+    "wof:geomhash": "7f4eb4ac03fda2ca747d67c574d65586",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588501,
+        "installation_id": 1763594995,
+        "locality_id": 85922583,
+        "media_id": 1763607755,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588175
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588501,
+        "installation_id": 1763594995,
+        "media_id": 1763607755,
+        "region_id": 85688637,
+        "wing_id": 1763588175
+      }
+    ],
+    "wof:id": 1763607755,
+    "wof:lastmodified": 1651183095,
+    "wof:name": "Installation view of \"From Pineapple to Piña: A Philippine Textile Treasure\"",
+    "wof:parent_id": 1763594995,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38520847545882,
+    37.61268608757595,
+    -122.38520847545882,
+    37.61268608757595
+  ],
+  "geometry": {"coordinates":[-122.38520847545882,37.61268608757595],"type":"Point"}
+}
