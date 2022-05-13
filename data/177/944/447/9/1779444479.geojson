@@ -1,0 +1,224 @@
+{
+  "id": 1779444479,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-09-25",
+    "date:cessation_upper": "2022-09-25",
+    "date:inception_lower": "2021-10-09",
+    "date:inception_upper": "2021-10-09",
+    "edtf:cessation": "2022-09-25",
+    "edtf:inception": "2021-10-09",
+    "geom:area": 0,
+    "geom:bbox": "-122.388974,37.615663,-122.388974,37.615663",
+    "geom:latitude": 37.61566316540981,
+    "geom:longitude": -122.38897382834584,
+    "iso:country": "US",
+    "media:created": 1633628300,
+    "media:fingerprint": "009abd07ab06e211800e8108291eea5667fab529",
+    "media:imagehash_avg": "a:00fdfce4e400c0c3",
+    "media:imagehash_diff": "d:f1f1c98d8dc10602",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b58f54",
+          "name": "#b58f54",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#f6e6cc",
+          "name": "#f6e6cc",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#8e1d31",
+          "name": "#8e1d31",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#97825e",
+          "name": "#97825e",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#cebc9a",
+          "name": "#cebc9a",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 512
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 400
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 400
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 1024
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 160
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "2ENhPvkiMUXrWDQ3JgIAe9uIfNpGnpKR",
+          "width": 2400
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "ScdRI8Lx3rQGAq5MD9pdBRGqTFEyYzE2",
+          "width": 320
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/177/944/447/9/1779444479_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1746480487,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1745882083,
+      102527513,
+      1745882437,
+      102191575,
+      85633793,
+      102087579,
+      1745882501,
+      1746480487,
+      85922583,
+      554784711,
+      85688637,
+      1745882335,
+      102085387,
+      1745882503
+    ],
+    "wof:country": "US",
+    "wof:created": 1652402179,
+    "wof:depicts": [
+      1745882335,
+      1745882437,
+      1745882501,
+      1745882503,
+      1746480487,
+      1745882083
+    ],
+    "wof:geomhash": "58d9f89df21bc707c46bd60915d635b3",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1745882501,
+        "installation_id": 1746480487,
+        "locality_id": 85922583,
+        "media_id": 1779444479,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1745882501,
+        "installation_id": 1746480487,
+        "media_id": 1779444479,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1745882503,
+        "installation_id": 1746480487,
+        "locality_id": 85922583,
+        "media_id": 1779444479,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882437,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1745882503,
+        "installation_id": 1746480487,
+        "media_id": 1779444479,
+        "region_id": 85688637,
+        "wing_id": 1745882335
+      }
+    ],
+    "wof:id": 1779444479,
+    "wof:lastmodified": 1652402233,
+    "wof:name": "Installation view of \"The Victorian Papered Wall\"",
+    "wof:parent_id": 1746480487,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38897382834584,
+    37.61566316540981,
+    -122.38897382834584,
+    37.61566316540981
+  ],
+  "geometry": {"coordinates":[-122.38897382834584,37.61566316540981],"type":"Point"}
+}
