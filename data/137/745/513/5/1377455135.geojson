@@ -134,19 +134,16 @@
       1159157271,
       1159157317,
       1159157323,
-      1477855605,
-      1477855669,
-      1477855613,
       554784711,
       1477874027,
-      1477855657,
-      102085387
+      102085387,
+      1729828959
     ],
     "wof:country": "US",
     "wof:created": 1555457509,
     "wof:depicts": [
-      772975851,
-      102527513
+      102527513,
+      772975851
     ],
     "wof:geomhash": "21ebac399e834a1d8c1d865948661e86",
     "wof:hierarchy": [
@@ -165,36 +162,30 @@
         "wing_id": 1159157317
       },
       {
-        "building_id": 1477855605,
         "campus_id": 102527513,
-        "concourse_id": 1477855669,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
-        "enclosure_id": 1477855613,
+        "liminal_id": 1729828959,
         "locality_id": 85922583,
         "media_id": 1377455135,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1477874027,
-        "wing_id": 1477855657
+        "venue_id": 1477874027
       },
       {
-        "building_id": 1477855605,
         "campus_id": 102527513,
-        "concourse_id": 1477855669,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
-        "enclosure_id": 1477855613,
+        "liminal_id": 1729828959,
         "media_id": 1377455135,
         "region_id": 85688637,
-        "venue_id": 1477874027,
-        "wing_id": 1477855657
+        "venue_id": 1477874027
       }
     ],
     "wof:id": 1377455135,
-    "wof:lastmodified": 1617843596,
+    "wof:lastmodified": 1683101595,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": -4,
     "wof:placetype": "media",
