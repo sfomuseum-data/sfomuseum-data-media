@@ -8,7 +8,98 @@
     "geom:bbox": "-122.382765,37.617185,-122.382765,37.617185",
     "geom:latitude": 37.617185,
     "geom:longitude": -122.382765,
+    "media:fingerprint": "15166d27573fed62c531eeadef97e28131b2f573",
+    "media:imagehash_avg": "a:c0c0e0f0ffcf3422",
+    "media:imagehash_diff": "d:061489829a1ce5ce",
+    "media:mimetype": "image/tiff",
     "media:placetype": "publicart",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#9f6574",
+          "name": "#9f6574",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#c2c0c0",
+          "name": "#c2c0c0",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#4b372a",
+          "name": "#4b372a",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 656
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 513
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 513
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 1313
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 205
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 415,
+          "mimetype": "image/jpeg",
+          "secret": "yBk4mPElPRE16JdBx5RLoH3dSdkwItrd",
+          "width": 355
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "r1ygVAxS28HStPXEqSj4PG1pqIUsTebr",
+          "width": 410
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/172/996/646/5/1729966465_{secret}_{label}.{extention}",
     "sfomuseum:filename": "22463.tif",
     "sfomuseum:image_id": 22463,
     "sfomuseum:object_id": 113727,
@@ -138,7 +229,7 @@
       }
     ],
     "wof:id": 1729966465,
-    "wof:lastmodified": 1683101594,
+    "wof:lastmodified": 1683159841,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": -4,
     "wof:placetype": "media",
