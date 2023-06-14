@@ -141,10 +141,11 @@
       }
     ],
     "wof:id": 1863481889,
-    "wof:lastmodified": 1686730678,
+    "wof:lastmodified": 1686769748,
     "wof:name": "New Generation",
     "wof:parent_id": -4,
     "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
