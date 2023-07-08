@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457525,
     "wof:depicts": [
-      1159162777,
-      102527513
+      102527513,
+      1159162777
     ],
     "wof:geomhash": "71c9c07c5e694aefb307d7bc43a70623",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455151,
-    "wof:lastmodified": 1688718154,
+    "wof:lastmodified": 1688804329,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": -4,
     "wof:placetype": "media",
