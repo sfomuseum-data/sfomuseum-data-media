@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457655,
     "wof:depicts": [
-      102527513,
-      772974889
+      772974889,
+      102527513
     ],
     "wof:geomhash": "361b4208c59d052d57f1ef672c8bfd62",
     "wof:hierarchy": [
@@ -173,6 +173,34 @@
         "wing_id": 1159157333
       },
       {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855835,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855613,
+        "locality_id": 85922583,
+        "media_id": 1377455285,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477873949,
+        "wing_id": 1477855833
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855835,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855613,
+        "media_id": 1377455285,
+        "region_id": 85688637,
+        "venue_id": 1477873949,
+        "wing_id": 1477855833
+      },
+      {
         "building_id": 1729792387,
         "campus_id": 102527513,
         "concourse_id": 1729792581,
@@ -223,38 +251,10 @@
         "region_id": 85688637,
         "venue_id": 1745903807,
         "wing_id": 1763588369
-      },
-      {
-        "building_id": 1477855605,
-        "campus_id": 102527513,
-        "concourse_id": 1477855835,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1477855613,
-        "locality_id": 85922583,
-        "media_id": 1377455285,
-        "postalcode_id": 554784711,
-        "region_id": 85688637,
-        "venue_id": 1477873949,
-        "wing_id": 1477855833
-      },
-      {
-        "building_id": 1477855605,
-        "campus_id": 102527513,
-        "concourse_id": 1477855835,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "enclosure_id": 1477855613,
-        "media_id": 1377455285,
-        "region_id": 85688637,
-        "venue_id": 1477873949,
-        "wing_id": 1477855833
       }
     ],
     "wof:id": 1377455285,
-    "wof:lastmodified": 1689408954,
+    "wof:lastmodified": 1689582065,
     "wof:name": "World Civilization",
     "wof:parent_id": -4,
     "wof:placetype": "media",
