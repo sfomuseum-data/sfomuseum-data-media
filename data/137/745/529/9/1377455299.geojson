@@ -148,8 +148,8 @@
     "wof:country": "US",
     "wof:created": 1555457675,
     "wof:depicts": [
-      1159162795,
-      102527513
+      102527513,
+      1159162795
     ],
     "wof:geomhash": "3ac6ba578ac47272f749941e189ce993",
     "wof:hierarchy": [
@@ -249,7 +249,7 @@
       }
     ],
     "wof:id": 1377455299,
-    "wof:lastmodified": 1690793256,
+    "wof:lastmodified": 1690877813,
     "wof:name": "Sky",
     "wof:parent_id": -4,
     "wof:placetype": "media",
