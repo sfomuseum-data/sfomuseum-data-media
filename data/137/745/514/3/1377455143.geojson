@@ -152,8 +152,8 @@
     "wof:country": "US",
     "wof:created": 1555457516,
     "wof:depicts": [
-      102527513,
-      772974807
+      772974807,
+      102527513
     ],
     "wof:geomhash": "1e535dcf5731190d69da9c826d8c9d7d",
     "wof:hierarchy": [
@@ -251,7 +251,7 @@
       }
     ],
     "wof:id": 1377455143,
-    "wof:lastmodified": 1692692909,
+    "wof:lastmodified": 1692737928,
     "wof:name": "Above Bolinas",
     "wof:parent_id": -4,
     "wof:placetype": "media",
