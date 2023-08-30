@@ -146,8 +146,8 @@
     "wof:country": "US",
     "wof:created": 1555457540,
     "wof:depicts": [
-      1360702205,
-      102527513
+      102527513,
+      1360702205
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
@@ -229,7 +229,7 @@
       }
     ],
     "wof:id": 1377455165,
-    "wof:lastmodified": 1693340194,
+    "wof:lastmodified": 1693383594,
     "wof:name": "Cilindro Costruito",
     "wof:parent_id": -4,
     "wof:placetype": "media",
