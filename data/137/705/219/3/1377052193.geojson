@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:1e8ee69efdedf8d8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377052193,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"How Freight Flies: A Legacy of Air Cargo Carriers\"",
     "wof:parent_id": 1159160195,
     "wof:placetype": "media",

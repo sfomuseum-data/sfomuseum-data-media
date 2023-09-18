@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:8ecc4d61591d7cf0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1376878055,
-    "wof:lastmodified": 1617820389,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"A Sterling Renaissance, British Silver Design 1957-2018\"",
     "wof:parent_id": 1360667837,
     "wof:placetype": "media",

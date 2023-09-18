@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:667e4c4c4e4fccc8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -141,13 +142,13 @@
     "wof:country": "US",
     "wof:created": 1552007867,
     "wof:depicts": [
-      1159157045,
       102527513,
       1159157047,
       1159157333,
       1226619815,
       1159157335,
-      1159157271
+      1159157271,
+      1159157045
     ],
     "wof:geomhash": "6d7e5f16d5e28971a22edfa865df72b7",
     "wof:hierarchy": [
@@ -183,7 +184,7 @@
       }
     ],
     "wof:id": 1377118169,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Isamu Noguchi: Inside and Out\"",
     "wof:parent_id": 1226619815,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:7f7c7c7dcdcf0f4f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1729959767,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Eclectic Taste: Victorian Silver Plate\"",
     "wof:parent_id": 1729842189,
     "wof:placetype": "media",

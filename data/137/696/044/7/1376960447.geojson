@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e7c79797d6d3f3f8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -129,11 +130,11 @@
     "wof:country": "US",
     "wof:created": 1550189568,
     "wof:depicts": [
-      1159396319,
-      102527513,
       1360516477,
       1159159593,
-      1159396115
+      1159396115,
+      1159396319,
+      102527513
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1376960447,
-    "wof:lastmodified": 1617820389,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"",
     "wof:parent_id": 1159159593,
     "wof:placetype": "media",

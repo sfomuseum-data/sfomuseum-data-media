@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:ce4f4ecfce8e8e4f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1763607781,
-    "wof:lastmodified": 1651183108,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"From Pineapple to Piña: A Philippine Textile Treasure\"",
     "wof:parent_id": 1763594995,
     "wof:placetype": "media",

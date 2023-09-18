@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:5d968e8e0d1b3759",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -130,7 +131,6 @@
       85922583,
       1159157335,
       102191575,
-      1159268871,
       85633793,
       1159160703,
       1159157333,
@@ -141,13 +141,13 @@
     "wof:country": "US",
     "wof:created": 1552088082,
     "wof:depicts": [
-      1159157333,
-      1159160703,
-      1159157037,
       1159157271,
       102527513,
       1159157335,
-      1159268871
+      1159268871,
+      1159157333,
+      1159160703,
+      1159157037
     ],
     "wof:geomhash": "b29df8069ff4c513d31fc8548a8b0843",
     "wof:hierarchy": [
@@ -164,12 +164,11 @@
         "media_id": 1377126301,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "venue_id": 1159268871,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1377126301,
-    "wof:lastmodified": 1617820405,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"At Home with Arts and Crafts\"",
     "wof:parent_id": 1159160703,
     "wof:placetype": "media",

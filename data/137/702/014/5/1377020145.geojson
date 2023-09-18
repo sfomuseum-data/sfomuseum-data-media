@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:b0a4ecb8086ee680",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377020145,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Barbie® Takes A Vacation to Exotic Places\"",
     "wof:parent_id": 1226603769,
     "wof:placetype": "media",

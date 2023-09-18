@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:8f0f3b393b3b3b3b",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": null,
       "sizes": {}
@@ -48,11 +49,11 @@
     "wof:country": "US",
     "wof:created": 1617658866,
     "wof:depicts": [
+      1729792437,
+      1729837315,
       1729842189,
       1729792387,
-      1729792435,
-      1729792437,
-      1729837315
+      1729792435
     ],
     "wof:geomhash": "78fedff0d96697267d60a5fcfbbf0727",
     "wof:hierarchy": [
@@ -86,7 +87,7 @@
       }
     ],
     "wof:id": 1729959883,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Eclectic Taste: Victorian Silver Plate\"",
     "wof:parent_id": 1729842189,
     "wof:placetype": "media",

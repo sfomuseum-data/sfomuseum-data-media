@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:9a127154c8ecba0a",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -206,7 +207,7 @@
       }
     ],
     "wof:id": 1729959393,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Early American Motorcycle\"",
     "wof:parent_id": 1729842175,
     "wof:placetype": "media",

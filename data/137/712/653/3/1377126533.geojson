@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:131f3e3fbdb92ce0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377126533,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Essential Style: Antique and Vintage Handbags\"",
     "wof:parent_id": 1159160583,
     "wof:placetype": "media",

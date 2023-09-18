@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e0393333a63b3b33",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1552093567,
     "wof:depicts": [
-      1159396333,
       1360516283,
       102527513,
       1159396159,
-      1159160359
+      1159160359,
+      1159396333
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377126851,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Souvenirs: Tokens of Travel\"",
     "wof:parent_id": 1159160359,
     "wof:placetype": "media",

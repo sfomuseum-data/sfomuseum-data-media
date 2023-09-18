@@ -18,6 +18,7 @@
     "media:fingerprint": "2f6f33386cabb988b9b11ee2cadf59ffc4fba62c",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1226617941
@@ -47,12 +48,12 @@
     "wof:country": "US",
     "wof:created": 1551133373,
     "wof:depicts": [
+      1226617941,
       102527513,
       1159554819,
       1159554841,
       1360516129,
-      1159554801,
-      1226617941
+      1159554801
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
     "wof:hierarchy": [
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377042991,
-    "wof:lastmodified": 1617820404,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Art and Travel\"",
     "wof:parent_id": 1226617941,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:3f9f8bcfcbdb99b9",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377020497,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"San Francisco, From the David Rumsey Map Collection\"",
     "wof:parent_id": 1159160469,
     "wof:placetype": "media",

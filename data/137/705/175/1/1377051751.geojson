@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e8e0e0e0c0e0f8e8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -130,12 +131,12 @@
     "wof:country": "US",
     "wof:created": 1551227500,
     "wof:depicts": [
-      102527513,
-      1360521569,
-      1159396147,
       1159396337,
       1159159885,
-      1360541651
+      1360541651,
+      102527513,
+      1360521569,
+      1159396147
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
     "wof:hierarchy": [
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377051751,
-    "wof:lastmodified": 1617820405,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Mills Field Memories: SFO at 80\"",
     "wof:parent_id": 1159159885,
     "wof:placetype": "media",

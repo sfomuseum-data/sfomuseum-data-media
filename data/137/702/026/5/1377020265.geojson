@@ -18,6 +18,7 @@
     "media:fingerprint": "2541e4a85cc98ada6ce59d5dc40468ecab56179a",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1159160335
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377020265,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Art of Recology: The Artist in Residence Program 1990-2013\"",
     "wof:parent_id": 1159160335,
     "wof:placetype": "media",

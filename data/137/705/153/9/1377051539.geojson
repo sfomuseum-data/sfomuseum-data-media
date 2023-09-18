@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:bafab838b8f0f8fc",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377051539,
-    "wof:lastmodified": 1617820405,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"The Lunar Year: Artifacts and Tradition\"",
     "wof:parent_id": 1226603913,
     "wof:placetype": "media",

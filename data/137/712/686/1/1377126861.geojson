@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e8e1314c863333e3",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377126861,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Souvenirs: Tokens of Travel\"",
     "wof:parent_id": 1159160359,
     "wof:placetype": "media",

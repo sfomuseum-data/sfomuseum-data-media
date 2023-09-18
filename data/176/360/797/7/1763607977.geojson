@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e868686054e8e5a6",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1763607977,
-    "wof:lastmodified": 1651187351,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Mathematics: Vintage and Modern\"",
     "wof:parent_id": 1746382265,
     "wof:placetype": "media",

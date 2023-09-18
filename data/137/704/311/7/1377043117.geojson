@@ -18,6 +18,7 @@
     "media:fingerprint": "6deac8a210afb854b66470e62fd8fdb31621501a",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1226617941
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377043117,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Art and Travel\"",
     "wof:parent_id": 1226617941,
     "wof:placetype": "media",

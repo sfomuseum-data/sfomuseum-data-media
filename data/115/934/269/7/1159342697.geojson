@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:656cc4fc1898b2f4",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -186,7 +187,9 @@
       1159396321,
       102527513,
       85688637,
-      85633793
+      85633793,
+      1360516255,
+      1159160523
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -208,6 +211,8 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "enclosure_id": 1360516255,
+        "installation_id": 1159160523,
         "locality_id": 85922583,
         "media_id": 1159342697,
         "neighbourhood_id": -1,
@@ -216,9 +221,9 @@
       }
     ],
     "wof:id": 1159342697,
-    "wof:lastmodified": 1617820393,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
-    "wof:parent_id": 1159396193,
+    "wof:parent_id": 1159160523,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],

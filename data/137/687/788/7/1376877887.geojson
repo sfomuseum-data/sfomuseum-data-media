@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:f78dadafc85c595c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -164,7 +165,7 @@
       }
     ],
     "wof:id": 1376877887,
-    "wof:lastmodified": 1617820389,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"The Modern Consumer – 1950s Products and Styles\"",
     "wof:parent_id": 1360702457,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:5746c6d65869e8f0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1552088869,
     "wof:depicts": [
+      1159160545,
       1159396153,
       1360516281,
       102527513,
-      1159396321,
-      1159160545
+      1159396321
     ],
     "wof:geomhash": "ae3c0a2511e40d66a074eaad4fa505ef",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377126433,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Allure of Art Nouveau:1890-1914\"",
     "wof:parent_id": 1159160545,
     "wof:placetype": "media",

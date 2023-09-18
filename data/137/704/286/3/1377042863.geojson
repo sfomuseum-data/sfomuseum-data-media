@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e0e2e0c4c6caeca4",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -135,12 +136,12 @@
     "wof:country": "US",
     "wof:created": 1551132791,
     "wof:depicts": [
+      1360516133,
       1226612011,
       1159396129,
       1159396327,
       1159396233,
-      102527513,
-      1360516133
+      102527513
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
     "wof:hierarchy": [
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377042863,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Artist's Furniture: New Dimensions and Statements in Design\"",
     "wof:parent_id": 1226612011,
     "wof:placetype": "media",

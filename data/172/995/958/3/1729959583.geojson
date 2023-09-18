@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e6756f7791993999",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -171,7 +172,7 @@
       }
     ],
     "wof:id": 1729959583,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Surf’s Up! Instrumental Rock n’ Roll\"",
     "wof:parent_id": 1729842105,
     "wof:placetype": "media",

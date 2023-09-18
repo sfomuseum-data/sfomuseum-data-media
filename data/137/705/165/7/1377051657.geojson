@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:39999c55366262d3",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377051657,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Classic Plastics: 1870s-1970s\"",
     "wof:parent_id": 1159160455,
     "wof:placetype": "media",

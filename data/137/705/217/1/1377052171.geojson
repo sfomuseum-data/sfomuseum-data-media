@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:a3c7a5d05958e0e0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1551229969,
     "wof:depicts": [
-      1360516479,
       1159160195,
       1159396337,
       102527513,
-      1159396139
+      1159396139,
+      1360516479
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377052171,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"How Freight Flies: A Legacy of Air Cargo Carriers\"",
     "wof:parent_id": 1159160195,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f88cced6f3f29c8c",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -129,11 +130,11 @@
     "wof:country": "US",
     "wof:created": 1551136723,
     "wof:depicts": [
+      1360516265,
       1226607175,
       102527513,
       1159554829,
-      1159554803,
-      1360516265
+      1159554803
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
     "wof:hierarchy": [
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377043257,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Bark: Photographs by Ann Giordano\"",
     "wof:parent_id": 1226607175,
     "wof:placetype": "media",

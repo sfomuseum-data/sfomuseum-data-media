@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:dcd81893b33b3b39",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -135,12 +136,12 @@
     "wof:country": "US",
     "wof:created": 1550876201,
     "wof:depicts": [
+      1159396261,
+      1360516259,
       1159396333,
       102527513,
       1159396109,
-      1159160469,
-      1159396261,
-      1360516259
+      1159160469
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
     "wof:hierarchy": [
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377020531,
-    "wof:lastmodified": 1617820404,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"San Francisco, From the David Rumsey Map Collection\"",
     "wof:parent_id": 1159160469,
     "wof:placetype": "media",

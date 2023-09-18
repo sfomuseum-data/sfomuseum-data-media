@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:8cbe8e92ccbcf4e0",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377043323,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Boomerang\"",
     "wof:parent_id": 1226611157,
     "wof:placetype": "media",

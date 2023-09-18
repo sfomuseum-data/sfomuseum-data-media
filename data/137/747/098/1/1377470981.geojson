@@ -18,6 +18,7 @@
     "media:fingerprint": "b9d507e0649f869ec65f803db6045d5872082184",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1226604841
@@ -47,7 +48,6 @@
     "wof:created": 1555627931,
     "wof:depicts": [
       1226604841,
-      1226604841,
       1159554829,
       1360516471
     ],
@@ -69,7 +69,7 @@
       }
     ],
     "wof:id": 1377470981,
-    "wof:lastmodified": 1617820389,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"A World View of Puppets\"",
     "wof:parent_id": 1226604841,
     "wof:placetype": "media",

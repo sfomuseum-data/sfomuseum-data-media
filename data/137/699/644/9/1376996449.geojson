@@ -20,6 +20,7 @@
     "media:imagehash_diff": "d:9e3f1d9f38d773f6",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -137,12 +138,12 @@
     "wof:country": "US",
     "wof:created": 1550611216,
     "wof:depicts": [
-      1159157333,
-      1159157335,
       1159157039,
       1226620513,
       1159157271,
-      102527513
+      102527513,
+      1159157333,
+      1159157335
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1376996449,
-    "wof:lastmodified": 1617820390,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Caticons: The Cat in Art\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",

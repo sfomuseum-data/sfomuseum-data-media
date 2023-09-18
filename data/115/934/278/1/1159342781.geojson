@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:62f3bbbb9be1871f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -168,7 +169,9 @@
       85688637,
       102087579,
       85922583,
-      1159396147
+      1159396147,
+      1360516195,
+      1159160019
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -188,6 +191,8 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "enclosure_id": 1360516195,
+        "installation_id": 1159160019,
         "locality_id": 85922583,
         "media_id": 1159342781,
         "neighbourhood_id": -1,
@@ -196,9 +201,9 @@
       }
     ],
     "wof:id": 1159342781,
-    "wof:lastmodified": 1617820403,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Pacific Coast League: The West Coast’s Major League 1903-1957\"",
-    "wof:parent_id": 1159396147,
+    "wof:parent_id": 1159160019,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],

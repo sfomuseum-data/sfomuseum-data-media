@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:c7ce6c3c3c7f7fff",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377012467,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Mapping America\"",
     "wof:parent_id": 1159159445,
     "wof:placetype": "media",

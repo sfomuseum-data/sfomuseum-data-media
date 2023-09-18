@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:9ed87db57ccc5c7c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1551203271,
     "wof:depicts": [
-      102527513,
-      1360516273,
       1159396159,
       1159396333,
-      1159160455
+      1159160455,
+      102527513,
+      1360516273
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377051717,
-    "wof:lastmodified": 1617820398,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Classic Plastics: 1870s-1970s\"",
     "wof:parent_id": 1159160455,
     "wof:placetype": "media",

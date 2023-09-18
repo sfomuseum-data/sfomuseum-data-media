@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:9cacc0e8f6e6f8ca",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377020739,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"B is for Bears\"",
     "wof:parent_id": 1226606173,
     "wof:placetype": "media",

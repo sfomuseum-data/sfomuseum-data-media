@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:8080c8c4e48090c0",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -129,11 +130,11 @@
     "wof:country": "US",
     "wof:created": 1551202887,
     "wof:depicts": [
+      1360516467,
+      1159554829,
       1226608827,
       1159554803,
-      102527513,
-      1360516467,
-      1159554829
+      102527513
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
     "wof:hierarchy": [
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377051613,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Architectural Building Blocks\"",
     "wof:parent_id": 1226608827,
     "wof:placetype": "media",

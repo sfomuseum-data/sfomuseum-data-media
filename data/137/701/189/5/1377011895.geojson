@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e0c8c8ccdcdc9eda",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1550785925,
     "wof:depicts": [
+      1159554803,
       1226603591,
       1159554817,
       102527513,
-      1159157875,
-      1159554803
+      1159157875
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377011895,
-    "wof:lastmodified": 1617820394,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"A Medley of Skates and Memorabilia\"",
     "wof:parent_id": 1226603591,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:0f0f3114a8aa692b",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1376960497,
-    "wof:lastmodified": 1617820390,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Flight Bag: Icon of Air Travel\"",
     "wof:parent_id": 1159159593,
     "wof:placetype": "media",

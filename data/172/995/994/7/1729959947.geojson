@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:ccec7869e1e0d8b8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,12 +140,12 @@
     "wof:country": "US",
     "wof:created": 1617660231,
     "wof:depicts": [
+      1477855927,
       1477855947,
       1495157221,
       1477855605,
       1477855937,
-      1477855833,
-      1477855927
+      1477855833
     ],
     "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
     "wof:hierarchy": [
@@ -180,7 +181,7 @@
       }
     ],
     "wof:id": 1729959947,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Flying the Freedom Birds: Airlines and the Vietnam War\"",
     "wof:parent_id": 1495157221,
     "wof:placetype": "media",

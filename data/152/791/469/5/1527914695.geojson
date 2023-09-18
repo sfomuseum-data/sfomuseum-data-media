@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:6260606848c8e0e0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -129,12 +130,12 @@
     "wof:country": "US",
     "wof:created": 1579829347,
     "wof:depicts": [
+      1477855927,
+      1477855943,
       1495157237,
       1477855605,
       1477855937,
-      1477855833,
-      1477855927,
-      1477855943
+      1477855833
     ],
     "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
     "wof:hierarchy": [
@@ -170,7 +171,7 @@
       }
     ],
     "wof:id": 1527914695,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Above the Bay: The Aerial Photography of Stanley Page\"",
     "wof:parent_id": 1495157237,
     "wof:placetype": "media",

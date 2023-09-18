@@ -18,6 +18,7 @@
     "media:fingerprint": "d79383340239d4199608b094f608b1f94db1cd72",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1159160335
@@ -47,12 +48,12 @@
     "wof:country": "US",
     "wof:created": 1550874666,
     "wof:depicts": [
+      1159396141,
       1159160335,
       102527513,
       1159396295,
       1360516121,
-      1159396333,
-      1159396141
+      1159396333
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
     "wof:hierarchy": [
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377020229,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Art of Recology: The Artist in Residence Program 1990-2013\"",
     "wof:parent_id": 1159160335,
     "wof:placetype": "media",

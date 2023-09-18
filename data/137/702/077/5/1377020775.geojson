@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f2709c905058d090",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -134,11 +135,11 @@
     "wof:country": "US",
     "wof:created": 1550884322,
     "wof:depicts": [
+      102527513,
       1226606173,
       1159554803,
       1159157883,
-      1159554817,
-      102527513
+      1159554817
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377020775,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"B is for Bears\"",
     "wof:parent_id": 1226606173,
     "wof:placetype": "media",

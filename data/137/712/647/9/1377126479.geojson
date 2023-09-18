@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:c042d3d45d4dddd1",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377126479,
-    "wof:lastmodified": 1617820399,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Allure of Art Nouveau:1890-1914\"",
     "wof:parent_id": 1159160545,
     "wof:placetype": "media",

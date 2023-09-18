@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:6163675545636141",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -168,17 +169,19 @@
       85633793,
       102527513,
       85922583,
-      1159157271
+      1159157271,
+      1159157065,
+      1159160865
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528915496,
     "wof:depicts": [
-      102527513,
-      1159157065,
       1159157271,
       1159396121,
-      1159160865
+      1159160865,
+      102527513,
+      1159157065
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
     "wof:hierarchy": [
@@ -188,6 +191,8 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "enclosure_id": 1159157065,
+        "installation_id": 1159160865,
         "locality_id": 85922583,
         "media_id": 1159340243,
         "neighbourhood_id": -1,
@@ -196,9 +201,9 @@
       }
     ],
     "wof:id": 1159340243,
-    "wof:lastmodified": 1617820390,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"America in Color: 1940-1943\"",
-    "wof:parent_id": 1159396121,
+    "wof:parent_id": 1159160865,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],

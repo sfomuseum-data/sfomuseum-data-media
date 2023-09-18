@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:830f181c0e4c0183",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -183,7 +184,7 @@
       }
     ],
     "wof:id": 1377118147,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Isamu Noguchi: Inside and Out\"",
     "wof:parent_id": 1226619815,
     "wof:placetype": "media",

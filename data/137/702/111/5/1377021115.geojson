@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:d0e0d8d8dce8f8f8",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377021115,
-    "wof:lastmodified": 1617820398,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Before the 21st Century: An Ode to Boats, Cars, Motorcycles, Planes, and Trains\"",
     "wof:parent_id": 1376812951,
     "wof:placetype": "media",

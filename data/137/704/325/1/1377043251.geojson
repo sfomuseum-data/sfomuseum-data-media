@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:3830b0f8b9ba9898",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377043251,
-    "wof:lastmodified": 1617820404,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Bark: Photographs by Ann Giordano\"",
     "wof:parent_id": 1226607175,
     "wof:placetype": "media",

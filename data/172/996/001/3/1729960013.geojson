@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f4cccececc8ecdf4",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,12 +140,12 @@
     "wof:country": "US",
     "wof:created": 1617662505,
     "wof:depicts": [
-      1495157219,
-      1477855605,
       1477855937,
       1477855833,
       1477855927,
-      1477855949
+      1477855949,
+      1495157219,
+      1477855605
     ],
     "wof:geomhash": "d93b391b68ffe753c2c6c748078a297e",
     "wof:hierarchy": [
@@ -180,7 +181,7 @@
       }
     ],
     "wof:id": 1729960013,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Widebody: The Launch of the Jumbojets in the Early 1970s\r\"",
     "wof:parent_id": 1495157219,
     "wof:placetype": "media",

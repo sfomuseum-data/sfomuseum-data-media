@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:4947676d4d5f5d9c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377051811,
-    "wof:lastmodified": 1617820405,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Japanese Toys! From Kokeshi to Kaiju\"",
     "wof:parent_id": 1159160369,
     "wof:placetype": "media",

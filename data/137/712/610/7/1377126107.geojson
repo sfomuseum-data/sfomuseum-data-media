@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:3c3f382b2623373f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377126107,
-    "wof:lastmodified": 1617820398,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"On the Radio\"",
     "wof:parent_id": 1159160853,
     "wof:placetype": "media",

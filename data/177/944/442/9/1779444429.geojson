@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:0d3206cd5b5cd9df",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,12 +140,12 @@
     "wof:country": "US",
     "wof:created": 1652401781,
     "wof:depicts": [
-      1745882437,
-      1745882501,
       1745882503,
       1746480487,
       1745882083,
-      1745882335
+      1745882335,
+      1745882437,
+      1745882501
     ],
     "wof:geomhash": "58d9f89df21bc707c46bd60915d635b3",
     "wof:hierarchy": [
@@ -206,7 +207,7 @@
       }
     ],
     "wof:id": 1779444429,
-    "wof:lastmodified": 1652401820,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Victorian Papered Wall\"",
     "wof:parent_id": 1746480487,
     "wof:placetype": "media",

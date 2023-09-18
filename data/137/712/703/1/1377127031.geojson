@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:3eb0b4b4e44d90d8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -135,12 +136,12 @@
     "wof:country": "US",
     "wof:created": 1552096349,
     "wof:depicts": [
-      1360516259,
-      1159396261,
       1159396333,
       1159396109,
       102527513,
-      1159160361
+      1159160361,
+      1360516259,
+      1159396261
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
     "wof:hierarchy": [
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377127031,
-    "wof:lastmodified": 1617820406,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"From Ship to Shore: Nautical Arts from the San Francisco Maritime National Historic Park\"",
     "wof:parent_id": 1159160361,
     "wof:placetype": "media",

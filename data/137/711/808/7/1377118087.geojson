@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:9ee77636967c6038",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377118087,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Baseball by the Bay: San Francisco, Oakland, and the National Pastime\"",
     "wof:parent_id": 1159159879,
     "wof:placetype": "media",

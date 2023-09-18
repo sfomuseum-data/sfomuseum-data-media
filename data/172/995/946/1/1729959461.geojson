@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:8b874f0d99e5e68e",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1729959461,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Hair Style\"",
     "wof:parent_id": 1729842179,
     "wof:placetype": "media",

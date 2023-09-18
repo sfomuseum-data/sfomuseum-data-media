@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f0e0f9e2e2f6e6e0",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377011883,
-    "wof:lastmodified": 1617820394,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"A Medley of Skates and Memorabilia\"",
     "wof:parent_id": 1226603591,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:868ebea6cecce0f0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -130,11 +131,10 @@
     "wof:country": "US",
     "wof:created": 1555625858,
     "wof:depicts": [
+      1159396147,
       1159159965,
       1360541633,
-      1360521569,
-      1159159965,
-      1159396147
+      1360521569
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
     "wof:hierarchy": [
@@ -155,7 +155,7 @@
       }
     ],
     "wof:id": 1377470813,
-    "wof:lastmodified": 1617820388,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Airports on Paper:  Design  Documents and Informational Publications, 1927-2005\"",
     "wof:parent_id": 1159159965,
     "wof:placetype": "media",

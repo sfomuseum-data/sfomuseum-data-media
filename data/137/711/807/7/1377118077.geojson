@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:c3c0c4c5c0c0c0c0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -134,11 +135,11 @@
     "wof:country": "US",
     "wof:created": 1552007456,
     "wof:depicts": [
-      1360516479,
-      102527513,
       1159159879,
       1159396139,
-      1159396337
+      1159396337,
+      1360516479,
+      102527513
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377118077,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Baseball by the Bay: San Francisco, Oakland, and the National Pastime\"",
     "wof:parent_id": 1159159879,
     "wof:placetype": "media",

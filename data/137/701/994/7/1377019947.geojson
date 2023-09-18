@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:d8d8c898b898f8fa",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377019947,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Building for Air Travel\"",
     "wof:parent_id": 1226603375,
     "wof:placetype": "media",

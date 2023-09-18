@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:7672ea3232c69606",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377020089,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Bowling: A Unique American Art Form\"",
     "wof:parent_id": 1226607773,
     "wof:placetype": "media",

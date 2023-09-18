@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:d870703078b091de",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377011913,
-    "wof:lastmodified": 1617820394,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Origami: The Art of Paper Folding\"",
     "wof:parent_id": 1226605375,
     "wof:placetype": "media",

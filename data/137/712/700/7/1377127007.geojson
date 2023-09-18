@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:8d0fb7f3f3b7272b",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377127007,
-    "wof:lastmodified": 1617820401,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"From Ship to Shore: Nautical Arts from the San Francisco Maritime National Historic Park\"",
     "wof:parent_id": 1159160361,
     "wof:placetype": "media",

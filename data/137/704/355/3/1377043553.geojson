@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f0ae8e8aca8efcf8",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -135,12 +136,12 @@
     "wof:country": "US",
     "wof:created": 1551139532,
     "wof:depicts": [
-      102527513,
-      1159554855,
-      1360516127,
       1159554821,
       1226611157,
-      1159554803
+      1159554803,
+      102527513,
+      1159554855,
+      1360516127
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
     "wof:hierarchy": [
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377043553,
-    "wof:lastmodified": 1617820404,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Boomerang\"",
     "wof:parent_id": 1226611157,
     "wof:placetype": "media",

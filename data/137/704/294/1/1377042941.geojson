@@ -18,6 +18,7 @@
     "media:fingerprint": "344eb74cd86cdb5b5a714d9445d48c00dcc2d509",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1226612011
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377042941,
-    "wof:lastmodified": 1617820404,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Artist's Furniture: New Dimensions and Statements in Design\"",
     "wof:parent_id": 1226612011,
     "wof:placetype": "media",

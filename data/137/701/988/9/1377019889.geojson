@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f0f0c8c6a6ace0ec",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -139,11 +140,11 @@
     "wof:country": "US",
     "wof:created": 1550869342,
     "wof:depicts": [
-      1159554803,
-      1159554829,
       102527513,
       1226603375,
-      1360516265
+      1360516265,
+      1159554803,
+      1159554829
     ],
     "wof:geomhash": "5a3656842d284cfa840c8e3c040735bc",
     "wof:hierarchy": [
@@ -163,7 +164,7 @@
       }
     ],
     "wof:id": 1377019889,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Building for Air Travel\"",
     "wof:parent_id": 1226603375,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:1f1f1d1d1d4d2d64",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -140,12 +141,12 @@
     "wof:country": "US",
     "wof:created": 1551228700,
     "wof:depicts": [
+      1159396337,
       102527513,
       1159159931,
       1360541661,
       1159396147,
-      1360521569,
-      1159396337
+      1360521569
     ],
     "wof:geomhash": "093173c9a3fec8175f6f795ac3d928e2",
     "wof:hierarchy": [
@@ -166,7 +167,7 @@
       }
     ],
     "wof:id": 1377052107,
-    "wof:lastmodified": 1617820399,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Young Eyes on the Skies: The Golden Age of Aviation Toys\"",
     "wof:parent_id": 1159159931,
     "wof:placetype": "media",

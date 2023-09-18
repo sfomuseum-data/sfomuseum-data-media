@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:51c6c6d6c2cacede",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -171,7 +172,7 @@
       }
     ],
     "wof:id": 1763607869,
-    "wof:lastmodified": 1651186638,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Zimbabwe Stone Sculpture\"",
     "wof:parent_id": 1763594997,
     "wof:placetype": "media",

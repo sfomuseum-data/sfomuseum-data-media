@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e4c4f4f4b5fdfcbf",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -129,11 +130,11 @@
     "wof:country": "US",
     "wof:created": 1550885325,
     "wof:depicts": [
-      1360516467,
       1159554829,
       102527513,
       1226608683,
-      1159554803
+      1159554803,
+      1360516467
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
     "wof:hierarchy": [
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377020815,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Ancestor Figures from New Guinea\"",
     "wof:parent_id": 1226608683,
     "wof:placetype": "media",

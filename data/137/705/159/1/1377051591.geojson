@@ -18,6 +18,7 @@
     "media:fingerprint": "e5ecceb47b4347b1bb18492293211d2e39c995a5",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1226603913
@@ -70,7 +71,7 @@
       }
     ],
     "wof:id": 1377051591,
-    "wof:lastmodified": 1617820405,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"The Lunar Year: Artifacts and Tradition\"",
     "wof:parent_id": 1226603913,
     "wof:placetype": "media",

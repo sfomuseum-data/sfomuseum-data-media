@@ -18,6 +18,7 @@
     "media:fingerprint": "03a73d92eb50f3b332a704e339478da5ae8f15e6",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1226611157
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377043455,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Boomerang\"",
     "wof:parent_id": 1226611157,
     "wof:placetype": "media",

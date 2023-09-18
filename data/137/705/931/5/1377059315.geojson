@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f8f0f1f1f1e8f8f8",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -126,12 +127,12 @@
     "wof:country": "US",
     "wof:created": 1551300738,
     "wof:depicts": [
+      1159160543,
+      1360541657,
       102527513,
       1159396321,
       1360521563,
-      1159396153,
-      1159160543,
-      1360541657
+      1159396153
     ],
     "wof:geomhash": "06b9efb8abf28f1bf1edcb4244a7eb02",
     "wof:hierarchy": [
@@ -152,7 +153,7 @@
       }
     ],
     "wof:id": 1377059315,
-    "wof:lastmodified": 1617820400,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Catch Our Style: California Regional Airlines\"",
     "wof:parent_id": 1159160543,
     "wof:placetype": "media",

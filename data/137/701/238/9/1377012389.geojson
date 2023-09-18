@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:fcfce0e0f0f4fcfc",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -134,11 +135,11 @@
     "wof:country": "US",
     "wof:created": 1550799832,
     "wof:depicts": [
+      1360521557,
+      1159159445,
       1360521543,
       102527513,
-      1159396319,
-      1360521557,
-      1159159445
+      1159396319
     ],
     "wof:geomhash": "976138a8c8164e94b2aa8641a839c32b",
     "wof:hierarchy": [
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377012389,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Mapping America\"",
     "wof:parent_id": 1159159445,
     "wof:placetype": "media",

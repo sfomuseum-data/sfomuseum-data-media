@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:17191795c71701fc",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -138,11 +139,11 @@
     "wof:country": "US",
     "wof:created": 1651186599,
     "wof:depicts": [
-      1763594997,
       1763588121,
       1763588369,
       1763588469,
-      1763588551
+      1763588551,
+      1763594997
     ],
     "wof:geomhash": "1c4785b8242119e1d973fab1b5c16cfe",
     "wof:hierarchy": [
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1763607845,
-    "wof:lastmodified": 1651186626,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Zimbabwe Stone Sculpture\"",
     "wof:parent_id": 1763594997,
     "wof:placetype": "media",

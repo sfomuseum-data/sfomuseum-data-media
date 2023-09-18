@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:e8e3e3d3c1e0d86c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -180,7 +181,7 @@
       }
     ],
     "wof:id": 1729959959,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Flying the Freedom Birds: Airlines and the Vietnam War\"",
     "wof:parent_id": 1495157221,
     "wof:placetype": "media",

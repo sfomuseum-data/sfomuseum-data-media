@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:f8f0d494b4b47070",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -206,7 +207,7 @@
       }
     ],
     "wof:id": 1779444511,
-    "wof:lastmodified": 1652402566,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"The Victorian Papered Wall\"",
     "wof:parent_id": 1746480487,
     "wof:placetype": "media",

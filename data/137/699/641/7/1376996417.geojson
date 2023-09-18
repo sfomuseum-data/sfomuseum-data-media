@@ -20,6 +20,7 @@
     "media:imagehash_diff": "d:13170f0f07173b0f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -168,7 +169,7 @@
       }
     ],
     "wof:id": 1376996417,
-    "wof:lastmodified": 1617820390,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Caticons: The Cat in Art\"",
     "wof:parent_id": 1226620513,
     "wof:placetype": "media",

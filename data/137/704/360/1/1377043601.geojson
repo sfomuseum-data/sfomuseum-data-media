@@ -18,6 +18,7 @@
     "media:fingerprint": "cd6edbb64e7e2725da4a960ff6afcbe5d82f7776",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1159159507
@@ -47,12 +48,12 @@
     "wof:country": "US",
     "wof:created": 1551142061,
     "wof:depicts": [
-      102527513,
-      1360521571,
-      1159396107,
       1360541557,
       1159159507,
-      1159396319
+      1159396319,
+      102527513,
+      1360521571,
+      1159396107
     ],
     "wof:geomhash": "093173c9a3fec8175f6f795ac3d928e2",
     "wof:hierarchy": [
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377043601,
-    "wof:lastmodified": 1617820404,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"The Golden Age of Airships\"",
     "wof:parent_id": 1159159507,
     "wof:placetype": "media",

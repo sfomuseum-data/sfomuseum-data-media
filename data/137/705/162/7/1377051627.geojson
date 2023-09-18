@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:ba80c0c0c0c0c084",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377051627,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Architectural Building Blocks\"",
     "wof:parent_id": 1226608827,
     "wof:placetype": "media",

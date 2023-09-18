@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:62a2aaa2f3e8eaea",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -134,11 +135,11 @@
     "wof:country": "US",
     "wof:created": 1550871143,
     "wof:depicts": [
-      102527513,
-      1159157883,
       1226603769,
       1159554817,
-      1159554803
+      1159554803,
+      102527513,
+      1159157883
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -158,7 +159,7 @@
       }
     ],
     "wof:id": 1377020149,
-    "wof:lastmodified": 1617820395,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Barbie® Takes A Vacation to Exotic Places\"",
     "wof:parent_id": 1226603769,
     "wof:placetype": "media",

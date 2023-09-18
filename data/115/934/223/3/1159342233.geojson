@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:12606464464adaf2",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -168,7 +169,9 @@
       102527513,
       85633793,
       85922583,
-      85688637
+      85688637,
+      1360516271,
+      1159160527
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -188,6 +191,8 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "enclosure_id": 1360516271,
+        "installation_id": 1159160527,
         "locality_id": 85922583,
         "media_id": 1159342233,
         "neighbourhood_id": -1,
@@ -196,9 +201,9 @@
       }
     ],
     "wof:id": 1159342233,
-    "wof:lastmodified": 1617820392,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Egyptian Revival: An Everlasting Allure\"",
-    "wof:parent_id": 1159396153,
+    "wof:parent_id": 1159160527,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],

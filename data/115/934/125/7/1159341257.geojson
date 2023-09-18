@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:8d1f1b1b39236380",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -185,17 +186,19 @@
       85688637,
       1159396153,
       85633793,
-      85922583
+      85922583,
+      1360516271,
+      1159160587
     ],
     "wof:breaches": [],
     "wof:country": "US",
     "wof:created": 1528919849,
     "wof:depicts": [
+      1159396153,
+      1159160587,
       102527513,
       1360516271,
-      1159396321,
-      1159396153,
-      1159160587
+      1159396321
     ],
     "wof:geomhash": "6bedd4d61f77b4621a51a918f70dcc8c",
     "wof:hierarchy": [
@@ -205,6 +208,8 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "enclosure_id": 1360516271,
+        "installation_id": 1159160587,
         "locality_id": 85922583,
         "media_id": 1159341257,
         "neighbourhood_id": -1,
@@ -213,9 +218,9 @@
       }
     ],
     "wof:id": 1159341257,
-    "wof:lastmodified": 1617820391,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"From Print to Plate: Views of the East on Transferware\"",
-    "wof:parent_id": 1159396153,
+    "wof:parent_id": 1159160587,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],

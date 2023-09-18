@@ -18,6 +18,7 @@
     "media:fingerprint": "c6181ba5faae0ebdffa7fdcef84bb68fcf05a201",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -165,7 +166,7 @@
       }
     ],
     "wof:id": 1377011867,
-    "wof:lastmodified": 1617820394,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Airport Cafe\"",
     "wof:parent_id": 1226612107,
     "wof:placetype": "media",

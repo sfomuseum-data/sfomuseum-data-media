@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:a7c1557df7f6f6d6",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -127,7 +128,6 @@
     "wof:belongsto": [
       85633793,
       102087579,
-      1159268871,
       1159157271,
       102527513,
       85922583,
@@ -141,13 +141,13 @@
     "wof:country": "US",
     "wof:created": 1552088464,
     "wof:depicts": [
-      1159157333,
-      1159160603,
       1159268871,
       1159157271,
       102527513,
       1159157039,
-      1159157335
+      1159157335,
+      1159157333,
+      1159160603
     ],
     "wof:geomhash": "fe8f943e6f22ea96ce01a2aaea507aa4",
     "wof:hierarchy": [
@@ -164,12 +164,11 @@
         "media_id": 1377126393,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "venue_id": 1159268871,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1377126393,
-    "wof:lastmodified": 1617820399,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"American Folk Art: An Enduring Legacy\"",
     "wof:parent_id": 1159160603,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:d1cbc998340d0767",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377020717,
-    "wof:lastmodified": 1617820397,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Down-Home Music: The Story of Arhoolie Records\"",
     "wof:parent_id": 1360664647,
     "wof:placetype": "media",

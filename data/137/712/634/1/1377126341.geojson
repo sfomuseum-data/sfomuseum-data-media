@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:1dbeb2e3330b1f9f",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -126,7 +127,6 @@
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102191575,
-      1159268871,
       1159157271,
       102087579,
       1159157037,
@@ -141,13 +141,13 @@
     "wof:country": "US",
     "wof:created": 1552088171,
     "wof:depicts": [
+      1159157037,
+      1159160703,
       1159157333,
       1159268871,
       1159157271,
       102527513,
-      1159157335,
-      1159157037,
-      1159160703
+      1159157335
     ],
     "wof:geomhash": "b29df8069ff4c513d31fc8548a8b0843",
     "wof:hierarchy": [
@@ -164,12 +164,11 @@
         "media_id": 1377126341,
         "neighbourhood_id": -1,
         "region_id": 85688637,
-        "venue_id": 1159268871,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1377126341,
-    "wof:lastmodified": 1617820405,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"At Home with Arts and Crafts\"",
     "wof:parent_id": 1159160703,
     "wof:placetype": "media",

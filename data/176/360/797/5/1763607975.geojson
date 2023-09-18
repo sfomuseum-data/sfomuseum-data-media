@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:0f0f1f0e8f66f817",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -133,11 +134,11 @@
     "wof:country": "US",
     "wof:created": 1651187324,
     "wof:depicts": [
-      1746382265,
       1745882083,
       1745882085,
       1745882087,
-      1745882457
+      1745882457,
+      1746382265
     ],
     "wof:geomhash": "b83ae529bbc7fcbfd4eb9753fc65c8cb",
     "wof:hierarchy": [
@@ -171,7 +172,7 @@
       }
     ],
     "wof:id": 1763607975,
-    "wof:lastmodified": 1651187347,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Mathematics: Vintage and Modern\"",
     "wof:parent_id": 1746382265,
     "wof:placetype": "media",

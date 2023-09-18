@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:cefafab8f0f8ccc0",
     "media:medium": "image",
     "media:mimetype": "image/tiff",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -130,12 +131,12 @@
     "wof:country": "US",
     "wof:created": 1550783393,
     "wof:depicts": [
+      1360516129,
       1159554819,
       1159554801,
       102527513,
       1226612107,
-      1159554841,
-      1360516129
+      1159554841
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
     "wof:hierarchy": [
@@ -156,7 +157,7 @@
       }
     ],
     "wof:id": 1377011695,
-    "wof:lastmodified": 1617820394,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Airport Cafe\"",
     "wof:parent_id": 1226612107,
     "wof:placetype": "media",

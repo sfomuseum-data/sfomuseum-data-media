@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:a50de9f8f8d0f0ed",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -138,12 +139,12 @@
     "wof:country": "US",
     "wof:created": 1549486886,
     "wof:depicts": [
-      1159396301,
-      102527513,
       1360702457,
       1159157307,
       1159157271,
-      1159157053
+      1159157053,
+      1159396301,
+      102527513
     ],
     "wof:geomhash": "86e9b7d5fe1f6f1a6479fa62588a1dea",
     "wof:hierarchy": [
@@ -164,7 +165,7 @@
       }
     ],
     "wof:id": 1376877871,
-    "wof:lastmodified": 1617820401,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"The Modern Consumer – 1950s Products and Styles\"",
     "wof:parent_id": 1360702457,
     "wof:placetype": "media",

@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:181e3c35a1e54d6b",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -138,11 +139,11 @@
     "wof:country": "US",
     "wof:created": 1617654578,
     "wof:depicts": [
-      1729842179,
       1729792387,
       1729792435,
       1729792437,
-      1729837315
+      1729837315,
+      1729842179
     ],
     "wof:geomhash": "78fedff0d96697267d60a5fcfbbf0727",
     "wof:hierarchy": [
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1729959467,
-    "wof:lastmodified": 1617666640,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Hair Style\"",
     "wof:parent_id": 1729842179,
     "wof:placetype": "media",

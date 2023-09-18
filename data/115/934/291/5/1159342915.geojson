@@ -16,6 +16,7 @@
     "media:imagehash_diff": "d:e07062f63a622101",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -168,7 +169,9 @@
       1159396153,
       85633793,
       102087579,
-      102191575
+      102191575,
+      1360516271,
+      1159160511
     ],
     "wof:breaches": [],
     "wof:country": "US",
@@ -188,6 +191,8 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "enclosure_id": 1360516271,
+        "installation_id": 1159160511,
         "locality_id": 85922583,
         "media_id": 1159342915,
         "neighbourhood_id": -1,
@@ -196,9 +201,9 @@
       }
     ],
     "wof:id": 1159342915,
-    "wof:lastmodified": 1617820393,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"A World of Characters: Advertising Icons from the Warren Dotz Collection\"",
-    "wof:parent_id": 1159396153,
+    "wof:parent_id": 1159160511,
     "wof:placetype": "media",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],

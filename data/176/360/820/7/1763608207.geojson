@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:cf8feeeecece27c7",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1763608207,
-    "wof:lastmodified": 1651191370,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Flight Patterns: Airline Uniforms from the 1960s–70s\"",
     "wof:parent_id": 1746382279,
     "wof:placetype": "media",

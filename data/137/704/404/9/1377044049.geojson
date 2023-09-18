@@ -18,6 +18,7 @@
     "media:fingerprint": "f840d94048d66d9674a326914b427346b573e39c",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "depicts": [
         1159160321
@@ -73,7 +74,7 @@
       }
     ],
     "wof:id": 1377044049,
-    "wof:lastmodified": 1617820398,
+    "wof:lastmodified": 1695073620,
     "wof:name": "Installation view of \"Threading the Needle: Sewing in the Machine Age\"",
     "wof:parent_id": 1159160321,
     "wof:placetype": "media",

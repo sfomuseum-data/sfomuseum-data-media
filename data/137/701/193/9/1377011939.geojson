@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:98d0fcf8f0f0f0f0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -129,11 +130,11 @@
     "wof:country": "US",
     "wof:created": 1550786757,
     "wof:depicts": [
-      1159396319,
-      1226605375,
       1159396115,
       102527513,
-      1360516477
+      1360516477,
+      1159396319,
+      1226605375
     ],
     "wof:geomhash": "5a42f7502cd7a21d42ead6a8e0f04fcc",
     "wof:hierarchy": [
@@ -153,7 +154,7 @@
       }
     ],
     "wof:id": 1377011939,
-    "wof:lastmodified": 1617820394,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"Origami: The Art of Paper Folding\"",
     "wof:parent_id": 1226605375,
     "wof:placetype": "media",

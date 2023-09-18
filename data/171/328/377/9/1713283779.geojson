@@ -18,6 +18,7 @@
     "media:imagehash_diff": "d:8a8648a8c67682e0",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -149,7 +150,7 @@
       }
     ],
     "wof:id": 1713283779,
-    "wof:lastmodified": 1617666643,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Platform Shoes - History - 60’s Fashion - Today",
     "wof:parent_id": 1226604431,
     "wof:placetype": "media",

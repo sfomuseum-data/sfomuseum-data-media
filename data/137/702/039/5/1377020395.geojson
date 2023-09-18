@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:d6d683abafafbfab",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -135,12 +136,12 @@
     "wof:country": "US",
     "wof:created": 1550875548,
     "wof:depicts": [
+      1360516255,
       1159396321,
       102527513,
       1159157325,
       1226619799,
-      1159396193,
-      1360516255
+      1159396193
     ],
     "wof:geomhash": "61c3061fada793d45fb528e1dd2a89d0",
     "wof:hierarchy": [
@@ -161,7 +162,7 @@
       }
     ],
     "wof:id": 1377020395,
-    "wof:lastmodified": 1617820396,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"The Mysterious Talking Board: Ouija and Beyond\"",
     "wof:parent_id": 1226619799,
     "wof:placetype": "media",

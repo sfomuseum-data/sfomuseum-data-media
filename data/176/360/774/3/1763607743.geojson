@@ -19,6 +19,7 @@
     "media:imagehash_diff": "d:96c4d49296d6d668",
     "media:medium": "image",
     "media:mimetype": "image/jpeg",
+    "media:placetype": "installation",
     "media:properties": {
       "colours": [
         {
@@ -138,11 +139,11 @@
     "wof:country": "US",
     "wof:created": 1651183058,
     "wof:depicts": [
-      1763588121,
-      1763588175,
       1763588177,
       1763588501,
-      1763594995
+      1763594995,
+      1763588121,
+      1763588175
     ],
     "wof:geomhash": "7f4eb4ac03fda2ca747d67c574d65586",
     "wof:hierarchy": [
@@ -176,7 +177,7 @@
       }
     ],
     "wof:id": 1763607743,
-    "wof:lastmodified": 1651183089,
+    "wof:lastmodified": 1695073619,
     "wof:name": "Installation view of \"From Pineapple to Piña: A Philippine Textile Treasure\"",
     "wof:parent_id": 1763594995,
     "wof:placetype": "media",
