@@ -151,8 +151,8 @@
     "wof:country": "US",
     "wof:created": 1555457584,
     "wof:depicts": [
-      102527513,
-      772974587
+      772974587,
+      102527513
     ],
     "wof:geomhash": "13c7e4b91165f2035f5a3e3c67695dfd",
     "wof:hierarchy": [
@@ -171,34 +171,6 @@
         "wing_id": 1159157317
       },
       {
-        "building_id": 1477855605,
-        "campus_id": 102527513,
-        "concourse_id": 1477855669,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "enclosure_id": 1477855613,
-        "locality_id": 85922583,
-        "media_id": 1377455213,
-        "postalcode_id": 554784711,
-        "region_id": 85688637,
-        "venue_id": 1477873967,
-        "wing_id": 1477855657
-      },
-      {
-        "building_id": 1477855605,
-        "campus_id": 102527513,
-        "concourse_id": 1477855669,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "enclosure_id": 1477855613,
-        "media_id": 1377455213,
-        "region_id": 85688637,
-        "venue_id": 1477873967,
-        "wing_id": 1477855657
-      },
-      {
         "building_id": 1729792387,
         "campus_id": 102527513,
         "concourse_id": 1729792459,
@@ -245,10 +217,38 @@
         "media_id": 1377455213,
         "region_id": 85688637,
         "venue_id": 1745903849
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855669,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1477855613,
+        "locality_id": 85922583,
+        "media_id": 1377455213,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477873967,
+        "wing_id": 1477855657
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855669,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1477855613,
+        "media_id": 1377455213,
+        "region_id": 85688637,
+        "venue_id": 1477873967,
+        "wing_id": 1477855657
       }
     ],
     "wof:id": 1377455213,
-    "wof:lastmodified": 1695198141,
+    "wof:lastmodified": 1695284424,
     "wof:name": "Pohina",
     "wof:parent_id": -4,
     "wof:placetype": "media",
