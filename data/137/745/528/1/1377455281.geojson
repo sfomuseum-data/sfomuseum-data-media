@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457655,
     "wof:depicts": [
-      102527513,
-      772975165
+      772975165,
+      102527513
     ],
     "wof:geomhash": "98f11fb4931680e2390fd183759d32f5",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455281,
-    "wof:lastmodified": 1696491867,
+    "wof:lastmodified": 1696578173,
     "wof:name": "Welcome",
     "wof:parent_id": -4,
     "wof:placetype": "media",
