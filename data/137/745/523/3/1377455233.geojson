@@ -137,8 +137,8 @@
     "wof:country": "US",
     "wof:created": 1555457595,
     "wof:depicts": [
-      102527513,
-      772975381
+      772975381,
+      102527513
     ],
     "wof:geomhash": "df84d40feddf364daf9d8ea6965283ce",
     "wof:hierarchy": [
@@ -180,7 +180,7 @@
       }
     ],
     "wof:id": 1377455233,
-    "wof:lastmodified": 1697701369,
+    "wof:lastmodified": 1697788132,
     "wof:name": "Figure",
     "wof:parent_id": -4,
     "wof:placetype": "media",
