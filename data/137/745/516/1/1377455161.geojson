@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457536,
     "wof:depicts": [
-      772974923,
-      102527513
+      102527513,
+      772974923
     ],
     "wof:geomhash": "63f867d9b3e5f01ee5ef9e4da727f5e5",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455161,
-    "wof:lastmodified": 1698133239,
+    "wof:lastmodified": 1698219744,
     "wof:name": "Bird Technology",
     "wof:parent_id": -4,
     "wof:placetype": "media",
