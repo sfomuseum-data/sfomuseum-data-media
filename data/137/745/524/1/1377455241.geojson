@@ -131,8 +131,8 @@
     "wof:country": "US",
     "wof:created": 1555457608,
     "wof:depicts": [
-      772975221,
-      102527513
+      102527513,
+      772975221
     ],
     "wof:geomhash": "a3e7166f1b6ce0717b20b60263be7d85",
     "wof:hierarchy": [
@@ -192,7 +192,7 @@
       }
     ],
     "wof:id": 1377455241,
-    "wof:lastmodified": 1698479080,
+    "wof:lastmodified": 1698652290,
     "wof:name": "Wind Portal",
     "wof:parent_id": -4,
     "wof:placetype": "media",
