@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457516,
     "wof:depicts": [
-      772975577,
-      102527513
+      102527513,
+      772975577
     ],
     "wof:geomhash": "9bc4b6906e5b779ac4ee5601db040bde",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455145,
-    "wof:lastmodified": 1699865269,
+    "wof:lastmodified": 1699951121,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": -4,
     "wof:placetype": "media",
