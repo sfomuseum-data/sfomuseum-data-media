@@ -142,8 +142,8 @@
     "wof:country": "US",
     "wof:created": 1555457509,
     "wof:depicts": [
-      772975851,
-      102527513
+      102527513,
+      772975851
     ],
     "wof:geomhash": "21ebac399e834a1d8c1d865948661e86",
     "wof:hierarchy": [
@@ -185,7 +185,7 @@
       }
     ],
     "wof:id": 1377455135,
-    "wof:lastmodified": 1701333572,
+    "wof:lastmodified": 1701419727,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": -4,
     "wof:placetype": "media",
