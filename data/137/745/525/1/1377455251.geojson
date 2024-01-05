@@ -142,8 +142,8 @@
     "wof:country": "US",
     "wof:created": 1555457619,
     "wof:depicts": [
-      772975227,
-      102527513
+      102527513,
+      772975227
     ],
     "wof:geomhash": "af3080dc119f7bf85d0f59b4e89d1504",
     "wof:hierarchy": [
@@ -241,7 +241,7 @@
       }
     ],
     "wof:id": 1377455251,
-    "wof:lastmodified": 1704271032,
+    "wof:lastmodified": 1704443848,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": -4,
     "wof:placetype": "media",
