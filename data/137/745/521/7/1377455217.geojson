@@ -142,8 +142,8 @@
     "wof:country": "US",
     "wof:created": 1555457586,
     "wof:depicts": [
-      102527513,
-      772974439
+      772974439,
+      102527513
     ],
     "wof:geomhash": "24aa52889348bb1270f533ba9dc03f9d",
     "wof:hierarchy": [
@@ -242,7 +242,7 @@
       }
     ],
     "wof:id": 1377455217,
-    "wof:lastmodified": 1705739835,
+    "wof:lastmodified": 1705957112,
     "wof:name": "The Hesperides",
     "wof:parent_id": -4,
     "wof:placetype": "media",
