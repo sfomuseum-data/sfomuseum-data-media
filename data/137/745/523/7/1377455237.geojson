@@ -152,8 +152,8 @@
     "wof:country": "US",
     "wof:created": 1555457602,
     "wof:depicts": [
-      772975735,
-      102527513
+      102527513,
+      772975735
     ],
     "wof:geomhash": "66e1b04152a6caff381287024d7b7ebd",
     "wof:hierarchy": [
@@ -251,7 +251,7 @@
       }
     ],
     "wof:id": 1377455237,
-    "wof:lastmodified": 1707122271,
+    "wof:lastmodified": 1707208650,
     "wof:name": "Butterfly Wall",
     "wof:parent_id": -4,
     "wof:placetype": "media",
