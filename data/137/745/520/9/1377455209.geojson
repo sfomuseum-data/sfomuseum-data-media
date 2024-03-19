@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457583,
     "wof:depicts": [
-      102527513,
-      1159162799
+      1159162799,
+      102527513
     ],
     "wof:geomhash": "926cec4b8b148e2cf2dd66356f976466",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455209,
-    "wof:lastmodified": 1710574393,
+    "wof:lastmodified": 1710833605,
     "wof:name": "Spirogyrate",
     "wof:parent_id": -4,
     "wof:placetype": "media",
