@@ -152,8 +152,8 @@
     "wof:country": "US",
     "wof:created": 1555457626,
     "wof:depicts": [
-      102527513,
-      772975731
+      772975731,
+      102527513
     ],
     "wof:geomhash": "88249e952f3fc788ae9bdf7f2d383939",
     "wof:hierarchy": [
@@ -251,7 +251,7 @@
       }
     ],
     "wof:id": 1377455257,
-    "wof:lastmodified": 1712302390,
+    "wof:lastmodified": 1712388800,
     "wof:name": "Welcome North, Welcome South, Welcome East, Welcome West",
     "wof:parent_id": -4,
     "wof:placetype": "media",
