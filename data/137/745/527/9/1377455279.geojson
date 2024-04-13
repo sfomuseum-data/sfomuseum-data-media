@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457652,
     "wof:depicts": [
-      102527513,
-      772975769
+      772975769,
+      102527513
     ],
     "wof:geomhash": "75bc4ca281a9ce4c71ffe456b98704f4",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455279,
-    "wof:lastmodified": 1712907808,
+    "wof:lastmodified": 1712993975,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": -4,
     "wof:placetype": "media",
