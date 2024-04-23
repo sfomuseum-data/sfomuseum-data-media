@@ -152,8 +152,8 @@
     "wof:country": "US",
     "wof:created": 1555457634,
     "wof:depicts": [
-      102527513,
-      772974345
+      772974345,
+      102527513
     ],
     "wof:geomhash": "305e27dddc307c1cdbedeaacf4681e69",
     "wof:hierarchy": [
@@ -252,7 +252,7 @@
       }
     ],
     "wof:id": 1377455263,
-    "wof:lastmodified": 1713771204,
+    "wof:lastmodified": 1713858123,
     "wof:name": "Two Wings for Wall and Person",
     "wof:parent_id": -4,
     "wof:placetype": "media",

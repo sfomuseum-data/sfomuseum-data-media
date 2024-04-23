@@ -151,8 +151,8 @@
     "wof:country": "US",
     "wof:created": 1555457551,
     "wof:depicts": [
-      102527513,
-      1360702203
+      1360702203,
+      102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
@@ -234,7 +234,7 @@
       }
     ],
     "wof:id": 1377455177,
-    "wof:lastmodified": 1713771204,
+    "wof:lastmodified": 1713858123,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": -4,
     "wof:placetype": "media",

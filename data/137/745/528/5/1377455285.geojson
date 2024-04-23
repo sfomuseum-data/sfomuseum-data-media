@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457655,
     "wof:depicts": [
-      102527513,
-      772974889
+      772974889,
+      102527513
     ],
     "wof:geomhash": "361b4208c59d052d57f1ef672c8bfd62",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455285,
-    "wof:lastmodified": 1713771204,
+    "wof:lastmodified": 1713858123,
     "wof:name": "World Civilization",
     "wof:parent_id": -4,
     "wof:placetype": "media",
