@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457554,
     "wof:depicts": [
-      772975299,
-      102527513
+      102527513,
+      772975299
     ],
     "wof:geomhash": "f9b48c6ba487b1db325dd9a79ae7581d",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455183,
-    "wof:lastmodified": 1714117514,
+    "wof:lastmodified": 1714203631,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": -4,
     "wof:placetype": "media",
