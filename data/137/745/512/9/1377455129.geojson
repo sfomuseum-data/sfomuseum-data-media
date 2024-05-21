@@ -142,8 +142,8 @@
     "wof:country": "US",
     "wof:created": 1555457503,
     "wof:depicts": [
-      102527513,
-      772975375
+      772975375,
+      102527513
     ],
     "wof:geomhash": "b1aee21d7e945bb4948c81585ff4ca04",
     "wof:hierarchy": [
@@ -185,7 +185,7 @@
       }
     ],
     "wof:id": 1377455129,
-    "wof:lastmodified": 1716190646,
+    "wof:lastmodified": 1716311848,
     "wof:name": "Mujer Pegada, No. 4",
     "wof:parent_id": -4,
     "wof:placetype": "media",
