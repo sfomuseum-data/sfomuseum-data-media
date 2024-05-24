@@ -162,10 +162,13 @@
       }
     ],
     "wof:id": 1377043355,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Boomerang\"",
     "wof:parent_id": 1226611157,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

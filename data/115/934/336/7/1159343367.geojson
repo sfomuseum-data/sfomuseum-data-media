@@ -218,10 +218,13 @@
       }
     ],
     "wof:id": 1159343367,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"A Radiant Light: The Artistry of Louis C. Tiffany\"",
     "wof:parent_id": 1159160509,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -221,10 +221,13 @@
       }
     ],
     "wof:id": 1159341803,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"A Potter’s Life: Marguerite Wildenhain at Pond Farm\"",
     "wof:parent_id": 1159160559,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -177,10 +177,13 @@
       }
     ],
     "wof:id": 1729959699,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"Surf’s Up! Instrumental Rock n’ Roll\"",
     "wof:parent_id": 1729842105,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

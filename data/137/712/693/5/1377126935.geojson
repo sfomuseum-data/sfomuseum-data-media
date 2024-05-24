@@ -185,10 +185,13 @@
       }
     ],
     "wof:id": 1377126935,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"America’s Cup, Sailing for International Sport’s Greatest Trophy 1851-1937\"",
     "wof:parent_id": 1159160349,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

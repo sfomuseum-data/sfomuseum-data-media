@@ -159,10 +159,13 @@
       }
     ],
     "wof:id": 1377020135,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Barbie® Takes A Vacation to Exotic Places\"",
     "wof:parent_id": 1226603769,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

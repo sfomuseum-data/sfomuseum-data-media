@@ -165,10 +165,13 @@
       }
     ],
     "wof:id": 1377463035,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Streamlines: Aerodynamic Consumer Designs for the Air Age\"",
     "wof:parent_id": 1377462865,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

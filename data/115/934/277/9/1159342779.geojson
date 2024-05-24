@@ -218,10 +218,13 @@
       }
     ],
     "wof:id": 1159342779,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"Pacific Coast League: The West Coast’s Major League 1903-1957\"",
     "wof:parent_id": 1159160019,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

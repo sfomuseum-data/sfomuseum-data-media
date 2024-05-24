@@ -177,10 +177,13 @@
       }
     ],
     "wof:id": 1729959547,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"Hair Style\"",
     "wof:parent_id": 1729842179,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

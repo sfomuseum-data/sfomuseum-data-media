@@ -199,10 +199,13 @@
       }
     ],
     "wof:id": 1377126593,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Pixar’s Toy Story\"",
     "wof:parent_id": 1159160551,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -204,10 +204,13 @@
       }
     ],
     "wof:id": 1159343139,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"Studio Glass, The Art of Marvin Lipofsky, Richard Marquis, John Lewis and Elin Christopherson\"",
     "wof:parent_id": 1159160515,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

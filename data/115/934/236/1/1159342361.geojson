@@ -221,10 +221,13 @@
       }
     ],
     "wof:id": 1159342361,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Classic Monsters: The Kirk Hammett Collection\"",
     "wof:parent_id": 1159160523,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

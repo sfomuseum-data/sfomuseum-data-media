@@ -249,10 +249,13 @@
       }
     ],
     "wof:id": 1159343279,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"Doors: Entryways to World Culture\"",
     "wof:parent_id": 1159160377,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

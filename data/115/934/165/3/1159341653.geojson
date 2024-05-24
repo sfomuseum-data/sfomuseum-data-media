@@ -265,10 +265,13 @@
       }
     ],
     "wof:id": 1159341653,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Installation view of \"The Tushanwan Pagodas: Models from the 1915 Panama-Pacific International Exposition\"",
     "wof:parent_id": 1159160547,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": [],

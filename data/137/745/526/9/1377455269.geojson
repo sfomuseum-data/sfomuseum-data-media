@@ -234,10 +234,13 @@
       }
     ],
     "wof:id": 1377455269,
-    "wof:lastmodified": 1716450100,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Pond in Golden Gate Park",
     "wof:parent_id": -4,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

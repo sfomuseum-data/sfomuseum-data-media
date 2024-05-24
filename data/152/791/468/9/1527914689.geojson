@@ -171,10 +171,13 @@
       }
     ],
     "wof:id": 1527914689,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Above the Bay: The Aerial Photography of Stanley Page\"",
     "wof:parent_id": 1495157237,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -164,10 +164,13 @@
       }
     ],
     "wof:id": 1377126563,
-    "wof:lastmodified": 1695073619,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"Jeff Devine: 1970s Surf Photography\"",
     "wof:parent_id": 1159160721,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -160,10 +160,13 @@
       }
     ],
     "wof:id": 1377455303,
-    "wof:lastmodified": 1617820389,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 772974353,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [
       1377455177

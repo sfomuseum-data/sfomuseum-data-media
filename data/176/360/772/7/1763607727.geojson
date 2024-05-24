@@ -172,10 +172,13 @@
       }
     ],
     "wof:id": 1763607727,
-    "wof:lastmodified": 1695073620,
+    "wof:lastmodified": 1716594321,
     "wof:name": "Installation view of \"From Pineapple to Piña: A Philippine Textile Treasure\"",
     "wof:parent_id": 1763594995,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []

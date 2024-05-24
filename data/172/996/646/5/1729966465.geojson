@@ -229,10 +229,13 @@
       }
     ],
     "wof:id": 1729966465,
-    "wof:lastmodified": 1716450100,
+    "wof:lastmodified": 1716594320,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": -4,
     "wof:placetype": "media",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []
