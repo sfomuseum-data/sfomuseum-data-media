@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457598,
     "wof:depicts": [
-      102527513,
-      772974591
+      772974591,
+      102527513
     ],
     "wof:geomhash": "182f405412a146ff7360c01772cda348",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455235,
-    "wof:lastmodified": 1716968307,
+    "wof:lastmodified": 1717054852,
     "wof:name": "Fly, Flight, Fugit",
     "wof:parent_id": -4,
     "wof:placetype": "media",
