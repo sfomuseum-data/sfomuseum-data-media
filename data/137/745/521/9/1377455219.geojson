@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457587,
     "wof:depicts": [
-      102527513,
-      772975163
+      772975163,
+      102527513
     ],
     "wof:geomhash": "afa3155255a988bc01925a6d767cacbc",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455219,
-    "wof:lastmodified": 1718350852,
+    "wof:lastmodified": 1718437250,
     "wof:name": "Horse of Another Color",
     "wof:parent_id": -4,
     "wof:placetype": "media",
