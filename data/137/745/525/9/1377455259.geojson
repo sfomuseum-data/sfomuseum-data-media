@@ -153,8 +153,8 @@
     "wof:country": "US",
     "wof:created": 1555457629,
     "wof:depicts": [
-      772974373,
-      102527513
+      102527513,
+      772974373
     ],
     "wof:geomhash": "fdfb63f489167c37a00981cb1a95b42c",
     "wof:hierarchy": [
@@ -254,7 +254,7 @@
       }
     ],
     "wof:id": 1377455259,
-    "wof:lastmodified": 1718782821,
+    "wof:lastmodified": 1718955621,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": -4,
     "wof:placetype": "media",
