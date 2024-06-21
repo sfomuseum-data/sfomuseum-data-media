@@ -133,8 +133,8 @@
     "wof:country": "US",
     "wof:created": 1555457659,
     "wof:depicts": [
-      102527513,
-      772974809
+      772974809,
+      102527513
     ],
     "wof:geomhash": "6df00b9fb06eb12f78fa7c9a57c395af",
     "wof:hierarchy": [
@@ -197,7 +197,7 @@
       }
     ],
     "wof:id": 1377455289,
-    "wof:lastmodified": 1718782820,
+    "wof:lastmodified": 1718955621,
     "wof:name": "Death Valley II",
     "wof:parent_id": -4,
     "wof:placetype": "media",
