@@ -152,8 +152,8 @@
     "wof:country": "US",
     "wof:created": 1555457559,
     "wof:depicts": [
-      772974725,
-      102527513
+      102527513,
+      772974725
     ],
     "wof:geomhash": "c23f917d27d42abf4c774a191fc23da2",
     "wof:hierarchy": [
@@ -251,7 +251,7 @@
       }
     ],
     "wof:id": 1377455189,
-    "wof:lastmodified": 1718955621,
+    "wof:lastmodified": 1719042124,
     "wof:name": "Homage to Zane Grey",
     "wof:parent_id": -4,
     "wof:placetype": "media",
