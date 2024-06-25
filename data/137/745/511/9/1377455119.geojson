@@ -146,8 +146,8 @@
     "wof:country": "US",
     "wof:created": 1555457330,
     "wof:depicts": [
-      772975627,
-      102527513
+      102527513,
+      772975627
     ],
     "wof:geomhash": "3b1c858ecb89a7cddd6b121bc7e8f990",
     "wof:hierarchy": [
@@ -165,6 +165,30 @@
         "wing_id": 1159396121
       },
       {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "media_id": 1377455119,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477874017,
+        "wing_id": 1477855607
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "media_id": 1377455119,
+        "region_id": 85688637,
+        "venue_id": 1477874017,
+        "wing_id": 1477855607
+      },
+      {
         "building_id": 1729792387,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -207,34 +231,10 @@
         "media_id": 1377455119,
         "region_id": 85688637,
         "venue_id": 1745903825
-      },
-      {
-        "building_id": 1477855605,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102087579,
-        "locality_id": 85922583,
-        "media_id": 1377455119,
-        "postalcode_id": 554784711,
-        "region_id": 85688637,
-        "venue_id": 1477874017,
-        "wing_id": 1477855607
-      },
-      {
-        "building_id": 1477855605,
-        "campus_id": 102527513,
-        "continent_id": 102191575,
-        "country_id": 85633793,
-        "county_id": 102085387,
-        "media_id": 1377455119,
-        "region_id": 85688637,
-        "venue_id": 1477874017,
-        "wing_id": 1477855607
       }
     ],
     "wof:id": 1377455119,
-    "wof:lastmodified": 1719214841,
+    "wof:lastmodified": 1719301294,
     "wof:name": "Air Over Under",
     "wof:parent_id": -4,
     "wof:placetype": "media",
