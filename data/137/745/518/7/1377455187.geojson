@@ -157,8 +157,8 @@
     "wof:country": "US",
     "wof:created": 1555457558,
     "wof:depicts": [
-      1159162793,
-      102527513
+      102527513,
+      1159162793
     ],
     "wof:geomhash": "2358521315cffaf1a1fcf09158f2ff31",
     "wof:hierarchy": [
@@ -284,7 +284,7 @@
       }
     ],
     "wof:id": 1377455187,
-    "wof:lastmodified": 1723016582,
+    "wof:lastmodified": 1723102928,
     "wof:name": "Strangerhood",
     "wof:parent_id": -4,
     "wof:placetype": "media",
