@@ -156,8 +156,8 @@
     "wof:country": "US",
     "wof:created": 1555457512,
     "wof:depicts": [
-      772975229,
-      102527513
+      102527513,
+      772975229
     ],
     "wof:geomhash": "5f9461e97e353c01a37296417ec0333e",
     "wof:hierarchy": [
@@ -281,7 +281,7 @@
       }
     ],
     "wof:id": 1377455137,
-    "wof:lastmodified": 1723660336,
+    "wof:lastmodified": 1723707071,
     "wof:name": "Torso",
     "wof:parent_id": -4,
     "wof:placetype": "media",
