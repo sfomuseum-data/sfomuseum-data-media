@@ -1,0 +1,219 @@
+{
+  "id": 1930857659,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-01-07",
+    "date:cessation_upper": "2024-01-07",
+    "date:inception_lower": "2023-02-25",
+    "date:inception_upper": "2023-02-25",
+    "edtf:cessation": "2024-01-07",
+    "edtf:inception": "2023-02-25",
+    "geom:area": 0,
+    "geom:bbox": "-122.388961,37.615659,-122.388961,37.615659",
+    "geom:latitude": 37.61565856860682,
+    "geom:longitude": -122.38896089727054,
+    "iso:country": "US",
+    "media:created": 1678391240,
+    "media:fingerprint": "d70f489cd20690cc08e9804b5aaaea35d80aefae",
+    "media:imagehash_avg": "a:ffbf0f01000107ff",
+    "media:imagehash_diff": "d:83717f5fdb5f7f9d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#b0593b",
+          "name": "#b0593b",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#748b9d",
+          "name": "#748b9d",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#aeb9c7",
+          "name": "#aeb9c7",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#423c3e",
+          "name": "#423c3e",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "LpnZe0FQmSvJU6Q4VshfsHJ9QAN4Kpkz",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "wTfXE3nyklfsudnAXfzhlRWz7m0dHtkR",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/085/765/9/1930857659_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1863420875,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588469,
+      102191575,
+      85633793,
+      102087579,
+      1763588545,
+      1863420875,
+      85922583,
+      554784711,
+      85688637,
+      1763588369,
+      102085387,
+      1763588543
+    ],
+    "wof:country": "US",
+    "wof:created": 1724882559,
+    "wof:depicts": [
+      1763588369,
+      1763588469,
+      1763588545,
+      1763588543,
+      1863420875,
+      1763588121
+    ],
+    "wof:geomhash": "7095958733f962919b26b48d53570f56",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588545,
+        "installation_id": 1863420875,
+        "locality_id": 85922583,
+        "media_id": 1930857659,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588545,
+        "installation_id": 1863420875,
+        "media_id": 1930857659,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588543,
+        "installation_id": 1863420875,
+        "locality_id": 85922583,
+        "media_id": 1930857659,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588543,
+        "installation_id": 1863420875,
+        "media_id": 1930857659,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1930857659,
+    "wof:lastmodified": 1724882616,
+    "wof:name": "Installation view of \"San Francisco Ballet at 90\"",
+    "wof:parent_id": 1863420875,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38896089727054,
+    37.61565856860682,
+    -122.38896089727054,
+    37.61565856860682
+  ],
+  "geometry": {"coordinates":[-122.38896089727054,37.61565856860682],"type":"Point"}
+}
