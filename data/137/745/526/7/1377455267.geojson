@@ -151,8 +151,8 @@
     "wof:country": "US",
     "wof:created": 1555457637,
     "wof:depicts": [
-      102527513,
-      772975259
+      772975259,
+      102527513
     ],
     "wof:geomhash": "60a7a468ed62a4efb499b322535dc075",
     "wof:hierarchy": [
@@ -276,7 +276,7 @@
       }
     ],
     "wof:id": 1377455267,
-    "wof:lastmodified": 1724743939,
+    "wof:lastmodified": 1724830344,
     "wof:name": "Stacking Stones",
     "wof:parent_id": -4,
     "wof:placetype": "media",
