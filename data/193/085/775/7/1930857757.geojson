@@ -1,0 +1,189 @@
+{
+  "id": 1930857757,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-06-02",
+    "date:cessation_upper": "2024-06-02",
+    "date:inception_lower": "2023-11-04",
+    "date:inception_upper": "2023-11-04",
+    "edtf:cessation": "2024-06-02",
+    "edtf:inception": "2023-11-04",
+    "geom:area": 0,
+    "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
+    "geom:latitude": 37.613892603964324,
+    "geom:longitude": -122.38515721248761,
+    "iso:country": "US",
+    "media:created": 1699274508,
+    "media:fingerprint": "a1325027772d84308d4478f90a1735a0eedb0695",
+    "media:imagehash_avg": "a:0040666707667070",
+    "media:imagehash_diff": "d:5cdcdcdcdcccc0c7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#f8e7d7",
+          "name": "#f8e7d7",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#8c7770",
+          "name": "#8c7770",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#c8b8ac",
+          "name": "#c8b8ac",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#533d38",
+          "name": "#533d38",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 960
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 750
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 750
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 1920
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 300
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2880,
+          "mimetype": "image/jpeg",
+          "secret": "xKnDHcTrVuw7L9v7NlDmqKnYMhXHesEQ",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "fHiCZT9q0mM9LytHwFGVL8AFafjuwhRW",
+          "width": 600
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/085/775/7/1930857757_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1880827031,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588177,
+      102191575,
+      85633793,
+      102087579,
+      1763588501,
+      1880827031,
+      85922583,
+      554784711,
+      85688637,
+      1763588175,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1724882748,
+    "wof:depicts": [
+      1763588175,
+      1763588177,
+      1763588501,
+      1880827031,
+      1763588121
+    ],
+    "wof:geomhash": "981f541dcf5eb1835ce819657df66b4e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588501,
+        "installation_id": 1880827031,
+        "locality_id": 85922583,
+        "media_id": 1930857757,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588175
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588177,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588501,
+        "installation_id": 1880827031,
+        "media_id": 1930857757,
+        "region_id": 85688637,
+        "wing_id": 1763588175
+      }
+    ],
+    "wof:id": 1930857757,
+    "wof:lastmodified": 1724882810,
+    "wof:name": "Installation view of \"Kay Sekimachi: A Tradition of Weaving\"",
+    "wof:parent_id": 1880827031,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38515721248761,
+    37.613892603964324,
+    -122.38515721248761,
+    37.613892603964324
+  ],
+  "geometry": {"coordinates":[-122.38515721248761,37.613892603964324],"type":"Point"}
+}
