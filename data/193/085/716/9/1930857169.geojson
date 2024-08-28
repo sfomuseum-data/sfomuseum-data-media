@@ -1,0 +1,194 @@
+{
+  "id": 1930857169,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "date:inception_lower": "2023-08-19",
+    "date:inception_upper": "2023-08-19",
+    "edtf:cessation": "2024-06-17",
+    "edtf:inception": "2023-08-19",
+    "geom:area": 0,
+    "geom:bbox": "-122.389718,37.616529,-122.389718,37.616529",
+    "geom:latitude": 37.616528705005116,
+    "geom:longitude": -122.38971793359582,
+    "iso:country": "US",
+    "media:created": 1692184123,
+    "media:fingerprint": "9c3e9a4733865a263930bbd9f737bb3518d5c1b1",
+    "media:imagehash_avg": "a:1f19080f0707070f",
+    "media:imagehash_diff": "d:7ff16939effeffdf",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#cb441c",
+          "name": "#cb441c",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#e38b54",
+          "name": "#e38b54",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#0e335f",
+          "name": "#0e335f",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#af7253",
+          "name": "#af7253",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#d0cab1",
+          "name": "#d0cab1",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 614
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 480
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 480
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 1228
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 192
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3600,
+          "mimetype": "image/jpeg",
+          "secret": "0EFW378OHvLM6qQcp01LkC1iwcsum7sN",
+          "width": 2880
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "ywnv1ci83du0z1TkbRjJWOTblAI0LaTb",
+          "width": 384
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/085/716/9/1930857169_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1880159351,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588469,
+      102191575,
+      85633793,
+      102087579,
+      1763588553,
+      1880159351,
+      85922583,
+      554784711,
+      85688637,
+      1763588369,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1724876163,
+    "wof:depicts": [
+      1763588553,
+      1880159351,
+      1763588121,
+      1763588369,
+      1763588469
+    ],
+    "wof:geomhash": "afa44bde6aa2d3e712512e81dcf51987",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588553,
+        "installation_id": 1880159351,
+        "locality_id": 85922583,
+        "media_id": 1930857169,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588553,
+        "installation_id": 1880159351,
+        "media_id": 1930857169,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1930857169,
+    "wof:lastmodified": 1724876223,
+    "wof:name": "Installation view of \"The Enduring Spirit of Haitian Metal Sculpture\"",
+    "wof:parent_id": 1880159351,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38971793359582,
+    37.616528705005116,
+    -122.38971793359582,
+    37.616528705005116
+  ],
+  "geometry": {"coordinates":[-122.38971793359582,37.616528705005116],"type":"Point"}
+}
