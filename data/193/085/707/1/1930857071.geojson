@@ -1,0 +1,192 @@
+{
+  "id": 1930857071,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "geom:area": 0,
+    "geom:bbox": "-122.384673,37.612926,-122.384673,37.612926",
+    "geom:latitude": 37.61292608946352,
+    "geom:longitude": -122.38467290046805,
+    "iso:country": "US",
+    "media:created": 1715618456,
+    "media:fingerprint": "49ec34198c611ec7eb6dafdcf1c618e66ab1888e",
+    "media:imagehash_avg": "a:7f7f7e0c38727272",
+    "media:imagehash_diff": "d:fcfcbcf8e2f6c6c6",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#1db3d0",
+          "name": "#1db3d0",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#68b0c3",
+          "name": "#68b0c3",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#9c7d6c",
+          "name": "#9c7d6c",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#c1b191",
+          "name": "#c1b191",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#424747",
+          "name": "#424747",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "YMO8b1wC0HaG9FMFbBpsOBlfCBfnr5HI",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "poYjlLt2PEuE2uAErqO3MzF1PRSvfnyu",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/085/707/1/1930857071_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1914632799,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601199,
+      102191575,
+      85633793,
+      102087579,
+      1914601261,
+      1914632799,
+      85922583,
+      554784711,
+      85688637,
+      1914601197,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1724868705,
+    "wof:depicts": [
+      1914601197,
+      1914601199,
+      1914601261,
+      1914632799,
+      1914600839
+    ],
+    "wof:geomhash": "641a9fb2178f9dd73babd519f9e25d8d",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914601261,
+        "installation_id": 1914632799,
+        "locality_id": 85922583,
+        "media_id": 1930857071,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914601261,
+        "installation_id": 1914632799,
+        "media_id": 1930857071,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1930857071,
+    "wof:lastmodified": 1724868784,
+    "wof:name": "Installation view of \"The Art of the African Instrument\"",
+    "wof:parent_id": 1914632799,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38467290046805,
+    37.61292608946352,
+    -122.38467290046805,
+    37.61292608946352
+  ],
+  "geometry": {"coordinates":[-122.38467290046805,37.61292608946352],"type":"Point"}
+}
