@@ -1,0 +1,194 @@
+{
+  "id": 1930848879,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2025-05-11",
+    "date:cessation_upper": "2025-05-11",
+    "date:inception_lower": "2024-07-20",
+    "date:inception_upper": "2024-07-20",
+    "edtf:cessation": "2025-05-11",
+    "edtf:inception": "2024-07-20",
+    "geom:area": 0,
+    "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
+    "geom:latitude": 37.613892603964324,
+    "geom:longitude": -122.38515721248761,
+    "iso:country": "US",
+    "media:created": 1721765405,
+    "media:fingerprint": "78e979deed8f031721389ccbbe00484e40f06a64",
+    "media:imagehash_avg": "a:070f4f431e0f0701",
+    "media:imagehash_diff": "d:ec9c9a9ab29ccee3",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#25c5ab",
+          "name": "#25c5ab",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#f6dbbf",
+          "name": "#f6dbbf",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#6f2f25",
+          "name": "#6f2f25",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#967062",
+          "name": "#967062",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#d9c0aa",
+          "name": "#d9c0aa",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "nqpCO3NCL4jd3L2HwxncF0APhCVNDpAq",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "OxIw9wf4kOmpm07vEeamcJbekIY7VUCt",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/084/887/9/1930848879_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1914663671,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1914600839,
+      102527513,
+      1914601199,
+      102191575,
+      85633793,
+      102087579,
+      1914601263,
+      1914663671,
+      85922583,
+      554784711,
+      85688637,
+      1914601197,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1724806948,
+    "wof:depicts": [
+      1914601199,
+      1914601263,
+      1914663671,
+      1914600839,
+      1914601197
+    ],
+    "wof:geomhash": "981f541dcf5eb1835ce819657df66b4e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1914601263,
+        "installation_id": 1914663671,
+        "locality_id": 85922583,
+        "media_id": 1930848879,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1914601263,
+        "installation_id": 1914663671,
+        "media_id": 1930848879,
+        "region_id": 85688637,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1930848879,
+    "wof:lastmodified": 1724807012,
+    "wof:name": "Installation view of \"Rosie the Riveter: Womanpower in Wartime\"",
+    "wof:parent_id": 1914663671,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38515721248761,
+    37.613892603964324,
+    -122.38515721248761,
+    37.613892603964324
+  ],
+  "geometry": {"coordinates":[-122.38515721248761,37.613892603964324],"type":"Point"}
+}
