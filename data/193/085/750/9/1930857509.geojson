@@ -1,0 +1,194 @@
+{
+  "id": 1930857509,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "date:inception_lower": "2023-05-06",
+    "date:inception_upper": "2023-05-06",
+    "edtf:cessation": "2024-06-17",
+    "edtf:inception": "2023-05-06",
+    "geom:area": 0,
+    "geom:bbox": "-122.382108,37.617417,-122.382108,37.617417",
+    "geom:latitude": 37.61741735957677,
+    "geom:longitude": -122.38210800323661,
+    "iso:country": "US",
+    "media:created": 1684435148,
+    "media:fingerprint": "8159eecfe17e62bcdd9563b93c4d52658ce26ccb",
+    "media:imagehash_avg": "a:fff9f8b8e1e3f1ff",
+    "media:imagehash_diff": "d:233331294fc74347",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#d2012d",
+          "name": "#d2012d",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#caa380",
+          "name": "#caa380",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#7b0215",
+          "name": "#7b0215",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#a98268",
+          "name": "#a98268",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#cfb99f",
+          "name": "#cfb99f",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 960
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 750
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 750
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 1920
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 300
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2880,
+          "mimetype": "image/jpeg",
+          "secret": "l2J8De8iAYCIW1mxIR65D2iHynX57Zgp",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "45Ohz4f2f8fF6yGJ3v8yReDGl1shxG3e",
+          "width": 600
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/085/750/9/1930857509_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1863623795,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588125,
+      102191575,
+      85633793,
+      102087579,
+      1763588487,
+      1863623795,
+      85922583,
+      554784711,
+      85688637,
+      1763588123,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1724877849,
+    "wof:depicts": [
+      1763588125,
+      1763588487,
+      1863623795,
+      1763588121,
+      1763588123
+    ],
+    "wof:geomhash": "60e237fd947fe57c97780432b6be6573",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588125,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588487,
+        "installation_id": 1863623795,
+        "locality_id": 85922583,
+        "media_id": 1930857509,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588123
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588125,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588487,
+        "installation_id": 1863623795,
+        "media_id": 1930857509,
+        "region_id": 85688637,
+        "wing_id": 1763588123
+      }
+    ],
+    "wof:id": 1930857509,
+    "wof:lastmodified": 1724877900,
+    "wof:name": "Installation view of \"Recollections... from the Unknown Museum\"",
+    "wof:parent_id": 1863623795,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38210800323661,
+    37.61741735957677,
+    -122.38210800323661,
+    37.61741735957677
+  ],
+  "geometry": {"coordinates":[-122.38210800323661,37.61741735957677],"type":"Point"}
+}
