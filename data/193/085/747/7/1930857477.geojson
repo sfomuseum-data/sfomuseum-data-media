@@ -1,0 +1,194 @@
+{
+  "id": 1930857477,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-02-04",
+    "date:cessation_upper": "2024-02-04",
+    "date:inception_lower": "2023-06-10",
+    "date:inception_upper": "2023-06-10",
+    "edtf:cessation": "2024-02-04",
+    "edtf:inception": "2023-06-10",
+    "geom:area": 0,
+    "geom:bbox": "-122.388973,37.614601,-122.388973,37.614601",
+    "geom:latitude": 37.614601366959555,
+    "geom:longitude": -122.38897295514269,
+    "iso:country": "US",
+    "media:created": 1686335878,
+    "media:fingerprint": "b46095399dd08f6b317bc6d08fc3533a6f3a6321",
+    "media:imagehash_avg": "a:fce6e6cc071c1800",
+    "media:imagehash_diff": "d:610c0c1c7f71f1d9",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#f35042",
+          "name": "#f35042",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#b43431",
+          "name": "#b43431",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#ac6e59",
+          "name": "#ac6e59",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#c4bfba",
+          "name": "#c4bfba",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#544540",
+          "name": "#544540",
+          "reference": "vibrant"
+        }
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 800
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 800
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1365,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 2048
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "bYweyVHErYkehbk14fJwuZdHgWdMz85W",
+          "width": 3600
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "uW0TZ9FYdwhcWjfkh9rNnt3049fAUBVl",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "media:uri_template": "https://static.sfomuseum.org/media/193/085/747/7/1930857477_{secret}_{label}.{extention}",
+    "mz:is_approximate": 1,
+    "sfomuseum:exhibition_id": 1863768517,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1763588121,
+      102527513,
+      1763588469,
+      102191575,
+      85633793,
+      102087579,
+      1763588551,
+      1863768517,
+      85922583,
+      554784711,
+      85688637,
+      1763588369,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1724877253,
+    "wof:depicts": [
+      1763588121,
+      1763588369,
+      1763588469,
+      1763588551,
+      1863768517
+    ],
+    "wof:geomhash": "7a89c13aee929c67dd23f1222d438b7e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "enclosure_id": 1763588551,
+        "installation_id": 1863768517,
+        "locality_id": 85922583,
+        "media_id": 1930857477,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "enclosure_id": 1763588551,
+        "installation_id": 1863768517,
+        "media_id": 1930857477,
+        "region_id": 85688637,
+        "wing_id": 1763588369
+      }
+    ],
+    "wof:id": 1930857477,
+    "wof:lastmodified": 1724877293,
+    "wof:name": "Installation view of \"A New Woman: Clara Barck Welles’ Influence on Arts and Crafts Silver\"",
+    "wof:parent_id": 1863768517,
+    "wof:placetype": "media",
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38897295514269,
+    37.614601366959555,
+    -122.38897295514269,
+    37.614601366959555
+  ],
+  "geometry": {"coordinates":[-122.38897295514269,37.614601366959555],"type":"Point"}
+}
