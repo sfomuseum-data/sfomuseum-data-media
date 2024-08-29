@@ -148,8 +148,8 @@
     "wof:country": "US",
     "wof:created": 1555457664,
     "wof:depicts": [
-      772974583,
-      102527513
+      102527513,
+      772974583
     ],
     "wof:geomhash": "ee5428ca70ade116af62d352bcb62211",
     "wof:hierarchy": [
@@ -286,7 +286,7 @@
       }
     ],
     "wof:id": 1377455293,
-    "wof:lastmodified": 1724830345,
+    "wof:lastmodified": 1724916728,
     "wof:name": "Topograph I and II",
     "wof:parent_id": -4,
     "wof:placetype": "media",
