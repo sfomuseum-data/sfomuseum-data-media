@@ -145,8 +145,8 @@
     "wof:country": "US",
     "wof:created": 1555457666,
     "wof:depicts": [
-      772975671,
-      102527513
+      102527513,
+      772975671
     ],
     "wof:geomhash": "d50ec9d66367665121007335eda62031",
     "wof:hierarchy": [
@@ -213,7 +213,7 @@
       }
     ],
     "wof:id": 1377455295,
-    "wof:lastmodified": 1725521556,
+    "wof:lastmodified": 1725607947,
     "wof:name": "Martha H",
     "wof:parent_id": -4,
     "wof:placetype": "media",
