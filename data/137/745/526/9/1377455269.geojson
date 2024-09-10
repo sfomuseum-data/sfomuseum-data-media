@@ -155,8 +155,8 @@
     "wof:country": "US",
     "wof:created": 1555457640,
     "wof:depicts": [
-      102527513,
-      1360702199
+      1360702199,
+      102527513
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
@@ -264,7 +264,7 @@
       }
     ],
     "wof:id": 1377455269,
-    "wof:lastmodified": 1725898845,
+    "wof:lastmodified": 1725953646,
     "wof:name": "Pond in Golden Gate Park",
     "wof:parent_id": -4,
     "wof:placetype": "media",
