@@ -147,8 +147,8 @@
     "wof:country": "US",
     "wof:created": 1555457552,
     "wof:depicts": [
-      772975121,
-      102527513
+      102527513,
+      772975121
     ],
     "wof:geomhash": "efd612d259894dc610c129a594d32ecd",
     "wof:hierarchy": [
@@ -274,7 +274,7 @@
       }
     ],
     "wof:id": 1377455179,
-    "wof:lastmodified": 1728027322,
+    "wof:lastmodified": 1728113706,
     "wof:name": "Namoo House",
     "wof:parent_id": -4,
     "wof:placetype": "media",
