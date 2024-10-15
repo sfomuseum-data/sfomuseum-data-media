@@ -147,8 +147,8 @@
     "wof:country": "US",
     "wof:created": 1555457548,
     "wof:depicts": [
-      102527513,
-      772975243
+      772975243,
+      102527513
     ],
     "wof:geomhash": "4466feab57f545898f94a2f7fa5ac9f1",
     "wof:hierarchy": [
@@ -274,7 +274,7 @@
       }
     ],
     "wof:id": 1377455171,
-    "wof:lastmodified": 1728891042,
+    "wof:lastmodified": 1728977576,
     "wof:name": "Anemone",
     "wof:parent_id": -4,
     "wof:placetype": "media",
