@@ -157,8 +157,8 @@
     "wof:country": "US",
     "wof:created": 1555457575,
     "wof:depicts": [
-      102527513,
-      772975385
+      772975385,
+      102527513
     ],
     "wof:geomhash": "472c2cc173d23f6cb3dc8c729cca52a6",
     "wof:hierarchy": [
@@ -284,7 +284,7 @@
       }
     ],
     "wof:id": 1377455201,
-    "wof:lastmodified": 1731140817,
+    "wof:lastmodified": 1731313663,
     "wof:name": "Billboard Series",
     "wof:parent_id": -4,
     "wof:placetype": "media",
