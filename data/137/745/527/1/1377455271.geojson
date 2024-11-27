@@ -141,8 +141,8 @@
     "wof:country": "US",
     "wof:created": 1555457644,
     "wof:depicts": [
-      772975331,
-      102527513
+      102527513,
+      772975331
     ],
     "wof:geomhash": "4b192e093a043e89ede93b806ce82054",
     "wof:hierarchy": [
@@ -183,7 +183,7 @@
       }
     ],
     "wof:id": 1377455271,
-    "wof:lastmodified": 1732610166,
+    "wof:lastmodified": 1732696534,
     "wof:name": "Petanque et St Savin IV",
     "wof:parent_id": -4,
     "wof:placetype": "media",
