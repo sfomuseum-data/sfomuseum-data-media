@@ -158,8 +158,8 @@
     "wof:country": "US",
     "wof:created": 1555457547,
     "wof:depicts": [
-      772975761,
-      102527513
+      102527513,
+      772975761
     ],
     "wof:geomhash": "74ed97d4b2384c6614480bde2d901f80",
     "wof:hierarchy": [
@@ -306,7 +306,7 @@
       }
     ],
     "wof:id": 1377455169,
-    "wof:lastmodified": 1733265195,
+    "wof:lastmodified": 1733301350,
     "wof:name": "Hitwood",
     "wof:parent_id": -4,
     "wof:placetype": "media",
