@@ -146,8 +146,8 @@
     "wof:country": "US",
     "wof:created": 1555457498,
     "wof:depicts": [
-      772975759,
-      102527513
+      102527513,
+      772975759
     ],
     "wof:geomhash": "e6a46e8506f959749b899985a8c0c7f0",
     "wof:hierarchy": [
@@ -215,7 +215,7 @@
       }
     ],
     "wof:id": 1377455125,
-    "wof:lastmodified": 1733733387,
+    "wof:lastmodified": 1733819808,
     "wof:name": "Conquest of Space",
     "wof:parent_id": -4,
     "wof:placetype": "media",
