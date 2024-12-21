@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457578,
     "wof:depicts": [
-      772975241,
-      102527513
+      102527513,
+      772975241
     ],
     "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy": [
@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455203,
-    "wof:lastmodified": 1734683539,
+    "wof:lastmodified": 1734769987,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": -4,
     "wof:placetype": "media",
