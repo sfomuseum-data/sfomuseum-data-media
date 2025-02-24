@@ -160,8 +160,8 @@
     "wof:country": "US",
     "wof:created": 1555457558,
     "wof:depicts": [
-      102527513,
-      772974541
+      772974541,
+      102527513
     ],
     "wof:geomhash": "65f2bbe697382730736049eac2d0fd4d",
     "wof:hierarchy": [
@@ -311,7 +311,7 @@
       }
     ],
     "wof:id": 1377455185,
-    "wof:lastmodified": 1740213086,
+    "wof:lastmodified": 1740385891,
     "wof:name": "The Journey #2",
     "wof:parent_id": -4,
     "wof:placetype": "media",
