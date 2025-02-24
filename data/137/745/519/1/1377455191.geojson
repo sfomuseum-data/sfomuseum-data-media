@@ -160,8 +160,8 @@
     "wof:country": "US",
     "wof:created": 1555457560,
     "wof:depicts": [
-      772975077,
-      102527513
+      102527513,
+      772975077
     ],
     "wof:geomhash": "bddfa20de226cb13d890bc8da3c47989",
     "wof:hierarchy": [
@@ -311,7 +311,7 @@
       }
     ],
     "wof:id": 1377455191,
-    "wof:lastmodified": 1740213086,
+    "wof:lastmodified": 1740385891,
     "wof:name": "The Peasant's Parade",
     "wof:parent_id": -4,
     "wof:placetype": "media",
