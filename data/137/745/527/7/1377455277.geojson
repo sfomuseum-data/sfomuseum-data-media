@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457651,
     "wof:depicts": [
-      772975117,
-      102527513
+      102527513,
+      772975117
     ],
     "wof:geomhash": "6f8dd6f6f354bcb88823529ef60fcccf",
     "wof:hierarchy": [
@@ -314,7 +314,7 @@
       }
     ],
     "wof:id": 1377455277,
-    "wof:lastmodified": 1740990940,
+    "wof:lastmodified": 1741077335,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": -4,
     "wof:placetype": "media",
