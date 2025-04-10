@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457582,
     "wof:depicts": [
-      102527513,
-      1159162807
+      1159162807,
+      102527513
     ],
     "wof:geomhash": "e83d79bc504e36dcf61c43071bfdb9f3",
     "wof:hierarchy": [
@@ -314,7 +314,7 @@
       }
     ],
     "wof:id": 1377455207,
-    "wof:lastmodified": 1744183888,
+    "wof:lastmodified": 1744270285,
     "wof:name": "Untitled (Large Variation)",
     "wof:parent_id": -4,
     "wof:placetype": "media",
