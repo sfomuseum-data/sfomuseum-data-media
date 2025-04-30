@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457526,
     "wof:depicts": [
-      102527513,
-      772975617
+      772975617,
+      102527513
     ],
     "wof:geomhash": "62f404249a176a100b2a68e8381d3d01",
     "wof:hierarchy": [
@@ -314,7 +314,7 @@
       }
     ],
     "wof:id": 1377455153,
-    "wof:lastmodified": 1745912141,
+    "wof:lastmodified": 1745998578,
     "wof:name": "Blue Deer",
     "wof:parent_id": -4,
     "wof:placetype": "media",

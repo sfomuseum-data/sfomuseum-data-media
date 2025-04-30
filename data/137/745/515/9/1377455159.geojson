@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457534,
     "wof:depicts": [
-      102527513,
-      772975239
+      772975239,
+      102527513
     ],
     "wof:geomhash": "81349cbbe596cd922c67825d42681e4f",
     "wof:hierarchy": [
@@ -314,7 +314,7 @@
       }
     ],
     "wof:id": 1377455159,
-    "wof:lastmodified": 1745912140,
+    "wof:lastmodified": 1745998578,
     "wof:name": "Flight Patterns",
     "wof:parent_id": -4,
     "wof:placetype": "media",
