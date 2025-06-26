@@ -152,8 +152,8 @@
     "wof:country": "US",
     "wof:created": 1555457584,
     "wof:depicts": [
-      102527513,
-      772974587
+      772974587,
+      102527513
     ],
     "wof:geomhash": "13c7e4b91165f2035f5a3e3c67695dfd",
     "wof:hierarchy": [
@@ -269,7 +269,7 @@
       }
     ],
     "wof:id": 1377455213,
-    "wof:lastmodified": 1750837174,
+    "wof:lastmodified": 1750923907,
     "wof:name": "Pohina",
     "wof:parent_id": -4,
     "wof:placetype": "media",
