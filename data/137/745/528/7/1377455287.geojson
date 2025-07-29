@@ -158,8 +158,8 @@
     "wof:country": "US",
     "wof:created": 1555457656,
     "wof:depicts": [
-      102527513,
-      772975365
+      772975365,
+      102527513
     ],
     "wof:geomhash": "1261a596df6c521505648e38eb53a90e",
     "wof:hierarchy": [
@@ -306,7 +306,7 @@
       }
     ],
     "wof:id": 1377455287,
-    "wof:lastmodified": 1753689268,
+    "wof:lastmodified": 1753775836,
     "wof:name": "The Great Transparents",
     "wof:parent_id": -4,
     "wof:placetype": "media",
