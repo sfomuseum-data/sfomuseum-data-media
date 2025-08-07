@@ -151,8 +151,8 @@
     "wof:country": "US",
     "wof:created": 1555457581,
     "wof:depicts": [
-      102527513,
-      1159162791
+      1159162791,
+      102527513
     ],
     "wof:geomhash": "50f72a458b4701486efd835cf6fdf05a",
     "wof:hierarchy": [
@@ -304,7 +304,7 @@
       }
     ],
     "wof:id": 1377455205,
-    "wof:lastmodified": 1754467191,
+    "wof:lastmodified": 1754553486,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": -4,
     "wof:placetype": "media",
