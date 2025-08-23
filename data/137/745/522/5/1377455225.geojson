@@ -158,8 +158,8 @@
     "wof:country": "US",
     "wof:created": 1555457591,
     "wof:depicts": [
-      102527513,
-      772974839
+      772974839,
+      102527513
     ],
     "wof:geomhash": "9ddcc541a4f7b1502f5b750182498e2d",
     "wof:hierarchy": [
@@ -306,7 +306,7 @@
       }
     ],
     "wof:id": 1377455225,
-    "wof:lastmodified": 1755849740,
+    "wof:lastmodified": 1755936245,
     "wof:name": "Untitled",
     "wof:parent_id": -4,
     "wof:placetype": "media",
