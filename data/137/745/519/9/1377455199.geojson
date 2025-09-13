@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457571,
     "wof:depicts": [
-      102527513,
-      772974445
+      772974445,
+      102527513
     ],
     "wof:geomhash": "5a11acfbc6d0c00ea78bc2ff21023831",
     "wof:hierarchy": [
@@ -314,7 +314,7 @@
       }
     ],
     "wof:id": 1377455199,
-    "wof:lastmodified": 1757662493,
+    "wof:lastmodified": 1757748950,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": -4,
     "wof:placetype": "media",
