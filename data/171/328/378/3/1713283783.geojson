@@ -145,20 +145,21 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1713283783,
         "enclosure_id": 1159157875,
+        "image_id": 1713283783,
         "installation_id": 1226604431,
         "locality_id": 85922583,
-        "media_id": 1713283783,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159554817
       }
     ],
     "wof:id": 1713283783,
-    "wof:lastmodified": 1716594320,
+    "wof:lastmodified": 1758132341,
     "wof:name": "Platform Shoes - History - 60’s Fashion - Today",
     "wof:parent_id": 1226604431,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
@@ -172,5 +173,5 @@
     -122.385472,
     37.613926
   ],
-  "geometry": {"coordinates":[-122.385472,37.613926],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.385472,37.613926]}
 }

@@ -10,8 +10,8 @@
     "edtf:inception": "2023-11-04",
     "geom:area": 0,
     "geom:bbox": "-122.385157,37.613893,-122.385157,37.613893",
-    "geom:latitude": 37.613892603964324,
-    "geom:longitude": -122.38515721248761,
+    "geom:latitude": 37.613893,
+    "geom:longitude": -122.385157,
     "iso:country": "US",
     "media:created": 1699273705,
     "media:fingerprint": "9ced8c30f422f067078eed2d9013e3646799cf7b",
@@ -144,7 +144,7 @@
       1763588175,
       1763588177
     ],
-    "wof:geomhash": "981f541dcf5eb1835ce819657df66b4e",
+    "wof:geomhash": "4393794f1f710cef3633c32bb32c852b",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -153,10 +153,10 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1930857773,
         "enclosure_id": 1763588501,
         "installation_id": 1880827031,
         "locality_id": 85922583,
-        "media_id": 1930857773,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588175
@@ -168,27 +168,27 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1930857773,
         "enclosure_id": 1763588501,
         "installation_id": 1880827031,
-        "media_id": 1930857773,
         "region_id": 85688637,
         "wing_id": 1763588175
       }
     ],
     "wof:id": 1930857773,
-    "wof:lastmodified": 1724882804,
+    "wof:lastmodified": 1758132342,
     "wof:name": "Installation view of \"Kay Sekimachi: A Tradition of Weaving\"",
     "wof:parent_id": 1880827031,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38515721248761,
-    37.613892603964324,
-    -122.38515721248761,
-    37.613892603964324
+    -122.385157,
+    37.613893,
+    -122.385157,
+    37.613893
   ],
-  "geometry": {"coordinates":[-122.38515721248761,37.613892603964324],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.385157,37.613893]}
 }

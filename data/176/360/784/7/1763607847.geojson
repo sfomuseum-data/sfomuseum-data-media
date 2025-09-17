@@ -10,8 +10,8 @@
     "edtf:inception": "2022-02-19",
     "geom:area": 0,
     "geom:bbox": "-122.388999,37.614603,-122.388999,37.614603",
-    "geom:latitude": 37.61460330113117,
-    "geom:longitude": -122.38899932815504,
+    "geom:latitude": 37.614603,
+    "geom:longitude": -122.388999,
     "iso:country": "US",
     "media:created": 1645055998,
     "media:fingerprint": "efd75485d76da79ba2f5031b65320c6c08ed1808",
@@ -145,7 +145,7 @@
       1763588369,
       1763588469
     ],
-    "wof:geomhash": "1c4785b8242119e1d973fab1b5c16cfe",
+    "wof:geomhash": "05f7fd2633242ba703c5dbecc8652966",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -154,10 +154,11 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1763607847,
         "enclosure_id": 1763588551,
+        "image_id": 1763607847,
         "installation_id": 1763594997,
         "locality_id": 85922583,
-        "media_id": 1763607847,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588369
@@ -169,18 +170,19 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1763607847,
         "enclosure_id": 1763588551,
+        "image_id": 1763607847,
         "installation_id": 1763594997,
-        "media_id": 1763607847,
         "region_id": 85688637,
         "wing_id": 1763588369
       }
     ],
     "wof:id": 1763607847,
-    "wof:lastmodified": 1716594320,
+    "wof:lastmodified": 1758132342,
     "wof:name": "Installation view of \"Zimbabwe Stone Sculpture\"",
     "wof:parent_id": 1763594997,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
@@ -189,10 +191,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38899932815504,
-    37.61460330113117,
-    -122.38899932815504,
-    37.61460330113117
+    -122.388999,
+    37.614603,
+    -122.388999,
+    37.614603
   ],
-  "geometry": {"coordinates":[-122.38899932815504,37.61460330113117],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.388999,37.614603]}
 }

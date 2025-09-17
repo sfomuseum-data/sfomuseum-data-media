@@ -161,10 +161,11 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1376912533,
         "enclosure_id": 1159157045,
+        "image_id": 1376912533,
         "installation_id": 1376812931,
         "locality_id": 85922583,
-        "media_id": 1376912533,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
@@ -176,20 +177,21 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1376912533,
         "enclosure_id": 1159157047,
+        "image_id": 1376912533,
         "installation_id": 1376812931,
         "locality_id": 85922583,
-        "media_id": 1376912533,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "wing_id": 1159157333
       }
     ],
     "wof:id": 1376912533,
-    "wof:lastmodified": 1716594321,
+    "wof:lastmodified": 1758132339,
     "wof:name": "Installation view of \"Reflections in Wood – Surfboards \u0026 Shapers\"",
     "wof:parent_id": 1376812931,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
@@ -204,5 +206,5 @@
     -122.389131,
     37.616029
   ],
-  "geometry": {"coordinates":[-122.389131,37.616029],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.389131,37.616029]}
 }
