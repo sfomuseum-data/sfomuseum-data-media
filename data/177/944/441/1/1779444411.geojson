@@ -10,8 +10,8 @@
     "edtf:inception": "2021-10-09",
     "geom:area": 0,
     "geom:bbox": "-122.388974,37.615663,-122.388974,37.615663",
-    "geom:latitude": 37.61566316540981,
-    "geom:longitude": -122.38897382834584,
+    "geom:latitude": 37.615663,
+    "geom:longitude": -122.388974,
     "iso:country": "US",
     "media:created": 1634386713,
     "media:fingerprint": "e036f19ab77f3aa06f4db4d524566a7b17d937de",
@@ -147,7 +147,7 @@
       1745882503,
       1746480487
     ],
-    "wof:geomhash": "58d9f89df21bc707c46bd60915d635b3",
+    "wof:geomhash": "da698cb6b48b2750fa5bad53df72ef20",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -156,7 +156,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1779444411,
         "enclosure_id": 1745882501,
+        "image_id": 1779444411,
         "installation_id": 1746480487,
         "locality_id": 85922583,
         "media_id": 1779444411,
@@ -171,7 +173,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1779444411,
         "enclosure_id": 1745882501,
+        "image_id": 1779444411,
         "installation_id": 1746480487,
         "media_id": 1779444411,
         "region_id": 85688637,
@@ -184,7 +188,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1779444411,
         "enclosure_id": 1745882503,
+        "image_id": 1779444411,
         "installation_id": 1746480487,
         "locality_id": 85922583,
         "media_id": 1779444411,
@@ -199,7 +205,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1779444411,
         "enclosure_id": 1745882503,
+        "image_id": 1779444411,
         "installation_id": 1746480487,
         "media_id": 1779444411,
         "region_id": 85688637,
@@ -207,10 +215,10 @@
       }
     ],
     "wof:id": 1779444411,
-    "wof:lastmodified": 1716594321,
+    "wof:lastmodified": 1758132342,
     "wof:name": "Installation view of \"The Victorian Papered Wall\"",
     "wof:parent_id": 1746480487,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
@@ -219,10 +227,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38897382834584,
-    37.61566316540981,
-    -122.38897382834584,
-    37.61566316540981
+    -122.388974,
+    37.615663,
+    -122.388974,
+    37.615663
   ],
-  "geometry": {"coordinates":[-122.38897382834584,37.61566316540981],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.388974,37.615663]}
 }

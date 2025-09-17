@@ -10,8 +10,8 @@
     "edtf:inception": "2021-07-31",
     "geom:area": 0,
     "geom:bbox": "-122.382112,37.617421,-122.382112,37.617421",
-    "geom:latitude": 37.617421155555235,
-    "geom:longitude": -122.38211197705529,
+    "geom:latitude": 37.617421,
+    "geom:longitude": -122.382112,
     "iso:country": "US",
     "media:created": 1627741410,
     "media:fingerprint": "adf87a83a511c8cc397d390b30e1e0fd35921f29",
@@ -140,7 +140,7 @@
       1746382265,
       1745882083
     ],
-    "wof:geomhash": "b83ae529bbc7fcbfd4eb9753fc65c8cb",
+    "wof:geomhash": "6d0afafe9d38e5809d07621c9f8d10df",
     "wof:hierarchy": [
       {
         "building_id": 1745882083,
@@ -149,7 +149,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1763607925,
         "enclosure_id": 1745882457,
+        "image_id": 1763607925,
         "installation_id": 1746382265,
         "locality_id": 85922583,
         "media_id": 1763607925,
@@ -164,7 +166,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1763607925,
         "enclosure_id": 1745882457,
+        "image_id": 1763607925,
         "installation_id": 1746382265,
         "media_id": 1763607925,
         "region_id": 85688637,
@@ -172,10 +176,10 @@
       }
     ],
     "wof:id": 1763607925,
-    "wof:lastmodified": 1716594320,
+    "wof:lastmodified": 1758132342,
     "wof:name": "Installation view of \"Mathematics: Vintage and Modern\"",
     "wof:parent_id": 1746382265,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
@@ -184,10 +188,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38211197705529,
-    37.617421155555235,
-    -122.38211197705529,
-    37.617421155555235
+    -122.382112,
+    37.617421,
+    -122.382112,
+    37.617421
   ],
-  "geometry": {"coordinates":[-122.38211197705529,37.617421155555235],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.382112,37.617421]}
 }

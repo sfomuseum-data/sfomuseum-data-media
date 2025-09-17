@@ -10,8 +10,8 @@
     "edtf:inception": "2023-06-10",
     "geom:area": 0,
     "geom:bbox": "-122.388973,37.614601,-122.388973,37.614601",
-    "geom:latitude": 37.614601366959555,
-    "geom:longitude": -122.38897295514269,
+    "geom:latitude": 37.614601,
+    "geom:longitude": -122.388973,
     "iso:country": "US",
     "media:created": 1686332221,
     "media:fingerprint": "981bd1fb855bd3d164b79a09beaaa9edd71a3fea",
@@ -144,7 +144,7 @@
       1763588121,
       1763588369
     ],
-    "wof:geomhash": "7a89c13aee929c67dd23f1222d438b7e",
+    "wof:geomhash": "870e1690842df38b59470e39374eda3e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -153,6 +153,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1930857383,
         "enclosure_id": 1763588551,
         "installation_id": 1863768517,
         "locality_id": 85922583,
@@ -168,6 +169,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1930857383,
         "enclosure_id": 1763588551,
         "installation_id": 1863768517,
         "media_id": 1930857383,
@@ -176,19 +178,19 @@
       }
     ],
     "wof:id": 1930857383,
-    "wof:lastmodified": 1724877231,
+    "wof:lastmodified": 1758132342,
     "wof:name": "Installation view of \"A New Woman: Clara Barck Welles’ Influence on Arts and Crafts Silver\"",
     "wof:parent_id": 1863768517,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38897295514269,
-    37.614601366959555,
-    -122.38897295514269,
-    37.614601366959555
+    -122.388973,
+    37.614601,
+    -122.388973,
+    37.614601
   ],
-  "geometry": {"coordinates":[-122.38897295514269,37.614601366959555],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.388973,37.614601]}
 }

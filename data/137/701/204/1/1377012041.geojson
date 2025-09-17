@@ -154,7 +154,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1377012041,
         "enclosure_id": 1360516199,
+        "image_id": 1377012041,
         "installation_id": 1159160129,
         "locality_id": 85922583,
         "media_id": 1377012041,
@@ -168,7 +170,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1377012041,
         "enclosure_id": 1360541665,
+        "image_id": 1377012041,
         "installation_id": 1159160129,
         "locality_id": 85922583,
         "media_id": 1377012041,
@@ -183,7 +187,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1377012041,
         "enclosure_id": 1360541657,
+        "image_id": 1377012041,
         "installation_id": 1159160129,
         "locality_id": 85922583,
         "media_id": 1377012041,
@@ -198,7 +204,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1377012041,
         "enclosure_id": 1360516181,
+        "image_id": 1377012041,
         "installation_id": 1159160129,
         "locality_id": 85922583,
         "media_id": 1377012041,
@@ -212,7 +220,9 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1377012041,
         "enclosure_id": 1360516191,
+        "image_id": 1377012041,
         "installation_id": 1159160129,
         "locality_id": 85922583,
         "media_id": 1377012041,
@@ -222,10 +232,10 @@
       }
     ],
     "wof:id": 1377012041,
-    "wof:lastmodified": 1716594320,
+    "wof:lastmodified": 1758132339,
     "wof:name": "Installation view of \"Fashion in Flight: A History of Airline Uniform Design\"",
     "wof:parent_id": 1159160129,
-    "wof:placetype": "media",
+    "wof:placetype": "custom",
     "wof:placetype_alt": [
       "image"
     ],
@@ -239,5 +249,5 @@
     -122.389267,
     37.615645
   ],
-  "geometry": {"coordinates":[-122.389267,37.615645],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.389267,37.615645]}
 }
