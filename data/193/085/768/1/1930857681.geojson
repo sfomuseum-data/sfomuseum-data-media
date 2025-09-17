@@ -159,7 +159,6 @@
         "enclosure_id": 1763588545,
         "installation_id": 1863420875,
         "locality_id": 85922583,
-        "media_id": 1930857681,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588369
@@ -174,7 +173,6 @@
         "custom_id": 1930857681,
         "enclosure_id": 1763588545,
         "installation_id": 1863420875,
-        "media_id": 1930857681,
         "region_id": 85688637,
         "wing_id": 1763588369
       },
@@ -189,7 +187,6 @@
         "enclosure_id": 1763588543,
         "installation_id": 1863420875,
         "locality_id": 85922583,
-        "media_id": 1930857681,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "wing_id": 1763588369
@@ -204,7 +201,6 @@
         "custom_id": 1930857681,
         "enclosure_id": 1763588543,
         "installation_id": 1863420875,
-        "media_id": 1930857681,
         "region_id": 85688637,
         "wing_id": 1763588369
       }

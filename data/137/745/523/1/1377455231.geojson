@@ -165,7 +165,6 @@
         "custom_id": 1377455231,
         "image_id": 1377455231,
         "locality_id": 85922583,
-        "media_id": 1377455231,
         "neighbourhood_id": -1,
         "region_id": 85688637,
         "venue_id": 772975255,
@@ -182,7 +181,6 @@
         "enclosure_id": 1477855613,
         "image_id": 1377455231,
         "locality_id": 85922583,
-        "media_id": 1377455231,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1477874073,
@@ -198,7 +196,6 @@
         "custom_id": 1377455231,
         "enclosure_id": 1477855613,
         "image_id": 1377455231,
-        "media_id": 1377455231,
         "region_id": 85688637,
         "venue_id": 1477874073,
         "wing_id": 1477855657
@@ -213,7 +210,6 @@
         "custom_id": 1377455231,
         "image_id": 1377455231,
         "locality_id": 85922583,
-        "media_id": 1377455231,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1729793189,
@@ -228,7 +224,6 @@
         "county_id": 102085387,
         "custom_id": 1377455231,
         "image_id": 1377455231,
-        "media_id": 1377455231,
         "region_id": 85688637,
         "venue_id": 1729793189,
         "wing_id": 1729792435
@@ -241,7 +236,6 @@
         "custom_id": 1377455231,
         "image_id": 1377455231,
         "locality_id": 85922583,
-        "media_id": 1377455231,
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903837
@@ -253,7 +247,6 @@
         "county_id": 102085387,
         "custom_id": 1377455231,
         "image_id": 1377455231,
-        "media_id": 1377455231,
         "region_id": 85688637,
         "venue_id": 1745903837
       }
