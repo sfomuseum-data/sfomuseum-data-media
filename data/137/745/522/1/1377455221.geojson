@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455221,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Four Sculptural Light Reflectors",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -342,5 +342,5 @@
     -122.389385,
     37.61551
   ],
-  "geometry": {"type":"Point","coordinates":[-122.389385,37.61551]}
+  "geometry": {"coordinates":[-122.389385,37.61551],"type":"Point"}
 }

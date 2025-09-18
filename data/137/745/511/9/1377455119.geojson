@@ -241,7 +241,7 @@
       }
     ],
     "wof:id": 1377455119,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Air Over Under",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -258,5 +258,5 @@
     -122.384206,
     37.616624
   ],
-  "geometry": {"type":"Point","coordinates":[-122.384206,37.616624]}
+  "geometry": {"coordinates":[-122.384206,37.616624],"type":"Point"}
 }

@@ -202,7 +202,7 @@
       }
     ],
     "wof:id": 1377455289,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Death Valley II",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -219,5 +219,5 @@
     -122.383962,
     37.615906
   ],
-  "geometry": {"type":"Point","coordinates":[-122.383962,37.615906]}
+  "geometry": {"coordinates":[-122.383962,37.615906],"type":"Point"}
 }

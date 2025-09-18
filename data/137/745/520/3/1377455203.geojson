@@ -337,7 +337,7 @@
       }
     ],
     "wof:id": 1377455203,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -354,5 +354,5 @@
     -122.386166,
     37.616356
   ],
-  "geometry": {"type":"Point","coordinates":[-122.386166,37.616356]}
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }

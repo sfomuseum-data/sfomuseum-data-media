@@ -300,7 +300,7 @@
       }
     ],
     "wof:id": 1729966465,
-    "wof:lastmodified": 1758132342,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -317,5 +317,5 @@
     -122.382765,
     37.617185
   ],
-  "geometry": {"type":"Point","coordinates":[-122.382765,37.617185]}
+  "geometry": {"coordinates":[-122.382765,37.617185],"type":"Point"}
 }

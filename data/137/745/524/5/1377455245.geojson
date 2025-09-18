@@ -337,7 +337,7 @@
       }
     ],
     "wof:id": 1377455245,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "17 December 1903",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -354,5 +354,5 @@
     -122.384477,
     37.617601
   ],
-  "geometry": {"type":"Point","coordinates":[-122.384477,37.617601]}
+  "geometry": {"coordinates":[-122.384477,37.617601],"type":"Point"}
 }

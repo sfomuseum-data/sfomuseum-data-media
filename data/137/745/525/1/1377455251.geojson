@@ -312,7 +312,7 @@
       }
     ],
     "wof:id": 1377455251,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -329,5 +329,5 @@
     -122.383892,
     37.615984
   ],
-  "geometry": {"type":"Point","coordinates":[-122.383892,37.615984]}
+  "geometry": {"coordinates":[-122.383892,37.615984],"type":"Point"}
 }

@@ -323,7 +323,7 @@
       }
     ],
     "wof:id": 1377455123,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "BFILRYD",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -340,5 +340,5 @@
     -122.388875,
     37.61752
   ],
-  "geometry": {"type":"Point","coordinates":[-122.388875,37.61752]}
+  "geometry": {"coordinates":[-122.388875,37.61752],"type":"Point"}
 }

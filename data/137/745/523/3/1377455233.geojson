@@ -145,8 +145,8 @@
     "wof:country": "US",
     "wof:created": 1555457595,
     "wof:depicts": [
-      772975381,
-      102527513
+      102527513,
+      772975381
     ],
     "wof:geomhash": "df84d40feddf364daf9d8ea6965283ce",
     "wof:hierarchy": [
@@ -247,7 +247,7 @@
       }
     ],
     "wof:id": 1377455233,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Figure",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -264,5 +264,5 @@
     -122.382776,
     37.615009
   ],
-  "geometry": {"type":"Point","coordinates":[-122.382776,37.615009]}
+  "geometry": {"coordinates":[-122.382776,37.615009],"type":"Point"}
 }

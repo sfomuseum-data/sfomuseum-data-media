@@ -252,7 +252,7 @@
       }
     ],
     "wof:id": 1377455129,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Mujer Pegada, No. 4",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -269,5 +269,5 @@
     -122.382883,
     37.614839
   ],
-  "geometry": {"type":"Point","coordinates":[-122.382883,37.614839]}
+  "geometry": {"coordinates":[-122.382883,37.614839],"type":"Point"}
 }
