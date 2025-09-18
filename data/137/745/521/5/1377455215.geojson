@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455215,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Take Off 2006",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -342,5 +342,5 @@
     -122.389964,
     37.611949
   ],
-  "geometry": {"type":"Point","coordinates":[-122.389964,37.611949]}
+  "geometry": {"coordinates":[-122.389964,37.611949],"type":"Point"}
 }

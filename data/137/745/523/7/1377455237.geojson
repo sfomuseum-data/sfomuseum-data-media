@@ -322,7 +322,7 @@
       }
     ],
     "wof:id": 1377455237,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Butterfly Wall",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -339,5 +339,5 @@
     -122.381671,
     37.617788
   ],
-  "geometry": {"type":"Point","coordinates":[-122.381671,37.617788]}
+  "geometry": {"coordinates":[-122.381671,37.617788],"type":"Point"}
 }

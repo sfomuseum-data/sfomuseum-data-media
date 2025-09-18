@@ -322,7 +322,7 @@
       }
     ],
     "wof:id": 1377455243,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Metamorphosis",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -339,5 +339,5 @@
     -122.383908,
     37.617529
   ],
-  "geometry": {"type":"Point","coordinates":[-122.383908,37.617529]}
+  "geometry": {"coordinates":[-122.383908,37.617529],"type":"Point"}
 }

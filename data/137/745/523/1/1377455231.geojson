@@ -252,7 +252,7 @@
       }
     ],
     "wof:id": 1377455231,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Bay Area Victorian, Bay Area Deco, Bay Area Funk",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -269,5 +269,5 @@
     -122.387331,
     37.614665
   ],
-  "geometry": {"type":"Point","coordinates":[-122.387331,37.614665]}
+  "geometry": {"coordinates":[-122.387331,37.614665],"type":"Point"}
 }

@@ -317,7 +317,7 @@
       }
     ],
     "wof:id": 1377455267,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Stacking Stones",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -334,5 +334,5 @@
     -122.383879,
     37.616067
   ],
-  "geometry": {"type":"Point","coordinates":[-122.383879,37.616067]}
+  "geometry": {"coordinates":[-122.383879,37.616067],"type":"Point"}
 }

@@ -212,7 +212,7 @@
       }
     ],
     "wof:id": 1729966467,
-    "wof:lastmodified": 1758132342,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Gateway",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -229,5 +229,5 @@
     -122.389112,
     37.615489
   ],
-  "geometry": {"type":"Point","coordinates":[-122.389112,37.615489]}
+  "geometry": {"coordinates":[-122.389112,37.615489],"type":"Point"}
 }

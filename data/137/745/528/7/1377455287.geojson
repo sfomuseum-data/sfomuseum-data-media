@@ -317,7 +317,7 @@
       }
     ],
     "wof:id": 1377455287,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "The Great Transparents",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -334,5 +334,5 @@
     -122.384385,
     37.617737
   ],
-  "geometry": {"type":"Point","coordinates":[-122.384385,37.617737]}
+  "geometry": {"coordinates":[-122.384385,37.617737],"type":"Point"}
 }

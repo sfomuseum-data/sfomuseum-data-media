@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455145,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -342,5 +342,5 @@
     -122.392475,
     37.618349
   ],
-  "geometry": {"type":"Point","coordinates":[-122.392475,37.618349]}
+  "geometry": {"coordinates":[-122.392475,37.618349],"type":"Point"}
 }

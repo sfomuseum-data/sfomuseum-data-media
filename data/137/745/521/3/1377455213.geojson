@@ -278,7 +278,7 @@
       }
     ],
     "wof:id": 1377455213,
-    "wof:lastmodified": 1758132341,
+    "wof:lastmodified": 1758180988,
     "wof:name": "Pohina",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -295,5 +295,5 @@
     -122.383393,
     37.615179
   ],
-  "geometry": {"type":"Point","coordinates":[-122.383393,37.615179]}
+  "geometry": {"coordinates":[-122.383393,37.615179],"type":"Point"}
 }
