@@ -163,8 +163,8 @@
     "wof:country": "US",
     "wof:created": 1555457616,
     "wof:depicts": [
-      772974749,
-      102527513
+      102527513,
+      772974749
     ],
     "wof:geomhash": "aa3371d9d34e3054d1f3a1c0fda72085",
     "wof:hierarchy": [
@@ -355,7 +355,7 @@
       }
     ],
     "wof:id": 1377455249,
-    "wof:lastmodified": 1758180988,
+    "wof:lastmodified": 1758267417,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
