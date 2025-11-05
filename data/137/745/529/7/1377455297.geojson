@@ -315,7 +315,7 @@
       }
     ],
     "wof:id": 1377455297,
-    "wof:lastmodified": 1758612849,
+    "wof:lastmodified": 1762385985,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -332,5 +332,5 @@
     -122.38482,
     37.618077
   ],
-  "geometry": {"coordinates":[-122.38482,37.618077],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.38482,37.618077]}
 }

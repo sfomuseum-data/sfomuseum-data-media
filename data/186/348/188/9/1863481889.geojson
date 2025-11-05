@@ -212,7 +212,7 @@
       }
     ],
     "wof:id": 1863481889,
-    "wof:lastmodified": 1758612849,
+    "wof:lastmodified": 1762385985,
     "wof:name": "New Generation",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -229,5 +229,5 @@
     -122.386207,
     37.618631
   ],
-  "geometry": {"coordinates":[-122.386207,37.618631],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386207,37.618631]}
 }
