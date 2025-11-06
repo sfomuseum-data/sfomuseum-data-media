@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455131,
-    "wof:lastmodified": 1758612849,
+    "wof:lastmodified": 1762385985,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -342,5 +342,5 @@
     -122.38467,
     37.618362
   ],
-  "geometry": {"coordinates":[-122.38467,37.618362],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.38467,37.618362]}
 }

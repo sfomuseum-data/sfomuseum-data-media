@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455207,
-    "wof:lastmodified": 1758612849,
+    "wof:lastmodified": 1762385986,
     "wof:name": "Untitled (Large Variation)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -342,5 +342,5 @@
     -122.385002,
     37.618243
   ],
-  "geometry": {"coordinates":[-122.385002,37.618243],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.385002,37.618243]}
 }
