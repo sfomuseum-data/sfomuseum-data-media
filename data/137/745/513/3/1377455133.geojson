@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457507,
     "wof:depicts": [
-      102527513,
-      1159162815
+      1159162815,
+      102527513
     ],
     "wof:geomhash": "da66cf531ec8caad33befc48631d4fb3",
     "wof:hierarchy": [
@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455133,
-    "wof:lastmodified": 1764751271,
+    "wof:lastmodified": 1764837726,
     "wof:name": "Seneca",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
