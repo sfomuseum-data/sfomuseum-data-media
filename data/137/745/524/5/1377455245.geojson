@@ -151,8 +151,8 @@
     "wof:country": "US",
     "wof:created": 1555457613,
     "wof:depicts": [
-      772975065,
-      102527513
+      102527513,
+      772975065
     ],
     "wof:geomhash": "0c39b7c470cda86fb149158b51f92eea",
     "wof:hierarchy": [
@@ -337,7 +337,7 @@
       }
     ],
     "wof:id": 1377455245,
-    "wof:lastmodified": 1764924112,
+    "wof:lastmodified": 1765010437,
     "wof:name": "17 December 1903",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
