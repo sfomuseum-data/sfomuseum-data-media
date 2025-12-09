@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457588,
     "wof:depicts": [
-      772974593,
-      102527513
+      102527513,
+      772974593
     ],
     "wof:geomhash": "b6f137f95c212e84d626dad6e805962a",
     "wof:hierarchy": [
@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455221,
-    "wof:lastmodified": 1765183230,
+    "wof:lastmodified": 1765269657,
     "wof:name": "Four Sculptural Light Reflectors",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
