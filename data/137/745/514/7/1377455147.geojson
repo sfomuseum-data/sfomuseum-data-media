@@ -146,8 +146,8 @@
     "wof:country": "US",
     "wof:created": 1555457518,
     "wof:depicts": [
-      102527513,
-      772975537
+      772975537,
+      102527513
     ],
     "wof:geomhash": "5411d8b30e74fd4e60e58c6e96d02527",
     "wof:hierarchy": [
@@ -308,7 +308,7 @@
       }
     ],
     "wof:id": 1377455147,
-    "wof:lastmodified": 1765442465,
+    "wof:lastmodified": 1765528839,
     "wof:name": "Urns",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
