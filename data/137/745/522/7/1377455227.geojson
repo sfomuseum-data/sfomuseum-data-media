@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457591,
     "wof:depicts": [
-      102527513,
-      772975309
+      772975309,
+      102527513
     ],
     "wof:geomhash": "e0fd97c6449756eeb15a25261ef603bf",
     "wof:hierarchy": [
@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455227,
-    "wof:lastmodified": 1765874369,
+    "wof:lastmodified": 1765960861,
     "wof:name": "Waiting",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
