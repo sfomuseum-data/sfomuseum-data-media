@@ -161,8 +161,8 @@
     "wof:country": "US",
     "wof:created": 1555457619,
     "wof:depicts": [
-      1159162779,
-      102527513
+      102527513,
+      1159162779
     ],
     "wof:geomhash": "c04e4c42cde472639ba18f97336ca4f9",
     "wof:hierarchy": [
@@ -325,7 +325,7 @@
       }
     ],
     "wof:id": 1377455253,
-    "wof:lastmodified": 1766047248,
+    "wof:lastmodified": 1766133725,
     "wof:name": "Riven/River",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
