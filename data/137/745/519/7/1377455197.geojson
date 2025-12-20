@@ -148,8 +148,8 @@
     "wof:country": "US",
     "wof:created": 1555457567,
     "wof:depicts": [
-      772974737,
-      102527513
+      102527513,
+      772974737
     ],
     "wof:geomhash": "2deadcbb2da4e7558bb7b6e26d658588",
     "wof:hierarchy": [
@@ -256,7 +256,7 @@
       }
     ],
     "wof:id": 1377455197,
-    "wof:lastmodified": 1766133725,
+    "wof:lastmodified": 1766219982,
     "wof:name": "On The Air",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
