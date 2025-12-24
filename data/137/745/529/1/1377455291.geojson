@@ -143,8 +143,8 @@
     "wof:country": "US",
     "wof:created": 1555457662,
     "wof:depicts": [
-      102527513,
-      772974347
+      772974347,
+      102527513
     ],
     "wof:geomhash": "2e33e9a61de1775310c9db0b1a94c101",
     "wof:hierarchy": [
@@ -331,7 +331,7 @@
       }
     ],
     "wof:id": 1377455291,
-    "wof:lastmodified": 1766479182,
+    "wof:lastmodified": 1766565650,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
