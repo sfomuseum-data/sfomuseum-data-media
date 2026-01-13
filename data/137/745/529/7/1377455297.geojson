@@ -151,8 +151,8 @@
     "wof:country": "US",
     "wof:created": 1555457671,
     "wof:depicts": [
-      102527513,
-      1159162811
+      1159162811,
+      102527513
     ],
     "wof:geomhash": "6edce0f36f851e88911510e76d74edba",
     "wof:hierarchy": [
@@ -315,7 +315,7 @@
       }
     ],
     "wof:id": 1377455297,
-    "wof:lastmodified": 1768207157,
+    "wof:lastmodified": 1768293528,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
