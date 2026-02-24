@@ -150,8 +150,8 @@
     "wof:country": "US",
     "wof:created": 1555457592,
     "wof:depicts": [
-      772975255,
-      102527513
+      102527513,
+      772975255
     ],
     "wof:geomhash": "d3f977a1afa805aa79700170883e553a",
     "wof:hierarchy": [
@@ -252,7 +252,7 @@
       }
     ],
     "wof:id": 1377455231,
-    "wof:lastmodified": 1771835897,
+    "wof:lastmodified": 1771922320,
     "wof:name": "Bay Area Victorian, Bay Area Deco, Bay Area Funk",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
