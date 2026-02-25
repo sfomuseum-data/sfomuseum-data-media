@@ -160,8 +160,8 @@
     "wof:country": "US",
     "wof:created": 1555457611,
     "wof:depicts": [
-      772975691,
-      102527513
+      102527513,
+      772975691
     ],
     "wof:geomhash": "bb9026af475db427d0b4c5a093325313",
     "wof:hierarchy": [
@@ -322,7 +322,7 @@
       }
     ],
     "wof:id": 1377455243,
-    "wof:lastmodified": 1771922320,
+    "wof:lastmodified": 1772008720,
     "wof:name": "Metamorphosis",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
